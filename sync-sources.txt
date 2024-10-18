@@ -8374,7 +8374,7 @@ bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
-bucket/steam-rom-manager.json, Calinou/scoop-games, 1
+bucket/steam-rom-manager.json, borger/scoop-emulators, 1
 bucket/steam-theme-Zehn.json, Weidows-projects/scoop-3rd, 1
 bucket/steam.json, ScoopInstaller/Versions, 0
 bucket/steamchina.json, SayCV/scoop-cvp, 0
