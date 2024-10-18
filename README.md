@@ -69,7 +69,6 @@ scoop bucket add spc https://ghp.ci/github.com/lzwme/scoop-proxy-cn
 
 ## Sync Buckets From
 
-- [abgox/abgo_bucket](https://github.com/abgox/abgo_bucket)
 - [ScoopInstaller/PHP](https://github.com/ScoopInstaller/PHP)
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
@@ -77,6 +76,8 @@ scoop bucket add spc https://ghp.ci/github.com/lzwme/scoop-proxy-cn
 - [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions)
 - [ScoopInstaller/Nirsoft](https://github.com/ScoopInstaller/Nirsoft)
 - [ScoopInstaller/Nonportable](https://github.com/ScoopInstaller/Nonportable)
+- [leic4u/Scoop-Store](https://github.com/leic4u/Scoop-Store)
+- [abgox/abgo_bucket](https://github.com/abgox/abgo_bucket)
 - [renxia/scoop-bucket](https://github.com/renxia/scoop-bucket)
 - [scoopcn/scoopcn](https://github.com/scoopcn/scoopcn)
 - [rasa/scoops](https://github.com/rasa/scoops)
