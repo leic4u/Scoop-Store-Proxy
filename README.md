@@ -69,6 +69,7 @@ scoop bucket add spc https://ghp.ci/github.com/lzwme/scoop-proxy-cn
 
 ## Sync Buckets From
 
+- [abgox/abgo_bucket](https://github.com/abgox/abgo_bucket)
 - [ScoopInstaller/PHP](https://github.com/ScoopInstaller/PHP)
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
