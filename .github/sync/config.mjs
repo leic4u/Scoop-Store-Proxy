@@ -25,7 +25,6 @@ export const CONFIG = {
   /** 同步仓库列表，按仓库质量排序 */
   repo: new Set([
     // `duzyn/scoop-cn`, // 仅同步官方仓库，并修改为国内镜像地址
-    `abgox/abgo_bucket`,
     `ScoopInstaller/PHP`,
     `ScoopInstaller/Main`,
     `ScoopInstaller/Extras`,
@@ -33,6 +32,8 @@ export const CONFIG = {
     `ScoopInstaller/Versions`,
     `ScoopInstaller/Nirsoft`,
     `ScoopInstaller/Nonportable`,
+    `leic4u/Scoop-Store`,
+    `abgox/abgo_bucket`,
     `renxia/scoop-bucket`,
     // `xfqwdsj/BucketDev`, // Android SDK DEV...
     `scoopcn/scoopcn`, // 大多是国内应用程序
