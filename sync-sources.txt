@@ -6113,6 +6113,7 @@ bucket/observerward.json, ViCrack/scoop-bucket, 1
 bucket/obsidian.json, ScoopInstaller/Extras, 1
 bucket/ocam.json, naderi/scoop-bucket, 1
 bucket/ocat.json, ScoopInstaller/Extras, 1
+bucket/occt.json, brian6932/dank-scoop, 0
 bucket/ocenaudio.json, ScoopInstaller/Extras, 0
 bucket/octant.json, ScoopInstaller/Extras, 1
 bucket/octave-cn.json, ivaquero/scoopet, 0
@@ -6460,7 +6461,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8708,7 +8709,7 @@ bucket/testdisk.json, ScoopInstaller/Extras, 0
 bucket/testlimit.json, niheaven/scoop-sysinternals, 1
 bucket/testmace.json, ScoopInstaller/Extras, 0
 bucket/testmem5-advanced.json, brian6932/dank-scoop, 0
-bucket/testmem5.json, HUMORCE/nuke, 1
+bucket/testmem5.json, brian6932/dank-scoop, 1
 bucket/tev.json, ScoopInstaller/Extras, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
 bucket/texlive-full.json, chawyehsu/dorado, 0
