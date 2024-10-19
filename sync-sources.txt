@@ -444,7 +444,7 @@ bucket/GOGGalaxy-Install.json, ACooper81/scoop-apps, 0
 bucket/GOGGalaxy-Portable.json, ACooper81/scoop-apps, 0
 bucket/GPUShark.json, kkzzhizhou/scoop-zapps, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
-bucket/Game-Cheats-Manager.json, DoveBoy/Apps, 1
+bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/GeekUninstaller-Portable.json, ACooper81/scoop-apps, 0
 bucket/GeistMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -5894,7 +5894,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
 bucket/nethack.json, Calinou/scoop-games, 0
@@ -6460,7 +6460,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8374,7 +8374,7 @@ bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
-bucket/steam-rom-manager.json, borger/scoop-emulators, 1
+bucket/steam-rom-manager.json, Calinou/scoop-games, 1
 bucket/steam-theme-Zehn.json, Weidows-projects/scoop-3rd, 1
 bucket/steam.json, ScoopInstaller/Versions, 0
 bucket/steamchina.json, SayCV/scoop-cvp, 0
