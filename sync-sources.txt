@@ -3172,7 +3172,7 @@ bucket/eclipse-sdk.json, ScoopInstaller/Extras, 0
 bucket/eclipse-sumo.json, ScoopInstaller/Extras, 0
 bucket/eclipse-testing.json, ScoopInstaller/Extras, 0
 bucket/ecloud.json, echoiron/echo-scoop, 0
-bucket/ecopaste.json, DoveBoy/Apps, 1
+bucket/ecopaste.json, ivaquero/scoopet, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
@@ -5471,7 +5471,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
+bucket/microsoftedge.json, chawyehsu/dorado, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
@@ -9029,7 +9029,7 @@ bucket/unicsved.json, naderi/scoop-bucket, 0
 bucket/uniextract.json, naderi/scoop-bucket, 1
 bucket/uniextract2.json, ScoopInstaller/Extras, 1
 bucket/unigetui-beta.json, DoveBoy/Apps, 1
-bucket/unigetui.json, naderi/scoop-bucket, 1
+bucket/unigetui.json, DoveBoy/Apps, 1
 bucket/unikey.json, beerpiss/scoop-bucket, 0
 bucket/uninstalltool.json, echoiron/echo-scoop, 0
 bucket/uninstallview.json, ScoopInstaller/Nirsoft, 0
