@@ -7360,7 +7360,7 @@ bucket/qqgame.json, DoveBoy/Apps, 0
 bucket/qqlite-patch.json, SayCV/scoop-cvp, 1
 bucket/qqlite.json, SayCV/scoop-cvp, 0
 bucket/qqlive-cvp.json, SayCV/scoop-cvp, 1
-bucket/qqlive.json, wzv5/ScoopBucket, 0
+bucket/qqlive.json, DoveBoy/Apps, 0
 bucket/qqmusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/qqmusic.json, wzv5/ScoopBucket, 0
 bucket/qqnt.json, chawyehsu/dorado, 0
