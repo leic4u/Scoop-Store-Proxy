@@ -4276,9 +4276,11 @@ bucket/hexyl.json, ScoopInstaller/Main, 1
 bucket/hey.json, batkiz/backit, 0
 bucket/heynote.json, ScoopInstaller/Extras, 1
 bucket/hfd.json, Weidows-projects/scoop-3rd, 0
+bucket/hfs.json, naderi/scoop-bucket, 1
 bucket/hfsexplorer.json, amorphobia/siku, 1
 bucket/hgrep.json, batkiz/backit, 1
 bucket/hhreg.json, rasa/scoops, 0
+bucket/hibernate.json, naderi/scoop-bucket, 0
 bucket/hibit-startup-manager.json, ScoopInstaller/Extras, 0
 bucket/hibit-system-information.json, ScoopInstaller/Extras, 0
 bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
@@ -5711,6 +5713,7 @@ bucket/mqtt-spy.json, ScoopInstaller/Extras, 1
 bucket/mqttfx-np.json, TheRandomLabs/scoop-nonportable, 0
 bucket/mqttui.json, aliesbelik/poldi, 1
 bucket/mqttx.json, ScoopInstaller/Extras, 1
+bucket/mra.json, naderi/scoop-bucket, 1
 bucket/mremoteng-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/mremoteng.json, ScoopInstaller/Extras, 1
 bucket/msbuild-structured-log-viewer.json, ScoopInstaller/Extras, 1
@@ -6303,7 +6306,7 @@ bucket/opensupaplex.json, Calinou/scoop-games, 1
 bucket/opentabletdriver.json, ScoopInstaller/Extras, 1
 bucket/opentofu.json, ScoopInstaller/Main, 1
 bucket/opentoonz.json, ScoopInstaller/Extras, 1
-bucket/opentrace.json, hu3rror/scoop-muggle, 1
+bucket/opentrace.json, naderi/scoop-bucket, 1
 bucket/opentrack.json, ScoopInstaller/Extras, 1
 bucket/openttd.json, Calinou/scoop-games, 0
 bucket/opentyrian2000.json, Calinou/scoop-games, 1
@@ -7280,6 +7283,7 @@ bucket/pyenv-win.json, abgox/abgo_bucket, 1
 bucket/pyenv.json, ScoopInstaller/Main, 1
 bucket/pyfa.json, Calinou/scoop-games, 1
 bucket/pyflow.json, ScoopInstaller/Main, 1
+bucket/pympress.json, naderi/scoop-bucket, 1
 bucket/pyoxidizer.json, ScoopInstaller/Main, 1
 bucket/pypy2.json, ScoopInstaller/Main, 0
 bucket/pypy3.json, ScoopInstaller/Main, 0
@@ -9369,6 +9373,7 @@ bucket/waypoint.json, ScoopInstaller/Main, 0
 bucket/wcurl.json, ScoopInstaller/Main, 1
 bucket/we-meet.json, scoopcn/scoopcn, 0
 bucket/weakauras-companion.json, Calinou/scoop-games, 1
+bucket/wealthfolio.json, naderi/scoop-bucket, 1
 bucket/weasel-pageant.json, ScoopInstaller/Extras, 1
 bucket/weasel.json, ivaquero/scoopet, 1
 bucket/webbrain.json, Weidows-projects/scoop-3rd, 0
@@ -9848,6 +9853,7 @@ bucket/xysubfilter-libass-np.json, ScoopInstaller/Nonportable, 1
 bucket/xysubfilter-np.json, ScoopInstaller/Nonportable, 1
 bucket/xz.json, ScoopInstaller/Main, 0
 bucket/y-cruncher.json, ScoopInstaller/Main, 0
+bucket/yaak.json, naderi/scoop-bucket, 1
 bucket/yacd.json, everyx/scoop-bucket, 1
 bucket/yacreader.json, ScoopInstaller/Extras, 1
 bucket/yaffplayer.json, ScoopInstaller/Extras, 0
