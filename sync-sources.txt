@@ -5756,7 +5756,7 @@ bucket/muffet.json, aliesbelik/poldi, 1
 bucket/muffon.json, starise/Scoop-Confetti, 1
 bucket/muicacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/mujoco.json, ScoopInstaller/Extras, 1
-bucket/mullvad-browser.json, ScoopInstaller/Extras, 0
+bucket/mullvad-browser.json, ScoopInstaller/Extras, 1
 bucket/mullvadvpn-np.json, ScoopInstaller/Nonportable, 0
 bucket/multibootusb.json, ScoopInstaller/Extras, 1
 bucket/multicommander.json, ScoopInstaller/Extras, 0
@@ -8760,6 +8760,7 @@ bucket/thunderbird-beta-fa.json, naderi/scoop-bucket, 0
 bucket/thunderbird-beta-zh-cn.json, chawyehsu/dorado, 0
 bucket/thunderbird-beta.json, naderi/scoop-bucket, 0
 bucket/thunderbird-de.json, naderi/scoop-bucket, 0
+bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird-fa.json, naderi/scoop-bucket, 0
 bucket/thunderbird-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/thunderbird.ja.json, jfut/scoop-jfut, 0
