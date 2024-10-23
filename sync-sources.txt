@@ -2872,6 +2872,7 @@ bucket/diff-pdf.json, ScoopInstaller/Extras, 1
 bucket/diff-so-fancy.json, ScoopInstaller/Main, 1
 bucket/diffinity.json, ScoopInstaller/Extras, 0
 bucket/diffmerge.json, ScoopInstaller/Extras, 0
+bucket/diffnav.json, aliesbelik/poldi, 1
 bucket/diffpdf.json, ScoopInstaller/Extras, 0
 bucket/diffsitter.json, ScoopInstaller/Main, 1
 bucket/difftastic.json, ScoopInstaller/Main, 1
