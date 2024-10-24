@@ -5332,7 +5332,7 @@ bucket/majdata.json, beerpiss/scoop-bucket, 1
 bucket/make.json, ScoopInstaller/Main, 0
 bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makemkv.json, ScoopInstaller/Extras, 0
-bucket/malware-patch.json, ivaquero/scoopet, 1
+bucket/malware-patch.json, DoveBoy/Apps, 1
 bucket/mambaforge-cn.json, ivaquero/scoopet, 0
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
 bucket/mame.json, Calinou/scoop-games, 1
