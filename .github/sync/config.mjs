@@ -33,6 +33,7 @@ export const CONFIG = {
     `ScoopInstaller/Nirsoft`,
     `ScoopInstaller/Nonportable`,
     `leic4u/Scoop-Store`,
+    `wordpure/scoop-air`,
     `abgox/abgo_bucket`,
     `renxia/scoop-bucket`,
     // `xfqwdsj/BucketDev`, // Android SDK DEV...
