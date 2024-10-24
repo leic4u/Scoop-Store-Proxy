@@ -77,6 +77,7 @@ scoop bucket add spc https://ghp.ci/github.com/lzwme/scoop-proxy-cn
 - [ScoopInstaller/Nirsoft](https://github.com/ScoopInstaller/Nirsoft)
 - [ScoopInstaller/Nonportable](https://github.com/ScoopInstaller/Nonportable)
 - [leic4u/Scoop-Store](https://github.com/leic4u/Scoop-Store)
+- [wordpure/scoop-air](https://github.com/wordpure/scoop-air)
 - [abgox/abgo_bucket](https://github.com/abgox/abgo_bucket)
 - [renxia/scoop-bucket](https://github.com/renxia/scoop-bucket)
 - [scoopcn/scoopcn](https://github.com/scoopcn/scoopcn)
