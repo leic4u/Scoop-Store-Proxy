@@ -10153,6 +10153,8 @@ scripts/install_youtube-dl-animelover1984.ps1, yuusakuri/scoop-bucket, 0
 scripts/irfanview/register-irfanview.reg, beerpiss/scoop-bucket, 0
 scripts/irfanview/unregister-irfanview.reg, beerpiss/scoop-bucket, 0
 scripts/jetbrains/portable.ps1, ScoopInstaller/Extras, 0
+scripts/lang/en-US.json, leic4u/Scoop-Store, 0
+scripts/lang/zh-CN.json, leic4u/Scoop-Store, 0
 scripts/lantern-oldver/icon.7z, SayCV/scoop-cvp, 0
 scripts/lattice-diamond311/install-context.reg.templ, SayCV/scoop-cvp, 0
 scripts/lattice-diamond311/scripts_lattice_diamond.cmd.templ, SayCV/scoop-cvp, 0
