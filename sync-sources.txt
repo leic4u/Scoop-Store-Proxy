@@ -954,7 +954,7 @@ bucket/ProggyClean-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ProjectEye.json, Paxxs/Cluttered-bucket, 1
 bucket/Prompt.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/ProperTree-Portable.json, ACooper81/scoop-apps, 1
-bucket/ProxyPin.json, wordpure/scoop-air, 1
+bucket/ProxyPin.json, leic4u/Scoop-Store, 0
 bucket/PuTTY-Portable.json, ACooper81/scoop-apps, 0
 bucket/PueueCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/PueuedCLI-Portable.json, ACooper81/scoop-apps, 1
