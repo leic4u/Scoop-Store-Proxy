@@ -954,7 +954,7 @@ bucket/ProggyClean-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ProjectEye.json, Paxxs/Cluttered-bucket, 1
 bucket/Prompt.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/ProperTree-Portable.json, ACooper81/scoop-apps, 1
-bucket/ProxyPin.json, leic4u/Scoop-Store, 0
+bucket/ProxyPin.json, leic4u/Scoop-Store, 1
 bucket/PuTTY-Portable.json, ACooper81/scoop-apps, 0
 bucket/PueueCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/PueuedCLI-Portable.json, ACooper81/scoop-apps, 1
@@ -5332,7 +5332,7 @@ bucket/majdata.json, beerpiss/scoop-bucket, 1
 bucket/make.json, ScoopInstaller/Main, 0
 bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makemkv.json, ScoopInstaller/Extras, 0
-bucket/malware-patch.json, DoveBoy/Apps, 1
+bucket/malware-patch.json, ygguorun/scoop-bucket, 1
 bucket/mambaforge-cn.json, ivaquero/scoopet, 0
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
 bucket/mame.json, Calinou/scoop-games, 1
@@ -6483,7 +6483,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -10279,6 +10279,7 @@ scripts/sublime-text/install-context.reg, ScoopInstaller/Extras, 0
 scripts/sublime-text/sublime-text-install-context.reg, naderi/scoop-bucket, 0
 scripts/sublime-text/sublime-text-uninstall-context.reg, naderi/scoop-bucket, 0
 scripts/sublime-text/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/sudo.ps1, leic4u/Scoop-Store, 0
 scripts/sunloginclient/install-eval.reg.templ, SayCV/scoop-cvp, 0
 scripts/sunloginclient/uninstall-eval.reg, SayCV/scoop-cvp, 0
 scripts/suwayomi-server/suwayomi.ps1, ScoopInstaller/Extras, 0
