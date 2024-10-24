@@ -901,6 +901,7 @@ bucket/PingFangHK.json, ygguorun/scoop-bucket, 0
 bucket/PingFangSC.json, ygguorun/scoop-bucket, 0
 bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/PixBuilder.json, zhoujin7/tomato, 0
+bucket/PixPin-Beta, leic4u/Scoop-Store, 0
 bucket/PixPin.json, abgox/abgo_bucket, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixeval.json, DoveBoy/Apps, 1
@@ -10303,6 +10304,7 @@ scripts/uninstall-python-package.ps1, TheRandomLabs/Scoop-Python, 0
 scripts/uninstall_cudnn.ps1, yuusakuri/scoop-bucket, 0
 scripts/uninstall_keypirinha_plugin.ps1, yuusakuri/scoop-bucket, 0
 scripts/uninstall_youtube-dl-animelover1984.ps1, yuusakuri/scoop-bucket, 0
+scripts/utils.ps1, leic4u/Scoop-Store, 1
 scripts/vim/install-context.reg, ScoopInstaller/Main, 0
 scripts/vim/uninstall-context.reg, ScoopInstaller/Main, 0
 scripts/visual-studio-code/vscode-install-context.reg, naderi/scoop-bucket, 0
