@@ -901,7 +901,7 @@ bucket/PingFangHK.json, ygguorun/scoop-bucket, 0
 bucket/PingFangSC.json, ygguorun/scoop-bucket, 0
 bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/PixBuilder.json, zhoujin7/tomato, 0
-bucket/PixPin-Beta, leic4u/Scoop-Store, 0
+bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
 bucket/PixPin.json, abgox/abgo_bucket, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixeval.json, DoveBoy/Apps, 1
