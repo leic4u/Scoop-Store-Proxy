@@ -1467,7 +1467,7 @@ bucket/ZY-Player.json, kkzzhizhou/scoop-zapps, 1
 bucket/ZedMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Zen-Browser.json, leic4u/Scoop-Store, 0
+bucket/Zen-Browser.json, leic4u/Scoop-Store, 1
 bucket/Zen.json, wordpure/scoop-air, 1
 bucket/ZeroTier.json, kkzzhizhou/scoop-zapps, 0
 bucket/ZigCLI-Portable.json, ACooper81/scoop-apps, 0
@@ -4919,7 +4919,7 @@ bucket/kompose.json, ScoopInstaller/Main, 1
 bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 1
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia.json, ScoopInstaller/Main, 1
 bucket/kopiaui-rc.json, ScoopInstaller/Versions, 1
