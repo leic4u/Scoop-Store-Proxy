@@ -665,7 +665,7 @@ bucket/Lekton-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LetsView.json, kkzzhizhou/scoop-zapps, 0
-bucket/LibPortable.json, leic4u/Scoop-Store, 0
+bucket/LibPortable.json, wordpure/scoop-air, 0
 bucket/LiberationMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LiberationMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LiberationMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
