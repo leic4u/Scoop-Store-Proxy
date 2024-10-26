@@ -1358,6 +1358,7 @@ bucket/VirtualBox-Extension-Pack-Install.json, ACooper81/scoop-apps, 0
 bucket/VirtualBox-Install.json, ACooper81/scoop-apps, 0
 bucket/VirtualBoxGuestAdditions-Install.json, ACooper81/scoop-apps, 0
 bucket/VirtualBoxWithExtensionPack-Install.json, ACooper81/scoop-apps, 0
+bucket/VirtualDesktop.json, Weidows-projects/scoop-3rd, 1
 bucket/VisualStudioCode-Install.json, ACooper81/scoop-apps, 0
 bucket/VisualStudioCode-Portable.json, ACooper81/scoop-apps, 1
 bucket/VisualStudioCode-UserInstall.json, ACooper81/scoop-apps, 0
