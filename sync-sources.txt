@@ -3535,7 +3535,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
 bucket/firefox-esr-115-zh-cn.json, aoisummer/scoop-bucket, 0
@@ -4919,7 +4919,7 @@ bucket/kompose.json, ScoopInstaller/Main, 1
 bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 1
-bucket/kook.json, seumsc/scoop-seu, 0
+bucket/kook.json, chawyehsu/dorado, 0
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia.json, ScoopInstaller/Main, 1
 bucket/kopiaui-rc.json, ScoopInstaller/Versions, 1
@@ -5917,7 +5917,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
 bucket/nethack.json, Calinou/scoop-games, 0
@@ -7129,7 +7129,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
