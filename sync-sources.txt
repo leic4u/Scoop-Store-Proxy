@@ -1468,7 +1468,7 @@ bucket/ZedMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Zen-Browser.json, leic4u/Scoop-Store, 1
-bucket/Zen.json, wordpure/scoop-air, 1
+bucket/Zen.json, leic4u/Scoop-Store, 0
 bucket/ZeroTier.json, kkzzhizhou/scoop-zapps, 0
 bucket/ZigCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZigDevCLI-Portable.json, ACooper81/scoop-apps, 0
