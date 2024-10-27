@@ -7132,7 +7132,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -8401,7 +8401,7 @@ bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
-bucket/steam-rom-manager.json, hermanjustnu/scoop-emulators, 1
+bucket/steam-rom-manager.json, Calinou/scoop-games, 1
 bucket/steam-theme-Zehn.json, Weidows-projects/scoop-3rd, 1
 bucket/steam.json, ScoopInstaller/Versions, 0
 bucket/steamchina.json, SayCV/scoop-cvp, 0
@@ -9057,7 +9057,7 @@ bucket/unicsved.json, naderi/scoop-bucket, 0
 bucket/uniextract.json, naderi/scoop-bucket, 1
 bucket/uniextract2.json, ScoopInstaller/Extras, 1
 bucket/unigetui-beta.json, DoveBoy/Apps, 1
-bucket/unigetui.json, naderi/scoop-bucket, 1
+bucket/unigetui.json, DoveBoy/Apps, 1
 bucket/unikey.json, beerpiss/scoop-bucket, 0
 bucket/uninstalltool.json, echoiron/echo-scoop, 0
 bucket/uninstallview.json, ScoopInstaller/Nirsoft, 0
