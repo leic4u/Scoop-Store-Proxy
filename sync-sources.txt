@@ -2963,6 +2963,7 @@ bucket/dnSpyEx-nightly.json, NyaMisty/scoop_bucket_misty, 0
 bucket/dngrep.json, ScoopInstaller/Extras, 1
 bucket/dnote.json, batkiz/backit, 1
 bucket/dns-jumper.json, ChinLong/scoop-customize, 0
+bucket/dns-safeguard.json, brian6932/dank-scoop, 1
 bucket/dnsbench.json, rasa/scoops, 0
 bucket/dnschooser.json, everyx/scoop-bucket, 0
 bucket/dnscrypt-proxy.json, ScoopInstaller/Main, 1
@@ -8400,7 +8401,7 @@ bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
-bucket/steam-rom-manager.json, Calinou/scoop-games, 1
+bucket/steam-rom-manager.json, hermanjustnu/scoop-emulators, 1
 bucket/steam-theme-Zehn.json, Weidows-projects/scoop-3rd, 1
 bucket/steam.json, ScoopInstaller/Versions, 0
 bucket/steamchina.json, SayCV/scoop-cvp, 0
