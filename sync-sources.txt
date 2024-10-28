@@ -1470,7 +1470,6 @@ bucket/ZedMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Zen-Browser.json, leic4u/Scoop-Store, 0
-bucket/Zen.json, wordpure/scoop-air, 1
 bucket/ZeroTier.json, kkzzhizhou/scoop-zapps, 0
 bucket/ZigCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZigDevCLI-Portable.json, ACooper81/scoop-apps, 0
@@ -5920,7 +5919,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
 bucket/nethack.json, Calinou/scoop-games, 0
