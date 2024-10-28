@@ -9056,7 +9056,7 @@ bucket/unicsved.json, naderi/scoop-bucket, 0
 bucket/uniextract.json, naderi/scoop-bucket, 1
 bucket/uniextract2.json, ScoopInstaller/Extras, 1
 bucket/unigetui-beta.json, DoveBoy/Apps, 1
-bucket/unigetui.json, DoveBoy/Apps, 1
+bucket/unigetui.json, naderi/scoop-bucket, 1
 bucket/unikey.json, beerpiss/scoop-bucket, 0
 bucket/uninstalltool.json, echoiron/echo-scoop, 0
 bucket/uninstallview.json, ScoopInstaller/Nirsoft, 0
