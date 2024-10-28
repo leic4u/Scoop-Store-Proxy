@@ -4922,7 +4922,7 @@ bucket/kompose.json, ScoopInstaller/Main, 1
 bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 1
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia.json, ScoopInstaller/Main, 1
 bucket/kopiaui-rc.json, ScoopInstaller/Versions, 1
