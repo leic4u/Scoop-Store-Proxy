@@ -2905,7 +2905,7 @@ bucket/dijo.json, aliesbelik/poldi, 1
 bucket/dim.json, akirco/aki-apps, 1
 bucket/dim2clear.json, akirco/aki-apps, 0
 bucket/dingtalk-gov.json, scoopcn/scoopcn, 0
-bucket/dingtalk.json, chawyehsu/dorado, 0
+bucket/dingtalk.json, akirco/aki-apps, 0
 bucket/dino-rss.json, batkiz/backit, 1
 bucket/dinorss.json, HUMORCE/nuke, 1
 bucket/directory-compare.json, naderi/scoop-bucket, 0
