@@ -1589,7 +1589,7 @@ bucket/alisthelper.json, DoveBoy/Apps, 1
 bucket/aliworkbench.json, SayCV/scoop-cvp, 1
 bucket/alixby.json, echoiron/echo-scoop, 1
 bucket/aliyun.json, ScoopInstaller/Main, 1
-bucket/aliyunDrive.json, abgox/abgo_bucket, 1
+bucket/aliyunDrive.json, akirco/aki-apps, 0
 bucket/aliyundrive-webdav.json, ScoopInstaller/Main, 1
 bucket/aliyunpan-xiaobaiyang.json, ygguorun/scoop-bucket, 1
 bucket/aliyunpan.json, SayCV/scoop-cvp, 1
