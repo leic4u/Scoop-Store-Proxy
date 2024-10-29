@@ -6140,6 +6140,7 @@ bucket/observerward.json, ViCrack/scoop-bucket, 1
 bucket/obsidian.json, ScoopInstaller/Extras, 1
 bucket/ocam.json, naderi/scoop-bucket, 1
 bucket/ocat.json, ScoopInstaller/Extras, 1
+bucket/ocauxiliarytools.json, ScoopInstaller/Extras, 1
 bucket/occt.json, brian6932/dank-scoop, 0
 bucket/ocenaudio.json, ScoopInstaller/Extras, 0
 bucket/octant.json, ScoopInstaller/Extras, 1
