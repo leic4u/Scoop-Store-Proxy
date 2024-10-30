@@ -1589,7 +1589,7 @@ bucket/alisthelper.json, DoveBoy/Apps, 1
 bucket/aliworkbench.json, SayCV/scoop-cvp, 1
 bucket/alixby.json, echoiron/echo-scoop, 1
 bucket/aliyun.json, ScoopInstaller/Main, 1
-bucket/aliyunDrive.json, wzv5/ScoopBucket, 0
+bucket/aliyunDrive.json, chawyehsu/dorado, 0
 bucket/aliyundrive-webdav.json, ScoopInstaller/Main, 1
 bucket/aliyunpan-xiaobaiyang.json, ygguorun/scoop-bucket, 1
 bucket/aliyunpan.json, SayCV/scoop-cvp, 1
@@ -1777,6 +1777,8 @@ bucket/athenas-ass-mh4U.json, Deide/deide-bucket, 1
 bucket/athenas-ass-mhFU.json, Deide/deide-bucket, 1
 bucket/athenas-ass-mhGen.json, Deide/deide-bucket, 1
 bucket/athenas-ass-mhP3rd.json, Deide/deide-bucket, 1
+bucket/atlas-ce.json, aliesbelik/poldi, 0
+bucket/atlas.json, aliesbelik/poldi, 0
 bucket/atmos.json, ScoopInstaller/Main, 1
 bucket/atom-beta.json, ScoopInstaller/Versions, 1
 bucket/atom-ng.json, ScoopInstaller/Versions, 1
@@ -3559,7 +3561,7 @@ bucket/firefox-portable-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-tete009-portable.json, kidonng/sushi, 1
 bucket/firefox-tete009.json, kidonng/sushi, 1
 bucket/firefox-unbranded.json, jingyu9575/scoop-jingyu9575, 0
-bucket/firefox-zh-cn.json, akirco/aki-apps, 0
+bucket/firefox-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox.ja.json, jfut/scoop-jfut, 0
 bucket/firefox.json, ScoopInstaller/Extras, 0
 bucket/firefoxdownloadsview.json, ScoopInstaller/Nirsoft, 0
@@ -3999,7 +4001,7 @@ bucket/gn.json, ScoopInstaller/Versions, 0
 bucket/gnirehtet.json, ScoopInstaller/Main, 1
 bucket/gns3.json, DoveBoy/Apps, 1
 bucket/gnucash.json, ScoopInstaller/Extras, 1
-bucket/gnupg-np.json, DoveBoy/Apps, 0
+bucket/gnupg-np.json, chawyehsu/dorado, 0
 bucket/gnupg-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/gnupg.json, ScoopInstaller/Main, 0
 bucket/gnupg1.json, ScoopInstaller/Main, 0
@@ -9269,7 +9271,7 @@ bucket/visualboyadvance-m.json, Calinou/scoop-games, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
