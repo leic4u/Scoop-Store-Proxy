@@ -1747,7 +1747,6 @@ bucket/armadillo-splicerebase.json, SayCV/scoop-cvp, 0
 bucket/armageddon.json, SayCV/scoop-cvp, 1
 bucket/armagetronad.json, Calinou/scoop-games, 0
 bucket/armclient.json, ScoopInstaller/Main, 1
-bucket/armcord.json, ScoopInstaller/Extras, 1
 bucket/armips.json, ScoopInstaller/Extras, 1
 bucket/armor.json, ScoopInstaller/Main, 1
 bucket/arrayv.json, beerpiss/scoop-bucket, 1
@@ -5044,6 +5043,7 @@ bucket/ledger.json, iquiw/scoop-bucket, 1
 bucket/leet.json, ScoopInstaller/Extras, 1
 bucket/leeyes.json, mo-san/scoop-bucket, 0
 bucket/lefthook.json, ScoopInstaller/Main, 1
+bucket/legcord.json, ScoopInstaller/Extras, 1
 bucket/legendary.json, Calinou/scoop-games, 1
 bucket/legit.json, ScoopInstaller/Main, 1
 bucket/lego.json, ScoopInstaller/Main, 1
