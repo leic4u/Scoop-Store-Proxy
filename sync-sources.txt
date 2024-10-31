@@ -6012,6 +6012,7 @@ bucket/nodejs14.json, ScoopInstaller/Versions, 1
 bucket/nodejs16.json, ScoopInstaller/Versions, 1
 bucket/nodejs18.json, ScoopInstaller/Versions, 1
 bucket/nodejs20.json, ScoopInstaller/Versions, 1
+bucket/nodejs22.json, ScoopInstaller/Versions, 1
 bucket/nodejs4.json, ScoopInstaller/Versions, 1
 bucket/nodejs5.json, ScoopInstaller/Versions, 1
 bucket/nodejs6.json, ScoopInstaller/Versions, 1
@@ -6495,7 +6496,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
