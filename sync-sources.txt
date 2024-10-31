@@ -1376,7 +1376,7 @@ bucket/WTGA.json, kkzzhizhou/scoop-zapps, 1
 bucket/WXQQ_RevokeMsgPatcher.json, Paxxs/Cluttered-bucket, 1
 bucket/WacomTablet-Install.json, ACooper81/scoop-apps, 0
 bucket/WaitCLI-Portable.json, ACooper81/scoop-apps, 0
-bucket/Waterfox-Portable.json, ACooper81/scoop-apps, 0
+bucket/Waterfox-Portable.json, naderi/scoop-bucket, 0
 bucket/WazuhAgent-Install.json, ACooper81/scoop-apps, 0
 bucket/WeChat-Portable.json, Paxxs/Cluttered-bucket, 0
 bucket/WePE.json, Weidows-projects/scoop-3rd, 0
@@ -7035,7 +7035,7 @@ bucket/pixie.json, ScoopInstaller/Extras, 0
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
 bucket/pixiv-omina.json, batkiz/backit, 1
-bucket/pixivbiu.json, DoveBoy/Apps, 1
+bucket/pixivbiu.json, HCLonely/my-scoop-bucket, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
@@ -8978,7 +8978,6 @@ bucket/tusk.json, ScoopInstaller/Extras, 1
 bucket/tutanota.json, ScoopInstaller/Extras, 0
 bucket/tuxguitar.json, ScoopInstaller/Extras, 0
 bucket/tuya.json, akirco/aki-apps, 0
-bucket/tweak-uix.json, naderi/scoop-bucket, 1
 bucket/tweakpower.json, naderi/scoop-bucket, 0
 bucket/tweakstyle.json, ScoopInstaller/Extras, 0
 bucket/twemoji-color-font.json, matthewjberger/scoop-nerd-fonts, 1
