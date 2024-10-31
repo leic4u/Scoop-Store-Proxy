@@ -5167,6 +5167,7 @@ bucket/lingoes.json, naderi/scoop-bucket, 0
 bucket/link-plus.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/link-shell-extension-np.json, jingyu9575/scoop-jingyu9575, 0
 bucket/link-shell-extension.json, starise/Scoop-Confetti, 0
+bucket/linkandroid.json, DoveBoy/Apps, 1
 bucket/linkerd.json, ScoopInstaller/Extras, 1
 bucket/links.json, ScoopInstaller/Main, 0
 bucket/linkscope.json, SayCV/scoop-cvp, 1
@@ -7034,7 +7035,7 @@ bucket/pixie.json, ScoopInstaller/Extras, 0
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
 bucket/pixiv-omina.json, batkiz/backit, 1
-bucket/pixivbiu.json, HCLonely/my-scoop-bucket, 1
+bucket/pixivbiu.json, DoveBoy/Apps, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
