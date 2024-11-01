@@ -69,6 +69,7 @@ bucket/86box-roms.json, ScoopInstaller/Extras, 1
 bucket/86box.json, ScoopInstaller/Extras, 1
 bucket/8bitdo-ultimate-software-v2.json, hu3rror/scoop-muggle, 0
 bucket/8gadgetpack-np.json, ScoopInstaller/Nonportable, 0
+bucket/AB-Download-Manager.json, leic4u/Scoop-Store, 1
 bucket/ABBYYFineReader.json, kkzzhizhou/scoop-zapps, 1
 bucket/ACG-Power.json, Darkatse/Scoop-KanColle, 0
 bucket/ACNH-design-pattern-editor.json, hu3rror/scoop-muggle, 1
