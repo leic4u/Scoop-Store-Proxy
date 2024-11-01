@@ -3516,7 +3516,7 @@ bucket/filelight-nightly.json, ScoopInstaller/Versions, 0
 bucket/filelight.json, ScoopInstaller/Extras, 0
 bucket/filelist.json, starise/Scoop-Confetti, 0
 bucket/fileoptimizer.json, ScoopInstaller/Extras, 0
-bucket/files-np.json, ScoopInstaller/Nonportable, 1
+bucket/files-np.json, ScoopInstaller/Nonportable, 0
 bucket/filetypesman.json, ScoopInstaller/Nirsoft, 0
 bucket/filevoyager-portable.json, naderi/scoop-bucket, 0
 bucket/filezilla-server.json, ScoopInstaller/Extras, 0
@@ -9784,7 +9784,7 @@ bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu.json, Calinou/scoop-games, 1
-bucket/xenia-canary.json, Calinou/scoop-games, 1
+bucket/xenia-canary.json, hermanjustnu/scoop-emulators, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
