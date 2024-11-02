@@ -487,6 +487,7 @@ bucket/GoogleChrome-Portable.json, ACooper81/scoop-apps, 0
 bucket/GoogleChromeBeta-Portable.json, ACooper81/scoop-apps, 0
 bucket/GoogleChromeCanary-Portable.json, ACooper81/scoop-apps, 0
 bucket/GoogleChromeDev-Portable.json, ACooper81/scoop-apps, 0
+bucket/Gopeed-Portable.json, leic4u/Scoop-Store, 1
 bucket/Grub2.json, kkzzhizhou/scoop-zapps, 0
 bucket/GuiCompletion-PSModule.json, ACooper81/scoop-apps, 0
 bucket/HBuilder.json, zhoujin7/tomato, 0
@@ -4097,7 +4098,6 @@ bucket/gopass-jsonapi.json, ScoopInstaller/Main, 1
 bucket/gopass.json, ScoopInstaller/Main, 1
 bucket/gopass184.json, ScoopInstaller/Versions, 1
 bucket/gopayloader.json, aliesbelik/poldi, 1
-bucket/gopeed-portable.json, DoveBoy/Apps, 1
 bucket/gopeed-web.json, DoveBoy/Apps, 1
 bucket/gopeed.json, ScoopInstaller/Extras, 1
 bucket/gopher360.json, ScoopInstaller/Extras, 1
