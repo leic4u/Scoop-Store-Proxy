@@ -243,7 +243,7 @@ bucket/Chocolatey-Portable.json, ACooper81/scoop-apps, 0
 bucket/Cinebench-R15.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/Cinebench-R20.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/Cinebench-R23.json, AkariiinMKII/Scoop4kariiin, 1
-bucket/Clash-Verge-Rev-Portable, leic4u/Scoop-Store, 0
+bucket/Clash-Verge-Rev-Portable.json, leic4u/Scoop-Store, 1
 bucket/Clash-for-Windows_Chinese.json, Weidows-projects/scoop-3rd, 1
 bucket/ClashVergeRev.json, wordpure/scoop-air, 1
 bucket/ClashXW.json, ygguorun/scoop-bucket, 1
@@ -398,6 +398,7 @@ bucket/FastGithub.json, abgox/abgo_bucket, 0
 bucket/FeiShu.json, abgox/abgo_bucket, 1
 bucket/FerdiumNightly-Portable.json, ACooper81/scoop-apps, 1
 bucket/Fido-PSScript.json, ACooper81/scoop-apps, 1
+bucket/FileCentipede.json, leic4u/Scoop-Store, 1
 bucket/FileLocatorPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/FileMenuTools-Portable.json, ACooper81/scoop-apps, 0
 bucket/FileMenuTools.json, kkzzhizhou/scoop-zapps, 1
@@ -2426,7 +2427,6 @@ bucket/clash-rev-compatible-go120.json, DoveBoy/Apps, 1
 bucket/clash-rev-compatible.json, DoveBoy/Apps, 1
 bucket/clash-rev-go120.json, DoveBoy/Apps, 1
 bucket/clash-rev.json, DoveBoy/Apps, 1
-bucket/clash-verge-rev-portable.json, DoveBoy/Apps, 1
 bucket/clash-verge-rev.json, ScoopInstaller/Extras, 1
 bucket/clash-verge.json, ScoopInstaller/Extras, 1
 bucket/clash.json, ScoopInstaller/Main, 1
@@ -3509,7 +3509,6 @@ bucket/fileaccesserrorview.json, ScoopInstaller/Nirsoft, 0
 bucket/fileactivitywatch.json, ScoopInstaller/Nirsoft, 0
 bucket/filebot.json, ScoopInstaller/Extras, 0
 bucket/filebrowser.json, amorphobia/siku, 1
-bucket/filecentipede.json, ivaquero/scoopet, 1
 bucket/filecode-checker.json, mo-san/scoop-bucket, 0
 bucket/fileconverter.json, DoveBoy/Apps, 1
 bucket/filelight-nightly.json, ScoopInstaller/Versions, 0
@@ -7724,7 +7723,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
