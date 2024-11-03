@@ -1127,7 +1127,7 @@ bucket/Source-Han-Mega-OTC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Source-Han-Mono-HC.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Source-Han-Mono-J.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Source-Han-Mono-K.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/Source-Han-Mono-SC.json, matthewjberger/scoop-nerd-fonts, 0
+bucket/Source-Han-Mono-SC.json, leic4u/Scoop-Store, 0
 bucket/Source-Han-Mono-TC.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Source-Han-Noto-CJK-Ultra-OTC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Source-Han-Sans-HC.json, matthewjberger/scoop-nerd-fonts, 0
@@ -1138,7 +1138,7 @@ bucket/Source-Han-Sans-TC.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Source-Han-Serif-HC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Source-Han-Serif-J.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Source-Han-Serif-K.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Source-Han-Serif-SC.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Source-Han-Serif-SC.json, leic4u/Scoop-Store, 1
 bucket/Source-Han-Serif-TC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/SourceCodePro-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/SourceCodePro-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
