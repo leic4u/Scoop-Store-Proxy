@@ -734,7 +734,7 @@ bucket/Meslo-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Meslo-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Meslo-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MiFlash-with-BL_Unlocker.json, Weidows-projects/scoop-3rd, 0
-bucket/MiSans.json, hu3rror/scoop-muggle, 0
+bucket/MiSans.json, leic4u/Scoop-Store, 0
 bucket/MiTeCSQLiteQuery-Portable.json, ACooper81/scoop-apps, 0
 bucket/MiTeCTaskManagerDeLuxe-Portable.json, ACooper81/scoop-apps, 0
 bucket/Microsoft.NETCoreRuntime-Install.json, ACooper81/scoop-apps, 0
