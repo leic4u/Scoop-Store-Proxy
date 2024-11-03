@@ -1133,7 +1133,7 @@ bucket/Source-Han-Noto-CJK-Ultra-OTC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Source-Han-Sans-HC.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Source-Han-Sans-J.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Source-Han-Sans-K.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/Source-Han-Sans-SC.json, matthewjberger/scoop-nerd-fonts, 0
+bucket/Source-Han-Sans-SC.json, leic4u/Scoop-Store, 0
 bucket/Source-Han-Sans-TC.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Source-Han-Serif-HC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Source-Han-Serif-J.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3131,7 +3131,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
