@@ -433,6 +433,7 @@ bucket/FluentTerminal-UserInstall.json, ACooper81/scoop-apps, 1
 bucket/Flutter-Coolapk.json, Paxxs/Cluttered-bucket, 0
 bucket/FolderMonitor-Portable.json, ACooper81/scoop-apps, 0
 bucket/Fonger.json, abgox/abgo_bucket, 0
+bucket/Font-Awesome-Free.json, leic4u/Scoop-Store, 1
 bucket/Font-Awesome.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Font-Hack.json, abgox/abgo_bucket, 1
 bucket/FontMod.json, ygguorun/scoop-bucket, 1
@@ -3562,7 +3563,7 @@ bucket/firefox-portable-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-tete009-portable.json, kidonng/sushi, 1
 bucket/firefox-tete009.json, kidonng/sushi, 1
 bucket/firefox-unbranded.json, jingyu9575/scoop-jingyu9575, 0
-bucket/firefox-zh-cn.json, cc713/ownscoop, 0
+bucket/firefox-zh-cn.json, akirco/aki-apps, 0
 bucket/firefox.ja.json, jfut/scoop-jfut, 0
 bucket/firefox.json, ScoopInstaller/Extras, 0
 bucket/firefoxdownloadsview.json, ScoopInstaller/Nirsoft, 0
