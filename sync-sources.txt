@@ -3542,7 +3542,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
 bucket/firefox-esr-115-zh-cn.json, aoisummer/scoop-bucket, 0
@@ -5471,7 +5471,7 @@ bucket/metarweather.json, kodybrown/scoop-nirsoft, 0
 bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mi-assistant.json, akirco/aki-apps, 0
@@ -5504,7 +5504,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
+bucket/microsoftedge.json, chawyehsu/dorado, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
@@ -6508,6 +6508,7 @@ bucket/pdf-xchange-viewer.json, naderi/scoop-bucket, 0
 bucket/pdf24-creator-np.json, ScoopInstaller/Nonportable, 0
 bucket/pdf2djvu.json, ScoopInstaller/Main, 1
 bucket/pdf2svg.json, ScoopInstaller/Main, 1
+bucket/pdf4qt.json, ivaquero/scoopet, 1
 bucket/pdfarranger.json, ScoopInstaller/Extras, 1
 bucket/pdfbox-alpha.json, ScoopInstaller/Versions, 0
 bucket/pdfbox.json, ScoopInstaller/Main, 0
@@ -8052,6 +8053,7 @@ bucket/serial-cloner.json, ScoopInstaller/Extras, 0
 bucket/serial-port-monitor.json, SayCV/scoop-cvp, 0
 bucket/serial-port-utility.json, SayCV/scoop-cvp, 0
 bucket/serial-to-ip.json, SayCV/scoop-cvp, 0
+bucket/serpl.json, ivaquero/scoopet, 1
 bucket/serve.json, ScoopInstaller/Main, 1
 bucket/serverless.json, ScoopInstaller/Main, 1
 bucket/servicebusexplorer.json, ScoopInstaller/Extras, 1
@@ -9221,7 +9223,6 @@ bucket/vgmstream.json, ScoopInstaller/Main, 1
 bucket/vhs.json, ScoopInstaller/Main, 1
 bucket/via.json, ScoopInstaller/Extras, 1
 bucket/vial.json, ScoopInstaller/Extras, 1
-bucket/viber.json, ivaquero/scoopet, 0
 bucket/vibrance-gui.json, ScoopInstaller/Extras, 0
 bucket/vice-gtk3-snapshot.json, hermanjustnu/scoop-emulators, 1
 bucket/vice-gtk3.json, hermanjustnu/scoop-emulators, 0
@@ -9484,6 +9485,7 @@ bucket/whosip.json, ScoopInstaller/Nirsoft, 0
 bucket/whris.json, aliesbelik/poldi, 1
 bucket/whynotwin11.json, ScoopInstaller/Extras, 1
 bucket/widelands.json, Calinou/scoop-games, 1
+bucket/wifi-crack-tool.json, ivaquero/scoopet, 1
 bucket/wifi-direct-legacy-ap-plus.json, SayCV/scoop-cvp, 1
 bucket/wifi-manager.json, ScoopInstaller/Extras, 0
 bucket/wifi-password-revealer.json, naderi/scoop-bucket, 0
