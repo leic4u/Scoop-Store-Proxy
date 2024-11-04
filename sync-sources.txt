@@ -1262,7 +1262,7 @@ bucket/TinyImageProcessor-Portable.json, ACooper81/scoop-apps, 0
 bucket/TinyNvidiaUpdateChecker-Portable.json, ACooper81/scoop-apps, 1
 bucket/TinyRDM.json, abgox/abgo_bucket, 1
 bucket/Tiresias.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/ToDesk.json, wordpure/scoop-air, 0
+bucket/ToDesk.json, amorphobia/siku, 0
 bucket/ToastNotificationScript-PSScript.json, ACooper81/scoop-apps, 1
 bucket/Tockler-Portable.json, ACooper81/scoop-apps, 1
 bucket/TomsHashExplorer-Install.json, ACooper81/scoop-apps, 0
@@ -3131,7 +3131,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -5471,7 +5471,7 @@ bucket/metarweather.json, kodybrown/scoop-nirsoft, 0
 bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mi-assistant.json, akirco/aki-apps, 0
