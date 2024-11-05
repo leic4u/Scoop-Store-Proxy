@@ -2039,7 +2039,7 @@ bucket/bison.json, ScoopInstaller/Main, 0
 bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
-bucket/bitcomet.json, echoiron/echo-scoop, 0
+bucket/bitcomet.json, naderi/scoop-bucket, 0
 bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitsmanager.json, ScoopInstaller/Extras, 1
