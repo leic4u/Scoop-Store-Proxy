@@ -940,6 +940,7 @@ bucket/PowerShell-Install.json, ACooper81/scoop-apps, 1
 bucket/PowerShell-Portable.json, ACooper81/scoop-apps, 1
 bucket/PowerShell.json, wordpure/scoop-air, 1
 bucket/PowerShellUniversal-Install.json, ACooper81/scoop-apps, 0
+bucket/PowerToys-EXE.json, leic4u/Scoop-Store, 1
 bucket/PowerToys-Install.json, ACooper81/scoop-apps, 1
 bucket/PowerToys-Portable.json, ACooper81/scoop-apps, 1
 bucket/PowerToys-UserInstall.json, ACooper81/scoop-apps, 1
