@@ -176,7 +176,7 @@ bucket/BetterNCM.json, ygguorun/scoop-bucket, 1
 bucket/BigBlueTerminal-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Bilibili.json, akirco/aki-apps, 0
+bucket/Bilibili.json, chawyehsu/dorado, 0
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitMeterOS.json, abgox/abgo_bucket, 0
@@ -3563,7 +3563,7 @@ bucket/firefox-portable-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-tete009-portable.json, kidonng/sushi, 1
 bucket/firefox-tete009.json, kidonng/sushi, 1
 bucket/firefox-unbranded.json, jingyu9575/scoop-jingyu9575, 0
-bucket/firefox-zh-cn.json, akirco/aki-apps, 0
+bucket/firefox-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox.ja.json, jfut/scoop-jfut, 0
 bucket/firefox.json, ScoopInstaller/Extras, 0
 bucket/firefoxdownloadsview.json, ScoopInstaller/Nirsoft, 0
@@ -7725,7 +7725,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -9278,7 +9278,7 @@ bucket/visualboyadvance-m.json, Calinou/scoop-games, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
