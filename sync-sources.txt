@@ -395,7 +395,7 @@ bucket/FantasqueSansMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FantasqueSansMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FastCopy-M.json, Paxxs/Cluttered-bucket, 1
 bucket/FastGithub.json, abgox/abgo_bucket, 0
-bucket/FeiShu.json, abgox/abgo_bucket, 1
+bucket/FeiShu.json, scoopcn/scoopcn, 0
 bucket/FerdiumNightly-Portable.json, ACooper81/scoop-apps, 1
 bucket/Fido-PSScript.json, ACooper81/scoop-apps, 1
 bucket/FileCentipede.json, leic4u/Scoop-Store, 1
@@ -7284,7 +7284,6 @@ bucket/puppet-agent.json, ScoopInstaller/Main, 0
 bucket/puppet-bolt.json, ScoopInstaller/Main, 0
 bucket/pupsqlite.json, mo-san/scoop-bucket, 0
 bucket/pure-data.json, ScoopInstaller/Extras, 0
-bucket/pure-live.json, akirco/aki-apps, 1
 bucket/pureref.json, ScoopInstaller/Extras, 1
 bucket/purescript.json, ScoopInstaller/Main, 1
 bucket/purewriter.json, DoveBoy/Apps, 1
@@ -8153,6 +8152,7 @@ bucket/simple-assembly-explorer.json, ScoopInstaller/Extras, 1
 bucket/simple-dnscrypt.json, ScoopInstaller/Extras, 1
 bucket/simple-http-server.json, ScoopInstaller/Main, 1
 bucket/simple-image-compare.json, brian6932/dank-scoop, 1
+bucket/simple-live.json, akirco/aki-apps, 1
 bucket/simple-obfs.json, AkinoKaede/maple, 1
 bucket/simple64.json, Calinou/scoop-games, 1
 bucket/simplecodegenerator.json, ScoopInstaller/Nirsoft, 0
