@@ -1895,7 +1895,7 @@ bucket/babelpad.json, rasa/scoops, 0
 bucket/backrest.json, ScoopInstaller/Extras, 1
 bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
 bucket/baidu-net-disk.json, yuusakuri/scoop-bucket, 0
-bucket/baidudisk.json, scoopcn/scoopcn, 0
+bucket/baidudisk.json, akirco/aki-apps, 0
 bucket/baidunetdisk-cvp.json, SayCV/scoop-cvp, 1
 bucket/baidupanfilestransfers.json, DoveBoy/Apps, 1
 bucket/baidupcs-go.json, hu3rror/scoop-muggle, 1
@@ -4551,7 +4551,7 @@ bucket/installedappview.json, ScoopInstaller/Nirsoft, 0
 bucket/installedcodec.json, ScoopInstaller/Nirsoft, 0
 bucket/installeddriverslist.json, ScoopInstaller/Nirsoft, 0
 bucket/installedpackagesview.json, ScoopInstaller/Nirsoft, 0
-bucket/instaloader.json, HUMORCE/nuke, 1
+bucket/instaloader.json, akirco/aki-apps, 1
 bucket/instant-eyedropper.json, ScoopInstaller/Extras, 0
 bucket/integerscaler.json, ScoopInstaller/Extras, 0
 bucket/intellij-idea-ce.json, chawyehsu/dorado, 0
@@ -4712,7 +4712,7 @@ bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, chawyehsu/dorado, 0
+bucket/jianyingpro.json, akirco/aki-apps, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigdo.json, ivaquero/scoopet, 0
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
