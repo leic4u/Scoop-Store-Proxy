@@ -7663,7 +7663,7 @@ bucket/reviewdog.json, ScoopInstaller/Main, 1
 bucket/revive.json, batkiz/backit, 1
 bucket/revoke-msg-patcher.json, ivaquero/scoopet, 1
 bucket/revokemsgpatcher-nightly.json, DoveBoy/Apps, 0
-bucket/revokemsgpatcher.json, DoveBoy/Apps, 1
+bucket/revokemsgpatcher.json, ygguorun/scoop-bucket, 1
 bucket/revouninstaller.json, ScoopInstaller/Extras, 0
 bucket/rewrk.json, aliesbelik/poldi, 1
 bucket/rfxgen.json, TheRandomLabs/Scoop-Bucket, 1
