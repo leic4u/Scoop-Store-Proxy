@@ -4780,6 +4780,7 @@ bucket/julia-rc.json, ScoopInstaller/Versions, 0
 bucket/julia.json, ScoopInstaller/Main, 0
 bucket/juliamono-latin.json, KnotUntied/scoop-fonts, 1
 bucket/juliamono.json, KnotUntied/scoop-fonts, 1
+bucket/juliaup.json, ScoopInstaller/Main, 1
 bucket/jumplistsview.json, ScoopInstaller/Nirsoft, 0
 bucket/junction.json, niheaven/scoop-sysinternals, 1
 bucket/jupyterlab-desktop.json, ivaquero/scoopet, 1
@@ -6249,6 +6250,7 @@ bucket/onionshare.json, ScoopInstaller/Extras, 1
 bucket/onlyoffice-desktopeditors.json, ScoopInstaller/Extras, 1
 bucket/ontopreplica.json, ScoopInstaller/Extras, 1
 bucket/opa.json, ScoopInstaller/Main, 1
+bucket/opam.json, ScoopInstaller/Main, 1
 bucket/opdessertstorm.json, Calinou/scoop-games, 0
 bucket/open-ani.json, Weidows-projects/scoop-3rd, 1
 bucket/open-log-viewer.json, ScoopInstaller/Extras, 1
