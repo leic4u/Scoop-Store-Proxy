@@ -1216,7 +1216,7 @@ bucket/SysinternalsProcessExplorer-Portable.json, ACooper81/scoop-apps, 0
 bucket/SysinternalsProcessMonitor-Portable.json, ACooper81/scoop-apps, 0
 bucket/SysinternalsSuite-Portable.json, ACooper81/scoop-apps, 0
 bucket/SystemTrayMenu-Portable.json, ACooper81/scoop-apps, 1
-bucket/TMSpeech.json, ygguorun/scoop-bucket, 1
+bucket/TMSpeech.json, DoveBoy/Apps, 1
 bucket/TTime.json, abgox/abgo_bucket, 1
 bucket/TagUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Tailscale-Portable.json, ACooper81/scoop-apps, 1
