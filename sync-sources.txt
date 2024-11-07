@@ -4538,7 +4538,7 @@ bucket/innosetup-np.json, ScoopInstaller/Nonportable, 0
 bucket/innosetup-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/innounp-unicode.json, ScoopInstaller/Versions, 0
 bucket/innounp.json, ScoopInstaller/Main, 0
-bucket/innounpacker.json, naderi/scoop-bucket, 0
+bucket/innounpacker.json, ScoopInstaller/Extras, 0
 bucket/inotifywait.json, jingyu9575/scoop-jingyu9575, 1
 bucket/insideclipboard.json, ScoopInstaller/Nirsoft, 0
 bucket/inso.json, HUMORCE/nuke, 1
