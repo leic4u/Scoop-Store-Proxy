@@ -3464,6 +3464,7 @@ bucket/ferdium.json, ScoopInstaller/Extras, 1
 bucket/ferium.json, Calinou/scoop-games, 1
 bucket/fermion.json, NyaMisty/scoop_bucket_misty, 1
 bucket/feroxbuster.json, HUMORCE/nuke, 1
+bucket/fetch-github-hosts.json, DoveBoy/Apps, 1
 bucket/ff-logs-uploader.json, Calinou/scoop-games, 1
 bucket/ff-password-exporter.json, jingyu9575/scoop-jingyu9575, 1
 bucket/ffb.json, rasa/scoops, 0
