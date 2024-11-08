@@ -1,5 +1,5 @@
 {
-  "version": "2024-10-28",
+  "version": "2.8",
   "description": "🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes",
   "homepage": "https://hosts.gitcdn.top/",
   "license": {
@@ -8,13 +8,30 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/Tohrusky/Final2x/releases/download/2024-10-28/Final2x-windows-x64-setup.exe#/dl.7z",
-      "hash": "e91ae1106b434d1671742bb2311dc73b7d5ed8a29f78ddf4629c88d4726ab9f0"
+      "url": "https://ghp.ci/https://github.com/Licoy/fetch-github-hosts/releases/download/v2.8/fetch-github-hosts_v2.8_windows_amd64.zip",
+      "hash": "dd97eb6b6dd0668a30135ad363d0662561f3647054218e85589307df43d32122"
     },
     "32bit": {
-      "url": "https://ghp.ci/https://github.com/Tohrusky/Final2x/releases/download/2024-10-28/Final2x-windows-arm64-setup.exe#/dl.7z",
-      "hash": "822bf634c9445ffcdd1a0986d807d92f4231113fa0b7af38ca02ef0bc8ae2b75"
+      "url": "https://ghp.ci/https://github.com/Licoy/fetch-github-hosts/releases/download/v2.8/fetch-github-hosts_v2.8_windows_386.zip",
+      "hash": "a137e13c14fc16c4a94c5b797b2f9174fab4bcb88dbe58507335d7e8585f928f"
     }
+  },
+  "installer": {
+    "script": [
+      "# handle runtime cache",
+      "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
+      "Mount-ExternalRuntimeData -Source \"$persist_dir\\appdata\" -Target \"$env:APPDATA\\byteexec\"",
+      "Mount-ExternalRuntimeData -Source \"$persist_dir\\userdata\" -Target \"$env:APPDATA\\fyne\"",
+      "Remove-Module -Name AppsUtils"
+    ]
+  },
+  "uninstaller": {
+    "script": [
+      "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
+      "Dismount-ExternalRuntimeData -Target \"$env:APPDATA\\byteexec\"",
+      "Dismount-ExternalRuntimeData -Target \"$env:APPDATA\\fyne\"",
+      "Remove-Module -Name AppsUtils"
+    ]
   },
   "bin": "Fetch-Github-Hosts.exe",
   "shortcuts": [
