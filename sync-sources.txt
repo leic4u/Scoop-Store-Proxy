@@ -3955,6 +3955,7 @@ bucket/gitea.json, ScoopInstaller/Main, 0
 bucket/gitextensions.json, ScoopInstaller/Extras, 1
 bucket/gitg.json, cc713/ownscoop, 0
 bucket/github-beta.json, ScoopInstaller/Versions, 0
+bucket/github-hosts.json, DoveBoy/Apps, 1
 bucket/github.json, ScoopInstaller/Extras, 0
 bucket/gitify.json, ScoopInstaller/Extras, 1
 bucket/gitignore.json, ScoopInstaller/Main, 1
@@ -9477,7 +9478,6 @@ bucket/whatinstartup.json, ScoopInstaller/Nirsoft, 0
 bucket/whatishang.json, ScoopInstaller/Nirsoft, 0
 bucket/whatsapp-beta.json, ScoopInstaller/Versions, 0
 bucket/whatsapp-portapps.json, Velgus/Scoop-Portapps, 1
-bucket/whatsapp.json, ScoopInstaller/Extras, 0
 bucket/wheel-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/whepfrom.json, ScoopInstaller/Extras, 1
 bucket/which.json, ScoopInstaller/Main, 0
