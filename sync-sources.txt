@@ -6282,6 +6282,7 @@ bucket/openedfilesview.json, kodybrown/scoop-nirsoft, 0
 bucket/openelement.json, ScoopInstaller/Extras, 0
 bucket/openface.json, ScoopInstaller/Extras, 1
 bucket/openfga.json, ScoopInstaller/Main, 1
+bucket/openfortress.json, Calinou/scoop-games, 0
 bucket/openhab.json, ScoopInstaller/Extras, 0
 bucket/openhardwaremonitor.json, ScoopInstaller/Extras, 0
 bucket/openhashtab-np.json, ScoopInstaller/Nonportable, 1
