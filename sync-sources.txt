@@ -977,6 +977,7 @@ bucket/QtDesigner.json, zhoujin7/tomato, 1
 bucket/QuickCPU-Portable.json, ACooper81/scoop-apps, 0
 bucket/QuickCut.json, Weidows-projects/scoop-3rd, 1
 bucket/QuickSwitch.json, ygguorun/scoop-bucket, 1
+bucket/Quicker-MSI.json, leic4u/Scoop-Store, 0
 bucket/Quicker.json, abgox/abgo_bucket, 0
 bucket/R-Studio.json, kkzzhizhou/scoop-zapps, 1
 bucket/RAMExpect.json, kkzzhizhou/scoop-zapps, 0
