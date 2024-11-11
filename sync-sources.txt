@@ -5355,7 +5355,6 @@ bucket/make.json, ScoopInstaller/Main, 0
 bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makemkv.json, ScoopInstaller/Extras, 0
 bucket/malware-patch.json, ivaquero/scoopet, 1
-bucket/mambaforge-cn.json, ivaquero/scoopet, 0
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
 bucket/mame.json, Calinou/scoop-games, 1
 bucket/mameui.json, hermanjustnu/scoop-emulators, 0
@@ -5596,6 +5595,7 @@ bucket/miniconda3-py37.json, ScoopInstaller/Versions, 0
 bucket/miniconda3-py38.json, ScoopInstaller/Versions, 0
 bucket/miniconda3-py39.json, ScoopInstaller/Versions, 0
 bucket/miniconda3.json, ScoopInstaller/Extras, 0
+bucket/miniforge-cn.json, ivaquero/scoopet, 0
 bucket/miniforge.json, chawyehsu/dorado, 1
 bucket/minify-js.json, brian6932/dank-scoop, 0
 bucket/minify.json, ScoopInstaller/Main, 1
@@ -5941,6 +5941,7 @@ bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
+bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
 bucket/nethack.json, Calinou/scoop-games, 0
 bucket/netlifyctl.json, ScoopInstaller/Extras, 1
