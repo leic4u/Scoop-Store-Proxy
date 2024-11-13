@@ -4879,6 +4879,7 @@ bucket/keyboard-chatter-blocker.json, ScoopInstaller/Extras, 1
 bucket/keyboardstateview.json, ScoopInstaller/Nirsoft, 0
 bucket/keyferret.json, ScoopInstaller/Extras, 0
 bucket/keyfinder.json, naderi/scoop-bucket, 0
+bucket/keyguard.json, ScoopInstaller/Extras, 1
 bucket/keymap.json, DoveBoy/Apps, 1
 bucket/keypirinha-EasySearch.json, yuusakuri/scoop-bucket, 1
 bucket/keypirinha-Kill.json, yuusakuri/scoop-bucket, 1
