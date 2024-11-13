@@ -4358,6 +4358,7 @@ bucket/hostsman-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hostsman.json, ScoopInstaller/Extras, 1
 bucket/hostsmgr.json, HUMORCE/nuke, 1
 bucket/hotkey-resolution-changer.json, couleur-tweak-tips/utils, 0
+bucket/hotkeyp.json, naderi/scoop-bucket, 0
 bucket/hotkeyslist.json, ScoopInstaller/Nirsoft, 0
 bucket/houdoku.json, ScoopInstaller/Extras, 1
 bucket/hourglass-godot.json, ScoopInstaller/Extras, 0
