@@ -1444,7 +1444,7 @@ bucket/WingetUI.json, Weidows-projects/scoop-3rd, 1
 bucket/WingetUIBeta-Portable.json, ACooper81/scoop-apps, 1
 bucket/Winpilot-Portable.json, ACooper81/scoop-apps, 1
 bucket/Wireshark-Portable.json, ACooper81/scoop-apps, 0
-bucket/WiseCare365.json, abgox/abgo_bucket, 0
+bucket/WiseCare365.json, echoiron/echo-scoop, 0
 bucket/WiseDataRecovery-Portable.json, ACooper81/scoop-apps, 0
 bucket/WizFile-Portable.json, ACooper81/scoop-apps, 0
 bucket/WizTree-Portable.json, ACooper81/scoop-apps, 0
