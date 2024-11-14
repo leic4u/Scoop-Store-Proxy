@@ -7123,7 +7123,7 @@ bucket/posh-git-beta.json, ScoopInstaller/Versions, 1
 bucket/posh-git-nightly.json, ScoopInstaller/Versions, 1
 bucket/posh-git.json, ScoopInstaller/Extras, 0
 bucket/posh-maven.json, DoveBoy/Apps, 0
-bucket/positron.json, cderv/r-bucket, 1
+bucket/positron.json, ScoopInstaller/Extras, 1
 bucket/postcat.json, ViCrack/scoop-bucket, 1
 bucket/postgresql.json, ScoopInstaller/Main, 0
 bucket/postgresql10.json, ScoopInstaller/Versions, 0
