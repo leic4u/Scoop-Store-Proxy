@@ -7741,7 +7741,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -9428,6 +9428,7 @@ bucket/weakauras-companion.json, Calinou/scoop-games, 1
 bucket/wealthfolio.json, naderi/scoop-bucket, 1
 bucket/weasel-pageant.json, ScoopInstaller/Extras, 1
 bucket/weasel.json, ivaquero/scoopet, 1
+bucket/web-chains.json, ViCrack/scoop-bucket, 1
 bucket/webbrain.json, Weidows-projects/scoop-3rd, 0
 bucket/webbrowserbookmarksview.json, ScoopInstaller/Nirsoft, 0
 bucket/webbrowserpassview.json, ScoopInstaller/Nirsoft, 0
