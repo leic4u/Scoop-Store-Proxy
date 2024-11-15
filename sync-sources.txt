@@ -2275,6 +2275,7 @@ bucket/cataclysm-dda.json, Calinou/scoop-games, 1
 bucket/catalyst.json, ScoopInstaller/Extras, 1
 bucket/catbox.json, brian6932/dank-scoop, 1
 bucket/catsxp.json, naderi/scoop-bucket, 0
+bucket/cbmc.json, seumsc/scoop-seu, 1
 bucket/cbox-cvp.json, SayCV/scoop-cvp, 1
 bucket/cbxconverter.json, starise/Scoop-Confetti, 0
 bucket/cc-clean-launcher.json, brian6932/dank-scoop, 1
@@ -2623,6 +2624,7 @@ bucket/cousine.json, KnotUntied/scoop-fonts, 0
 bucket/cowsay.json, ScoopInstaller/Main, 1
 bucket/cowyo.json, batkiz/backit, 1
 bucket/cpa.json, aliesbelik/poldi, 1
+bucket/cpachecker.json, seumsc/scoop-seu, 0
 bucket/cpdf.json, rasa/scoops, 1
 bucket/cpeditor-beta.json, kidonng/sushi, 1
 bucket/cpeditor.json, kidonng/sushi, 1
@@ -3136,7 +3138,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
