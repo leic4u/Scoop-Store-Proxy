@@ -320,7 +320,6 @@ bucket/DexiosGUI.json, brian6932/dank-scoop, 1
 bucket/Digital-Rights-Activation-Tools.json, Paxxs/Cluttered-bucket, 0
 bucket/DigitalMate2D.json, Weidows-projects/scoop-3rd, 1
 bucket/DirectX-Repair.json, Paxxs/Cluttered-bucket, 0
-bucket/DirectoryOpus.json, wordpure/scoop-air, 0
 bucket/Discord-Portable.json, ACooper81/scoop-apps, 1
 bucket/DismPlusPlus-Portable.json, ACooper81/scoop-apps, 1
 bucket/DisplayDriverUninstaller-Portable.json, ACooper81/scoop-apps, 0
@@ -670,7 +669,6 @@ bucket/Lekton-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LetsView.json, kkzzhizhou/scoop-zapps, 0
-bucket/LibPortable.json, wordpure/scoop-air, 0
 bucket/LiberationMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LiberationMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LiberationMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
