@@ -5519,7 +5519,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
+bucket/microsoftedge.json, chawyehsu/dorado, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
@@ -9428,7 +9428,7 @@ bucket/waypoint.json, ScoopInstaller/Main, 0
 bucket/wcurl.json, ScoopInstaller/Main, 1
 bucket/we-meet.json, scoopcn/scoopcn, 0
 bucket/weakauras-companion.json, Calinou/scoop-games, 1
-bucket/wealthfolio.json, naderi/scoop-bucket, 1
+bucket/wealthfolio.json, ScoopInstaller/Extras, 1
 bucket/weasel-pageant.json, ScoopInstaller/Extras, 1
 bucket/weasel.json, ivaquero/scoopet, 1
 bucket/web-chains.json, ViCrack/scoop-bucket, 1
