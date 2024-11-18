@@ -2095,6 +2095,7 @@ bucket/bochs.json, ScoopInstaller/Main, 0
 bucket/boilr.json, ScoopInstaller/Extras, 1
 bucket/boilsoft-video-joiner.json, SayCV/scoop-cvp, 0
 bucket/boinc.json, ScoopInstaller/Extras, 0
+bucket/bom.json, ScoopInstaller/Main, 1
 bucket/bombardier.json, ScoopInstaller/Main, 1
 bucket/bombermaaan.json, Calinou/scoop-games, 0
 bucket/bomi.json, ScoopInstaller/Extras, 0
@@ -3136,7 +3137,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
