@@ -10115,6 +10115,7 @@ bucket/zulufx8-jre.json, ScoopInstaller/Java, 0
 bucket/zulumc.json, ScoopInstaller/Java, 0
 bucket/zvm.json, ScoopInstaller/Main, 1
 bucket/zxhn-f610gv9-crcv.json, SayCV/scoop-cvp, 1
+bucket/zyfun.json, cc713/ownscoop, 1
 bucket/zyplayer.json, DoveBoy/Apps, 1
 install.ps1, , 1
 scripts/7-zip/install-context.reg, ScoopInstaller/Main, 0
