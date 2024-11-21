@@ -1219,7 +1219,7 @@ bucket/SysinternalsProcessExplorer-Portable.json, ACooper81/scoop-apps, 0
 bucket/SysinternalsProcessMonitor-Portable.json, ACooper81/scoop-apps, 0
 bucket/SysinternalsSuite-Portable.json, ACooper81/scoop-apps, 0
 bucket/SystemTrayMenu-Portable.json, ACooper81/scoop-apps, 1
-bucket/TMSpeech.json, ygguorun/scoop-bucket, 1
+bucket/TMSpeech.json, DoveBoy/Apps, 1
 bucket/TTime.json, abgox/abgo_bucket, 1
 bucket/TagUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Tailscale-Portable.json, ACooper81/scoop-apps, 1
@@ -2804,6 +2804,7 @@ bucket/dataspell.json, ScoopInstaller/Extras, 1
 bucket/datastation.json, batkiz/backit, 1
 bucket/datovka.json, ScoopInstaller/Extras, 0
 bucket/datree.json, ScoopInstaller/Main, 1
+bucket/dbeaver-ea.json, ScoopInstaller/Versions, 0
 bucket/dbeaver-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/dbeaver.json, ScoopInstaller/Extras, 0
 bucket/dbgl.json, ScoopInstaller/Extras, 0
