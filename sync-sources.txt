@@ -7430,7 +7430,7 @@ bucket/qrencode.json, ScoopInstaller/Main, 0
 bucket/qrrs.json, brian6932/dank-scoop, 1
 bucket/qrscan.json, ScoopInstaller/Extras, 1
 bucket/qrtool.json, aliesbelik/poldi, 1
-bucket/qshell.json, echoiron/echo-scoop, 0
+bucket/qshell.json, echoiron/echo-scoop, 1
 bucket/qsv.json, ScoopInstaller/Main, 1
 bucket/qt-creator-beta.json, ScoopInstaller/Versions, 1
 bucket/qt-creator-cdb-ext.json, ScoopInstaller/Extras, 0
