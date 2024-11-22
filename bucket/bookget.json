@@ -23,12 +23,12 @@
   "checkver": {
     "url": "https://api.github.com/repos/deweizhu/bookget/releases",
     "jsonpath": "$[0].assets[*].browser_download_url",
-    "regex": "/releases/download/(?<tag>[\\d.]+)/bookget-([\\d.]+).windows-amd64.7z"
+    "regex": "/releases/download/(?<tag>[\\d.]+)/bookget-([\\d.]+).windows-amd64.tar\\.bz2"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/deweizhu/bookget/releases/download/$matchTag/bookget-$version.windows-amd64.7z",
+        "url": "https://ghp.ci/https://github.com/deweizhu/bookget/releases/download/$matchTag/bookget-$version.windows-amd64.tar.bz2",
         "extract_dir": "bookget-$version.windows-amd64"
       }
     }
