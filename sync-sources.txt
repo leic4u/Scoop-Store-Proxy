@@ -41,6 +41,7 @@ bucket/4k-videotomp3.json, starise/Scoop-Confetti, 0
 bucket/4k-youtubetomp3.json, starise/Scoop-Confetti, 0
 bucket/4kvideodownloader.json, echoiron/echo-scoop, 0
 bucket/4kvideodownloaderplus.json, echoiron/echo-scoop, 0
+bucket/64Gram-tdesktop-fork.json, Weidows-projects/scoop-3rd, 1
 bucket/64gram-beta.json, DoveBoy/Apps, 1
 bucket/64gram-release.json, DoveBoy/Apps, 1
 bucket/64gram.json, ScoopInstaller/Extras, 1
@@ -1660,6 +1661,7 @@ bucket/anime4kcpp-dsfilter.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-gui.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-vapoursynth-plugin.json, HUMORCE/nuke, 1
 bucket/animejanai.json, brian6932/dank-scoop, 1
+bucket/animeko.json, Weidows-projects/scoop-3rd, 1
 bucket/anki-np.json, ScoopInstaller/Nonportable, 1
 bucket/anki-with-sync.json, kkzzhizhou/scoop-zapps, 1
 bucket/anki.json, ScoopInstaller/Extras, 1
@@ -4340,7 +4342,7 @@ bucket/hl.json, aliesbelik/poldi, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 0
-bucket/hmcl.json, chawyehsu/dorado, 0
+bucket/hmcl.json, seumsc/scoop-seu, 0
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
 bucket/hok.json, chawyehsu/dorado, 1
@@ -6274,7 +6276,6 @@ bucket/ontopreplica.json, ScoopInstaller/Extras, 1
 bucket/opa.json, ScoopInstaller/Main, 1
 bucket/opam.json, ScoopInstaller/Main, 1
 bucket/opdessertstorm.json, Calinou/scoop-games, 0
-bucket/open-ani.json, Weidows-projects/scoop-3rd, 1
 bucket/open-log-viewer.json, ScoopInstaller/Extras, 1
 bucket/open-shell-menu-np.json, jingyu9575/scoop-jingyu9575, 1
 bucket/open-shell-np.json, ScoopInstaller/Nonportable, 1
