@@ -5954,7 +5954,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -7421,7 +7421,7 @@ bucket/qqgame.json, DoveBoy/Apps, 0
 bucket/qqlite-patch.json, SayCV/scoop-cvp, 1
 bucket/qqlite.json, SayCV/scoop-cvp, 0
 bucket/qqlive-cvp.json, SayCV/scoop-cvp, 1
-bucket/qqlive.json, wzv5/ScoopBucket, 0
+bucket/qqlive.json, DoveBoy/Apps, 0
 bucket/qqmusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/qqmusic.json, wzv5/ScoopBucket, 0
 bucket/qqplayer.json, amorphobia/siku, 0
