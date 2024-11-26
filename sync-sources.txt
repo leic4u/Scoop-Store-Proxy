@@ -9002,6 +9002,7 @@ bucket/ttyper.json, ScoopInstaller/Main, 1
 bucket/tuba-tool.json, ChinLong/scoop-customize, 0
 bucket/tuifeed.json, aliesbelik/poldi, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
+bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
 bucket/tun2socks.json, Homeland-Community/scoop, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
 bucket/tup.json, ScoopInstaller/Main, 0
