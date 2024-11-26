@@ -9928,6 +9928,7 @@ bucket/yai.json, aliesbelik/poldi, 1
 bucket/yakc.json, amorphobia/siku, 1
 bucket/yakit.json, ViCrack/scoop-bucket, 0
 bucket/yakyak.json, ScoopInstaller/Extras, 1
+bucket/yamlfmt.json, aliesbelik/poldi, 1
 bucket/yandex.json, naderi/scoop-bucket, 0
 bucket/yank-note.json, DoveBoy/Apps, 1
 bucket/yapa.json, ScoopInstaller/Extras, 1
