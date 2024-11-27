@@ -460,6 +460,7 @@ bucket/GPUShark.json, kkzzhizhou/scoop-zapps, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
 bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
+bucket/Geek-Uninstaller.json, leic4u/Scoop-Store, 0
 bucket/GeekUninstaller-Portable.json, ACooper81/scoop-apps, 0
 bucket/GeistMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/GeistMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
