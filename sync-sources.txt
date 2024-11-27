@@ -2263,7 +2263,7 @@ bucket/cascadiacode-italic.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-pl-italic-static.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-pl-italic.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-pl-static.json, KnotUntied/scoop-fonts, 1
-bucket/cascadiacode-pl.json, kiennq/scoop-misc, 1
+bucket/cascadiacode-pl.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-static.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiamono-italic-static.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiamono-italic.json, KnotUntied/scoop-fonts, 1
@@ -4332,6 +4332,7 @@ bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
 bucket/hibituninstaller.json, DoveBoy/Apps, 0
 bucket/hiccup-cli.json, littleli/scoop-clojure, 1
 bucket/hiddify-next.json, naderi/scoop-bucket, 1
+bucket/hiddify.json, ScoopInstaller/Extras, 1
 bucket/hide-from-uninstall-list.json, ViCrack/scoop-bucket, 0
 bucket/hideul.json, ScoopInstaller/Extras, 0
 bucket/highlight.json, ScoopInstaller/Main, 0
@@ -6527,7 +6528,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7061,6 +7062,7 @@ bucket/pipp.json, ScoopInstaller/Extras, 1
 bucket/pipx-poetry.json, Weidows-projects/scoop-3rd, 1
 bucket/pipx.json, ScoopInstaller/Main, 1
 bucket/pixel-clipper.json, brian6932/dank-scoop, 0
+bucket/pixelflasher.json, ScoopInstaller/Extras, 1
 bucket/pixelorama.json, ScoopInstaller/Extras, 1
 bucket/pixfront.json, mo-san/scoop-bucket, 0
 bucket/pixi.json, chawyehsu/dorado, 1
