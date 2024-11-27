@@ -8505,6 +8505,7 @@ bucket/suanpan.json, ScoopInstaller/Main, 1
 bucket/subconverter.json, ScoopInstaller/Main, 1
 bucket/subfinder.json, ViCrack/scoop-bucket, 1
 bucket/sublime-merge.json, ScoopInstaller/Extras, 1
+bucket/sublime-text-3.json, amorphobia/siku, 0
 bucket/sublime-text-4.json, naderi/scoop-bucket, 1
 bucket/sublime-text.json, ScoopInstaller/Extras, 0
 bucket/subrenamer.json, ivaquero/scoopet, 1
@@ -10317,6 +10318,8 @@ scripts/stremio/install-context.reg, ScoopInstaller/Extras, 0
 scripts/stremio/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/sublime-merge/install-context.reg, ScoopInstaller/Extras, 0
 scripts/sublime-merge/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/sublime-text-3/install-context.reg, amorphobia/siku, 0
+scripts/sublime-text-3/uninstall-context.reg, amorphobia/siku, 0
 scripts/sublime-text/install-context.reg, ScoopInstaller/Extras, 0
 scripts/sublime-text/sublime-text-install-context.reg, naderi/scoop-bucket, 0
 scripts/sublime-text/sublime-text-uninstall-context.reg, naderi/scoop-bucket, 0
