@@ -2263,7 +2263,7 @@ bucket/cascadiacode-italic.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-pl-italic-static.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-pl-italic.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-pl-static.json, KnotUntied/scoop-fonts, 1
-bucket/cascadiacode-pl.json, KnotUntied/scoop-fonts, 1
+bucket/cascadiacode-pl.json, kiennq/scoop-misc, 1
 bucket/cascadiacode-static.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiamono-italic-static.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiamono-italic.json, KnotUntied/scoop-fonts, 1
@@ -3560,10 +3560,11 @@ bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
 bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
+bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
 bucket/firefox-esr-115-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-esr-portable.json, naderi/scoop-bucket, 0
-bucket/firefox-esr-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-esr-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-esr.json, ScoopInstaller/Extras, 0
 bucket/firefox-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-jp.json, mo-san/scoop-bucket, 1
@@ -3578,7 +3579,7 @@ bucket/firefox-portable-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-tete009-portable.json, kidonng/sushi, 1
 bucket/firefox-tete009.json, kidonng/sushi, 1
 bucket/firefox-unbranded.json, jingyu9575/scoop-jingyu9575, 0
-bucket/firefox-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-zh-cn.json, amorphobia/siku, 0
 bucket/firefox.ja.json, jfut/scoop-jfut, 0
 bucket/firefox.json, ScoopInstaller/Extras, 0
 bucket/firefoxdownloadsview.json, ScoopInstaller/Nirsoft, 0
@@ -5531,7 +5532,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
+bucket/microsoftedge.json, chawyehsu/dorado, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
@@ -6528,7 +6529,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
