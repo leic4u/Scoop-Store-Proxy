@@ -1483,7 +1483,7 @@ bucket/ZY-Player.json, kkzzhizhou/scoop-zapps, 1
 bucket/ZedMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Zen-Browser.json, leic4u/Scoop-Store, 0
+bucket/Zen-Browser.json, leic4u/Scoop-Store, 1
 bucket/ZeroTier.json, kkzzhizhou/scoop-zapps, 0
 bucket/ZigCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZigDevCLI-Portable.json, ACooper81/scoop-apps, 0
@@ -5296,6 +5296,7 @@ bucket/lsasecretsview.json, ScoopInstaller/Nirsoft, 0
 bucket/lsd.json, ScoopInstaller/Main, 1
 bucket/lsdsk.json, rasa/scoops, 1
 bucket/lstags.json, MCOfficer/scoop-bucket, 1
+bucket/ltex-ls-plus.json, ivaquero/scoopet, 1
 bucket/ltrdata.json, rasa/scoops, 0
 bucket/lua-for-windows.json, ScoopInstaller/Main, 1
 bucket/lua-joedf.json, ScoopInstaller/Versions, 0
