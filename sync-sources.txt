@@ -3565,7 +3565,7 @@ bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
 bucket/firefox-esr-115-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-esr-portable.json, naderi/scoop-bucket, 0
-bucket/firefox-esr-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-esr-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-esr.json, ScoopInstaller/Extras, 0
 bucket/firefox-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-jp.json, mo-san/scoop-bucket, 1
