@@ -7125,6 +7125,7 @@ bucket/pomotodo.json, ScoopInstaller/Extras, 0
 bucket/popcorn-time.json, ScoopInstaller/Extras, 1
 bucket/poppler.json, ScoopInstaller/Main, 1
 bucket/poppler068.json, ScoopInstaller/Versions, 0
+bucket/portable-build-tools.json, amorphobia/siku, 1
 bucket/portable-registrator.json, naderi/scoop-bucket, 1
 bucket/portable-virtualbox.json, ScoopInstaller/Extras, 0
 bucket/portainer.json, ScoopInstaller/Main, 1
