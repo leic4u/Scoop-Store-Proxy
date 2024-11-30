@@ -90,7 +90,7 @@ bucket/AdobeCreativeCloudPreW10-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/AdobeDNGConverter-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/AdobeIllustrator.json, kkzzhizhou/scoop-zapps, 1
 bucket/AdobePhotoshopCC.json, kkzzhizhou/scoop-zapps, 1
-bucket/AdsPower.json, Weidows-projects/scoop-3rd, 0
+bucket/AdsPower.json, abgox/abgo_bucket, 0
 bucket/AdvancedIPScanner-Portable.json, ACooper81/scoop-apps, 0
 bucket/AdvancedPassGen-Portable.json, ACooper81/scoop-apps, 1
 bucket/AdvancedWgetGUI-Portable.json, ACooper81/scoop-apps, 1
@@ -5376,7 +5376,7 @@ bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makemkv.json, ScoopInstaller/Extras, 0
 bucket/malware-patch.json, ivaquero/scoopet, 1
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
-bucket/mame.json, Calinou/scoop-games, 1
+bucket/mame.json, hermanjustnu/scoop-emulators, 1
 bucket/mameui.json, hermanjustnu/scoop-emulators, 0
 bucket/managewirelessnetworks.json, ScoopInstaller/Nirsoft, 0
 bucket/mancy.json, ScoopInstaller/Extras, 1
@@ -5959,7 +5959,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
