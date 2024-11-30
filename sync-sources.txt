@@ -673,7 +673,6 @@ bucket/Lato.json, KnotUntied/scoop-fonts, 0
 bucket/Lattics.json, abgox/abgo_bucket, 1
 bucket/LeagueMono-static.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LeagueMono-variable.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/LeiGod.json, leic4u/Scoop-Store, 0
 bucket/Lekton-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF.json, matthewjberger/scoop-nerd-fonts, 1
