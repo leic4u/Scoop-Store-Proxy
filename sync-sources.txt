@@ -7422,7 +7422,7 @@ bucket/qnapi.json, ScoopInstaller/Extras, 1
 bucket/qownnotes.json, ScoopInstaller/Extras, 1
 bucket/qpdf.json, ScoopInstaller/Main, 0
 bucket/qq-dreamcast.json, ZvonimirSun/scoop-iszy, 1
-bucket/qq-nt.json, DoveBoy/Apps, 0
+bucket/qq-nt.json, ScoopInstaller/Extras, 0
 bucket/qq-patch.json, SayCV/scoop-cvp, 1
 bucket/qq.json, ScoopInstaller/Extras, 0
 bucket/qqgame.json, DoveBoy/Apps, 0
