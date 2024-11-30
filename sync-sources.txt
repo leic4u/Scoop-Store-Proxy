@@ -5909,7 +5909,8 @@ bucket/natscli.json, ScoopInstaller/Extras, 1
 bucket/nattypetester.json, chawyehsu/dorado, 1
 bucket/natural-docs.json, ScoopInstaller/Extras, 0
 bucket/navi.json, ScoopInstaller/Main, 1
-bucket/navicat-premium-lite.json, seumsc/scoop-seu, 0
+bucket/navicat-premium-lite-cn.json, ivaquero/scoopet, 0
+bucket/navicat-premium-lite.json, ivaquero/scoopet, 0
 bucket/navidrome.json, ScoopInstaller/Main, 1
 bucket/nbtexplorer.json, Calinou/scoop-games, 1
 bucket/nc.json, akirco/aki-apps, 1
