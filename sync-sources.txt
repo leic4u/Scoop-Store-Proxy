@@ -1844,6 +1844,7 @@ bucket/autologon.json, niheaven/scoop-sysinternals, 1
 bucket/autopsy-python-plugins.json, jfut/scoop-jfut, 1
 bucket/autopsy.json, jfut/scoop-jfut, 1
 bucket/autorun-organizer.json, naderi/scoop-bucket, 0
+bucket/autosave.json, brian6932/dank-scoop, 1
 bucket/autossh.json, ScoopInstaller/Main, 1
 bucket/autowikibrowser.json, seumsc/scoop-seu, 0
 bucket/avidemux-nightly.json, ScoopInstaller/Versions, 0
