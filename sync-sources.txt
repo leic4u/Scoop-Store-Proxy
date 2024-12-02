@@ -4075,7 +4075,7 @@ bucket/goggalaxy.json, Calinou/scoop-games, 0
 bucket/gogs.json, ScoopInstaller/Main, 0
 bucket/gogs0.json, ScoopInstaller/Versions, 0
 bucket/goimports-reviser.json, batkiz/backit, 1
-bucket/gojq.json, batkiz/backit, 1
+bucket/gojq.json, aliesbelik/poldi, 1
 bucket/gokey.json, aliesbelik/poldi, 1
 bucket/goku-bench.json, aliesbelik/poldi, 1
 bucket/goku.json, aliesbelik/poldi, 1
