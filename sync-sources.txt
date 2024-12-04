@@ -402,7 +402,7 @@ bucket/FantasqueSansMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FantasqueSansMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FastCopy-M.json, Paxxs/Cluttered-bucket, 1
 bucket/FastGithub.json, abgox/abgo_bucket, 0
-bucket/FeiShu.json, scoopcn/scoopcn, 0
+bucket/FeiShu.json, abgox/abgo_bucket, 1
 bucket/FerdiumNightly-Portable.json, ACooper81/scoop-apps, 1
 bucket/Fido-PSScript.json, ACooper81/scoop-apps, 1
 bucket/FileCentipede.json, leic4u/Scoop-Store, 1
@@ -977,7 +977,7 @@ bucket/PureCodec.json, cc713/ownscoop, 0
 bucket/PyCharmCE.json, abgox/abgo_bucket, 0
 bucket/PyDebloatX-Portable.json, ACooper81/scoop-apps, 1
 bucket/QQBrowser.json, abgox/abgo_bucket, 1
-bucket/QQNT.json, chawyehsu/dorado, 0
+bucket/QQNT.json, wordpure/scoop-air, 0
 bucket/QQNTPatcher-DllHijack.json, wordpure/scoop-air, 1
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
