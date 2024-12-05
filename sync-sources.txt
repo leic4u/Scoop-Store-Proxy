@@ -1589,6 +1589,7 @@ bucket/alacritty.json, ScoopInstaller/Extras, 1
 bucket/alass.json, ScoopInstaller/Main, 1
 bucket/album-art-downloader.json, ScoopInstaller/Extras, 0
 bucket/alephone-marathon-trilogy.json, Calinou/scoop-games, 1
+bucket/algermusicplayer.json, DoveBoy/Apps, 1
 bucket/algernon.json, ScoopInstaller/Main, 1
 bucket/algol68g.json, ScoopInstaller/Main, 0
 bucket/ali-miniprogram-studio.json, chawyehsu/dorado, 0
@@ -7762,7 +7763,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
