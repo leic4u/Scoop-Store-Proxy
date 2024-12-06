@@ -7417,6 +7417,8 @@ bucket/qilin.json, naderi/scoop-bucket, 1
 bucket/qimgv-dev.json, cc713/ownscoop, 1
 bucket/qimgv-video.json, ScoopInstaller/Extras, 1
 bucket/qimgv.json, ScoopInstaller/Extras, 1
+bucket/qkeymapper-qt5.json, DoveBoy/Apps, 1
+bucket/qkeymapper-qt6.json, DoveBoy/Apps, 1
 bucket/qm-py.json, couleur-tweak-tips/utils, 1
 bucket/qmk-toolbox.json, ScoopInstaller/Extras, 1
 bucket/qmmp.json, littleli/Scoop-littleli, 0
