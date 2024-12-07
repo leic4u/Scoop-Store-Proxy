@@ -796,6 +796,7 @@ bucket/Moo0VideoConverter-Portable.json, ACooper81/scoop-apps, 0
 bucket/MoonPlayer.json, cc713/ownscoop, 1
 bucket/Moonlight-Portable.json, ACooper81/scoop-apps, 1
 bucket/MouseWithoutBorders-ManualInstall.json, ACooper81/scoop-apps, 0
+bucket/MuMu-Player-EXE.json, leic4u/Scoop-Store, 0
 bucket/MucisBee-Portable.json, ACooper81/scoop-apps, 0
 bucket/Multrin-Portable.json, ACooper81/scoop-apps, 1
 bucket/MuseScore-Portable.json, ACooper81/scoop-apps, 1
