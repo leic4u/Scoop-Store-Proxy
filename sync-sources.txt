@@ -447,7 +447,7 @@ bucket/Font-Hack.json, abgox/abgo_bucket, 1
 bucket/FontMod.json, ygguorun/scoop-bucket, 1
 bucket/ForceBindIPCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/FreeFileSync-Portable.json, ACooper81/scoop-apps, 0
-bucket/FreeFileSync.json, DoveBoy/Apps, 0
+bucket/FreeFileSync.json, cc713/ownscoop, 0
 bucket/FreeMove-Portable.json, ACooper81/scoop-apps, 1
 bucket/FreeSpaceWipe-Portable.json, ACooper81/scoop-apps, 0
 bucket/FreeTube-Portable.json, ACooper81/scoop-apps, 1
@@ -5539,7 +5539,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, chawyehsu/dorado, 0
+bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
@@ -6537,7 +6537,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
