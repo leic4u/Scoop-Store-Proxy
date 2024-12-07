@@ -249,7 +249,6 @@ bucket/Cinebench-R23.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/Clash-Verge-Rev-EXE.json, leic4u/Scoop-Store, 1
 bucket/Clash-Verge-Rev-Portable.json, leic4u/Scoop-Store, 1
 bucket/Clash-for-Windows_Chinese.json, Weidows-projects/scoop-3rd, 1
-bucket/ClashVergeRev.json, wordpure/scoop-air, 1
 bucket/ClashXW.json, ygguorun/scoop-bucket, 1
 bucket/ClashforWindows.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/CloneApp-Portable.json, ACooper81/scoop-apps, 1
@@ -770,7 +769,6 @@ bucket/MicrosoftVisualCppRedist-Install.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftVisualStudioCommunity2019-Install.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftVisualStudioCommunity2022-Install.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftYaHeiMono.json, everyx/scoop-bucket, 0
-bucket/MihomoParty.json, wordpure/scoop-air, 1
 bucket/Mitr.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Mixxx-Portable.json, ACooper81/scoop-apps, 0
 bucket/ModOrganizer.json, Weidows-projects/scoop-3rd, 1
