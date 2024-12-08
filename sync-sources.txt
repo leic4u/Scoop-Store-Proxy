@@ -5505,7 +5505,7 @@ bucket/metarweather.json, kodybrown/scoop-nirsoft, 0
 bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mi-assistant.json, akirco/aki-apps, 0
@@ -7227,7 +7227,7 @@ bucket/produkey.json, ScoopInstaller/Nirsoft, 0
 bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
-bucket/project64-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
 bucket/prometheus-pushgateway.json, ScoopInstaller/Main, 1
