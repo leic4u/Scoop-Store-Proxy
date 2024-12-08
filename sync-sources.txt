@@ -6536,7 +6536,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8790,7 +8790,7 @@ bucket/testmace.json, ScoopInstaller/Extras, 0
 bucket/testmem5-advanced.json, brian6932/dank-scoop, 0
 bucket/testmem5.json, brian6932/dank-scoop, 1
 bucket/tev.json, ScoopInstaller/Extras, 1
-bucket/tex-fmt.json, ivaquero/scoopet, 1
+bucket/tex-fmt.json, seumsc/scoop-seu, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
 bucket/texlive-full.json, chawyehsu/dorado, 0
 bucket/texlive.json, chawyehsu/dorado, 0
