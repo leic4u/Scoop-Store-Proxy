@@ -2670,7 +2670,7 @@ bucket/crow-translate.json, ScoopInstaller/Extras, 1
 bucket/cru.json, ScoopInstaller/Extras, 0
 bucket/cruft.json, ScoopInstaller/Extras, 0
 bucket/crunchy-cli.json, ScoopInstaller/Extras, 1
-bucket/cryfs.json, naderi/scoop-bucket, 1
+bucket/cryfs.json, naderi/scoop-bucket, 0
 bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
@@ -6283,6 +6283,7 @@ bucket/onetrueawk.json, beerpiss/scoop-bucket, 0
 bucket/oni.json, ScoopInstaller/Extras, 1
 bucket/onionshare.json, ScoopInstaller/Extras, 1
 bucket/onlyoffice-desktopeditors.json, ScoopInstaller/Extras, 1
+bucket/onthespot.json, naderi/scoop-bucket, 1
 bucket/ontopreplica.json, ScoopInstaller/Extras, 1
 bucket/opa.json, ScoopInstaller/Main, 1
 bucket/opam.json, ScoopInstaller/Main, 1
