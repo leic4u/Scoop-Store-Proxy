@@ -4352,7 +4352,7 @@ bucket/hmcl-dev.json, seumsc/scoop-seu, 0
 bucket/hmcl.json, chawyehsu/dorado, 0
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
-bucket/hok.json, chawyehsu/dorado, 1
+bucket/hok.json, DoveBoy/Apps, 1
 bucket/hokus.json, ScoopInstaller/Extras, 1
 bucket/hollows-hunter.json, ScoopInstaller/Main, 1
 bucket/homebank.json, ScoopInstaller/Extras, 0
