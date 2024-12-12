@@ -10150,7 +10150,6 @@ scripts/Install-Font.ps1, batkiz/backit, 0
 scripts/InstallAllInstallApps.ps1, ACooper81/scoop-apps, 0
 scripts/InstallAllPortableApps.ps1, ACooper81/scoop-apps, 0
 scripts/ModifyPSProfile.psm1, ScoopInstaller/Extras, 0
-scripts/PSCompletions/data.json, abgox/abgo_bucket, 0
 scripts/S4Utils.psm1, AkariiinMKII/Scoop4kariiin, 0
 scripts/Scoop-Core/install.ps1, ACooper81/scoop-apps, 1
 scripts/Scoop-Core/installAsAdmin.ps1, ACooper81/scoop-apps, 0
