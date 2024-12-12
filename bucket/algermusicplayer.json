@@ -19,6 +19,14 @@
       "url": "https://ghp.ci/https://github.com/Tohrusky/Final2x/releases/download/2024-11-09/Final2x-windows-arm64-setup.exe#/dl.7z",
       "hash": "fa4ed9533c2148a63c214810889e6dfd8f3203fbf3163f482d5ebc755e65439c",
       "pre_install": [
+        "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
+        "Remove-Item \"$dir\\`$*\" -Force -Recurse"
+      ]
+    },
+    "arm64": {
+      "url": "https://ghp.ci/https://github.com/Tohrusky/Final2x/releases/download/2024-11-09/Final2x-windows-arm64-setup.exe#/dl.7z",
+      "hash": "fa4ed9533c2148a63c214810889e6dfd8f3203fbf3163f482d5ebc755e65439c",
+      "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$*\" -Force -Recurse"
       ]
@@ -48,15 +56,15 @@
   ],
   "checkver": {
     "script": [
-      "$url = 'https://typora.io/releases/stable'",
+      "$url = 'https://api.github.com/repos/algerkong/AlgerMusicPlayer/releases'",
       "$cont = (Invoke-WebRequest $url).Content",
-      "$r = 'AlgerMusic_([\\d.]+)_Setup_x64\\.' ",
+      "$r = 'releases/download/([\\d.]+)/AlgerMusic_(?<minorversion>[\\d.]+)_Setup_x64\\.' ",
       "if (!($cont -match $r)) { error \"Could not match $r in $url\"; continue }",
       "$version = $matches[1]",
-      "$r = 'AlgerMusic_([\\d.]+)_Setup_x86\\.' ",
+      "$r = 'releases/download/([\\d.]+)/AlgerMusic_(?<minorversion>[\\d.]+)_Setup_x86\\.' ",
       "if (!($cont -match $r)) { error \"Could not match $r in $url\"; continue }",
       "$ia32 = $matches[1]",
-      "$r = 'AlgerMusic_([\\d.]+)_Setup_arm64\\.' ",
+      "$r = 'releases/download/([\\d.]+)/AlgerMusic_(?<minorversion>[\\d.]+)_Setup_arm64\\.' ",
       "if (!($cont -match $r)) { error \"Could not match $r in $url\"; continue }",
       "$arm64 = $matches[1]",
       "Write-Output $version $ia32 $arm64"
@@ -66,13 +74,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/algerkong/AlgerMusicPlayer/releases/download/$version/AlgerMusic_$version_Setup_x64.exe#/dl.7z"
+        "url": "https://ghp.ci/https://github.com/algerkong/AlgerMusicPlayer/releases/download/$version/AlgerMusic_$matchMinorversion_Setup_x64.exe#/dl.7z"
       },
       "32bit": {
-        "url": "https://ghp.ci/https://github.com/algerkong/AlgerMusicPlayer/releases/download/$matchIa32/AlgerMusic_$matchIa32_Setup_x86.exe#/dl.7z"
+        "url": "https://ghp.ci/https://github.com/algerkong/AlgerMusicPlayer/releases/download/$matchIa32/AlgerMusic_$matchMinorversion_Setup_x86.exe#/dl.7z"
       },
       "arm64": {
-        "url": "https://ghp.ci/https://github.com/algerkong/AlgerMusicPlayer/releases/download/$matchArm64/AlgerMusic_$matchArm64_Setup_arm64.exe#/dl.7z"
+        "url": "https://ghp.ci/https://github.com/algerkong/AlgerMusicPlayer/releases/download/$matchArm64/AlgerMusic_$matchMinorversion_Setup_arm64.exe#/dl.7z"
       }
     }
   }
