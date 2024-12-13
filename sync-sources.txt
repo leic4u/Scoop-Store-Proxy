@@ -7023,6 +7023,7 @@ bucket/php81-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php81.json, ScoopInstaller/Versions, 0
 bucket/php82-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php82.json, ScoopInstaller/Versions, 0
+bucket/php83-nts.json, aoisummer/scoop-bucket, 0
 bucket/php83.json, ScoopInstaller/Versions, 0
 bucket/phpmyadmin.json, wzv5/ScoopBucket, 0
 bucket/phpstorm-eap.json, ScoopInstaller/Versions, 1
