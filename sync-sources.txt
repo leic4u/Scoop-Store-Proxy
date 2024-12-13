@@ -1580,7 +1580,6 @@ bucket/ain.json, aliesbelik/poldi, 1
 bucket/air.json, ScoopInstaller/Main, 1
 bucket/aircrack-ng.json, ScoopInstaller/Extras, 0
 bucket/airdroid.json, ScoopInstaller/Extras, 0
-bucket/airfly.json, ViCrack/scoop-bucket, 1
 bucket/akelpad.json, ScoopInstaller/Extras, 0
 bucket/akochan-reviewer.json, ygguorun/scoop-bucket, 1
 bucket/aks-engine.json, ScoopInstaller/Main, 1
@@ -2212,7 +2211,7 @@ bucket/cacheset.json, niheaven/scoop-sysinternals, 1
 bucket/cactusviewer.json, ScoopInstaller/Extras, 1
 bucket/caddy.json, ScoopInstaller/Main, 1
 bucket/caesium-image-compressor.json, ScoopInstaller/Extras, 1
-bucket/caesium.json, hu3rror/scoop-muggle, 1
+bucket/caesium.json, ViCrack/scoop-bucket, 1
 bucket/caffeinated.json, naderi/scoop-bucket, 0
 bucket/caffeine.json, ScoopInstaller/Extras, 0
 bucket/cairo-desktop.json, ScoopInstaller/Extras, 1
@@ -2891,7 +2890,7 @@ bucket/detekt.json, ScoopInstaller/Main, 1
 bucket/determined.json, ScoopInstaller/Extras, 1
 bucket/dev-cpp-no-compiler.json, naderi/scoop-bucket, 0
 bucket/dev-cpp.json, naderi/scoop-bucket, 0
-bucket/dev-sidecar.json, Weidows-projects/scoop-3rd, 1
+bucket/dev-sidecar.json, ViCrack/scoop-bucket, 1
 bucket/dev-toys-cli.json, batkiz/backit, 1
 bucket/devd.json, ScoopInstaller/Main, 1
 bucket/devdocs.json, ScoopInstaller/Extras, 1
@@ -4691,7 +4690,7 @@ bucket/jamovi.json, ScoopInstaller/Extras, 0
 bucket/jan.json, abgox/abgo_bucket, 1
 bucket/janet.json, ScoopInstaller/Main, 1
 bucket/jaq.json, ScoopInstaller/Main, 1
-bucket/jar-analyzer.json, ViCrack/scoop-bucket, 0
+bucket/jar-analyzer.json, ViCrack/scoop-bucket, 1
 bucket/jarkviewer.json, DoveBoy/Apps, 1
 bucket/jasmine.json, DoveBoy/Apps, 1
 bucket/jasob.json, SayCV/scoop-cvp, 0
@@ -6073,7 +6072,7 @@ bucket/nordpass.json, ScoopInstaller/Extras, 0
 bucket/nosleep.json, ScoopInstaller/Extras, 1
 bucket/notable.json, ScoopInstaller/Extras, 1
 bucket/notejoy.json, ScoopInstaller/Extras, 0
-bucket/notepad--.json, renxia/scoop-bucket, 1
+bucket/notepad--.json, ViCrack/scoop-bucket, 1
 bucket/notepad2-mod.json, ScoopInstaller/Extras, 1
 bucket/notepad2.json, ScoopInstaller/Extras, 0
 bucket/notepad3.json, ScoopInstaller/Extras, 1
