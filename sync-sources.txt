@@ -2301,7 +2301,6 @@ bucket/ccstudio.json, SayCV/scoop-cvp, 1
 bucket/ccstudio31.json, SayCV/scoop-cvp, 1
 bucket/ccstudio33-seed-xds510.json, SayCV/scoop-cvp, 1
 bucket/ccstudio33.json, SayCV/scoop-cvp, 1
-bucket/cctv-ysyy.json, chawyehsu/dorado, 0
 bucket/cdburnerxp.json, ScoopInstaller/Extras, 0
 bucket/cdex.json, ScoopInstaller/Extras, 0
 bucket/cdialog.json, ScoopInstaller/Main, 0
