@@ -1474,7 +1474,7 @@ bucket/YouDaoTranslate.json, abgox/abgo_bucket, 1
 bucket/YouTubeMusicDesktop-UserInstall.json, ACooper81/scoop-apps, 1
 bucket/YoudaoDict-portable.json, Weidows-projects/scoop-3rd, 0
 bucket/YoutubeDownloader-Portable.json, ACooper81/scoop-apps, 1
-bucket/YuQue.json, abgox/abgo_bucket, 0
+bucket/YuQue.json, akirco/aki-apps, 0
 bucket/Yumi-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiExFAT-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiUefi-Portable.json, ACooper81/scoop-apps, 0
@@ -2016,7 +2016,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, DoveBoy/Apps, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
