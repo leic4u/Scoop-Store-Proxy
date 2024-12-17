@@ -1474,7 +1474,7 @@ bucket/YouDaoTranslate.json, abgox/abgo_bucket, 1
 bucket/YouTubeMusicDesktop-UserInstall.json, ACooper81/scoop-apps, 1
 bucket/YoudaoDict-portable.json, Weidows-projects/scoop-3rd, 0
 bucket/YoutubeDownloader-Portable.json, ACooper81/scoop-apps, 1
-bucket/YuQue.json, akirco/aki-apps, 0
+bucket/YuQue.json, abgox/abgo_bucket, 0
 bucket/Yumi-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiExFAT-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiUefi-Portable.json, ACooper81/scoop-apps, 0
