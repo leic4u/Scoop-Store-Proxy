@@ -1,35 +1,35 @@
 {
-  "version": "f6fc5ea",
-  "description": "Tool for Conversion between Traditional and Simplified Chinese",
   "homepage": "https://opencc.byvoid.com/",
-  "license": " Apache-2.0",
+  "description": "Open source command line tool for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)",
+  "version": "1.1.9",
+  "license": "APL-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x64",
-      "hash": ""
+      "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x64#OpenCC.zip",
+      "hash": "4f8aa3f7e1bd9b84f638f046467b0efb0475adacb1da70372434442f5e37a5af"
     },
     "32bit": {
-      "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x86",
-      "hash": ""
+      "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x86#OpenCC.zip",
+      "hash": "a386819228c58831698f38e789a4d2668e37bb3ca1b30b7ceae43cea7b84029e"
     }
   },
+  "extract_dir": "build",
   "bin": [
-    "build/bin/opencc.exe",
-    "build/bin/opencc_dict.exe",
-    "build/bin/opencc_phrase_extract.exe"
+    "bin\\opencc.exe",
+    "bin\\opencc_dict.exe",
+    "bin\\opencc_phrase_extract.exe"
   ],
   "checkver": {
-    "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/",
-    "jsonpath": "$.build.commitId",
-    "regex": "([0-9a-f]{7})"
+    "url": "https://github.com/BYVoid/OpenCC/releases/latest",
+    "regex": "/releases/tag/ver.([\\d.]+)"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x64"
+        "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x64#OpenCC.zip"
       },
       "32bit": {
-        "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x86"
+        "url": "https://ci.appveyor.com/api/projects/Carbo/opencc/artifacts/OpenCC.zip?branch=master&job=Environment:%20nodejs_version=none;%20Platform:%20x86#OpenCC.zip"
       }
     }
   }
