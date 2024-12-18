@@ -402,7 +402,7 @@ bucket/FantasqueSansMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FantasqueSansMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FastCopy-M.json, Paxxs/Cluttered-bucket, 1
 bucket/FastGithub.json, abgox/abgo_bucket, 0
-bucket/FeiShu.json, scoopcn/scoopcn, 0
+bucket/FeiShu.json, abgox/abgo_bucket, 1
 bucket/FerdiumNightly-Portable.json, ACooper81/scoop-apps, 1
 bucket/Fido-PSScript.json, ACooper81/scoop-apps, 1
 bucket/FileCentipede.json, leic4u/Scoop-Store, 1
@@ -2246,6 +2246,7 @@ bucket/captfencoder.json, ScoopInstaller/Extras, 1
 bucket/captura.json, ScoopInstaller/Extras, 1
 bucket/capture2text-persian.json, naderi/scoop-bucket, 0
 bucket/capture2text.json, ScoopInstaller/Extras, 0
+bucket/capturer.json, brian6932/dank-scoop, 1
 bucket/carapace-bin.json, ScoopInstaller/Extras, 1
 bucket/carbon.json, yuusakuri/scoop-bucket, 1
 bucket/caret-beta.json, ScoopInstaller/Versions, 1
