@@ -8784,7 +8784,7 @@ bucket/terragrunt.json, ScoopInstaller/Main, 1
 bucket/terrap.json, aliesbelik/poldi, 1
 bucket/tesseract-game.json, Calinou/scoop-games, 0
 bucket/tesseract-languages.json, ScoopInstaller/Main, 1
-bucket/tesseract.json, ScoopInstaller/Main, 0
+bucket/tesseract.json, ScoopInstaller/Main, 1
 bucket/tesseract3-languages.json, ScoopInstaller/Versions, 1
 bucket/tesseract3.json, ScoopInstaller/Versions, 0
 bucket/tesseract4-languages.json, ScoopInstaller/Versions, 1
@@ -9826,6 +9826,7 @@ bucket/xasm.json, littleli/Scoop-littleli, 1
 bucket/xb1cbi.json, ScoopInstaller/Extras, 1
 bucket/xc.json, ScoopInstaller/Extras, 1
 bucket/xca.json, ScoopInstaller/Extras, 1
+bucket/xcaddy.json, ScoopInstaller/Main, 1
 bucket/xcas.json, ScoopInstaller/Extras, 0
 bucket/xd-antispy.json, naderi/scoop-bucket, 1
 bucket/xdelta.json, ScoopInstaller/Main, 1
