@@ -2195,7 +2195,7 @@ bucket/buttercup.json, ScoopInstaller/Extras, 1
 bucket/butterflow-ui.json, ScoopInstaller/Extras, 1
 bucket/butterflow.json, ScoopInstaller/Main, 1
 bucket/butterfly.json, ScoopInstaller/Extras, 1
-bucket/buzz.json, DoveBoy/Apps, 1
+bucket/buzz.json, ivaquero/scoopet, 1
 bucket/bw_add_sshkeys.json, Weidows-projects/scoop-3rd, 1
 bucket/byacc.json, ScoopInstaller/Main, 0
 bucket/byenow.json, ScoopInstaller/Main, 0
@@ -5507,7 +5507,7 @@ bucket/metarweather.json, kodybrown/scoop-nirsoft, 0
 bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, borger/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mi-assistant.json, akirco/aki-apps, 0
