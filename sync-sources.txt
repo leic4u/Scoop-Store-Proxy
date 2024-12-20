@@ -2195,7 +2195,7 @@ bucket/buttercup.json, ScoopInstaller/Extras, 1
 bucket/butterflow-ui.json, ScoopInstaller/Extras, 1
 bucket/butterflow.json, ScoopInstaller/Main, 1
 bucket/butterfly.json, ScoopInstaller/Extras, 1
-bucket/buzz.json, ivaquero/scoopet, 1
+bucket/buzz.json, DoveBoy/Apps, 1
 bucket/bw_add_sshkeys.json, Weidows-projects/scoop-3rd, 1
 bucket/byacc.json, ScoopInstaller/Main, 0
 bucket/byenow.json, ScoopInstaller/Main, 0
