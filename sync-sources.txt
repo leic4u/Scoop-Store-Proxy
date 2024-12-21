@@ -4662,7 +4662,7 @@ bucket/irfanview.ja.json, jfut/scoop-jfut, 0
 bucket/irfanview.json, ScoopInstaller/Extras, 0
 bucket/iroh.json, ScoopInstaller/Main, 1
 bucket/ironwail.json, Calinou/scoop-games, 1
-bucket/irreader.json, HCLonely/my-scoop-bucket, 0
+bucket/irreader.json, kkzzhizhou/scoop-zapps, 0
 bucket/irust.json, batkiz/backit, 1
 bucket/isaac-save-installer.json, chawyehsu/dorado, 1
 bucket/islc.json, ScoopInstaller/Extras, 0
@@ -6220,7 +6220,7 @@ bucket/officetool-dotnet.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetool-plus.json, HUMORCE/nuke, 1
 bucket/officetool.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetoolplus-with-runtime.json, DoveBoy/Apps, 1
-bucket/officetoolplus.json, akirco/aki-apps, 1
+bucket/officetoolplus.json, chawyehsu/dorado, 1
 bucket/offlineinsiderenroll.json, ScoopInstaller/Main, 1
 bucket/offlineregistryfinder.json, ScoopInstaller/Nirsoft, 0
 bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
