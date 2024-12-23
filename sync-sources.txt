@@ -9830,6 +9830,7 @@ bucket/xc.json, ScoopInstaller/Extras, 1
 bucket/xca.json, ScoopInstaller/Extras, 1
 bucket/xcaddy.json, ScoopInstaller/Main, 1
 bucket/xcas.json, ScoopInstaller/Extras, 0
+bucket/xcmusic.json, DoveBoy/Apps, 1
 bucket/xd-antispy.json, naderi/scoop-bucket, 1
 bucket/xdelta.json, ScoopInstaller/Main, 1
 bucket/xdelta3-cross-gui.json, ScoopInstaller/Extras, 1
