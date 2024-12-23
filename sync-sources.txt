@@ -4739,7 +4739,7 @@ bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, akirco/aki-apps, 0
+bucket/jianyingpro.json, chawyehsu/dorado, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigdo.json, ivaquero/scoopet, 0
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
