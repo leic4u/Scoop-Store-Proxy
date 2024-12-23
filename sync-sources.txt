@@ -8411,6 +8411,7 @@ bucket/sqlitespy.json, ScoopInstaller/Extras, 0
 bucket/sqlitestudio.json, ScoopInstaller/Extras, 1
 bucket/sqlpage.json, ScoopInstaller/Main, 1
 bucket/sqlyog-community.json, ScoopInstaller/Extras, 0
+bucket/sqruff.json, brian6932/dank-scoop, 1
 bucket/squalr.json, ScoopInstaller/Extras, 1
 bucket/squashfs-tools.json, ScoopInstaller/Extras, 0
 bucket/squirrel-sql.json, ScoopInstaller/Extras, 0
