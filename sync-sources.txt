@@ -5316,6 +5316,7 @@ bucket/lua52.json, ScoopInstaller/Versions, 0
 bucket/lua53.json, ScoopInstaller/Versions, 0
 bucket/luacheck.json, ScoopInstaller/Main, 1
 bucket/luajit.json, ScoopInstaller/Main, 0
+bucket/luanti.json, Calinou/scoop-games, 1
 bucket/luarocks.json, ScoopInstaller/Main, 0
 bucket/luau-lsp.json, ScoopInstaller/Main, 1
 bucket/luau.json, ScoopInstaller/Main, 1
@@ -5485,7 +5486,7 @@ bucket/mekhq.json, Calinou/scoop-games, 1
 bucket/meld.json, ScoopInstaller/Extras, 0
 bucket/mellow.json, ScoopInstaller/Extras, 1
 bucket/mellowplayer.json, ScoopInstaller/Extras, 1
-bucket/melonds.json, Deide/deide-bucket, 1
+bucket/melonds.json, Calinou/scoop-games, 1
 bucket/memcached.json, ScoopInstaller/Main, 1
 bucket/memo.json, brian6932/dank-scoop, 0
 bucket/memory-checker.json, brian6932/dank-scoop, 1
@@ -5598,7 +5599,6 @@ bucket/mindustry.json, Calinou/scoop-games, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
 bucket/minecraft.json, Calinou/scoop-games, 0
 bucket/minesweeper-arbiter.json, amorphobia/siku, 0
-bucket/minetest.json, Calinou/scoop-games, 1
 bucket/mineways.json, chawyehsu/dorado, 0
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
 bucket/mingit.json, ScoopInstaller/Main, 1
