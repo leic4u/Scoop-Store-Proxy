@@ -3093,7 +3093,6 @@ bucket/downkyicore.json, batkiz/backit, 1
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
 bucket/doxygen-gui.json, ivaquero/scoopet, 0
 bucket/doxygen.json, ScoopInstaller/Main, 0
-bucket/dp.json, akirco/aki-apps, 1
 bucket/dpeaklim.json, seumsc/scoop-seu, 0
 bucket/dprint.json, ScoopInstaller/Main, 1
 bucket/dra.json, ScoopInstaller/Extras, 1
@@ -5923,7 +5922,6 @@ bucket/navicat-premium-lite-cn.json, ivaquero/scoopet, 0
 bucket/navicat-premium-lite.json, ivaquero/scoopet, 0
 bucket/navidrome.json, ScoopInstaller/Main, 1
 bucket/nbtexplorer.json, Calinou/scoop-games, 1
-bucket/nc.json, akirco/aki-apps, 1
 bucket/ncftpclient.json, ScoopInstaller/Extras, 0
 bucket/ncmpc.json, ScoopInstaller/Extras, 0
 bucket/nconvert.json, ScoopInstaller/Main, 0
