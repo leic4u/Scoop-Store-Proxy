@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch/releases/download/DllHijack_1.1.2/dbghelp_x64.dll",
+      "url": "https://ghgo.xyz/https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch/releases/download/DllHijack_1.1.2/dbghelp_x64.dll",
       "hash": "4bb8cd08d7e96bd085fa2afa46d7b36e3f312a6c4d633363411ef763449d700f"
     },
     "32bit": {
-      "url": "https://ghp.ci/https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch/releases/download/DllHijack_1.1.2/dbghelp_x86.dll",
+      "url": "https://ghgo.xyz/https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch/releases/download/DllHijack_1.1.2/dbghelp_x86.dll",
       "hash": "dfd0fbf2b0a985eccfead1278227f62dde3f2c4eaa2c34277cd50b6d2f1f767a"
     }
   },
@@ -27,10 +27,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch/releases/download/DllHijack_$version/dbghelp_x64.dll"
+        "url": "https://ghgo.xyz/https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch/releases/download/DllHijack_$version/dbghelp_x64.dll"
       },
       "32bit": {
-        "url": "https://ghp.ci/https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch/releases/download/DllHijack_$version/dbghelp_x86.dll"
+        "url": "https://ghgo.xyz/https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch/releases/download/DllHijack_$version/dbghelp_x86.dll"
       }
     }
   }

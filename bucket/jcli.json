@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/jenkins-zh/jenkins-cli/releases/download/v0.0.45/jcli-windows-amd64.zip",
+      "url": "https://ghgo.xyz/https://github.com/jenkins-zh/jenkins-cli/releases/download/v0.0.45/jcli-windows-amd64.zip",
       "hash": "e0e8fbee80972d7756c9b454f9268410066cdf61975c632e08328444a2531b65"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/jenkins-zh/jenkins-cli/releases/download/v$version/jcli-windows-amd64.zip"
+        "url": "https://ghgo.xyz/https://github.com/jenkins-zh/jenkins-cli/releases/download/v$version/jcli-windows-amd64.zip"
       }
     },
     "hash": {

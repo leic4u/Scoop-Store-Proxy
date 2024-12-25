@@ -3,7 +3,7 @@
   "homepage": "https://github.com/CollapseLauncher/Collapse",
   "description": "An advanced open-source launcher for miHoYo games",
   "license": "MIT",
-  "url": "https://ghp.ci/https://github.com/CollapseLauncher/Collapse/releases/download/CL-v1.82.9/CL-1.82.9_Portable.7z",
+  "url": "https://ghgo.xyz/https://github.com/CollapseLauncher/Collapse/releases/download/CL-v1.82.9/CL-1.82.9_Portable.7z",
   "hash": "98c94cce61409514b2c01a90f74c39a0f6beabf8c93053bd96264a048956cccb",
   "shortcuts": [
     [
@@ -17,6 +17,6 @@
     "regex": "CL-v(?<version>[\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://ghp.ci/https://github.com/CollapseLauncher/Collapse/releases/download/CL-v$matchVersion/CL-$matchVersion_Portable.7z"
+    "url": "https://ghgo.xyz/https://github.com/CollapseLauncher/Collapse/releases/download/CL-v$matchVersion/CL-$matchVersion_Portable.7z"
   }
 }

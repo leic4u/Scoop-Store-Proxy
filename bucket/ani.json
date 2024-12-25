@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/open-ani/ani/releases/download/v4.2.0-alpha02/ani-4.2.0-alpha02-windows-x86_64.zip",
+      "url": "https://ghgo.xyz/https://github.com/open-ani/ani/releases/download/v4.2.0-alpha02/ani-4.2.0-alpha02-windows-x86_64.zip",
       "hash": "c9642c5bb28b4a4e18ff6b2a17857a373407bf5f13db1ba9535b140242efdcc1",
       "extract_dir": "Ani"
     }
@@ -39,7 +39,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/open-ani/ani/releases/download/v$version/ani-$version-windows-x86_64.zip"
+        "url": "https://ghgo.xyz/https://github.com/open-ani/ani/releases/download/v$version/ani-$version-windows-x86_64.zip"
       }
     }
   }

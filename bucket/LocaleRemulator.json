@@ -5,7 +5,7 @@
   "license": "LGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/InWILL/Locale_Remulator/releases/download/v1.5.3-beta.1/Locale_Remulator.1.5.3-beta.1.zip",
+      "url": "https://ghgo.xyz/https://github.com/InWILL/Locale_Remulator/releases/download/v1.5.3-beta.1/Locale_Remulator.1.5.3-beta.1.zip",
       "hash": "0f133892ade6a8bbf61bf2ebcbeb3848bcb5ebd1ea4be890619ed776de6a3d2e",
       "extract_dir": "Locale_Remulator.1.5.3-beta.1"
     }
@@ -48,7 +48,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/InWILL/Locale_Remulator/releases/download/v$version/Locale_Remulator.$version.zip",
+        "url": "https://ghgo.xyz/https://github.com/InWILL/Locale_Remulator/releases/download/v$version/Locale_Remulator.$version.zip",
         "extract_dir": "Locale_Remulator.$version"
       }
     }

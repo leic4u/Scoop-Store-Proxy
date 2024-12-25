@@ -8,8 +8,8 @@
   },
   "depends": "v2ray",
   "url": [
-    "https://ghp.ci/https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202412242211/geoip.dat",
-    "https://ghp.ci/https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202412242211/geosite.dat"
+    "https://ghgo.xyz/https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202412242211/geoip.dat",
+    "https://ghgo.xyz/https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202412242211/geosite.dat"
   ],
   "hash": [
     "1a7df90299cd4dfc7cb88a4df5a80b3d44af54908341594ed78256ec17c2b72c",
@@ -39,8 +39,8 @@
   "checkver": "github",
   "autoupdate": {
     "url": [
-      "https://ghp.ci/https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/$version/geoip.dat",
-      "https://ghp.ci/https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/$version/geosite.dat"
+      "https://ghgo.xyz/https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/$version/geoip.dat",
+      "https://ghgo.xyz/https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/$version/geosite.dat"
     ],
     "hash": {
       "url": "$url.sha256sum"

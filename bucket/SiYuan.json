@@ -6,7 +6,7 @@
     "identifier": "GNU Affero General Public License v3.0",
     "url": "https://github.com/siyuan-note/siyuan/blob/master/LICENSE"
   },
-  "url": "https://ghp.ci/https://github.com/siyuan-note/siyuan/releases/download/v3.1.17/siyuan-3.1.17-win.exe",
+  "url": "https://ghgo.xyz/https://github.com/siyuan-note/siyuan/releases/download/v3.1.17/siyuan-3.1.17-win.exe",
   "hash": "a481e4156a590b59e206db59660dc0add9b3492aac6edaa4567faeff65a75142",
   "shortcuts": [
     [
@@ -39,6 +39,6 @@
     "github": "https://github.com/siyuan-note/siyuan"
   },
   "autoupdate": {
-    "url": "https://ghp.ci/https://github.com/siyuan-note/siyuan/releases/download/v$version/siyuan-$version-win.exe"
+    "url": "https://ghgo.xyz/https://github.com/siyuan-note/siyuan/releases/download/v$version/siyuan-$version-win.exe"
   }
 }

@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/babalae/better-genshin-impact/releases/download/0.37/BetterGI_v0.37.1.7z",
+      "url": "https://ghgo.xyz/https://github.com/babalae/better-genshin-impact/releases/download/0.37/BetterGI_v0.37.1.7z",
       "hash": "19e321f6db6547600d9ae208aa61f73d13aa383832e404ba33a00cc7f2b23fc0"
     }
   },
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/babalae/better-genshin-impact/releases/download/$matchTag/BetterGI_v$version.7z"
+        "url": "https://ghgo.xyz/https://github.com/babalae/better-genshin-impact/releases/download/$matchTag/BetterGI_v$version.7z"
       }
     }
   }

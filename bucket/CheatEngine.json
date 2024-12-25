@@ -6,7 +6,7 @@
     "identifier": "Freeware",
     "url": "https://github.com/cheat-engine/cheat-engine/issues/60#issuecomment-467317576"
   },
-  "url": "https://ghp.ci/https://github.com/ardittristan/cheat-engine/releases/download/7.5.0-7712/release.zip",
+  "url": "https://ghgo.xyz/https://github.com/ardittristan/cheat-engine/releases/download/7.5.0-7712/release.zip",
   "hash": "99e54cc29597af79a151e62f90f653b5577691bc1094a12e6c1f1d88689e787d",
   "architecture": {
     "64bit": {
@@ -50,6 +50,6 @@
     "regex": "([\\d.-]+)"
   },
   "autoupdate": {
-    "url": "https://ghp.ci/https://github.com/ardittristan/cheat-engine/releases/download/$version/release.zip"
+    "url": "https://ghgo.xyz/https://github.com/ardittristan/cheat-engine/releases/download/$version/release.zip"
   }
 }

@@ -856,7 +856,7 @@ bucket/OandORegEditor-Portable.json, ACooper81/scoop-apps, 0
 bucket/OandOShutUp10-Portable.json, ACooper81/scoop-apps, 0
 bucket/Oasis-Portable.json, ACooper81/scoop-apps, 1
 bucket/Ocenaudio-Portable.json, ACooper81/scoop-apps, 0
-bucket/Oculante-Portable.json, ACooper81/scoop-apps, 0
+bucket/Oculante-Portable.json, ACooper81/scoop-apps, 1
 bucket/Office-Code-Pro.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/OfficeToolPlus-Portable.json, ACooper81/scoop-apps, 1
 bucket/OfflineInsiderEnroll-Portable.json, ACooper81/scoop-apps, 1

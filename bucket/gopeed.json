@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/GopeedLab/gopeed/releases/download/v1.6.5/Gopeed-v1.6.5-windows-amd64-portable.zip",
+      "url": "https://ghgo.xyz/https://github.com/GopeedLab/gopeed/releases/download/v1.6.5/Gopeed-v1.6.5-windows-amd64-portable.zip",
       "hash": "cc32de3b6f91e823ea5adca49f0267bfdc4f69fb3867be9122eb2db07c3171fb"
     }
   },
@@ -19,7 +19,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/GopeedLab/gopeed/releases/download/v$version/Gopeed-v$version-windows-amd64-portable.zip"
+        "url": "https://ghgo.xyz/https://github.com/GopeedLab/gopeed/releases/download/v$version/Gopeed-v$version-windows-amd64-portable.zip"
       }
     }
   }
