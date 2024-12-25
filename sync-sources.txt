@@ -1484,6 +1484,7 @@ bucket/ZY-Player.json, kkzzhizhou/scoop-zapps, 1
 bucket/ZedMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Zen-Browser-Desktop.json, leic4u/Scoop-Store, 1
 bucket/Zen-Browser.json, leic4u/Scoop-Store, 1
 bucket/ZeroTier.json, kkzzhizhou/scoop-zapps, 0
 bucket/ZigCLI-Portable.json, ACooper81/scoop-apps, 0
@@ -9500,7 +9501,7 @@ bucket/wechatmsg.json, DoveBoy/Apps, 1
 bucket/wechatvideosniffer.json, DoveBoy/Apps, 1
 bucket/wecom.json, ScoopInstaller/Extras, 0
 bucket/weebp.json, ScoopInstaller/Extras, 1
-bucket/wegame.json, akirco/aki-apps, 1
+bucket/wegame.json, akirco/aki-apps, 0
 bucket/wemod.json, Calinou/scoop-games, 0
 bucket/werf-v2.json, aliesbelik/poldi, 0
 bucket/werf.json, aliesbelik/poldi, 0
