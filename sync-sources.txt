@@ -282,7 +282,7 @@ bucket/Cousine-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CryengineLauncher-Install.json, ACooper81/scoop-apps, 0
 bucket/CryengineLauncher-UserInstall.json, ACooper81/scoop-apps, 0
 bucket/CrystalMark-Retro-Aoi.json, AkariiinMKII/Scoop4kariiin, 0
-bucket/Cursor.json, abgox/abgo_bucket, 0
+bucket/Cursor.json, akirco/aki-apps, 0
 bucket/CuteHttpFileServer-Portable.json, ACooper81/scoop-apps, 0
 bucket/CuteHttpFileServerGUI-Portable.json, ACooper81/scoop-apps, 0
 bucket/D2Coding-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
