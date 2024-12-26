@@ -7687,6 +7687,7 @@ bucket/resource-tuner.json, ScoopInstaller/Extras, 0
 bucket/resourcesextract.json, ScoopInstaller/Nirsoft, 0
 bucket/responsively-portable.json, naderi/scoop-bucket, 1
 bucket/responsively.json, ScoopInstaller/Extras, 1
+bucket/rest-server.json, aoisummer/scoop-bucket, 1
 bucket/restart-explorer.json, ScoopInstaller/Extras, 0
 bucket/restartsrdev.json, rasa/scoops, 0
 bucket/restexplorer.json, naderi/scoop-bucket, 0
