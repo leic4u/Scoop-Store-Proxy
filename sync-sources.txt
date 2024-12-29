@@ -10257,6 +10257,8 @@ scripts/lockhunter/install-context.reg, ScoopInstaller/Extras, 0
 scripts/lockhunter/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/logitech-options-install.ahk, ACooper81/scoop-apps, 0
 scripts/logitech-options-uninstall.ahk, ACooper81/scoop-apps, 0
+scripts/losslesscut/install-associations.reg, ScoopInstaller/Extras, 0
+scripts/losslesscut/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/mdk533/TOOLS.INI.templ, SayCV/scoop-cvp, 0
 scripts/mdk533/install-context.reg.templ, SayCV/scoop-cvp, 0
 scripts/mdk533/uninstall-context.reg, SayCV/scoop-cvp, 0
