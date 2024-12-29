@@ -3976,7 +3976,7 @@ bucket/github-hosts.json, DoveBoy/Apps, 1
 bucket/github.json, ScoopInstaller/Extras, 0
 bucket/gitify.json, ScoopInstaller/Extras, 1
 bucket/gitignore.json, ScoopInstaller/Main, 1
-bucket/gitkraken.json, ScoopInstaller/Extras, 0
+bucket/gitkraken.json, ScoopInstaller/Extras, 1
 bucket/gitkube.json, ScoopInstaller/Main, 1
 bucket/gitlab-release-cli.json, ScoopInstaller/Main, 0
 bucket/gitlab-runner.json, ScoopInstaller/Main, 0
@@ -7774,7 +7774,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -9841,7 +9841,7 @@ bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu.json, Calinou/scoop-games, 1
-bucket/xenia-canary.json, Calinou/scoop-games, 1
+bucket/xenia-canary.json, hermanjustnu/scoop-emulators, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
@@ -10217,6 +10217,8 @@ scripts/git/install-context.reg, ScoopInstaller/Main, 0
 scripts/git/install-file-associations.reg, ScoopInstaller/Main, 0
 scripts/git/uninstall-context.reg, ScoopInstaller/Main, 0
 scripts/git/uninstall-file-associations.reg, ScoopInstaller/Main, 0
+scripts/gitkraken/install-context.reg, ScoopInstaller/Extras, 0
+scripts/gitkraken/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/grepwin/install-context.reg, ScoopInstaller/Extras, 0
 scripts/grepwin/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/harmonoid/install-harmonoid-associations.ps1, ScoopInstaller/Extras, 0
@@ -10270,6 +10272,8 @@ scripts/msys2-mirror-cn/mirrorlist.mingw64, SayCV/scoop-cvp, 0
 scripts/msys2-mirror-cn/mirrorlist.msys, SayCV/scoop-cvp, 0
 scripts/musescore-install-file-associations.reg, TheRandomLabs/Scoop-Bucket, 0
 scripts/musescore-uninstall-file-associations.reg, TheRandomLabs/Scoop-Bucket, 0
+scripts/neovide/install-context.reg, ScoopInstaller/Extras, 0
+scripts/neovide/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/nerd-font-patcher/nerd-font-patcher.ps1, HUMORCE/nuke, 0
 scripts/netsarang/add-hosts.ps1, kkzzhizhou/scoop-zapps, 0
 scripts/notepad-install-replace.reg, everyx/scoop-bucket, 0
@@ -10402,9 +10406,11 @@ scripts/visual-studio-code/vscode-uninstall-context.reg, naderi/scoop-bucket, 0
 scripts/vscode/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/vscode/install-context-it.reg, starise/Scoop-Confetti, 0
 scripts/vscode/install-context.reg, ScoopInstaller/Extras, 0
+scripts/vscode/install-github-integration.reg, ScoopInstaller/Extras, 0
 scripts/vscode/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/vscode/uninstall-context-it.reg, starise/Scoop-Confetti, 0
 scripts/vscode/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/vscode/uninstall-github-integration.reg, ScoopInstaller/Extras, 0
 scripts/vulkan/install-vk-layers.ps1, ScoopInstaller/Main, 0
 scripts/wezterm/install-context.reg, ScoopInstaller/Extras, 0
 scripts/wezterm/uninstall-context.reg, ScoopInstaller/Extras, 0
