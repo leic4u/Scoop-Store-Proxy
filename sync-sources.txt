@@ -383,7 +383,6 @@ bucket/EpicGamesLauncher-Portable.json, ACooper81/scoop-apps, 0
 bucket/Eraser5-Portable.json, ACooper81/scoop-apps, 0
 bucket/Escrcpy.json, abgox/abgo_bucket, 1
 bucket/EventLogViewer-Portable.json, ACooper81/scoop-apps, 0
-bucket/EverythingToolbar.json, kkzzhizhou/scoop-zapps, 1
 bucket/ExVR.json, Weidows-projects/scoop-3rd, 1
 bucket/ExifPilot-Portable.json, ACooper81/scoop-apps, 0
 bucket/ExplorerPatcher-Install.json, ACooper81/scoop-apps, 0
@@ -2583,6 +2582,7 @@ bucket/context.json, naderi/scoop-bucket, 0
 bucket/contig.json, niheaven/scoop-sysinternals, 1
 bucket/contour.json, ScoopInstaller/Extras, 1
 bucket/controlmymonitor.json, ScoopInstaller/Nirsoft, 0
+bucket/controlprinters.json, ScoopInstaller/Extras, 1
 bucket/converseen.json, ScoopInstaller/Extras, 1
 bucket/convert.net.json, ScoopInstaller/Extras, 0
 bucket/converter-now.json, naderi/scoop-bucket, 1
@@ -3370,6 +3370,7 @@ bucket/everything-np.json, ScoopInstaller/Nonportable, 0
 bucket/everything-powertoys.json, ScoopInstaller/Extras, 1
 bucket/everything-toolbar.json, naderi/scoop-bucket, 1
 bucket/everything.json, ScoopInstaller/Extras, 1
+bucket/everythingtoolbar.json, ScoopInstaller/Extras, 1
 bucket/evilpot.json, ViCrack/scoop-bucket, 1
 bucket/evince2.json, jingyu9575/scoop-jingyu9575, 0
 bucket/evkey.json, beerpiss/scoop-bucket, 1
@@ -10405,6 +10406,8 @@ scripts/vscode/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/vscode/uninstall-context-it.reg, starise/Scoop-Confetti, 0
 scripts/vscode/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/vulkan/install-vk-layers.ps1, ScoopInstaller/Main, 0
+scripts/wezterm/install-context.reg, ScoopInstaller/Extras, 0
+scripts/wezterm/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/windows-terminal-preview/install-context.reg, ScoopInstaller/Versions, 0
 scripts/windows-terminal-preview/uninstall-context.reg, ScoopInstaller/Versions, 0
 scripts/windows-terminal/install-context.reg, ScoopInstaller/Extras, 0
