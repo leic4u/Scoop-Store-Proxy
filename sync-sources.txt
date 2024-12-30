@@ -3710,7 +3710,7 @@ bucket/foobox-cn.json, cc713/ownscoop, 1
 bucket/fopnu.json, naderi/scoop-bucket, 0
 bucket/force.json, ScoopInstaller/Main, 1
 bucket/forcebindip.json, ScoopInstaller/Main, 0
-bucket/fork.json, ScoopInstaller/Extras, 0
+bucket/fork.json, ScoopInstaller/Extras, 1
 bucket/forkgram.json, ScoopInstaller/Extras, 1
 bucket/format-factory.json, ScoopInstaller/Extras, 0
 bucket/fortio.json, aliesbelik/poldi, 1
@@ -10209,6 +10209,8 @@ scripts/fixes-wsl-mac-dynaddr/patch-bashrc.sh, SayCV/scoop-cvp, 0
 scripts/flutter-engine/.gclient.tpl, SayCV/scoop-cvp, 0
 scripts/font/install.ps1, abgox/abgo_bucket, 0
 scripts/font/uninstall.ps1, abgox/abgo_bucket, 0
+scripts/fork/install-context.reg, ScoopInstaller/Extras, 0
+scripts/fork/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/gen-readme.ps1, iquiw/scoop-bucket, 0
 scripts/gen-visualvm-vbs.ps1, zhoujin7/tomato, 0
 scripts/get-spotify-path.ps1, TheRandomLabs/Scoop-Spotify, 0
