@@ -7391,6 +7391,7 @@ bucket/python38.json, ScoopInstaller/Versions, 1
 bucket/python39.json, ScoopInstaller/Versions, 1
 bucket/pytranscriber.json, DoveBoy/Apps, 1
 bucket/pytube-py.json, TheRandomLabs/Scoop-Python, 1
+bucket/pyvm.json, akirco/aki-apps, 1
 bucket/pywxdump.json, DoveBoy/Apps, 1
 bucket/pyxis.json, ViCrack/scoop-bucket, 1
 bucket/pyzo.json, ScoopInstaller/Extras, 1
