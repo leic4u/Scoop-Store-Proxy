@@ -10168,6 +10168,7 @@ scripts/Scoop-Core/postinstall.ps1, ACooper81/scoop-apps, 0
 scripts/Scoop/install.ps1, ACooper81/scoop-apps, 1
 scripts/Scoop/installAsAdmin.ps1, ACooper81/scoop-apps, 0
 scripts/Scoop/postinstall.ps1, ACooper81/scoop-apps, 0
+scripts/Sdoog_Utils.ps1, leic4u/Scoop-Store, 0
 scripts/_deprecated/flutter-dev-setup.ps1, ScoopInstaller/Extras, 0
 scripts/adobereader/install-context.reg.templ, SayCV/scoop-cvp, 0
 scripts/adobereader/uninstall-context.reg, SayCV/scoop-cvp, 0
