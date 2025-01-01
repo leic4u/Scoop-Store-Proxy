@@ -2017,7 +2017,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, DoveBoy/Apps, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -5509,7 +5509,7 @@ bucket/metarweather.json, kodybrown/scoop-nirsoft, 0
 bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mi-assistant.json, akirco/aki-apps, 0
@@ -5967,7 +5967,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -6036,6 +6036,7 @@ bucket/nk2view.json, ScoopInstaller/Nirsoft, 0
 bucket/nmap-portable.json, akirco/aki-apps, 0
 bucket/nmap.json, ScoopInstaller/Main, 0
 bucket/nmkoder.json, ScoopInstaller/Extras, 1
+bucket/no-steam-webhelper.json, brian6932/dank-scoop, 1
 bucket/noMeiryoUI.json, wordpure/scoop-air, 1
 bucket/node-compiler.json, ScoopInstaller/Extras, 1
 bucket/nodejs-bin.json, wzv5/ScoopBucket, 1
