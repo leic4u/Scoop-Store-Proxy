@@ -563,7 +563,7 @@ bucket/IPVanish-Portable.json, ACooper81/scoop-apps, 0
 bucket/Icalingua-plus-plus.json, batkiz/backit, 1
 bucket/IdeaCE.json, abgox/abgo_bucket, 0
 bucket/ImDiskToolkit.json, cc713/ownscoop, 0
-bucket/ImTip.json, hu3rror/scoop-muggle, 0
+bucket/ImTip.json, ygguorun/scoop-bucket, 0
 bucket/ImageGlass-Portable.json, ACooper81/scoop-apps, 1
 bucket/ImageMagick-portable-Q16-HDRI.json, Weidows-projects/scoop-3rd, 0
 bucket/ImgBurn-Portable.json, ACooper81/scoop-apps, 1
@@ -9334,7 +9334,7 @@ bucket/visualboyadvance-m.json, Calinou/scoop-games, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
@@ -9844,7 +9844,7 @@ bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu.json, Calinou/scoop-games, 1
-bucket/xenia-canary.json, Calinou/scoop-games, 1
+bucket/xenia-canary.json, hermanjustnu/scoop-emulators, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
