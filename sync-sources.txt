@@ -9047,6 +9047,7 @@ bucket/twilio-cli.json, ScoopInstaller/Main, 0
 bucket/twine-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/twine.json, ScoopInstaller/Extras, 1
 bucket/twinkle-tray.json, ScoopInstaller/Extras, 1
+bucket/twitch-hls-client-uri-protocol.json, brian6932/dank-scoop, 1
 bucket/twitch-hls-client.json, brian6932/dank-scoop, 1
 bucket/twitchdownloader-cli.json, ScoopInstaller/Main, 1
 bucket/twitchdownloader.json, ScoopInstaller/Extras, 1
