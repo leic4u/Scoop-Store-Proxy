@@ -2878,6 +2878,7 @@ bucket/depot_tools.json, SayCV/scoop-cvp, 0
 bucket/deprecated.Filezilla-persist.json, Paxxs/Cluttered-bucket, 0
 bucket/deprecated.LDPlayer.clear.json, Paxxs/Cluttered-bucket, 0
 bucket/deps.clj.json, littleli/scoop-clojure, 1
+bucket/deskflow.json, Weidows-projects/scoop-3rd, 1
 bucket/deskpins.json, ScoopInstaller/Extras, 0
 bucket/deskreen-portable.json, DoveBoy/Apps, 1
 bucket/deskreen.json, ScoopInstaller/Extras, 1
@@ -4225,7 +4226,7 @@ bucket/gsl-shell.json, ScoopInstaller/Main, 1
 bucket/gsmartcontrol.json, ScoopInstaller/Extras, 1
 bucket/gsudo-x.json, kiennq/scoop-misc, 1
 bucket/gsudo.json, ScoopInstaller/Main, 1
-bucket/gtk-runtime.json, Deide/deide-bucket, 0
+bucket/gtk-runtime.json, Weidows-projects/scoop-3rd, 0
 bucket/gtk-sharp.json, ScoopInstaller/Extras, 1
 bucket/gtools.json, ScoopInstaller/Extras, 0
 bucket/gtypist.json, ScoopInstaller/Main, 0
