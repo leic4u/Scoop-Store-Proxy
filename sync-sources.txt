@@ -1095,7 +1095,7 @@ bucket/ShimakazeGO-Legacy.json, Darkatse/Scoop-KanColle, 0
 bucket/ShimakazeGO.json, Darkatse/Scoop-KanColle, 0
 bucket/ShutUp10-Portable.json, ACooper81/scoop-apps, 0
 bucket/ShutterEncoder-Portable.json, ACooper81/scoop-apps, 0
-bucket/SiYuan.json, ViCrack/scoop-bucket, 1
+bucket/SiYuan.json, abgox/abgo_bucket, 1
 bucket/Sigma-File-Manager.json, abgox/abgo_bucket, 1
 bucket/SilentCMD-Portable.json, ACooper81/scoop-apps, 1
 bucket/SimpleMindMap.json, abgox/abgo_bucket, 1
