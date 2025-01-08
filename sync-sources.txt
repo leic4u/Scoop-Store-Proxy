@@ -4936,6 +4936,7 @@ bucket/kiwix.json, ScoopInstaller/Extras, 0
 bucket/kl.json, aliesbelik/poldi, 1
 bucket/klatexformula.json, ScoopInstaller/Extras, 0
 bucket/klogg.json, ScoopInstaller/Extras, 1
+bucket/kmeans-colors.json, ScoopInstaller/Extras, 1
 bucket/kmplayer.json, naderi/scoop-bucket, 0
 bucket/kms-heu.json, SayCV/scoop-cvp, 0
 bucket/kms-vl-all-aio.json, DoveBoy/Apps, 1
@@ -6207,6 +6208,7 @@ bucket/octosql.json, ScoopInstaller/Main, 1
 bucket/oculante.json, ScoopInstaller/Extras, 1
 bucket/odamex.json, Calinou/scoop-games, 0
 bucket/odbc2parquet.json, ScoopInstaller/Main, 1
+bucket/odict.json, ScoopInstaller/Extras, 1
 bucket/odin-dev.json, ScoopInstaller/Versions, 1
 bucket/odin-nightly.json, ScoopInstaller/Versions, 0
 bucket/odin.json, ScoopInstaller/Versions, 1
@@ -9346,7 +9348,7 @@ bucket/visualboyadvance-m.json, Calinou/scoop-games, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
