@@ -6554,7 +6554,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9078,6 +9078,7 @@ bucket/typos.json, ScoopInstaller/Main, 1
 bucket/typst.json, ScoopInstaller/Main, 1
 bucket/typstyle.json, ivaquero/scoopet, 1
 bucket/uTools.json, abgox/abgo_bucket, 0
+bucket/uabea.json, Calinou/scoop-games, 1
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 1
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
 bucket/ubports-installer.json, ScoopInstaller/Extras, 1
