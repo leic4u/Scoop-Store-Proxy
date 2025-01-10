@@ -2359,6 +2359,7 @@ bucket/cheat-engine.json, ScoopInstaller/Extras, 1
 bucket/cheat.json, ScoopInstaller/Main, 1
 bucket/checksum-compare.json, ScoopInstaller/Extras, 0
 bucket/chef-workstation.json, ScoopInstaller/Extras, 0
+bucket/cherry-studio.json, ivaquero/scoopet, 0
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi-modify-manager.json, cderv/r-bucket, 1
 bucket/chezmoi.json, ScoopInstaller/Main, 1
@@ -7205,7 +7206,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
