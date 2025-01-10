@@ -1998,6 +1998,7 @@ bucket/betterjoy-lts.json, hu3rror/scoop-muggle, 1
 bucket/betterjoy.json, Calinou/scoop-games, 1
 bucket/beyondcompare-zh-cn.json, chawyehsu/dorado, 0
 bucket/beyondcompare.json, ScoopInstaller/Extras, 1
+bucket/beyondcompare4.json, ScoopInstaller/Versions, 0
 bucket/bfg.json, ScoopInstaller/Main, 0
 bucket/bflat.json, ScoopInstaller/Main, 1
 bucket/bforartists.json, ScoopInstaller/Extras, 0
@@ -3153,7 +3154,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -5517,7 +5518,7 @@ bucket/metarweather.json, kodybrown/scoop-nirsoft, 0
 bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, borger/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -10200,6 +10201,9 @@ scripts/bee/beesvc.cmd, chawyehsu/dorado, 0
 scripts/beyondcompare/install-context-32bit.reg, ScoopInstaller/Extras, 0
 scripts/beyondcompare/install-context-64bit.reg, ScoopInstaller/Extras, 0
 scripts/beyondcompare/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/beyondcompare4/install-context-32bit.reg, ScoopInstaller/Versions, 0
+scripts/beyondcompare4/install-context-64bit.reg, ScoopInstaller/Versions, 0
+scripts/beyondcompare4/uninstall-context.reg, ScoopInstaller/Versions, 0
 scripts/blockthespot.ps1, TheRandomLabs/Scoop-Spotify, 0
 scripts/ccstudio/install-context.reg.templ, SayCV/scoop-cvp, 0
 scripts/ccstudio/uninstall-context.reg, SayCV/scoop-cvp, 0
