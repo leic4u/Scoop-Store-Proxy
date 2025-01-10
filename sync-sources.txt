@@ -4332,6 +4332,7 @@ bucket/hexo-client.json, ScoopInstaller/Extras, 1
 bucket/hexyl.json, ScoopInstaller/Main, 1
 bucket/hey.json, batkiz/backit, 0
 bucket/heynote.json, ScoopInstaller/Extras, 1
+bucket/hf.json, aliesbelik/poldi, 1
 bucket/hfd.json, Weidows-projects/scoop-3rd, 0
 bucket/hfs.json, naderi/scoop-bucket, 1
 bucket/hfsexplorer.json, amorphobia/siku, 1
