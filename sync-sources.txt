@@ -5651,6 +5651,7 @@ bucket/mirc-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/miru.json, ScoopInstaller/Extras, 1
 bucket/misakatranslator.json, ivaquero/scoopet, 1
 bucket/misc.json, brian6932/dank-scoop, 1
+bucket/mise.json, ScoopInstaller/Main, 1
 bucket/mission-planner.json, ScoopInstaller/Extras, 1
 bucket/mist.json, ScoopInstaller/Extras, 1
 bucket/mitan.json, ViCrack/scoop-bucket, 1
