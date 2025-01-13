@@ -3155,7 +3155,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -9762,6 +9762,7 @@ bucket/wnetwatcher.json, ScoopInstaller/Nirsoft, 0
 bucket/wnmp.json, ChinLong/scoop-customize, 1
 bucket/wnr.json, kidonng/sushi, 1
 bucket/wodeabc.json, ygguorun/scoop-bucket, 0
+bucket/wolai.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/wolcmd.json, rasa/scoops, 0
 bucket/wombat.json, aliesbelik/poldi, 1
 bucket/wonderpen.json, ScoopInstaller/Extras, 0
