@@ -6310,6 +6310,7 @@ bucket/opdessertstorm.json, Calinou/scoop-games, 0
 bucket/open-log-viewer.json, ScoopInstaller/Extras, 1
 bucket/open-shell-menu-np.json, jingyu9575/scoop-jingyu9575, 1
 bucket/open-shell-np.json, ScoopInstaller/Nonportable, 1
+bucket/open-tv.json, ScoopInstaller/Extras, 1
 bucket/open-video-downloader.json, hu3rror/scoop-muggle, 1
 bucket/open-xrechnung-toolbox.json, naderi/scoop-bucket, 1
 bucket/openai-translator.json, ScoopInstaller/Extras, 1
