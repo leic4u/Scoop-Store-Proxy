@@ -4794,6 +4794,8 @@ bucket/jp.json, ScoopInstaller/Main, 1
 bucket/jpass.json, ScoopInstaller/Extras, 1
 bucket/jpdfbookmarks.json, jingyu9575/scoop-jingyu9575, 0
 bucket/jpeg-bin.json, beerpiss/scoop-bucket, 1
+bucket/jpeg-quantsmooth.json, brian6932/dank-scoop, 1
+bucket/jpeg2png.json, brian6932/dank-scoop, 1
 bucket/jpegoptim.json, ScoopInstaller/Main, 1
 bucket/jpegview-fork.json, ScoopInstaller/Extras, 1
 bucket/jpegview.json, ScoopInstaller/Extras, 0
@@ -7795,7 +7797,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
