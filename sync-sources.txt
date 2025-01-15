@@ -7061,6 +7061,7 @@ bucket/phyrox-esr-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/phyrox-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/pia-desktop.json, ScoopInstaller/Extras, 0
 bucket/pianobar.json, ScoopInstaller/Extras, 1
+bucket/pic2meme.json, ygguorun/scoop-bucket, 1
 bucket/picacg-qt.json, cc713/ownscoop, 1
 bucket/picacomic-downloader-portable.json, DoveBoy/Apps, 1
 bucket/picacomic-downloader.json, DoveBoy/Apps, 1
