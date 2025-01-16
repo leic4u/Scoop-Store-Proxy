@@ -563,7 +563,7 @@ bucket/IPVanish-Portable.json, ACooper81/scoop-apps, 0
 bucket/Icalingua-plus-plus.json, batkiz/backit, 1
 bucket/IdeaCE.json, abgox/abgo_bucket, 0
 bucket/ImDiskToolkit.json, cc713/ownscoop, 0
-bucket/ImTip.json, hu3rror/scoop-muggle, 0
+bucket/ImTip.json, ygguorun/scoop-bucket, 0
 bucket/ImageGlass-Portable.json, ACooper81/scoop-apps, 1
 bucket/ImageMagick-portable-Q16-HDRI.json, Weidows-projects/scoop-3rd, 0
 bucket/ImgBurn-Portable.json, ACooper81/scoop-apps, 1
