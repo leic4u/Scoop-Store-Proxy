@@ -5355,7 +5355,7 @@ bucket/lynx.json, ScoopInstaller/Main, 0
 bucket/lynx283.json, ScoopInstaller/Versions, 1
 bucket/lyricsmaster.json, jfut/scoop-jfut, 0
 bucket/lyx-cn.json, ivaquero/scoopet, 0
-bucket/lyx.json, chawyehsu/dorado, 0
+bucket/lyx.json, naderi/scoop-bucket, 0
 bucket/lz4.json, ScoopInstaller/Main, 1
 bucket/lzdoom.json, Calinou/scoop-games, 1
 bucket/lzip.json, ScoopInstaller/Main, 0
@@ -8974,7 +8974,6 @@ bucket/tortoisemerge.json, ScoopInstaller/Extras, 0
 bucket/tortoisesvn.json, ScoopInstaller/Extras, 1
 bucket/total-registry.json, ScoopInstaller/Extras, 1
 bucket/totalcmd-mod.json, hu3rror/scoop-muggle, 0
-bucket/totalcommander-beta-portable.json, naderi/scoop-bucket, 0
 bucket/totalcommander-portable.json, naderi/scoop-bucket, 0
 bucket/totalcommander.json, ScoopInstaller/Extras, 0
 bucket/touch.json, ScoopInstaller/Main, 1
