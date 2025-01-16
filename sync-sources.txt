@@ -2391,6 +2391,7 @@ bucket/chrome-browser.json, renxia/scoop-bucket, 0
 bucket/chrome-canary-portable.json, naderi/scoop-bucket, 0
 bucket/chrome-cvp.json, SayCV/scoop-cvp, 1
 bucket/chrome-dev-portable.json, naderi/scoop-bucket, 0
+bucket/chrome-headless-shell.json, cderv/r-bucket, 0
 bucket/chrome-portable.json, naderi/scoop-bucket, 0
 bucket/chrome-power-app.json, Weidows-projects/scoop-3rd, 1
 bucket/chrome-with-flash.json, kkzzhizhou/scoop-zapps, 1
@@ -9872,7 +9873,7 @@ bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu.json, Calinou/scoop-games, 1
-bucket/xenia-canary.json, Calinou/scoop-games, 1
+bucket/xenia-canary.json, borger/scoop-emulators, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
