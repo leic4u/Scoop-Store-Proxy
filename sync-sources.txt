@@ -5356,7 +5356,7 @@ bucket/lynx.json, ScoopInstaller/Main, 0
 bucket/lynx283.json, ScoopInstaller/Versions, 1
 bucket/lyricsmaster.json, jfut/scoop-jfut, 0
 bucket/lyx-cn.json, ivaquero/scoopet, 0
-bucket/lyx.json, naderi/scoop-bucket, 0
+bucket/lyx.json, chawyehsu/dorado, 0
 bucket/lz4.json, ScoopInstaller/Main, 1
 bucket/lzdoom.json, Calinou/scoop-games, 1
 bucket/lzip.json, ScoopInstaller/Main, 0
@@ -7801,7 +7801,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
