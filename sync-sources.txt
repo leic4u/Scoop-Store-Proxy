@@ -2327,6 +2327,7 @@ bucket/centrifugo.json, ScoopInstaller/Main, 1
 bucket/cerbero-suite.json, SayCV/scoop-cvp, 0
 bucket/cerebro.json, naderi/scoop-bucket, 1
 bucket/certigo.json, ScoopInstaller/Main, 1
+bucket/certimate.json, ViCrack/scoop-bucket, 1
 bucket/certinfo.json, aliesbelik/poldi, 1
 bucket/certstrap.json, ScoopInstaller/Main, 1
 bucket/cf-tool.json, kidonng/sushi, 1
@@ -3157,7 +3158,7 @@ bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
 bucket/duckstation-preview.json, borger/scoop-emulators, 1
-bucket/duckstation.json, Calinou/scoop-games, 1
+bucket/duckstation.json, borger/scoop-emulators, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
 bucket/duf.json, ScoopInstaller/Main, 1
