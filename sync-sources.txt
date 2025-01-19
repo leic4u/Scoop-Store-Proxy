@@ -182,6 +182,7 @@ bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Bilibili.json, abgox/abgo_bucket, 1
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
+bucket/BitComet.json, leic4u/Scoop-Store, 0
 bucket/BitMeterOS.json, abgox/abgo_bucket, 0
 bucket/BitTorrent-Portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitstreamVeraSansMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -2053,7 +2054,6 @@ bucket/bison.json, ScoopInstaller/Main, 0
 bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
-bucket/bitcomet.json, naderi/scoop-bucket, 0
 bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitsmanager.json, ScoopInstaller/Extras, 1
