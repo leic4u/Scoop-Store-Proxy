@@ -1,44 +1,38 @@
 {
-  "version": "2412-161",
+  "version": "2412-162",
   "description": "A Nintendo GameCube and Wii emulator",
   "homepage": "https://dolphin-emu.org/",
   "license": {
-    "url": "https://github.com/dolphin-emu/dolphin/blob/master/COPYING",
-    "identifier": "GPL-2.0-or-later"
+    "identifier": "GPL-2.0-or-later",
+    "url": "https://github.com/dolphin-emu/dolphin/blob/master/COPYING"
   },
   "suggest": {
-    "Microsoft Visual C++ Runtime 2019": "extras/vcredist2019"
+    "Microsoft Visual C++ Runtime 2022": "extras/vcredist2022"
   },
   "architecture": {
     "64bit": {
-      "url": "https://dl.dolphin-emu.org/builds/96/23/dolphin-master-2412-161-x64.7z",
-      "hash": "45cdf28d628f9b40d5e5db510d7ab8a3d8bd53936f2ffc67aabd950dd1c1afa8",
+      "url": "https://dl.dolphin-emu.org/builds/c2/8a/dolphin-master-2412-162-x64.7z",
+      "hash": "ce347ecc2d89682e0a03306587bfe67384ff82ef61b8a9b41d35478f4f884161",
       "extract_dir": "Dolphin-x64"
     }
   },
-  "extract_dir": "Dolphin-x64",
   "pre_install": [
-    "if (!(Test-Path \"$persist_dir\")) {",
-    "   New-item \"$persist_dir\" -ItemType Directory | Out-Null",
-    "   New-item \"$persist_dir\\User\" -ItemType Directory | Out-Null",
-    "   if (Test-Path \"$env:USERPROFILE\\Documents\\Dolphin Emulator\") {",
-    "       Write-host \"Migrating AppData...\" -ForegroundColor yellow",
-    "       Copy-Item -Path \"$env:USERPROFILE\\Documents\\Dolphin Emulator\\*\" -Destination \"$persist_dir\\User\" -Recurse",
-    "       Remove-Item -Path \"$env:USERPROFILE\\Documents\\Dolphin Emulator\" -Recurse",
-    "   }",
+    "$appdataPath = \"$Env:AppData\\Dolphin Emulator\"",
+    "if ((Test-Path -Path $appdataPath\\*) -and (!(Test-Path -Path $persist_dir\\*))) {",
+    "   Write-Warning \"Migrating AppData...\"",
+    "   New-Item -Type Directory -Path $persist_dir\\User -Force | Out-Null",
+    "   Copy-Item -Recurse -Force $appdataPath\\* -Destination $persist_dir\\User\\",
     "}"
   ],
   "post_install": "Set-Content -Value $null -Path \"$dir\\portable.txt\"",
   "bin": [
-    [
-      "Dolphin.exe",
-      "dolphin-dev"
-    ]
+    "Dolphin.exe",
+    "DolphinTool.exe"
   ],
   "shortcuts": [
     [
       "Dolphin.exe",
-      "Dolphin (dev)"
+      "Nintendo GameCube & Wii [ngc][dolphin] (dev)"
     ]
   ],
   "persist": "User",
@@ -50,7 +44,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://dl.dolphin-emu.org/builds/$matchRand1/$matchRand2/dolphin-master-$version-x64.7z"
+        "url": "https://dl.dolphin-emu.org/builds/$matchRand1/$matchRand2/dolphin-master-$matchMajor-$matchBuild-x64.7z"
       }
     }
   }
