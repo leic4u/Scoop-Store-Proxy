@@ -5524,7 +5524,7 @@ bucket/metarweather.json, kodybrown/scoop-nirsoft, 0
 bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -5558,7 +5558,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
+bucket/microsoftedge.json, chawyehsu/dorado, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
@@ -9363,7 +9363,7 @@ bucket/visualboyadvance-m.json, Calinou/scoop-games, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
@@ -9877,7 +9877,7 @@ bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu.json, Calinou/scoop-games, 1
-bucket/xenia-canary.json, borger/scoop-emulators, 1
+bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
