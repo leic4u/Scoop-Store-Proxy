@@ -6551,6 +6551,7 @@ bucket/path-set.json, rasa/scoops, 1
 bucket/patheditor.json, ScoopInstaller/Extras, 1
 bucket/pathod.json, ScoopInstaller/Extras, 0
 bucket/pathofbuilding-community.json, Calinou/scoop-games, 1
+bucket/pathofbuilding-poe2-community.json, Calinou/scoop-games, 1
 bucket/pathofbuilding.json, Calinou/scoop-games, 1
 bucket/pathom-viz.json, littleli/scoop-clojure, 1
 bucket/pbgopy.json, batkiz/backit, 1
