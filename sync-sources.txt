@@ -3148,6 +3148,7 @@ bucket/dshidmini-np.json, ScoopInstaller/Nonportable, 1
 bucket/dskwipe.json, rasa/scoops, 1
 bucket/dsq.json, aliesbelik/poldi, 1
 bucket/dsqCLI-Portable.json, ACooper81/scoop-apps, 1
+bucket/dstp.json, aliesbelik/poldi, 1
 bucket/dsynchronize-zh-cn.json, amorphobia/siku, 0
 bucket/dt.json, aliesbelik/poldi, 1
 bucket/du.json, niheaven/scoop-sysinternals, 1
@@ -6567,7 +6568,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
