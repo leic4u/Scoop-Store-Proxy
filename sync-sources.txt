@@ -2098,6 +2098,7 @@ bucket/blueteamtools.json, ViCrack/scoop-bucket, 1
 bucket/bluetooth-cli-tools.json, ScoopInstaller/Extras, 0
 bucket/bluetooth-version-finder.json, starise/Scoop-Confetti, 0
 bucket/bluetoothcl.json, ScoopInstaller/Nirsoft, 0
+bucket/bluetoothleview.json, ScoopInstaller/Nirsoft, 0
 bucket/bluetoothlogview.json, ScoopInstaller/Nirsoft, 0
 bucket/bluetoothview.json, ScoopInstaller/Nirsoft, 0
 bucket/blur.json, couleur-tweak-tips/utils, 1
