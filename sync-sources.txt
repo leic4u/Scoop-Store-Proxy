@@ -8,7 +8,7 @@ bucket/10x-np.json, ScoopInstaller/Nonportable, 0
 bucket/115.json, echoiron/echo-scoop, 0
 bucket/115chrome.json, echoiron/echo-scoop, 0
 bucket/11game-platform.json, SayCV/scoop-cvp, 0
-bucket/123pan.json, akirco/aki-apps, 1
+bucket/123pan.json, abgox/abgo_bucket, 1
 bucket/163MusicLyrics.json, ygguorun/scoop-bucket, 1
 bucket/1History.json, abgox/abgo_bucket, 1
 bucket/1Remote-Portable.json, ACooper81/scoop-apps, 1
