@@ -7782,7 +7782,7 @@ bucket/rizin.json, ScoopInstaller/Main, 1
 bucket/rk-tools.json, SayCV/scoop-cvp, 1
 bucket/rke.json, ScoopInstaller/Main, 1
 bucket/rktools2k3.json, ScoopInstaller/Main, 1
-bucket/rmg.json, Calinou/scoop-games, 1
+bucket/rmg.json, borger/scoop-emulators, 1
 bucket/rnote.json, ScoopInstaller/Extras, 1
 bucket/rnr.json, ScoopInstaller/Main, 1
 bucket/roadkil-disk-image.json, hu3rror/scoop-muggle, 0
@@ -8751,6 +8751,7 @@ bucket/telegraf.json, ScoopInstaller/Main, 0
 bucket/telegram-downloader.json, ScoopInstaller/Extras, 1
 bucket/telegram.json, ScoopInstaller/Extras, 1
 bucket/teleport.json, ScoopInstaller/Main, 0
+bucket/television.json, ScoopInstaller/Extras, 1
 bucket/telnet.json, ScoopInstaller/Main, 0
 bucket/temporal-cli.json, ScoopInstaller/Main, 1
 bucket/temurin-jdk.json, ScoopInstaller/Java, 1
