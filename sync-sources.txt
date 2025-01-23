@@ -459,7 +459,7 @@ bucket/GOGGalaxy-Install.json, ACooper81/scoop-apps, 0
 bucket/GOGGalaxy-Portable.json, ACooper81/scoop-apps, 0
 bucket/GPUShark.json, kkzzhizhou/scoop-zapps, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
-bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
+bucket/Game-Cheats-Manager.json, DoveBoy/Apps, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/Geek-Uninstaller.json, leic4u/Scoop-Store, 0
 bucket/GeekUninstaller-Portable.json, ACooper81/scoop-apps, 0
