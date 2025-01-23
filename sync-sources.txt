@@ -4854,6 +4854,7 @@ bucket/kaf.json, ScoopInstaller/Main, 1
 bucket/kafka-exporter.json, ScoopInstaller/Main, 1
 bucket/kafka.json, ScoopInstaller/Main, 0
 bucket/kafkactl.json, aliesbelik/poldi, 1
+bucket/kafkio.json, ScoopInstaller/Extras, 0
 bucket/kafta.json, aliesbelik/poldi, 1
 bucket/kail.json, aliesbelik/poldi, 1
 bucket/kakaotalk.json, ScoopInstaller/Extras, 0
