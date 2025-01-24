@@ -459,7 +459,7 @@ bucket/GOGGalaxy-Install.json, ACooper81/scoop-apps, 0
 bucket/GOGGalaxy-Portable.json, ACooper81/scoop-apps, 0
 bucket/GPUShark.json, kkzzhizhou/scoop-zapps, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
-bucket/Game-Cheats-Manager.json, DoveBoy/Apps, 1
+bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/Geek-Uninstaller.json, leic4u/Scoop-Store, 0
 bucket/GeekUninstaller-Portable.json, ACooper81/scoop-apps, 0
@@ -2470,6 +2470,7 @@ bucket/cleanafterme.json, ScoopInstaller/Nirsoft, 0
 bucket/cleanmgrplus-de.json, naderi/scoop-bucket, 1
 bucket/cleanmgrplus.json, naderi/scoop-bucket, 1
 bucket/cleanmywechat.json, amorphobia/siku, 1
+bucket/cleed.json, aliesbelik/poldi, 1
 bucket/clementine.json, ScoopInstaller/Extras, 1
 bucket/clever-ffmpeg.json, ScoopInstaller/Extras, 0
 bucket/clib.json, littleli/Scoop-littleli, 1
@@ -7110,7 +7111,7 @@ bucket/pixel-clipper.json, brian6932/dank-scoop, 0
 bucket/pixelflasher.json, ScoopInstaller/Extras, 1
 bucket/pixelorama.json, ScoopInstaller/Extras, 1
 bucket/pixfront.json, mo-san/scoop-bucket, 0
-bucket/pixi.json, ivaquero/scoopet, 1
+bucket/pixi.json, chawyehsu/dorado, 1
 bucket/pixie.json, ScoopInstaller/Extras, 0
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
@@ -7807,7 +7808,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
