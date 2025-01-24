@@ -3357,7 +3357,7 @@ bucket/ethereum-wallet.json, ScoopInstaller/Extras, 1
 bucket/ethr.json, ScoopInstaller/Main, 1
 bucket/etl2pcapng.json, ScoopInstaller/Main, 1
 bucket/etlas.json, ScoopInstaller/Extras, 0
-bucket/eudic.json, naderi/scoop-bucket, 0
+bucket/eudic.json, ivaquero/scoopet, 0
 bucket/euler.json, ScoopInstaller/Extras, 0
 bucket/eva.json, ScoopInstaller/Main, 1
 bucket/evans.json, ScoopInstaller/Main, 1
@@ -7808,7 +7808,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
