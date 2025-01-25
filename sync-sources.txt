@@ -6640,6 +6640,7 @@ bucket/pgmig.json, littleli/scoop-clojure, 1
 bucket/pgweb.json, aliesbelik/poldi, 1
 bucket/phantomjs.json, ScoopInstaller/Main, 0
 bucket/phantomjs19.json, ScoopInstaller/Versions, 0
+bucket/phiola.json, naderi/scoop-bucket, 1
 bucket/phoenix-protector.json, ScoopInstaller/Extras, 1
 bucket/photodemon.json, ScoopInstaller/Extras, 1
 bucket/photoflare.json, ScoopInstaller/Extras, 0
@@ -7810,7 +7811,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
