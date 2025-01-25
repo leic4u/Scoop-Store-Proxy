@@ -4755,7 +4755,7 @@ bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, akirco/aki-apps, 0
+bucket/jianyingpro.json, chawyehsu/dorado, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigdo.json, ivaquero/scoopet, 0
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
@@ -4981,7 +4981,7 @@ bucket/kompose.json, ScoopInstaller/Main, 1
 bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 1
-bucket/kook.json, seumsc/scoop-seu, 0
+bucket/kook.json, chawyehsu/dorado, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -9337,7 +9337,7 @@ bucket/video-subtitle-extractor-gpu.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor.json, SayCV/scoop-cvp, 1
 bucket/video-subtitle-master.json, DoveBoy/Apps, 1
 bucket/video-thumbnails-maker.json, ScoopInstaller/Extras, 0
-bucket/video2x.json, seumsc/scoop-seu, 1
+bucket/video2x.json, brian6932/dank-scoop, 1
 bucket/videoaudiotools.json, ScoopInstaller/Nirsoft, 0
 bucket/videocacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/videofusion.json, DoveBoy/Apps, 1
