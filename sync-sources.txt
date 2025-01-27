@@ -3959,6 +3959,8 @@ bucket/git-credential-manager.json, ScoopInstaller/Extras, 1
 bucket/git-crypt.json, ScoopInstaller/Main, 1
 bucket/git-extras.json, aliesbelik/poldi, 1
 bucket/git-filter-repo.json, ScoopInstaller/Main, 1
+bucket/git-graph.json, naderi/scoop-bucket, 1
+bucket/git-igitt.json, naderi/scoop-bucket, 1
 bucket/git-interactive-rebase-tool.json, ScoopInstaller/Main, 1
 bucket/git-istage.json, ScoopInstaller/Main, 0
 bucket/git-lfs.json, ScoopInstaller/Main, 1
