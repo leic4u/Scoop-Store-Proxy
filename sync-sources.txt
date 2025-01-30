@@ -1280,7 +1280,7 @@ bucket/TranslucentTB-Install.json, ACooper81/scoop-apps, 1
 bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
 bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
-bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
+bucket/TreeSize.json, DoveBoy/Apps, 0
 bucket/TsubakiTranslator-noRT.json, cc713/ownscoop, 1
 bucket/TsubakiTranslator.json, cc713/ownscoop, 1
 bucket/TuBaTool.json, kkzzhizhou/scoop-zapps, 0
@@ -1655,7 +1655,7 @@ bucket/angband.json, Calinou/scoop-games, 1
 bucket/angr-management.json, ScoopInstaller/Extras, 1
 bucket/ani-beta.json, DoveBoy/Apps, 1
 bucket/ani-cli.json, ScoopInstaller/Extras, 1
-bucket/ani.json, DoveBoy/Apps, 1
+bucket/ani.json, hu3rror/scoop-muggle, 1
 bucket/animation-garden-desktop.json, Weidows-projects/scoop-3rd, 1
 bucket/anime4k-glsl.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-avisynthplus-plugin.json, HUMORCE/nuke, 1
