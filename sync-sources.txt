@@ -886,7 +886,7 @@ bucket/Overpass-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Overpass-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/PCmaster.json, Weidows-projects/scoop-3rd, 0
 bucket/PDB2ePubChs.json, ygguorun/scoop-bucket, 1
-bucket/PDFPatcher.json, DoveBoy/Apps, 1
+bucket/PDFPatcher.json, hu3rror/scoop-muggle, 1
 bucket/PDFgear.json, abgox/abgo_bucket, 0
 bucket/PDQDeploy-Install.json, ACooper81/scoop-apps, 0
 bucket/PDQInventory-Install.json, ACooper81/scoop-apps, 0
