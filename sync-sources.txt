@@ -3257,6 +3257,7 @@ bucket/edrawmax.json, ivaquero/scoopet, 0
 bucket/edrawmax8.json, ivaquero/scoopet, 0
 bucket/edtracker.json, Deide/deide-bucket, 0
 bucket/eduke32.json, Calinou/scoop-games, 0
+bucket/eduvpn.json, seumsc/scoop-seu, 0
 bucket/edx.json, ViCrack/scoop-bucket, 0
 bucket/effekseer.json, ScoopInstaller/Extras, 1
 bucket/efsdump.json, niheaven/scoop-sysinternals, 1
