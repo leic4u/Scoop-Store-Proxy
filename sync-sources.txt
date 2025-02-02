@@ -5977,6 +5977,7 @@ bucket/neo4jbrowser.json, scoopcn/scoopcn, 1
 bucket/neoaxis-engine.json, ScoopInstaller/Extras, 0
 bucket/neochat-nightly.json, ScoopInstaller/Versions, 0
 bucket/neofetch.json, ScoopInstaller/Main, 1
+bucket/neohtop.json, ScoopInstaller/Extras, 1
 bucket/neoray.json, ScoopInstaller/Extras, 1
 bucket/neovide-dev.json, ScoopInstaller/Versions, 1
 bucket/neovide.json, ScoopInstaller/Extras, 1
