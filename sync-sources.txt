@@ -3162,7 +3162,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -5555,7 +5555,7 @@ bucket/microdicom-dicom-viewer.json, amorphobia/siku, 0
 bucket/microdicom.json, jingyu9575/scoop-jingyu9575, 0
 bucket/microk8s.json, ScoopInstaller/Main, 0
 bucket/micromamba-cn.json, ivaquero/scoopet, 0
-bucket/micromamba.json, chawyehsu/dorado, 1
+bucket/micromamba.json, ivaquero/scoopet, 1
 bucket/micronaut.json, ScoopInstaller/Main, 1
 bucket/microsip.json, ScoopInstaller/Extras, 0
 bucket/microsoft-activation-scripts.json, DoveBoy/Apps, 1
@@ -7357,6 +7357,7 @@ bucket/ptags.json, ScoopInstaller/Main, 1
 bucket/pterm.json, ScoopInstaller/Extras, 0
 bucket/ptex-ng.json, batkiz/backit, 0
 bucket/ptmono.json, KnotUntied/scoop-fonts, 0
+bucket/ptr.json, naderi/scoop-bucket, 1
 bucket/ptsans-expert.json, KnotUntied/scoop-fonts, 0
 bucket/ptsans.json, KnotUntied/scoop-fonts, 0
 bucket/ptserif-expert.json, KnotUntied/scoop-fonts, 0
