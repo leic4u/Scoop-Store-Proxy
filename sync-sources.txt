@@ -10330,8 +10330,6 @@ scripts/modelsim-se202004-win64/install-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/modelsim-se202004-win64/scripts_modelsim.cmd.tpl, SayCV/scoop-cvp, 0
 scripts/modelsim-se202004-win64/uninstall-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/mouseinc/MouseInc.json, echoiron/echo-scoop, 0
-scripts/mp3tag/install-mp3tag-context.cmd, ScoopInstaller/Extras, 0
-scripts/mp3tag/uninstall-mp3tag-context.cmd, ScoopInstaller/Extras, 0
 scripts/msys2-mirror-cn/mirrorlist.mingw32, SayCV/scoop-cvp, 0
 scripts/msys2-mirror-cn/mirrorlist.mingw64, SayCV/scoop-cvp, 0
 scripts/msys2-mirror-cn/mirrorlist.msys, SayCV/scoop-cvp, 0
