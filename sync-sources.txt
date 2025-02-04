@@ -2348,6 +2348,7 @@ bucket/charm-gum.json, ScoopInstaller/Main, 1
 bucket/chart-geany.json, ScoopInstaller/Extras, 0
 bucket/chat2db.json, ViCrack/scoop-bucket, 1
 bucket/chatall.json, ScoopInstaller/Extras, 1
+bucket/chatbox-ce.json, chawyehsu/dorado, 1
 bucket/chatgpt-cli.json, ivaquero/scoopet, 1
 bucket/chatgpt-next-web.json, hu3rror/scoop-muggle, 1
 bucket/chatgpt.json, ScoopInstaller/Extras, 1
@@ -2358,6 +2359,7 @@ bucket/chatterino.json, ScoopInstaller/Extras, 0
 bucket/chatterino7-portable.json, brian6932/dank-scoop, 1
 bucket/chatterino7.json, ScoopInstaller/Extras, 1
 bucket/chatty.json, ScoopInstaller/Extras, 1
+bucket/chatwise.json, chawyehsu/dorado, 1
 bucket/chdig.json, ScoopInstaller/Extras, 1
 bucket/cheat-engine.json, ScoopInstaller/Extras, 1
 bucket/cheat.json, ScoopInstaller/Main, 1
