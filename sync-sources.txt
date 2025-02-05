@@ -4903,6 +4903,7 @@ bucket/kdenlive-nightly.json, ScoopInstaller/Versions, 0
 bucket/kdenlive.json, ScoopInstaller/Extras, 0
 bucket/kdiff3.json, ScoopInstaller/Extras, 0
 bucket/kdoc-formatter.json, ScoopInstaller/Extras, 1
+bucket/keep-alive.json, aliesbelik/poldi, 1
 bucket/keepass-language-japanese.json, jfut/scoop-jfut, 0
 bucket/keepass-plugin-KPSimpleBackup.json, cc713/ownscoop, 1
 bucket/keepass-plugin-keeagent.json, ScoopInstaller/Extras, 1
@@ -9901,7 +9902,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu.json, hermanjustnu/scoop-emulators, 1
+bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
