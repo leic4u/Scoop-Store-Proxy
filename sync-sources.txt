@@ -7431,6 +7431,7 @@ bucket/python27.json, ScoopInstaller/Versions, 0
 bucket/python310.json, ScoopInstaller/Versions, 1
 bucket/python311.json, ScoopInstaller/Versions, 1
 bucket/python312.json, ScoopInstaller/Versions, 1
+bucket/python313.json, ScoopInstaller/Versions, 1
 bucket/python35.json, ScoopInstaller/Versions, 1
 bucket/python36.json, ScoopInstaller/Versions, 1
 bucket/python37.json, ScoopInstaller/Versions, 1
