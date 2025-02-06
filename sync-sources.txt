@@ -7281,7 +7281,7 @@ bucket/produkey.json, ScoopInstaller/Nirsoft, 0
 bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
-bucket/project64-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
 bucket/prometheus-pushgateway.json, ScoopInstaller/Main, 1
@@ -8616,7 +8616,7 @@ bucket/super-productivity.json, ScoopInstaller/Extras, 1
 bucket/super-xray.json, ViCrack/scoop-bucket, 1
 bucket/superProductivity.json, abgox/abgo_bucket, 1
 bucket/superf4.json, ScoopInstaller/Extras, 1
-bucket/superfile.json, aliesbelik/poldi, 1
+bucket/superfile.json, ScoopInstaller/Main, 1
 bucket/supergrate.json, hu3rror/scoop-muggle, 1
 bucket/supermium.json, ScoopInstaller/Extras, 0
 bucket/supermodel.json, Calinou/scoop-games, 0
