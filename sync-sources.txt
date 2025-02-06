@@ -166,7 +166,7 @@ bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
@@ -5954,7 +5954,7 @@ bucket/nattypetester.json, chawyehsu/dorado, 1
 bucket/natural-docs.json, ScoopInstaller/Extras, 0
 bucket/navi.json, ScoopInstaller/Main, 1
 bucket/navicat-premium-lite-cn.json, ivaquero/scoopet, 0
-bucket/navicat-premium-lite.json, seumsc/scoop-seu, 0
+bucket/navicat-premium-lite.json, ivaquero/scoopet, 0
 bucket/navidrome.json, ScoopInstaller/Main, 1
 bucket/nbtexplorer.json, Calinou/scoop-games, 1
 bucket/ncftpclient.json, ScoopInstaller/Extras, 0
