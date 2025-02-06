@@ -2315,7 +2315,7 @@ bucket/cdogs-sdl.json, Calinou/scoop-games, 1
 bucket/cdrtools.json, ScoopInstaller/Main, 0
 bucket/cefflashbrowser.json, ScoopInstaller/Extras, 1
 bucket/celestia.json, ScoopInstaller/Extras, 1
-bucket/cemu-dev.json, borger/scoop-emulators, 1
+bucket/cemu-dev.json, Calinou/scoop-games, 1
 bucket/cemu-x.json, kiennq/scoop-misc, 1
 bucket/cemu.json, Calinou/scoop-games, 1
 bucket/cemuhook-webgyro.json, kiennq/scoop-misc, 1
@@ -3164,7 +3164,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
