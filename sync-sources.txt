@@ -4070,6 +4070,7 @@ bucket/gobench.json, aliesbelik/poldi, 1
 bucket/gobuster.json, ScoopInstaller/Main, 1
 bucket/gocannon.json, aliesbelik/poldi, 1
 bucket/gocker.json, aliesbelik/poldi, 1
+bucket/godap.json, aliesbelik/poldi, 1
 bucket/godmode.json, DoveBoy/Apps, 1
 bucket/godot-alpha.json, ScoopInstaller/Versions, 0
 bucket/godot-beta.json, ScoopInstaller/Versions, 0
@@ -6586,7 +6587,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
