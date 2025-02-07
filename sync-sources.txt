@@ -166,7 +166,7 @@ bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
+bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
@@ -1444,7 +1444,7 @@ bucket/WinfetchCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/WinfetchNightlyCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/WingetCLI-Install.json, ACooper81/scoop-apps, 1
 bucket/WingetUI-Portable.json, ACooper81/scoop-apps, 1
-bucket/WingetUI.json, DoveBoy/Apps, 1
+bucket/WingetUI.json, Weidows-projects/scoop-3rd, 1
 bucket/WingetUIBeta-Portable.json, ACooper81/scoop-apps, 1
 bucket/Winpilot-Portable.json, ACooper81/scoop-apps, 1
 bucket/Wireshark-Portable.json, ACooper81/scoop-apps, 0
