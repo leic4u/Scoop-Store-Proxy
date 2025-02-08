@@ -8951,6 +8951,7 @@ bucket/timeseriesadmin.json, ScoopInstaller/Extras, 1
 bucket/timeslottracker.json, ScoopInstaller/Extras, 1
 bucket/timezonesview.json, ScoopInstaller/Nirsoft, 0
 bucket/timoni.json, ScoopInstaller/Main, 1
+bucket/timr-tui.json, brian6932/dank-scoop, 1
 bucket/ting-en.json, ivaquero/scoopet, 0
 bucket/ting-es.json, ivaquero/scoopet, 0
 bucket/ting-fr.json, ivaquero/scoopet, 0
