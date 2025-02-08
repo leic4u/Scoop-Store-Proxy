@@ -1446,6 +1446,7 @@ bucket/WingetCLI-Install.json, ACooper81/scoop-apps, 1
 bucket/WingetUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/WingetUI.json, Weidows-projects/scoop-3rd, 1
 bucket/WingetUIBeta-Portable.json, ACooper81/scoop-apps, 1
+bucket/Winhance-Script.json, ACooper81/scoop-apps, 0
 bucket/Winpilot-Portable.json, ACooper81/scoop-apps, 1
 bucket/Wireshark-Portable.json, ACooper81/scoop-apps, 0
 bucket/WiseCare365.json, abgox/abgo_bucket, 0
@@ -2514,6 +2515,7 @@ bucket/cloudcompare.json, ScoopInstaller/Extras, 0
 bucket/cloudflare-speedtest.json, seumsc/scoop-seu, 1
 bucket/cloudflared.json, ScoopInstaller/Main, 1
 bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 0
+bucket/cloudmusic-green.json, hu3rror/scoop-muggle, 0
 bucket/clumsy.json, ScoopInstaller/Extras, 1
 bucket/clustal-omega.json, ScoopInstaller/Extras, 0
 bucket/clustalw.json, ScoopInstaller/Extras, 0
@@ -3164,7 +3166,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
