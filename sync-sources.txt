@@ -7401,6 +7401,7 @@ bucket/pwsh-x.json, kiennq/scoop-misc, 1
 bucket/pwsh.json, ScoopInstaller/Main, 1
 bucket/pwtech.json, ScoopInstaller/Extras, 0
 bucket/px.json, ScoopInstaller/Main, 1
+bucket/py.exe.json, cderv/r-bucket, 0
 bucket/py.json, rasa/scoops, 0
 bucket/pycharm-eap.json, ScoopInstaller/Versions, 1
 bucket/pycharm-professional-eap.json, ScoopInstaller/Versions, 1
@@ -8191,7 +8192,7 @@ bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
 bucket/shadps4-dev.json, Calinou/scoop-games, 1
-bucket/shadps4.json, borger/scoop-emulators, 1
+bucket/shadps4.json, Calinou/scoop-games, 1
 bucket/shakemousetolocate.json, amorphobia/siku, 1
 bucket/shareaza.json, ScoopInstaller/Extras, 0
 bucket/shareenum.json, niheaven/scoop-sysinternals, 1
