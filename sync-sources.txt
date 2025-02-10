@@ -9644,6 +9644,7 @@ bucket/winamp.json, naderi/scoop-bucket, 0
 bucket/winasar.json, ViCrack/scoop-bucket, 1
 bucket/winauth-portable.json, naderi/scoop-bucket, 1
 bucket/winauth.json, ScoopInstaller/Extras, 1
+bucket/winbox-beta.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/winbox.json, ScoopInstaller/Extras, 0
 bucket/winbtrfs-np.json, ScoopInstaller/Nonportable, 1
 bucket/winbtrfs.json, brian6932/dank-scoop, 1
