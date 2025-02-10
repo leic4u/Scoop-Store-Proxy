@@ -5606,6 +5606,7 @@ bucket/migrated/ov.json, aliesbelik/poldi, 1
 bucket/migrated/restfox.json, aliesbelik/poldi, 1
 bucket/migrated/riff.json, aliesbelik/poldi, 1
 bucket/migrated/sshs.json, aliesbelik/poldi, 1
+bucket/migrated/superfile.json, aliesbelik/poldi, 1
 bucket/migrated/tailspin.json, aliesbelik/poldi, 1
 bucket/migrated/taplo.json, aliesbelik/poldi, 1
 bucket/migrated/tcping.json, aliesbelik/poldi, 0
@@ -5614,6 +5615,7 @@ bucket/migrated/tf-summarize.json, aliesbelik/poldi, 1
 bucket/migrated/ttdl.json, aliesbelik/poldi, 1
 bucket/migrated/wait4x.json, aliesbelik/poldi, 1
 bucket/migrated/walk.json, aliesbelik/poldi, 1
+bucket/migrated/yamlfmt.json, aliesbelik/poldi, 1
 bucket/mihome-token.json, amorphobia/siku, 1
 bucket/mihomo-check.json, DoveBoy/Apps, 1
 bucket/mihomo-compatible-go120.json, DoveBoy/Apps, 1
@@ -9453,6 +9455,7 @@ bucket/vrcx.json, ScoopInstaller/Extras, 1
 bucket/vrf-decompiler.json, HUMORCE/nuke, 1
 bucket/vroid-studio.json, ScoopInstaller/Extras, 0
 bucket/vscan.json, ViCrack/scoop-bucket, 1
+bucket/vscli.json, aliesbelik/poldi, 1
 bucket/vscode-dev.json, kiennq/scoop-misc, 1
 bucket/vscode-insider.json, naderi/scoop-bucket, 1
 bucket/vscode-insiders-portable.json, kidonng/sushi, 0
