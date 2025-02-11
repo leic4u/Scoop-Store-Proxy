@@ -9210,6 +9210,7 @@ bucket/universal-viewer-pro.json, naderi/scoop-bucket, 0
 bucket/universal-watermark-disabler.json, hu3rror/scoop-muggle, 0
 bucket/universalpausebutton.json, ScoopInstaller/Extras, 1
 bucket/uniws-patcher.json, starise/Scoop-Gaming, 0
+bucket/unlock-music-cli.json, amorphobia/siku, 0
 bucket/unlock-music.json, kkzzhizhou/scoop-zapps, 1
 bucket/unlocker.json, ScoopInstaller/Extras, 1
 bucket/unrar.json, ScoopInstaller/Main, 1
