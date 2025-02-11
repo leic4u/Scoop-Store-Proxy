@@ -6119,7 +6119,7 @@ bucket/nordpass.json, ScoopInstaller/Extras, 0
 bucket/nosleep.json, ScoopInstaller/Extras, 1
 bucket/notable.json, ScoopInstaller/Extras, 1
 bucket/notejoy.json, ScoopInstaller/Extras, 0
-bucket/notepad--.json, zhoujin7/tomato, 1
+bucket/notepad--.json, renxia/scoop-bucket, 1
 bucket/notepad2-mod.json, ScoopInstaller/Extras, 1
 bucket/notepad2.json, ScoopInstaller/Extras, 0
 bucket/notepad3.json, ScoopInstaller/Extras, 1
