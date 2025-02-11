@@ -4734,6 +4734,7 @@ bucket/javascriptanimatorexpress.json, kodybrown/scoop-nirsoft, 0
 bucket/jazz2-resurrection.json, Calinou/scoop-games, 1
 bucket/jbang.json, ScoopInstaller/Main, 1
 bucket/jc.json, ScoopInstaller/Main, 1
+bucket/jclasslib.json, NyaMisty/scoop_bucket_misty, 1
 bucket/jcli.json, ScoopInstaller/Main, 1
 bucket/jcpicker.json, ScoopInstaller/Extras, 0
 bucket/jd-cli.json, ScoopInstaller/Main, 0
