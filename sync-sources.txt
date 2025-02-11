@@ -1305,6 +1305,7 @@ bucket/UAC.ZXPInstaller.json, Paxxs/Cluttered-bucket, 1
 bucket/UAC.kdeconnect.json, Paxxs/Cluttered-bucket, 0
 bucket/UAC.xshell6.json, Paxxs/Cluttered-bucket, 0
 bucket/UACWhitelistTool.json, abgox/abgo_bucket, 1
+bucket/UAssetGUI.json, NyaMisty/scoop_bucket_misty, 1
 bucket/UCheck-Portable.json, ACooper81/scoop-apps, 0
 bucket/UELI-Portable.json, ACooper81/scoop-apps, 1
 bucket/UGetDownloadManager-Portable.json, ACooper81/scoop-apps, 0
@@ -4766,7 +4767,7 @@ bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, akirco/aki-apps, 0
+bucket/jianyingpro.json, chawyehsu/dorado, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigdo.json, ivaquero/scoopet, 0
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
