@@ -1221,6 +1221,7 @@ bucket/StreamlinkTwitchGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/StrokesPlus-Portable.json, ACooper81/scoop-apps, 0
 bucket/StupidFastScoopUtilities-Portable.json, ACooper81/scoop-apps, 1
 bucket/SublimeText.json, abgox/abgo_bucket, 0
+bucket/Subtitle-Edit.json, leic4u/Scoop-Store, 1
 bucket/SunloginClient.json, kkzzhizhou/scoop-zapps, 1
 bucket/Sunshine-Portable.json, ACooper81/scoop-apps, 1
 bucket/SwitchArmyKnife.json, Deide/deide-bucket, 1
@@ -6609,7 +6610,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8616,7 +8617,6 @@ bucket/sublime-text.json, ScoopInstaller/Extras, 0
 bucket/subrenamer.json, ivaquero/scoopet, 1
 bucket/subsync.json, ScoopInstaller/Extras, 1
 bucket/subtitle-ass-shifter.json, DoveBoy/Apps, 1
-bucket/subtitle-edit.json, naderi/scoop-bucket, 1
 bucket/subtitleedit.json, ScoopInstaller/Extras, 1
 bucket/subtitles-database.json, chawyehsu/dorado, 1
 bucket/sucrose.json, ScoopInstaller/Extras, 1
