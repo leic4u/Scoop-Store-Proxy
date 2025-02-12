@@ -345,6 +345,12 @@ bucket/Dream-Han-Sans-JP.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Dream-Han-Sans-KR.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Dream-Han-Sans-TW.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Dream-Han-Sans.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif-CN.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif-HK.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif-JP.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif-KR.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif-TW.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/DriverGenius.json, kkzzhizhou/scoop-zapps, 1
 bucket/DriverStoreExplorer-Portable.json, ACooper81/scoop-apps, 1
 bucket/DriverTalent.json, kkzzhizhou/scoop-zapps, 1
@@ -3175,7 +3181,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
