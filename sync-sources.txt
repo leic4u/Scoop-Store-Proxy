@@ -339,6 +339,12 @@ bucket/DoubleKiller.json, zhoujin7/tomato, 0
 bucket/DownKyi.json, abgox/abgo_bucket, 1
 bucket/DrFolder-Portable.json, ACooper81/scoop-apps, 0
 bucket/Draw.io-Portable.json, ACooper81/scoop-apps, 1
+bucket/Dream-Han-Sans-CN.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Sans-HK.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Sans-JP.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Sans-KR.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Sans-TW.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Sans.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/DriverGenius.json, kkzzhizhou/scoop-zapps, 1
 bucket/DriverStoreExplorer-Portable.json, ACooper81/scoop-apps, 1
 bucket/DriverTalent.json, kkzzhizhou/scoop-zapps, 1
@@ -636,6 +642,7 @@ bucket/KikoPlay.json, hu3rror/scoop-muggle, 1
 bucket/KindleSend.json, kkzzhizhou/scoop-zapps, 1
 bucket/KindleUnpack.json, kkzzhizhou/scoop-zapps, 1
 bucket/KitX.json, Weidows-projects/scoop-3rd, 1
+bucket/Klee-One.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Knotes.json, abgox/abgo_bucket, 0
 bucket/KoHo.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Kodchasan.json, matthewjberger/scoop-nerd-fonts, 0
@@ -7836,7 +7843,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
