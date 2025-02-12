@@ -4476,6 +4476,7 @@ bucket/iMazingConverter-Install.json, ACooper81/scoop-apps, 0
 bucket/iMazingConverter-Portable.json, ACooper81/scoop-apps, 0
 bucket/iMazingHEICConverter-Install.json, ACooper81/scoop-apps, 0
 bucket/iSlideshow-Install.json, ACooper81/scoop-apps, 0
+bucket/iansui.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/iap-desktop.json, ScoopInstaller/Extras, 1
 bucket/iar-ewarm-8421-23878.json, SayCV/scoop-cvp, 1
 bucket/iar-ewarm.json, SayCV/scoop-cvp, 1
@@ -7246,7 +7247,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
