@@ -838,6 +838,7 @@ bucket/Noto-CJK-Mega-OTC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Noto-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Noto-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Noto-NF.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Noto-Serif-CJK-Super-OTC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/NoxPlayer.json, kkzzhizhou/scoop-zapps, 1
 bucket/NpcGUI.json, kkzzhizhou/scoop-zapps, 1
 bucket/NsEmuTools.json, hu3rror/scoop-muggle, 1
