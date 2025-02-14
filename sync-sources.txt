@@ -2224,6 +2224,7 @@ bucket/bzflag.json, Calinou/scoop-games, 0
 bucket/bzip2.json, ScoopInstaller/Main, 1
 bucket/bzip3.json, ScoopInstaller/Extras, 1
 bucket/c2-logs.json, brian6932/dank-scoop, 1
+bucket/c3.json, ScoopInstaller/Main, 1
 bucket/cabal-mini.json, ScoopInstaller/Extras, 1
 bucket/cabal.json, ScoopInstaller/Extras, 1
 bucket/cacert.json, ScoopInstaller/Main, 0
@@ -2433,6 +2434,7 @@ bucket/chromium-xp.json, SayCV/scoop-cvp, 0
 bucket/chromium.json, ScoopInstaller/Extras, 1
 bucket/chrono.json, aliesbelik/poldi, 1
 bucket/chronograf.json, ScoopInstaller/Main, 0
+bucket/chroot.json, ScoopInstaller/Main, 0
 bucket/chsrc.json, ScoopInstaller/Main, 1
 bucket/cht.json, ScoopInstaller/Main, 1
 bucket/chuck.json, ScoopInstaller/Main, 0
