@@ -5614,6 +5614,8 @@ bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
 bucket/mighty-mike.json, Calinou/scoop-games, 1
 bucket/migrate.json, ScoopInstaller/Main, 1
+bucket/migrated/atac.json, aliesbelik/poldi, 1
+bucket/migrated/bandwhich.json, aliesbelik/poldi, 1
 bucket/migrated/bombardier.json, aliesbelik/poldi, 1
 bucket/migrated/curlie.json, aliesbelik/poldi, 1
 bucket/migrated/ddosify.json, aliesbelik/poldi, 1
@@ -5622,6 +5624,7 @@ bucket/migrated/dnsproxy.json, aliesbelik/poldi, 1
 bucket/migrated/doggo.json, aliesbelik/poldi, 1
 bucket/migrated/eget.json, aliesbelik/poldi, 1
 bucket/migrated/focus.json, aliesbelik/poldi, 1
+bucket/migrated/ghz.json, aliesbelik/poldi, 1
 bucket/migrated/gotop.json, aliesbelik/poldi, 1
 bucket/migrated/gut.json, aliesbelik/poldi, 1
 bucket/migrated/hopp-cli.json, aliesbelik/poldi, 1
@@ -5642,6 +5645,7 @@ bucket/migrated/tcping.json, aliesbelik/poldi, 0
 bucket/migrated/termscp.json, aliesbelik/poldi, 1
 bucket/migrated/tf-summarize.json, aliesbelik/poldi, 1
 bucket/migrated/ttdl.json, aliesbelik/poldi, 1
+bucket/migrated/vegeta.json, aliesbelik/poldi, 1
 bucket/migrated/wait4x.json, aliesbelik/poldi, 1
 bucket/migrated/walk.json, aliesbelik/poldi, 1
 bucket/migrated/yamlfmt.json, aliesbelik/poldi, 1
