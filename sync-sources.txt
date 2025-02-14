@@ -4818,7 +4818,7 @@ bucket/jmeter-pm.json, ScoopInstaller/Extras, 0
 bucket/jmeter.json, ScoopInstaller/Extras, 0
 bucket/jmkvpropedit.json, ScoopInstaller/Extras, 1
 bucket/jndinjector.json, ViCrack/scoop-bucket, 1
-bucket/jnv.json, aliesbelik/poldi, 1
+bucket/jnv.json, ScoopInstaller/Main, 1
 bucket/jo.json, ScoopInstaller/Main, 1
 bucket/joe.json, ScoopInstaller/Extras, 0
 bucket/john-the-ripper.json, jingyu9575/scoop-jingyu9575, 0
@@ -5390,6 +5390,7 @@ bucket/lunarips.json, Deide/deide-bucket, 0
 bucket/lunarvim.json, ScoopInstaller/Extras, 1
 bucket/lunatask.json, starise/Scoop-Confetti, 1
 bucket/lunatic.json, batkiz/backit, 1
+bucket/lutgen.json, ScoopInstaller/Main, 1
 bucket/lux.json, ScoopInstaller/Main, 1
 bucket/luyten.json, TheCjw/scoop-retools, 1
 bucket/lwc.json, ScoopInstaller/Main, 1
@@ -7214,6 +7215,7 @@ bucket/pomerium.json, MCOfficer/scoop-bucket, 1
 bucket/pomotodo.json, ScoopInstaller/Extras, 0
 bucket/pomsky.json, ScoopInstaller/Main, 1
 bucket/popcorn-time.json, ScoopInstaller/Extras, 1
+bucket/popeye.json, ScoopInstaller/Main, 1
 bucket/poppler.json, ScoopInstaller/Main, 1
 bucket/poppler068.json, ScoopInstaller/Versions, 0
 bucket/portable-build-tools.json, amorphobia/siku, 1
@@ -9064,6 +9066,7 @@ bucket/transmission-cli.json, ScoopInstaller/Main, 1
 bucket/transmission-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/transmission.json, ScoopInstaller/Extras, 1
 bucket/trash.json, chawyehsu/dorado, 1
+bucket/trashy.json, ScoopInstaller/Main, 1
 bucket/traymond.json, ScoopInstaller/Extras, 1
 bucket/trays.json, NyaMisty/scoop_bucket_misty, 1
 bucket/trayweather.json, ScoopInstaller/Extras, 1
