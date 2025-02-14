@@ -1942,7 +1942,7 @@ bucket/bandicam.json, echoiron/echo-scoop, 0
 bucket/bandizip-classic.json, HUMORCE/nuke, 0
 bucket/bandizip.json, ScoopInstaller/Extras, 0
 bucket/bandizip6.json, ScoopInstaller/Versions, 0
-bucket/bandwhich.json, aliesbelik/poldi, 1
+bucket/bandwhich.json, ScoopInstaller/Main, 1
 bucket/baregrep.json, ScoopInstaller/Extras, 0
 bucket/baretail.json, ScoopInstaller/Extras, 0
 bucket/barrier-np.json, ScoopInstaller/Nonportable, 1
@@ -5558,6 +5558,7 @@ bucket/mendeley.json, ScoopInstaller/Extras, 0
 bucket/meow.json, ScoopInstaller/Extras, 1
 bucket/mercurial.json, ScoopInstaller/Main, 0
 bucket/mercury.json, brian6932/dank-scoop, 1
+bucket/mergiraf.json, ScoopInstaller/Main, 0
 bucket/mery.json, SayCV/scoop-cvp, 0
 bucket/mesa3d-mingw.json, Calinou/scoop-games, 1
 bucket/mesa3d.json, Calinou/scoop-games, 1
@@ -8876,6 +8877,7 @@ bucket/terraform011.json, ScoopInstaller/Versions, 0
 bucket/terraformer.json, ScoopInstaller/Main, 1
 bucket/terragrunt.json, ScoopInstaller/Main, 1
 bucket/terrap.json, aliesbelik/poldi, 1
+bucket/terrascan.json, ScoopInstaller/Main, 1
 bucket/tesseract-game.json, Calinou/scoop-games, 0
 bucket/tesseract-languages.json, ScoopInstaller/Main, 1
 bucket/tesseract.json, ScoopInstaller/Main, 1
