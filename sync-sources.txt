@@ -1589,6 +1589,7 @@ bucket/aichat.json, ScoopInstaller/Main, 1
 bucket/aida64.json, echoiron/echo-scoop, 0
 bucket/aida64extreme.json, ScoopInstaller/Extras, 0
 bucket/aidoku-cli.json, beerpiss/scoop-bucket, 1
+bucket/aigcpanel.json, ivaquero/scoopet, 1
 bucket/aimp.json, ScoopInstaller/Extras, 0
 bucket/ain.json, aliesbelik/poldi, 1
 bucket/air.json, ScoopInstaller/Main, 1
