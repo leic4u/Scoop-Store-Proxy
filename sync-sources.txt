@@ -8899,7 +8899,7 @@ bucket/testmace.json, ScoopInstaller/Extras, 0
 bucket/testmem5-advanced.json, brian6932/dank-scoop, 0
 bucket/testmem5.json, brian6932/dank-scoop, 1
 bucket/tev.json, ScoopInstaller/Extras, 1
-bucket/tex-fmt.json, ivaquero/scoopet, 1
+bucket/tex-fmt.json, seumsc/scoop-seu, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
 bucket/texlive-full.json, chawyehsu/dorado, 0
 bucket/texlive.json, ivaquero/scoopet, 0
