@@ -393,7 +393,7 @@ bucket/EnvyUpdate-Portable.json, ACooper81/scoop-apps, 1
 bucket/EpicGamesLauncher-Install.json, ACooper81/scoop-apps, 0
 bucket/EpicGamesLauncher-Portable.json, ACooper81/scoop-apps, 0
 bucket/Eraser5-Portable.json, ACooper81/scoop-apps, 0
-bucket/Escrcpy.json, DoveBoy/Apps, 1
+bucket/Escrcpy.json, abgox/abgo_bucket, 1
 bucket/EventLogViewer-Portable.json, ACooper81/scoop-apps, 0
 bucket/ExVR.json, Weidows-projects/scoop-3rd, 1
 bucket/ExifPilot-Portable.json, ACooper81/scoop-apps, 0
