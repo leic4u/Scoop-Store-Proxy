@@ -2386,7 +2386,7 @@ bucket/cheat-engine.json, ScoopInstaller/Extras, 1
 bucket/cheat.json, ScoopInstaller/Main, 1
 bucket/checksum-compare.json, ScoopInstaller/Extras, 0
 bucket/chef-workstation.json, ScoopInstaller/Extras, 0
-bucket/cherry-studio.json, ivaquero/scoopet, 0
+bucket/cherry-studio.json, ViCrack/scoop-bucket, 1
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi-modify-manager.json, cderv/r-bucket, 1
 bucket/chezmoi.json, ScoopInstaller/Main, 1
@@ -3799,6 +3799,7 @@ bucket/freerapid.json, ScoopInstaller/Extras, 1
 bucket/freerenamer.json, DoveBoy/Apps, 1
 bucket/freespacelogview.json, ScoopInstaller/Nirsoft, 0
 bucket/freetube.json, ScoopInstaller/Extras, 1
+bucket/freeze.json, aliesbelik/poldi, 1
 bucket/freezer.json, starise/Scoop-Confetti, 0
 bucket/freezetostock.json, couleur-tweak-tips/utils, 1
 bucket/frhelper.json, ivaquero/scoopet, 0
@@ -6626,7 +6627,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
