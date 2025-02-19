@@ -456,7 +456,7 @@ bucket/Font-Hack.json, abgox/abgo_bucket, 1
 bucket/FontMod.json, ygguorun/scoop-bucket, 1
 bucket/ForceBindIPCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/FreeFileSync-Portable.json, ACooper81/scoop-apps, 0
-bucket/FreeFileSync.json, DoveBoy/Apps, 0
+bucket/FreeFileSync.json, cc713/ownscoop, 0
 bucket/FreeMove-Portable.json, ACooper81/scoop-apps, 1
 bucket/FreeSpaceWipe-Portable.json, ACooper81/scoop-apps, 0
 bucket/FreeTube-Portable.json, ACooper81/scoop-apps, 1
@@ -2386,7 +2386,7 @@ bucket/cheat-engine.json, ScoopInstaller/Extras, 1
 bucket/cheat.json, ScoopInstaller/Main, 1
 bucket/checksum-compare.json, ScoopInstaller/Extras, 0
 bucket/chef-workstation.json, ScoopInstaller/Extras, 0
-bucket/cherry-studio.json, ViCrack/scoop-bucket, 1
+bucket/cherry-studio.json, ivaquero/scoopet, 0
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi-modify-manager.json, cderv/r-bucket, 1
 bucket/chezmoi.json, ScoopInstaller/Main, 1
