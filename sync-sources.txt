@@ -1562,7 +1562,7 @@ bucket/adobeillustratorlite.json, SayCV/scoop-cvp, 1
 bucket/adobephotoshopcclite.json, SayCV/scoop-cvp, 1
 bucket/adom.json, Calinou/scoop-games, 0
 bucket/adrestore.json, niheaven/scoop-sysinternals, 1
-bucket/adrive.json, ygguorun/scoop-bucket, 1
+bucket/adrive.json, ivaquero/scoopet, 0
 bucket/advanced-combat-tracker.json, Calinou/scoop-games, 1
 bucket/advanced-ip-scanner.json, ScoopInstaller/Extras, 0
 bucket/advancedrenamer.json, ScoopInstaller/Extras, 0
@@ -2968,7 +2968,7 @@ bucket/digital.json, ScoopInstaller/Extras, 1
 bucket/dijo.json, aliesbelik/poldi, 1
 bucket/dim.json, akirco/aki-apps, 1
 bucket/dingtalk-gov.json, scoopcn/scoopcn, 0
-bucket/dingtalk.json, akirco/aki-apps, 0
+bucket/dingtalk.json, ivaquero/scoopet, 0
 bucket/dino-rss.json, batkiz/backit, 1
 bucket/dinorss.json, HUMORCE/nuke, 1
 bucket/directory-compare.json, naderi/scoop-bucket, 0
@@ -9163,7 +9163,6 @@ bucket/typora0.11.18.json, ScoopInstaller/Versions, 0
 bucket/typora1.2.5.json, ygguorun/scoop-bucket, 0
 bucket/typos.json, ScoopInstaller/Main, 1
 bucket/typst.json, ScoopInstaller/Main, 1
-bucket/typstyle.json, ivaquero/scoopet, 1
 bucket/uTools.json, abgox/abgo_bucket, 0
 bucket/uabea.json, Calinou/scoop-games, 1
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 1
