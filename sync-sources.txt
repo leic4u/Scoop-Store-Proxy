@@ -2279,6 +2279,7 @@ bucket/cargo-zigbuild.json, chawyehsu/dorado, 1
 bucket/carnac-misty.json, NyaMisty/scoop_bucket_misty, 1
 bucket/carnac.json, ScoopInstaller/Extras, 1
 bucket/carotdav.json, ScoopInstaller/Extras, 0
+bucket/cartero.json, ScoopInstaller/Extras, 1
 bucket/carve.json, littleli/scoop-clojure, 1
 bucket/carvel-vendir.json, ScoopInstaller/Main, 1
 bucket/cascadeur.json, ScoopInstaller/Extras, 0
