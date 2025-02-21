@@ -2047,7 +2047,7 @@ bucket/bililive-go.json, ygguorun/scoop-bucket, 1
 bucket/bililive-tools-cli.json, DoveBoy/Apps, 1
 bucket/bililive-tools-portable.json, DoveBoy/Apps, 1
 bucket/bililive-tools.json, DoveBoy/Apps, 1
-bucket/bililiverecorder.json, chawyehsu/dorado, 1
+bucket/bililiverecorder.json, cc713/ownscoop, 1
 bucket/bilimini.json, amorphobia/siku, 1
 bucket/bilineo.json, DoveBoy/Apps, 1
 bucket/biliup-app.json, Weidows-projects/scoop-3rd, 1
@@ -3186,7 +3186,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
