@@ -2780,6 +2780,7 @@ bucket/cupscale.json, ScoopInstaller/Extras, 1
 bucket/cura.json, ScoopInstaller/Extras, 1
 bucket/curl-impersonate.json, ViCrack/scoop-bucket, 1
 bucket/curl.json, ScoopInstaller/Main, 0
+bucket/curli.json, aliesbelik/poldi, 1
 bucket/curlie.json, ScoopInstaller/Main, 1
 bucket/currports.json, kodybrown/scoop-nirsoft, 0
 bucket/currprocess.json, kodybrown/scoop-nirsoft, 0
