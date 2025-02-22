@@ -1294,6 +1294,7 @@ bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
 bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
 bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
+bucket/TscanPlus.json, ViCrack/scoop-bucket, 1
 bucket/TsubakiTranslator-noRT.json, cc713/ownscoop, 1
 bucket/TsubakiTranslator.json, cc713/ownscoop, 1
 bucket/TuBaTool.json, kkzzhizhou/scoop-zapps, 0
@@ -3187,7 +3188,7 @@ bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
 bucket/duckstation-preview.json, Calinou/scoop-games, 1
-bucket/duckstation.json, borger/scoop-emulators, 1
+bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
 bucket/duf.json, ScoopInstaller/Main, 1
@@ -9024,6 +9025,7 @@ bucket/tomcat7.json, ScoopInstaller/Versions, 0
 bucket/tomcat8.json, ScoopInstaller/Versions, 0
 bucket/tomcat9.json, ScoopInstaller/Versions, 0
 bucket/tome4.json, Calinou/scoop-games, 0
+bucket/toolsfx.json, ViCrack/scoop-bucket, 1
 bucket/tooniversal.json, Calinou/scoop-games, 0
 bucket/toontownfellowship.json, Calinou/scoop-games, 0
 bucket/toontownoffline.json, Calinou/scoop-games, 0
