@@ -7686,6 +7686,7 @@ bucket/realesrgan-ncnn-vulkan.json, ScoopInstaller/Main, 1
 bucket/reality.json, ViCrack/scoop-bucket, 1
 bucket/realm.json, ScoopInstaller/Main, 1
 bucket/reaper.json, ScoopInstaller/Extras, 0
+bucket/rebuild-shell-icon-cache.json, ViCrack/scoop-bucket, 0
 bucket/recaf.json, TheCjw/scoop-retools, 1
 bucket/recaps.json, ScoopInstaller/Extras, 1
 bucket/recentfilesview.json, ScoopInstaller/Nirsoft, 0
