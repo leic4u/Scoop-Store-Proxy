@@ -2386,7 +2386,7 @@ bucket/cheat-engine.json, ScoopInstaller/Extras, 1
 bucket/cheat.json, ScoopInstaller/Main, 1
 bucket/checksum-compare.json, ScoopInstaller/Extras, 0
 bucket/chef-workstation.json, ScoopInstaller/Extras, 0
-bucket/cherry-studio.json, ivaquero/scoopet, 0
+bucket/cherry-studio.json, ViCrack/scoop-bucket, 1
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi-modify-manager.json, cderv/r-bucket, 1
 bucket/chezmoi.json, ScoopInstaller/Main, 1
@@ -4868,7 +4868,6 @@ bucket/juliamono.json, KnotUntied/scoop-fonts, 1
 bucket/juliaup.json, ScoopInstaller/Main, 1
 bucket/jumplistsview.json, ScoopInstaller/Nirsoft, 0
 bucket/junction.json, niheaven/scoop-sysinternals, 1
-bucket/jupyterlab-desktop.json, ivaquero/scoopet, 1
 bucket/just.json, ScoopInstaller/Main, 1
 bucket/justasplanned.json, beerpiss/scoop-bucket, 1
 bucket/justcolorpicker.json, naderi/scoop-bucket, 0
@@ -5554,7 +5553,6 @@ bucket/memcached.json, ScoopInstaller/Main, 1
 bucket/memo.json, brian6932/dank-scoop, 0
 bucket/memory-checker.json, brian6932/dank-scoop, 1
 bucket/memreduct.json, ScoopInstaller/Extras, 1
-bucket/mendeley-desktop.json, ivaquero/scoopet, 0
 bucket/mendeley.json, ScoopInstaller/Extras, 0
 bucket/meow.json, ScoopInstaller/Extras, 1
 bucket/mercurial.json, ScoopInstaller/Main, 0
