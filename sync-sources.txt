@@ -6046,7 +6046,6 @@ bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
 bucket/nethack.json, Calinou/scoop-games, 0
 bucket/netlifyctl.json, ScoopInstaller/Extras, 1
-bucket/netlogo.json, ivaquero/scoopet, 0
 bucket/netmet.json, littleli/Scoop-littleli, 0
 bucket/netpass.json, ScoopInstaller/Nirsoft, 0
 bucket/netradio.json, ScoopInstaller/Extras, 0
