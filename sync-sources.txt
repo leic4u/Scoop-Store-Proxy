@@ -5125,6 +5125,7 @@ bucket/lazpaint.json, ScoopInstaller/Extras, 1
 bucket/lazy-posh-git.json, ScoopInstaller/Extras, 1
 bucket/lazydocker.json, ScoopInstaller/Main, 1
 bucket/lazygit.json, ScoopInstaller/Extras, 1
+bucket/lazysql.json, aliesbelik/poldi, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
 bucket/lbry.json, ScoopInstaller/Extras, 1
 bucket/lceda-pro.json, chawyehsu/dorado, 0
