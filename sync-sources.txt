@@ -8900,7 +8900,7 @@ bucket/tev.json, ScoopInstaller/Extras, 1
 bucket/tex-fmt.json, seumsc/scoop-seu, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
 bucket/texlive-full.json, chawyehsu/dorado, 0
-bucket/texlive.json, ivaquero/scoopet, 0
+bucket/texlive.json, chawyehsu/dorado, 0
 bucket/texmacs.json, ScoopInstaller/Extras, 0
 bucket/texmaker.json, ScoopInstaller/Extras, 0
 bucket/texmod.json, Calinou/scoop-games, 0
@@ -9457,7 +9457,6 @@ bucket/vmware-autounlocker.json, naderi/scoop-bucket, 1
 bucket/vmware-horizon-client-np.json, ScoopInstaller/Nonportable, 0
 bucket/vmware-workstation-player-np.json, ScoopInstaller/Nonportable, 0
 bucket/vmware-workstation-pro-np.json, brian6932/dank-scoop, 0
-bucket/vmware-workstation-pro.json, ivaquero/scoopet, 0
 bucket/vmware-ws-pro.json, SayCV/scoop-cvp, 0
 bucket/vncpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/vncviewer.json, ScoopInstaller/Extras, 0
