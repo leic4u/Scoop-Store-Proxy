@@ -2654,7 +2654,7 @@ bucket/corretto23-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/corsair-icue.json, TheRandomLabs/Scoop-Bucket, 0
-bucket/cosbrowser.json, chawyehsu/dorado, 1
+bucket/cosbrowser.json, echoiron/echo-scoop, 0
 bucket/cosign.json, ScoopInstaller/Main, 1
 bucket/cosmosdbexplorer-beta.json, ScoopInstaller/Versions, 1
 bucket/cotp.json, brian6932/dank-scoop, 1
