@@ -2047,7 +2047,7 @@ bucket/bililive-go.json, ygguorun/scoop-bucket, 1
 bucket/bililive-tools-cli.json, DoveBoy/Apps, 1
 bucket/bililive-tools-portable.json, DoveBoy/Apps, 1
 bucket/bililive-tools.json, DoveBoy/Apps, 1
-bucket/bililiverecorder.json, chawyehsu/dorado, 1
+bucket/bililiverecorder.json, cc713/ownscoop, 1
 bucket/bilimini.json, amorphobia/siku, 1
 bucket/bilineo.json, DoveBoy/Apps, 1
 bucket/biliup-app.json, Weidows-projects/scoop-3rd, 1
