@@ -7923,7 +7923,7 @@ bucket/runasti.json, ScoopInstaller/Main, 1
 bucket/runastool.json, ScoopInstaller/Extras, 0
 bucket/runat.json, ScoopInstaller/Main, 1
 bucket/runcat.json, ScoopInstaller/Extras, 1
-bucket/rune.json, naderi/scoop-bucket, 1
+bucket/rune.json, ScoopInstaller/Extras, 1
 bucket/runebook.json, Calinou/scoop-games, 1
 bucket/runelite.json, Calinou/scoop-games, 1
 bucket/runfromprocess.json, ScoopInstaller/Nirsoft, 0
