@@ -3641,7 +3641,7 @@ bucket/fixes-wsl-mac-dynaddr.json, SayCV/scoop-cvp, 1
 bucket/fixwin-10.json, naderi/scoop-bucket, 0
 bucket/fixwin-11.json, naderi/scoop-bucket, 0
 bucket/flac.json, ScoopInstaller/Main, 1
-bucket/flamelens.json, aliesbelik/poldi, 1
+bucket/flamelens.json, ScoopInstaller/Extras, 1
 bucket/flameshot.json, ScoopInstaller/Extras, 1
 bucket/flamingo.json, ScoopInstaller/Main, 1
 bucket/flare-floss.json, TheCjw/scoop-retools, 1
