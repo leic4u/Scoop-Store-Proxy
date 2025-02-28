@@ -166,7 +166,7 @@ bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
@@ -7530,7 +7530,7 @@ bucket/qqgame.json, DoveBoy/Apps, 0
 bucket/qqlite-patch.json, SayCV/scoop-cvp, 1
 bucket/qqlite.json, SayCV/scoop-cvp, 0
 bucket/qqlive-cvp.json, SayCV/scoop-cvp, 1
-bucket/qqlive.json, DoveBoy/Apps, 0
+bucket/qqlive.json, wzv5/ScoopBucket, 0
 bucket/qqmusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/qqmusic.json, wzv5/ScoopBucket, 0
 bucket/qqplayer.json, amorphobia/siku, 0
