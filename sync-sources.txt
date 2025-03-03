@@ -7903,6 +7903,7 @@ bucket/rtools42.json, ScoopInstaller/Versions, 0
 bucket/rtools43.json, ScoopInstaller/Versions, 0
 bucket/rtss.json, ScoopInstaller/Extras, 0
 bucket/ru.json, niheaven/scoop-sysinternals, 1
+bucket/rubberband.json, ScoopInstaller/Main, 0
 bucket/ruby.json, ScoopInstaller/Main, 1
 bucket/ruby19.json, ScoopInstaller/Versions, 1
 bucket/ruby24.json, ScoopInstaller/Versions, 1
