@@ -4795,7 +4795,6 @@ bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
 bucket/jianyingpro.json, chawyehsu/dorado, 0
 bucket/jid.json, ScoopInstaller/Main, 1
-bucket/jigdo.json, ivaquero/scoopet, 0
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
 bucket/jijidown.json, amorphobia/siku, 0
 bucket/jim.json, Calinou/scoop-games, 0
