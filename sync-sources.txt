@@ -7865,7 +7865,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -8093,7 +8093,6 @@ bucket/schemacrawler.json, ScoopInstaller/Main, 1
 bucket/schismtracker.json, ScoopInstaller/Extras, 1
 bucket/scholdoc.json, ScoopInstaller/Main, 0
 bucket/scidavis.json, ScoopInstaller/Extras, 0
-bucket/scihubeva.json, ivaquero/scoopet, 1
 bucket/scilab-np.json, ScoopInstaller/Nonportable, 0
 bucket/scite.json, ScoopInstaller/Extras, 0
 bucket/scons.json, ScoopInstaller/Main, 0
