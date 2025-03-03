@@ -6041,7 +6041,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, DoveBoy/Apps, 0
+bucket/neteasemusic.json, ivaquero/scoopet, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
@@ -7238,6 +7238,8 @@ bucket/posh-git-beta.json, ScoopInstaller/Versions, 1
 bucket/posh-git-nightly.json, ScoopInstaller/Versions, 1
 bucket/posh-git.json, ScoopInstaller/Extras, 0
 bucket/posh-maven.json, DoveBoy/Apps, 0
+bucket/positron-dailies.json, cderv/r-bucket, 0
+bucket/positron-prerelease.json, cderv/r-bucket, 0
 bucket/positron.json, ScoopInstaller/Extras, 0
 bucket/postcat.json, ViCrack/scoop-bucket, 1
 bucket/postgresql.json, ScoopInstaller/Main, 0
