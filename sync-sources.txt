@@ -4381,7 +4381,7 @@ bucket/hf.json, aliesbelik/poldi, 1
 bucket/hfd.json, Weidows-projects/scoop-3rd, 0
 bucket/hfs.json, ScoopInstaller/Extras, 1
 bucket/hfsexplorer.json, amorphobia/siku, 1
-bucket/hgrep.json, batkiz/backit, 1
+bucket/hgrep.json, DoveBoy/Apps, 1
 bucket/hhreg.json, rasa/scoops, 0
 bucket/hibernate.json, naderi/scoop-bucket, 0
 bucket/hibit-startup-manager.json, ScoopInstaller/Extras, 0
@@ -6623,7 +6623,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7238,7 +7238,7 @@ bucket/posh-git-beta.json, ScoopInstaller/Versions, 1
 bucket/posh-git-nightly.json, ScoopInstaller/Versions, 1
 bucket/posh-git.json, ScoopInstaller/Extras, 0
 bucket/posh-maven.json, DoveBoy/Apps, 0
-bucket/positron-dailies.json, cderv/r-bucket, 0
+bucket/positron-daily.json, cderv/r-bucket, 0
 bucket/positron-prerelease.json, cderv/r-bucket, 0
 bucket/positron.json, ScoopInstaller/Extras, 0
 bucket/postcat.json, ViCrack/scoop-bucket, 1
