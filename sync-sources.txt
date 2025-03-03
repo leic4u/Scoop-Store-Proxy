@@ -6041,7 +6041,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, chawyehsu/dorado, 0
+bucket/neteasemusic.json, DoveBoy/Apps, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
@@ -9154,7 +9154,7 @@ bucket/twitchtest.json, ScoopInstaller/Extras, 0
 bucket/txsso.json, SayCV/scoop-cvp, 0
 bucket/typeeasy.json, echoiron/echo-scoop, 0
 bucket/typioca.json, ScoopInstaller/Main, 1
-bucket/typora-dev.json, DoveBoy/Apps, 0
+bucket/typora-dev.json, ScoopInstaller/Versions, 0
 bucket/typora-plugin.json, DoveBoy/Apps, 1
 bucket/typora.json, ScoopInstaller/Extras, 0
 bucket/typora0.11.18.json, ScoopInstaller/Versions, 0
