@@ -1560,6 +1560,7 @@ bucket/adinsight.json, niheaven/scoop-sysinternals, 1
 bucket/adobe-genp.json, SayCV/scoop-cvp, 1
 bucket/adobeacrobatdc.json, SayCV/scoop-cvp, 0
 bucket/adobeacrobatdcpro.json, SayCV/scoop-cvp, 1
+bucket/adobegenp.json, DoveBoy/Apps, 1
 bucket/adobeillustratorlite.json, SayCV/scoop-cvp, 1
 bucket/adobephotoshopcclite.json, SayCV/scoop-cvp, 1
 bucket/adom.json, Calinou/scoop-games, 0
