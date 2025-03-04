@@ -4370,7 +4370,7 @@ bucket/hercules.json, littleli/Scoop-littleli, 1
 bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
 bucket/hetty.json, aliesbelik/poldi, 1
-bucket/heu-kms-activator.json, ivaquero/scoopet, 1
+bucket/heu-kms-activator.json, DoveBoy/Apps, 1
 bucket/hex-editor-neo.json, ScoopInstaller/Extras, 0
 bucket/hex2dec.json, niheaven/scoop-sysinternals, 1
 bucket/hexchat.json, ScoopInstaller/Extras, 1
@@ -6625,7 +6625,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
