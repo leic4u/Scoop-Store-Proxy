@@ -1847,7 +1847,7 @@ bucket/autoactions.json, ScoopInstaller/Extras, 1
 bucket/autoclicker.json, ScoopInstaller/Extras, 0
 bucket/autocorrect.json, ScoopInstaller/Main, 1
 bucket/autocut.json, Weidows-projects/scoop-3rd, 0
-bucket/autodarkmode.json, chawyehsu/dorado, 1
+bucket/autodarkmode.json, DoveBoy/Apps, 1
 bucket/autogpuaffinity-spddl.json, couleur-tweak-tips/utils, 1
 bucket/autogpuaffinity.json, couleur-tweak-tips/utils, 1
 bucket/autohotkey-np.json, ScoopInstaller/Nonportable, 1
