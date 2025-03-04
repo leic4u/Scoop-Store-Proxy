@@ -1109,6 +1109,7 @@ bucket/ShimakazeGO.json, Darkatse/Scoop-KanColle, 0
 bucket/ShutUp10-Portable.json, ACooper81/scoop-apps, 0
 bucket/ShutterEncoder-Portable.json, ACooper81/scoop-apps, 0
 bucket/SiYuan.json, abgox/abgo_bucket, 1
+bucket/SideQuest.json, Weidows-projects/scoop-3rd, 1
 bucket/Sigma-File-Manager.json, abgox/abgo_bucket, 1
 bucket/SilentCMD-Portable.json, ACooper81/scoop-apps, 1
 bucket/SimpleMindMap.json, abgox/abgo_bucket, 1
@@ -4845,6 +4846,7 @@ bucket/jpegoptim.json, ScoopInstaller/Main, 1
 bucket/jpegview-fork.json, ScoopInstaller/Extras, 1
 bucket/jpegview.json, ScoopInstaller/Extras, 0
 bucket/jpfont-nds.json, ygguorun/scoop-bucket, 0
+bucket/jprq.json, ScoopInstaller/Main, 1
 bucket/jq.json, ScoopInstaller/Main, 1
 bucket/jql.json, aliesbelik/poldi, 1
 bucket/jqp.json, ScoopInstaller/Extras, 1
@@ -5653,9 +5655,7 @@ bucket/migrated/walk.json, aliesbelik/poldi, 1
 bucket/migrated/yamlfmt.json, aliesbelik/poldi, 1
 bucket/mihome-token.json, amorphobia/siku, 1
 bucket/mihomo-check.json, DoveBoy/Apps, 1
-bucket/mihomo-compatible-go120.json, DoveBoy/Apps, 1
 bucket/mihomo-compatible.json, DoveBoy/Apps, 1
-bucket/mihomo-go120.json, DoveBoy/Apps, 1
 bucket/mihomo-party-portable.json, DoveBoy/Apps, 1
 bucket/mihomo-party.json, ScoopInstaller/Extras, 1
 bucket/mihomo.json, ScoopInstaller/Main, 1
@@ -6041,7 +6041,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, ivaquero/scoopet, 0
+bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
