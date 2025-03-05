@@ -7869,7 +7869,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -9063,6 +9063,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
+bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
 bucket/trafficmonitor-lite.json, ScoopInstaller/Extras, 1
