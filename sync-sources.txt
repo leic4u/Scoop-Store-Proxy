@@ -2711,11 +2711,11 @@ bucket/cryfs.json, naderi/scoop-bucket, 1
 bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
-bucket/crystaldiskinfo-aoi-edition.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-aoi.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
-bucket/crystaldiskinfo-shizuku-edition.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
@@ -4370,7 +4370,7 @@ bucket/hercules.json, littleli/Scoop-littleli, 1
 bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
 bucket/hetty.json, aliesbelik/poldi, 1
-bucket/heu-kms-activator.json, DoveBoy/Apps, 1
+bucket/heu-kms-activator.json, ivaquero/scoopet, 1
 bucket/hex-editor-neo.json, ScoopInstaller/Extras, 0
 bucket/hex2dec.json, niheaven/scoop-sysinternals, 1
 bucket/hexchat.json, ScoopInstaller/Extras, 1
@@ -7967,6 +7967,7 @@ bucket/s2cb.json, chawyehsu/dorado, 1
 bucket/s3-browser.json, scoopcn/scoopcn, 0
 bucket/s3browser.json, ScoopInstaller/Extras, 0
 bucket/s3deploy.json, ScoopInstaller/Main, 1
+bucket/s3scanner.json, aliesbelik/poldi, 1
 bucket/s5cmd.json, ScoopInstaller/Main, 1
 bucket/saber.json, ScoopInstaller/Extras, 1
 bucket/sabnzbd.json, ScoopInstaller/Extras, 1
@@ -8956,7 +8957,7 @@ bucket/thunderbird-beta.json, naderi/scoop-bucket, 0
 bucket/thunderbird-de.json, naderi/scoop-bucket, 0
 bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird-fa.json, naderi/scoop-bucket, 0
-bucket/thunderbird-zh-cn.json, cc713/ownscoop, 0
+bucket/thunderbird-zh-cn.json, chawyehsu/dorado, 0
 bucket/thunderbird.ja.json, jfut/scoop-jfut, 0
 bucket/thunderbird.json, ScoopInstaller/Extras, 0
 bucket/ti-analogengineerscalculator.json, SayCV/scoop-cvp, 1
