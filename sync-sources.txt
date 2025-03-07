@@ -10052,6 +10052,7 @@ bucket/xx-net.json, ScoopInstaller/Extras, 1
 bucket/xxcopy.json, ScoopInstaller/Main, 1
 bucket/xxd-rs.json, brian6932/dank-scoop, 1
 bucket/xxd.json, brian6932/dank-scoop, 0
+bucket/xxmi.json, Calinou/scoop-games, 1
 bucket/xy-vsfilter.json, SayCV/scoop-cvp, 1
 bucket/xyplorer.json, ScoopInstaller/Extras, 0
 bucket/xysubfilter-libass-np.json, ScoopInstaller/Nonportable, 1
