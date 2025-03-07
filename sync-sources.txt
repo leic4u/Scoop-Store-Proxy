@@ -2867,7 +2867,7 @@ bucket/ddc-toolbox.json, ScoopInstaller/Extras, 1
 bucket/dddd.json, ViCrack/scoop-bucket, 1
 bucket/ddev.json, ScoopInstaller/Main, 1
 bucket/ddnet.json, Calinou/scoop-games, 0
-bucket/ddns-go.json, amorphobia/siku, 1
+bucket/ddns-go.json, ViCrack/scoop-bucket, 1
 bucket/ddosify.json, ScoopInstaller/Main, 1
 bucket/ddtv2.json, aoisummer/scoop-bucket, 1
 bucket/ddu-lean.json, brian6932/dank-scoop, 1
