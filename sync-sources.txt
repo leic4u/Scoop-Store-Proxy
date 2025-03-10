@@ -2616,6 +2616,7 @@ bucket/contig.json, niheaven/scoop-sysinternals, 1
 bucket/contour.json, ScoopInstaller/Extras, 1
 bucket/controlmymonitor.json, ScoopInstaller/Nirsoft, 0
 bucket/controlprinters.json, ScoopInstaller/Extras, 1
+bucket/convco.json, aliesbelik/poldi, 1
 bucket/converseen.json, ScoopInstaller/Extras, 1
 bucket/convert.net.json, ScoopInstaller/Extras, 0
 bucket/converter-now.json, naderi/scoop-bucket, 1
@@ -7873,7 +7874,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
