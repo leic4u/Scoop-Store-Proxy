@@ -10174,6 +10174,9 @@ bucket/zebar.json, ScoopInstaller/Extras, 1
 bucket/zecwallet-cli.json, littleli/Scoop-littleli, 1
 bucket/zecwallet-lite.json, littleli/Scoop-littleli, 1
 bucket/zed-nightly.json, ScoopInstaller/Versions, 1
+bucket/zed-opengl-nightly.json, ScoopInstaller/Versions, 1
+bucket/zed-opengl.json, ScoopInstaller/Extras, 1
+bucket/zed.json, ScoopInstaller/Extras, 1
 bucket/zeebe-modeler.json, ScoopInstaller/Extras, 1
 bucket/zeebe.json, ScoopInstaller/Main, 1
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
