@@ -3193,7 +3193,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -9749,6 +9749,7 @@ bucket/windowstoolbox.json, beerpiss/scoop-bucket, 1
 bucket/windowsupdateshistoryviewer.json, kodybrown/scoop-nirsoft, 0
 bucket/windowtextextractor.json, ScoopInstaller/Extras, 1
 bucket/windscribe.json, Homeland-Community/scoop, 1
+bucket/windsurf.json, akirco/aki-apps, 1
 bucket/windterm.json, ScoopInstaller/Extras, 1
 bucket/windynamicdesktop.json, ScoopInstaller/Extras, 1
 bucket/winexplorer.json, kodybrown/scoop-nirsoft, 0
