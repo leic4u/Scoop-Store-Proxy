@@ -2040,7 +2040,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, DoveBoy/Apps, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -2712,11 +2712,11 @@ bucket/cryfs.json, naderi/scoop-bucket, 1
 bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
-bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskinfo-aoi-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
-bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-shizuku-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
@@ -3128,7 +3128,7 @@ bucket/double-finder.json, amorphobia/siku, 0
 bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/douyin-ide.json, chawyehsu/dorado, 0
-bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
+bucket/douyin-streamingtool.json, ivaquero/scoopet, 0
 bucket/douyu.json, DoveBoy/Apps, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyicore.json, batkiz/backit, 1
@@ -4105,10 +4105,10 @@ bucket/gocker.json, aliesbelik/poldi, 1
 bucket/godap.json, aliesbelik/poldi, 1
 bucket/godmode.json, DoveBoy/Apps, 1
 bucket/godot-alpha.json, ScoopInstaller/Versions, 0
-bucket/godot-beta.json, ScoopInstaller/Versions, 0
+bucket/godot-beta.json, ScoopInstaller/Versions, 1
 bucket/godot-lts.json, HUMORCE/nuke, 1
 bucket/godot-manager.json, ScoopInstaller/Extras, 1
-bucket/godot-mono-beta.json, ScoopInstaller/Versions, 0
+bucket/godot-mono-beta.json, ScoopInstaller/Versions, 1
 bucket/godot-mono-lts.json, HUMORCE/nuke, 1
 bucket/godot-mono-rc.json, ScoopInstaller/Versions, 0
 bucket/godot-mono.json, ScoopInstaller/Extras, 1
@@ -4541,6 +4541,7 @@ bucket/iddsampledriver-ge9-np.json, ScoopInstaller/Nonportable, 1
 bucket/idea-eap.json, ScoopInstaller/Versions, 1
 bucket/idea-rc.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate-eap.json, ScoopInstaller/Versions, 1
+bucket/idea-ultimate-latest.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate-rc.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate.json, ScoopInstaller/Extras, 1
 bucket/idea.json, ScoopInstaller/Extras, 1
@@ -7118,7 +7119,9 @@ bucket/php81.json, ScoopInstaller/Versions, 0
 bucket/php82-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php82.json, ScoopInstaller/Versions, 0
 bucket/php83-nts.json, aoisummer/scoop-bucket, 0
+bucket/php83-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php83.json, ScoopInstaller/Versions, 0
+bucket/php84.json, ScoopInstaller/Versions, 0
 bucket/phpmyadmin.json, wzv5/ScoopBucket, 0
 bucket/phpstorm-eap.json, ScoopInstaller/Versions, 1
 bucket/phpstorm-rc.json, ScoopInstaller/Versions, 1
@@ -7258,6 +7261,7 @@ bucket/postgresql12.json, ScoopInstaller/Versions, 0
 bucket/postgresql13.json, ScoopInstaller/Versions, 0
 bucket/postgresql14.json, ScoopInstaller/Versions, 0
 bucket/postgresql15.json, ScoopInstaller/Versions, 0
+bucket/postgresql16.json, ScoopInstaller/Versions, 0
 bucket/postgrest.json, ScoopInstaller/Main, 1
 bucket/postman-canary.json, ScoopInstaller/Versions, 0
 bucket/postman-cn.json, ViCrack/scoop-bucket, 1
@@ -7509,6 +7513,7 @@ bucket/qbittorrent-enh.json, SayCV/scoop-cvp, 1
 bucket/qbittorrent-enhanced.json, ScoopInstaller/Extras, 1
 bucket/qbittorrent-nightly-lean-libtorrentv1.json, brian6932/dank-scoop, 1
 bucket/qbittorrent-nightly-lean.json, brian6932/dank-scoop, 1
+bucket/qbittorrent-nightly.json, ScoopInstaller/Versions, 1
 bucket/qbittorrent-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/qbittorrent.json, ScoopInstaller/Extras, 0
 bucket/qbittorrentdarktheme.json, brian6932/dank-scoop, 0
@@ -8510,7 +8515,7 @@ bucket/sqlcl.json, ScoopInstaller/Main, 0
 bucket/sqldef.json, ScoopInstaller/Main, 1
 bucket/sqlite-gui.json, naderi/scoop-bucket, 1
 bucket/sqlite.json, ScoopInstaller/Main, 0
-bucket/sqlitebrowser-nightly.json, ScoopInstaller/Versions, 0
+bucket/sqlitebrowser-nightly.json, ScoopInstaller/Versions, 1
 bucket/sqlitebrowser.json, ScoopInstaller/Extras, 1
 bucket/sqliteq.json, littleli/Scoop-littleli, 0
 bucket/sqlitespy.json, ScoopInstaller/Extras, 0
@@ -9639,7 +9644,6 @@ bucket/wget120.json, ScoopInstaller/Versions, 0
 bucket/wget2.json, ScoopInstaller/Main, 1
 bucket/whatinstartup.json, ScoopInstaller/Nirsoft, 0
 bucket/whatishang.json, ScoopInstaller/Nirsoft, 0
-bucket/whatsapp-beta.json, ScoopInstaller/Versions, 0
 bucket/whatsapp-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/wheel-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/whepfrom.json, ScoopInstaller/Extras, 1
@@ -10215,6 +10219,7 @@ bucket/zookeeper.json, ScoopInstaller/Main, 0
 bucket/zoom.json, ScoopInstaller/Extras, 0
 bucket/zoomit.json, niheaven/scoop-sysinternals, 1
 bucket/zotero.json, ScoopInstaller/Extras, 1
+bucket/zotero6.json, ScoopInstaller/Versions, 1
 bucket/zoxide.json, ScoopInstaller/Main, 1
 bucket/zrok.json, ScoopInstaller/Extras, 1
 bucket/zsharp.json, ScoopInstaller/Extras, 1
