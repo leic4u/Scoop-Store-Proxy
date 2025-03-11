@@ -8728,7 +8728,7 @@ bucket/syncthingctl.json, ScoopInstaller/Extras, 1
 bucket/syncthingtray.json, ScoopInstaller/Extras, 1
 bucket/synctoy.json, ScoopInstaller/Extras, 1
 bucket/synctrayzor.json, ScoopInstaller/Extras, 1
-bucket/synfig-studio.json, ScoopInstaller/Extras, 0
+bucket/synfig-studio.json, ScoopInstaller/Extras, 1
 bucket/synology-surveillance-station.json, ScoopInstaller/Extras, 0
 bucket/synopsys-installer35-wsl.json, SayCV/scoop-cvp, 1
 bucket/synopsys-installer50-wsl.json, SayCV/scoop-cvp, 1
