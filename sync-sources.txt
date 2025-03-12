@@ -1762,7 +1762,7 @@ bucket/arduino-cli.json, ScoopInstaller/Main, 1
 bucket/arduino-ide-rc.json, ScoopInstaller/Versions, 1
 bucket/arduino.json, ScoopInstaller/Extras, 0
 bucket/arduino18.json, ScoopInstaller/Versions, 0
-bucket/ares.json, Calinou/scoop-games, 1
+bucket/ares.json, borger/scoop-emulators, 1
 bucket/argo.json, ScoopInstaller/Main, 1
 bucket/argocd-autopilot.json, ScoopInstaller/Main, 1
 bucket/argocd.json, ScoopInstaller/Main, 1
@@ -3194,7 +3194,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -7883,7 +7883,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
