@@ -2658,7 +2658,7 @@ bucket/corretto23-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/corsair-icue.json, TheRandomLabs/Scoop-Bucket, 0
-bucket/cosbrowser.json, chawyehsu/dorado, 1
+bucket/cosbrowser.json, akirco/aki-apps, 1
 bucket/cosign.json, ScoopInstaller/Main, 1
 bucket/cosmosdbexplorer-beta.json, ScoopInstaller/Versions, 1
 bucket/cotp.json, brian6932/dank-scoop, 1
@@ -5623,7 +5623,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, chawyehsu/dorado, 0
+bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
@@ -10557,6 +10557,7 @@ scripts/vscode/uninstall-github-integration.reg, ScoopInstaller/Extras, 0
 scripts/vulkan/install-vk-layers.ps1, ScoopInstaller/Main, 0
 scripts/wezterm/install-context.reg, ScoopInstaller/Extras, 0
 scripts/wezterm/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/winbox-beta/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/windowgrid/WindowGrid.settings, naderi/scoop-bucket, 0
 scripts/windows-terminal-preview/install-context.reg, ScoopInstaller/Versions, 0
 scripts/windows-terminal-preview/uninstall-context.reg, ScoopInstaller/Versions, 0
