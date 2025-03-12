@@ -1081,6 +1081,7 @@ bucket/SarasaGothic-ttc-unhinted.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/SarasaGothic-ttc.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/SarasaGothic-unhinted.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/SarasaGothic.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Scoop4kariiinUtils.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/ScoopFindCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/ScoopHook-Portable.json, ACooper81/scoop-apps, 1
 bucket/ScoopSearchCLI-Portable.json, ACooper81/scoop-apps, 1
