@@ -33,8 +33,8 @@
   ],
   "pre_uninstall": [
     "Remove-Module -Name $manifest.psmodule.name -ErrorAction SilentlyContinue",
-    "$Scoop4kariiinUtilsPath = $(appdir Scoop4kariiinUtils $global)",
     "if ('uninstall' -eq $cmd) {",
+    "    $Scoop4kariiinUtilsPath = $(appdir Scoop4kariiinUtils $global)",
     "    if (Test-Path $Scoop4kariiinUtilsPath) {",
     "        Import-Module -Name Scoop4kariiinUtils -ErrorAction Stop",
     "        Remove-ProfileContent -Content 'Import-Module Windows-screenFetch'",
