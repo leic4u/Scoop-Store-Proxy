@@ -178,7 +178,7 @@ bucket/BetterNCM.json, ygguorun/scoop-bucket, 1
 bucket/BigBlueTerminal-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Bilibili.json, DoveBoy/Apps, 0
+bucket/Bilibili.json, akirco/aki-apps, 0
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitComet.json, leic4u/Scoop-Store, 0
@@ -1925,7 +1925,7 @@ bucket/b2sum.json, ScoopInstaller/Main, 0
 bucket/b3sum.json, ScoopInstaller/Main, 1
 bucket/babashka.json, littleli/scoop-clojure, 1
 bucket/babelmap.json, ScoopInstaller/Extras, 0
-bucket/babelpad.json, rasa/scoops, 0
+bucket/babelpad.json, ScoopInstaller/Extras, 0
 bucket/backrest.json, ScoopInstaller/Extras, 1
 bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
 bucket/baidu-net-disk.json, yuusakuri/scoop-bucket, 0
@@ -5139,7 +5139,7 @@ bucket/lazpaint.json, ScoopInstaller/Extras, 1
 bucket/lazy-posh-git.json, ScoopInstaller/Extras, 1
 bucket/lazydocker.json, ScoopInstaller/Main, 1
 bucket/lazygit.json, ScoopInstaller/Extras, 1
-bucket/lazysql.json, aliesbelik/poldi, 1
+bucket/lazysql.json, ScoopInstaller/Extras, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
 bucket/lbry.json, ScoopInstaller/Extras, 1
 bucket/lceda-pro.json, chawyehsu/dorado, 0
@@ -9246,6 +9246,7 @@ bucket/ungit.json, ScoopInstaller/Extras, 1
 bucket/ungoogled-chromium-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/ungoogled-chromium.json, ScoopInstaller/Extras, 1
 bucket/uni.json, batkiz/backit, 1
+bucket/unicodia.json, ScoopInstaller/Extras, 1
 bucket/unicsved.json, naderi/scoop-bucket, 0
 bucket/uniextract.json, naderi/scoop-bucket, 1
 bucket/uniextract2.json, ScoopInstaller/Extras, 1
