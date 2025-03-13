@@ -206,7 +206,7 @@ bucket/BrowserTamer-Portable.json, ACooper81/scoop-apps, 1
 bucket/BrutalityExtractor.json, Weidows-projects/scoop-3rd, 1
 bucket/BulkCrapUninstaller-Portable.json, ACooper81/scoop-apps, 1
 bucket/BurntToast-PSModule.json, ACooper81/scoop-apps, 1
-bucket/ByPass.json, echoiron/echo-scoop, 0
+bucket/ByPass.json, kkzzhizhou/scoop-zapps, 0
 bucket/CCleaner-Portable.json, ACooper81/scoop-apps, 0
 bucket/CCleaner540.json, zhoujin7/tomato, 0
 bucket/CJK-character-count.json, ygguorun/scoop-bucket, 1
@@ -2658,7 +2658,7 @@ bucket/corretto23-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/corsair-icue.json, TheRandomLabs/Scoop-Bucket, 0
-bucket/cosbrowser.json, akirco/aki-apps, 1
+bucket/cosbrowser.json, chawyehsu/dorado, 1
 bucket/cosign.json, ScoopInstaller/Main, 1
 bucket/cosmosdbexplorer-beta.json, ScoopInstaller/Versions, 1
 bucket/cotp.json, brian6932/dank-scoop, 1
@@ -5624,7 +5624,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
+bucket/microsoftedge.json, chawyehsu/dorado, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
@@ -6309,7 +6309,7 @@ bucket/officetool-dotnet.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetool-plus.json, HUMORCE/nuke, 1
 bucket/officetool.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetoolplus-with-runtime.json, DoveBoy/Apps, 1
-bucket/officetoolplus.json, naderi/scoop-bucket, 1
+bucket/officetoolplus.json, chawyehsu/dorado, 1
 bucket/offlineinsiderenroll.json, ScoopInstaller/Main, 1
 bucket/offlineregistryfinder.json, ScoopInstaller/Nirsoft, 0
 bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
@@ -6636,7 +6636,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7884,7 +7884,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
