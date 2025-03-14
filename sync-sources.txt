@@ -3196,7 +3196,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -7551,7 +7551,7 @@ bucket/qqgame.json, DoveBoy/Apps, 0
 bucket/qqlite-patch.json, SayCV/scoop-cvp, 1
 bucket/qqlite.json, SayCV/scoop-cvp, 0
 bucket/qqlive-cvp.json, SayCV/scoop-cvp, 1
-bucket/qqlive.json, wzv5/ScoopBucket, 0
+bucket/qqlive.json, DoveBoy/Apps, 0
 bucket/qqmusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/qqmusic.json, wzv5/ScoopBucket, 0
 bucket/qqplayer.json, amorphobia/siku, 0
