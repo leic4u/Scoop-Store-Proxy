@@ -3228,6 +3228,7 @@ bucket/dynamorio.json, ScoopInstaller/Main, 1
 bucket/dzsalauncher.json, brian6932/dank-scoop, 0
 bucket/eac.json, ScoopInstaller/Extras, 0
 bucket/eac3to.json, ScoopInstaller/Main, 0
+bucket/eacopy.json, brian6932/dank-scoop, 1
 bucket/eagleget.json, ScoopInstaller/Extras, 1
 bucket/eaio.json, ygguorun/scoop-bucket, 1
 bucket/earthly.json, ScoopInstaller/Main, 1
