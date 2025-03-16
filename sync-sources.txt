@@ -2706,6 +2706,7 @@ bucket/crip.json, ScoopInstaller/Extras, 1
 bucket/crispy-doom.json, Calinou/scoop-games, 1
 bucket/cro-mag-rally.json, Calinou/scoop-games, 1
 bucket/croc.json, ScoopInstaller/Main, 1
+bucket/cromite.json, ScoopInstaller/Extras, 1
 bucket/crow-translate.json, ScoopInstaller/Extras, 1
 bucket/cru.json, ScoopInstaller/Extras, 0
 bucket/cruft.json, ScoopInstaller/Extras, 0
@@ -7295,7 +7296,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
