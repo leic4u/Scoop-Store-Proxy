@@ -5597,7 +5597,6 @@ bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
-bucket/mi-assistant.json, akirco/aki-apps, 0
 bucket/micaforeveryone-dev.json, ScoopInstaller/Versions, 1
 bucket/micaforeveryone.json, ScoopInstaller/Extras, 1
 bucket/micmute.json, ScoopInstaller/Extras, 1
