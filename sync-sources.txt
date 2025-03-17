@@ -5532,6 +5532,7 @@ bucket/mdloader.json, ScoopInstaller/Extras, 1
 bucket/mdlt.json, MCOfficer/scoop-bucket, 1
 bucket/mdq.json, ScoopInstaller/Main, 1
 bucket/mdr.json, naderi/scoop-bucket, 1
+bucket/mdsilo.json, naderi/scoop-bucket, 1
 bucket/mdut.json, ViCrack/scoop-bucket, 1
 bucket/mdview.json, naderi/scoop-bucket, 1
 bucket/media-downloader.json, ScoopInstaller/Extras, 1
