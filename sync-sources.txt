@@ -728,8 +728,8 @@ bucket/MajsoulPaipuAnalyzer.json, ygguorun/scoop-bucket, 1
 bucket/MajsoulPlus.json, ygguorun/scoop-bucket, 1
 bucket/Mali.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Manuskript.json, abgox/abgo_bucket, 1
+bucket/Maple-Mono-NF-CN.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Maple-Mono-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Maple-Mono-SC-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Maple-Mono-autohint.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Maple-Mono-otf.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Maple-Mono.json, matthewjberger/scoop-nerd-fonts, 1
