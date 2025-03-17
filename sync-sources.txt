@@ -2390,6 +2390,7 @@ bucket/cheat-engine.json, ScoopInstaller/Extras, 1
 bucket/cheat.json, ScoopInstaller/Main, 1
 bucket/checksum-compare.json, ScoopInstaller/Extras, 0
 bucket/chef-workstation.json, ScoopInstaller/Extras, 0
+bucket/cherry-studio-pre.json, ScoopInstaller/Versions, 1
 bucket/cherry-studio.json, ScoopInstaller/Extras, 1
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi-modify-manager.json, cderv/r-bucket, 1
