@@ -3978,7 +3978,7 @@ bucket/gig.json, ScoopInstaller/Main, 1
 bucket/gimagereader.json, cc713/ownscoop, 1
 bucket/gimagex.json, ScoopInstaller/Extras, 0
 bucket/gimp-cn-dev.json, ivaquero/scoopet, 0
-bucket/gimp-cn.json, ivaquero/scoopet, 1
+bucket/gimp-cn.json, ivaquero/scoopet, 0
 bucket/gimp-dev.json, ScoopInstaller/Versions, 0
 bucket/gimp.json, ScoopInstaller/Extras, 1
 bucket/gingko.json, hu3rror/scoop-muggle, 1
@@ -7890,7 +7890,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
