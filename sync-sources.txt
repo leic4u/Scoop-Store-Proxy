@@ -935,7 +935,7 @@ bucket/PingFangSC.json, ygguorun/scoop-bucket, 0
 bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/PixBuilder.json, zhoujin7/tomato, 0
 bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
-bucket/PixPin.json, echoiron/echo-scoop, 0
+bucket/PixPin.json, ygguorun/scoop-bucket, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixeval.json, DoveBoy/Apps, 1
 bucket/Playnite-Portable.json, ACooper81/scoop-apps, 1
