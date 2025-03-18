@@ -5486,6 +5486,7 @@ bucket/markdown-edit.json, naderi/scoop-bucket, 1
 bucket/markdown-monster.json, ScoopInstaller/Extras, 1
 bucket/markdown-oxide.json, ScoopInstaller/Main, 1
 bucket/markdownify.json, MCOfficer/scoop-bucket, 1
+bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
 bucket/markright.json, MCOfficer/scoop-bucket, 1
