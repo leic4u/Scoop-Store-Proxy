@@ -6060,7 +6060,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, DoveBoy/Apps, 0
+bucket/neteasemusic.json, ivaquero/scoopet, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
@@ -9762,7 +9762,7 @@ bucket/windowstoolbox.json, beerpiss/scoop-bucket, 1
 bucket/windowsupdateshistoryviewer.json, kodybrown/scoop-nirsoft, 0
 bucket/windowtextextractor.json, ScoopInstaller/Extras, 1
 bucket/windscribe.json, Homeland-Community/scoop, 1
-bucket/windsurf.json, akirco/aki-apps, 1
+bucket/windsurf.json, akirco/aki-apps, 0
 bucket/windterm.json, ScoopInstaller/Extras, 1
 bucket/windynamicdesktop.json, ScoopInstaller/Extras, 1
 bucket/winexplorer.json, kodybrown/scoop-nirsoft, 0
@@ -9981,7 +9981,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu.json, hermanjustnu/scoop-emulators, 1
+bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
