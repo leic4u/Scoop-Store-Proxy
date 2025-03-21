@@ -1566,7 +1566,7 @@ bucket/adobeillustratorlite.json, SayCV/scoop-cvp, 1
 bucket/adobephotoshopcclite.json, SayCV/scoop-cvp, 1
 bucket/adom.json, Calinou/scoop-games, 0
 bucket/adrestore.json, niheaven/scoop-sysinternals, 1
-bucket/adrive.json, ivaquero/scoopet, 0
+bucket/adrive.json, ygguorun/scoop-bucket, 1
 bucket/advanced-combat-tracker.json, Calinou/scoop-games, 1
 bucket/advanced-ip-scanner.json, ScoopInstaller/Extras, 0
 bucket/advancedrenamer.json, ScoopInstaller/Extras, 0
@@ -7891,7 +7891,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
