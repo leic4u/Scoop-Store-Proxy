@@ -242,6 +242,7 @@ bucket/ChatBox-Portable.json, ACooper81/scoop-apps, 1
 bucket/Chatbox.json, abgox/abgo_bucket, 0
 bucket/CheatEngine.json, wordpure/scoop-air, 1
 bucket/ChenYuLuoYen-Thin.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Chinese-Subtitle-Conversion-Tool.json, leic4u/Scoop-Store, 1
 bucket/Chocolatey-Portable.json, ACooper81/scoop-apps, 0
 bucket/Cinebench-R15.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/Cinebench-R20.json, AkariiinMKII/Scoop4kariiin, 1
