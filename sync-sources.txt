@@ -166,7 +166,7 @@ bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
@@ -2049,7 +2049,7 @@ bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
 bucket/bilibilidown.json, DoveBoy/Apps, 1
 bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
-bucket/bililive-go.json, DoveBoy/Apps, 1
+bucket/bililive-go.json, ygguorun/scoop-bucket, 1
 bucket/bililive-tools-cli.json, DoveBoy/Apps, 1
 bucket/bililive-tools-portable.json, DoveBoy/Apps, 1
 bucket/bililive-tools.json, DoveBoy/Apps, 1
@@ -2558,6 +2558,7 @@ bucket/cmdow.json, ScoopInstaller/Extras, 1
 bucket/cmwtat-digital-edition.json, DoveBoy/Apps, 1
 bucket/cnc-ddraw.json, Calinou/scoop-games, 1
 bucket/cnkiexpress.json, ivaquero/scoopet, 0
+bucket/cnnettool.json, DoveBoy/Apps, 1
 bucket/cnping.json, ScoopInstaller/Extras, 1
 bucket/cobalt.json, ScoopInstaller/Main, 1
 bucket/coca.json, seumsc/scoop-seu, 0
@@ -3199,7 +3200,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -9544,6 +9545,7 @@ bucket/vtm.json, ScoopInstaller/Extras, 1
 bucket/vulkan.json, ScoopInstaller/Main, 1
 bucket/vultr.json, ScoopInstaller/Main, 1
 bucket/vuplayer.json, ScoopInstaller/Extras, 1
+bucket/vutronmusic.json, DoveBoy/Apps, 1
 bucket/vvv.json, rasa/scoops, 0
 bucket/vysor.json, ScoopInstaller/Extras, 1
 bucket/w10privacy.json, ScoopInstaller/Extras, 0
