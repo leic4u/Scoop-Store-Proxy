@@ -2427,6 +2427,7 @@ bucket/chrome-portable.json, naderi/scoop-bucket, 0
 bucket/chrome-power-app.json, Weidows-projects/scoop-3rd, 1
 bucket/chrome-with-flash.json, kkzzhizhou/scoop-zapps, 1
 bucket/chrome.json, echoiron/echo-scoop, 0
+bucket/chrome103.json, Weidows-projects/scoop-3rd, 1
 bucket/chrome121.json, Weidows-projects/scoop-3rd, 0
 bucket/chromecacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/chromecookiesview.json, ScoopInstaller/Nirsoft, 0
