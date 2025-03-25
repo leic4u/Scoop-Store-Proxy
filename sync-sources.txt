@@ -2785,6 +2785,7 @@ bucket/cuda9.2.json, ScoopInstaller/Versions, 0
 bucket/cuda9.json, ScoopInstaller/Versions, 0
 bucket/cudatext-addons.json, cc713/ownscoop, 0
 bucket/cudatext-cn.json, ViCrack/scoop-bucket, 0
+bucket/cudatext-portable.json, naderi/scoop-bucket, 0
 bucket/cudatext.json, ScoopInstaller/Extras, 0
 bucket/cudnn.json, Weidows-projects/scoop-3rd, 0
 bucket/cue.json, ScoopInstaller/Main, 1
