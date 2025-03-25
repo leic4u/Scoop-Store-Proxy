@@ -2421,11 +2421,13 @@ bucket/chrome-browser.json, renxia/scoop-bucket, 0
 bucket/chrome-canary-portable.json, naderi/scoop-bucket, 0
 bucket/chrome-cvp.json, SayCV/scoop-cvp, 1
 bucket/chrome-dev-portable.json, naderi/scoop-bucket, 0
+bucket/chrome-for-testing121.json, Weidows-projects/scoop-3rd, 0
 bucket/chrome-headless-shell.json, cderv/r-bucket, 0
 bucket/chrome-portable.json, naderi/scoop-bucket, 0
 bucket/chrome-power-app.json, Weidows-projects/scoop-3rd, 1
 bucket/chrome-with-flash.json, kkzzhizhou/scoop-zapps, 1
 bucket/chrome.json, echoiron/echo-scoop, 0
+bucket/chrome121.json, Weidows-projects/scoop-3rd, 0
 bucket/chromecacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/chromecookiesview.json, ScoopInstaller/Nirsoft, 0
 bucket/chromedriver-beta.json, ScoopInstaller/Versions, 0
