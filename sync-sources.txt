@@ -7422,6 +7422,7 @@ bucket/psshutdown.json, mogeko/scoop-sysinternals, 0
 bucket/pssuspend.json, niheaven/scoop-sysinternals, 1
 bucket/pstools.json, chawyehsu/dorado, 0
 bucket/pstpassword.json, ScoopInstaller/Nirsoft, 0
+bucket/pstree.json, cderv/r-bucket, 0
 bucket/psutils.json, ScoopInstaller/Main, 1
 bucket/pswinglue.json, yuusakuri/scoop-bucket, 1
 bucket/pswinutil.json, yuusakuri/scoop-bucket, 1
@@ -9126,6 +9127,7 @@ bucket/trdsqlCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/tre-command.json, ScoopInstaller/Main, 1
 bucket/tre.json, MCOfficer/scoop-bucket, 1
 bucket/tree-sitter.json, ScoopInstaller/Main, 1
+bucket/tree.json, cderv/r-bucket, 0
 bucket/treeline.json, amorphobia/siku, 1
 bucket/treesheets.json, ScoopInstaller/Extras, 1
 bucket/treesize-free.json, ScoopInstaller/Extras, 0
