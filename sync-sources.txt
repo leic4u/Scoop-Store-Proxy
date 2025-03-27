@@ -2051,7 +2051,6 @@ bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
 bucket/bilibilidown.json, DoveBoy/Apps, 1
 bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
 bucket/bililive-go.json, ygguorun/scoop-bucket, 1
-bucket/bililive-tools-cli.json, DoveBoy/Apps, 1
 bucket/bililive-tools-portable.json, DoveBoy/Apps, 1
 bucket/bililive-tools.json, DoveBoy/Apps, 1
 bucket/bililiverecorder.json, chawyehsu/dorado, 1
@@ -9673,7 +9672,6 @@ bucket/wheel-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/whepfrom.json, ScoopInstaller/Extras, 1
 bucket/which.json, ScoopInstaller/Main, 0
 bucket/whipinto.json, ScoopInstaller/Extras, 1
-bucket/whisper-cpp-blas.json, DoveBoy/Apps, 1
 bucket/whisper-cpp.json, ScoopInstaller/Main, 1
 bucket/whisper.json, DoveBoy/Apps, 1
 bucket/whkd.json, ScoopInstaller/Extras, 1
