@@ -5,15 +5,15 @@
   "license": "Freeware",
   "architecture": {
     "64bit": {
-      "url": "https://beerpsi-scoop.deno.dev/edge?arch=x64&channel=stable&version=134.0.3124.85&dl#/MicrosoftEdge-134.0.3124.85-x64.7z",
+      "url": "https://dorado-api.deno.dev/edge?arch=64&channel=stable&version=134.0.3124.85&dl#/MicrosoftEdge-134.0.3124.85-x64.7z",
       "hash": "0ad8580c17dc0776b0ec7e82f4183681ab26a9c56eb0b7703a2fea2f862986f8"
     },
     "32bit": {
-      "url": "https://beerpsi-scoop.deno.dev/edge?arch=x86&channel=stable&version=134.0.3124.85&dl#/MicrosoftEdge-134.0.3124.85-x86.7z",
+      "url": "https://dorado-api.deno.dev/edge?arch=86&channel=stable&version=134.0.3124.85&dl#/MicrosoftEdge-134.0.3124.85-x86.7z",
       "hash": "8fa11aae15e809f7bd9793f3ccd81ac65c02d4fe9a60862684a4e938c59d77a4"
     },
     "arm64": {
-      "url": "https://beerpsi-scoop.deno.dev/edge?arch=arm64&channel=stable&version=134.0.3124.85&dl#/MicrosoftEdge-134.0.3124.85-arm64.7z",
+      "url": "https://dorado-api.deno.dev/edge?arch=arm64&channel=stable&version=134.0.3124.85&dl#/MicrosoftEdge-134.0.3124.85-arm64.7z",
       "hash": "3f272b4029d8e2b59b58b8535c87aaf22f3798d79a7a7e47c896c9a772250138"
     }
   },
@@ -27,29 +27,29 @@
     ]
   ],
   "checkver": {
-    "url": "https://beerpsi-scoop.deno.dev/edge?arch=x64&channel=stable",
+    "url": "https://dorado-api.deno.dev/edge?arch=64&channel=stable",
     "jsonpath": "$.Version"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://beerpsi-scoop.deno.dev/edge?arch=x64&channel=stable&version=$version&dl#/MicrosoftEdge-$version-x64.7z",
+        "url": "https://dorado-api.deno.dev/edge?arch=64&channel=stable&version=$version&dl#/MicrosoftEdge-$version-x64.7z",
         "hash": {
-          "url": "https://beerpsi-scoop.deno.dev/edge?arch=x64&channel=stable&version=$version",
+          "url": "https://dorado-api.deno.dev/edge?arch=64&channel=stable&version=$version",
           "jsonpath": "$.Hashes.Sha256"
         }
       },
       "32bit": {
-        "url": "https://beerpsi-scoop.deno.dev/edge?arch=x86&channel=stable&version=$version&dl#/MicrosoftEdge-$version-x86.7z",
+        "url": "https://dorado-api.deno.dev/edge?arch=86&channel=stable&version=$version&dl#/MicrosoftEdge-$version-x86.7z",
         "hash": {
-          "url": "https://beerpsi-scoop.deno.dev/edge?arch=x86&channel=stable&version=$version",
+          "url": "https://dorado-api.deno.dev/edge?arch=86&channel=stable&version=$version",
           "jsonpath": "$.Hashes.Sha256"
         }
       },
       "arm64": {
-        "url": "https://beerpsi-scoop.deno.dev/edge?arch=arm64&channel=stable&version=$version&dl#/MicrosoftEdge-$version-arm64.7z",
+        "url": "https://dorado-api.deno.dev/edge?arch=arm64&channel=stable&version=$version&dl#/MicrosoftEdge-$version-arm64.7z",
         "hash": {
-          "url": "https://beerpsi-scoop.deno.dev/edge?arch=arm64&channel=stable&version=$version",
+          "url": "https://dorado-api.deno.dev/edge?arch=arm64&channel=stable&version=$version",
           "jsonpath": "$.Hashes.Sha256"
         }
       }
