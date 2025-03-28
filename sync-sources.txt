@@ -1411,7 +1411,7 @@ bucket/WazuhAgent-Install.json, ACooper81/scoop-apps, 0
 bucket/WeChat-Portable.json, Paxxs/Cluttered-bucket, 0
 bucket/WePE.json, Weidows-projects/scoop-3rd, 0
 bucket/WebCatalog-Portable.json, ACooper81/scoop-apps, 0
-bucket/WechatWork.json, ivaquero/scoopet, 0
+bucket/WechatWork.json, kkzzhizhou/scoop-zapps, 1
 bucket/WeekToDo.json, abgox/abgo_bucket, 1
 bucket/Wenquanyi-Microhei.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Wenquanyi-Zenhei.json, matthewjberger/scoop-nerd-fonts, 0
@@ -6649,7 +6649,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9992,7 +9992,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu.json, Calinou/scoop-games, 1
+bucket/xemu.json, hermanjustnu/scoop-emulators, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
