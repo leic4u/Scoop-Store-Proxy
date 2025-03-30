@@ -5663,6 +5663,7 @@ bucket/migrated/hopp-cli.json, aliesbelik/poldi, 1
 bucket/migrated/jaq.json, aliesbelik/poldi, 1
 bucket/migrated/jc.json, aliesbelik/poldi, 1
 bucket/migrated/jo.json, aliesbelik/poldi, 1
+bucket/migrated/lazysql.json, aliesbelik/poldi, 1
 bucket/migrated/mqtt-cli.json, aliesbelik/poldi, 1
 bucket/migrated/octosql.json, aliesbelik/poldi, 1
 bucket/migrated/oha.json, aliesbelik/poldi, 1
@@ -6208,6 +6209,7 @@ bucket/noty.json, ScoopInstaller/Extras, 1
 bucket/nova.json, ScoopInstaller/Main, 1
 bucket/novelwriter.json, ScoopInstaller/Extras, 1
 bucket/now-cli.json, ScoopInstaller/Extras, 1
+bucket/nping.json, aliesbelik/poldi, 1
 bucket/npiperelay.json, ScoopInstaller/Extras, 1
 bucket/npm-completion.json, akirco/aki-apps, 1
 bucket/npm-tab-completion.json, DoveBoy/Apps, 0
