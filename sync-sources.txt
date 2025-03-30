@@ -9980,6 +9980,7 @@ bucket/x64dbgida.json, SayCV/scoop-cvp, 1
 bucket/xampp-np.json, ScoopInstaller/Nonportable, 0
 bucket/xampp.json, ScoopInstaller/Extras, 0
 bucket/xampp74.json, ScoopInstaller/Versions, 0
+bucket/xan.json, ScoopInstaller/Extras, 1
 bucket/xasm.json, littleli/Scoop-littleli, 1
 bucket/xb1cbi.json, ScoopInstaller/Extras, 1
 bucket/xc.json, ScoopInstaller/Extras, 1
