@@ -8385,6 +8385,7 @@ bucket/slu.json, littleli/Scoop-littleli, 1
 bucket/slumber.json, aliesbelik/poldi, 1
 bucket/smali.json, TheCjw/scoop-retools, 0
 bucket/smart-svg-viewer.json, naderi/scoop-bucket, 0
+bucket/smartcontextmenu.json, ScoopInstaller/Extras, 1
 bucket/smartgit-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/smartgit.json, ScoopInstaller/Extras, 0
 bucket/smartmontools.json, ScoopInstaller/Main, 0
