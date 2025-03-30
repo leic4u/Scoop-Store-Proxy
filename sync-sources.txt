@@ -1269,7 +1269,7 @@ bucket/Thunder.json, ygguorun/scoop-bucket, 0
 bucket/ThunderS.json, hu3rror/scoop-muggle, 0
 bucket/ThunderSpeed.json, kkzzhizhou/scoop-zapps, 1
 bucket/Thunderbird-CN.json, abgox/abgo_bucket, 0
-bucket/Thunderbird-Portable.json, naderi/scoop-bucket, 0
+bucket/Thunderbird-Portable.json, ACooper81/scoop-apps, 0
 bucket/TianRuoOCR.json, kkzzhizhou/scoop-zapps, 1
 bucket/TickTick.json, wordpure/scoop-air, 0
 bucket/Tickeys-Portable.json, ACooper81/scoop-apps, 0
