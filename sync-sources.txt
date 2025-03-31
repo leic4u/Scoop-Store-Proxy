@@ -4425,7 +4425,7 @@ bucket/hl.json, aliesbelik/poldi, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 0
-bucket/hmcl.json, seumsc/scoop-seu, 0
+bucket/hmcl.json, chawyehsu/dorado, 0
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
 bucket/hok.json, chawyehsu/dorado, 1
