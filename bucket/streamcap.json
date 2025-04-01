@@ -1,5 +1,5 @@
 {
-  "version": "2024-12-14",
+  "version": "0.0.1",
   "description": "多平台直播流自动录制工具 · 基于FFmpeg · 支持监控/定时/转码 | Multi-Platform Live Stream Automatic Recording Tool",
   "homepage": "https://github.com/ihmily/StreamCap",
   "license": {
@@ -8,9 +8,9 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/Tohrusky/Final2x/releases/download/2024-12-14/Final2x-windows-x64-setup.exe#/dl.7z",
-      "hash": "e6ed8c4c154f6643dd6ee4c826cdd75df61551e1e95f03e018a9b1d0758bdf89",
-      "extract_dir": "StreamCap_$version_Win_x64"
+      "url": "https://ghgo.xyz/https://github.com/ihmily/StreamCap/releases/download/v0.0.1/StreamCap_0.0.1_Win_x64.zip",
+      "hash": "8ff62cd53fc08bcfde3ba7f02069f558b17efce958ca0d10bb80539b1e2b7c4e",
+      "extract_dir": "StreamCap_0.0.1_Win_x64"
     }
   },
   "installer": {
