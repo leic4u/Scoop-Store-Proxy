@@ -3961,6 +3961,7 @@ bucket/geth.json, ScoopInstaller/Main, 0
 bucket/getjpegs.json, rasa/scoops, 1
 bucket/getnir.json, ScoopInstaller/Nirsoft, 0
 bucket/gettext.json, ScoopInstaller/Main, 1
+bucket/gg.json, ScoopInstaller/Extras, 1
 bucket/gh-dash.json, littleli/Scoop-littleli, 1
 bucket/gh.json, ScoopInstaller/Main, 1
 bucket/ghc96.json, iquiw/scoop-bucket, 0
