@@ -1114,6 +1114,7 @@ bucket/SiYuan.json, abgox/abgo_bucket, 1
 bucket/SideQuest.json, Weidows-projects/scoop-3rd, 1
 bucket/Sigma-File-Manager.json, abgox/abgo_bucket, 1
 bucket/SilentCMD-Portable.json, ACooper81/scoop-apps, 1
+bucket/Simple-x264-x265-Launcher.json, leic4u/Scoop-Store, 1
 bucket/SimpleMindMap.json, abgox/abgo_bucket, 1
 bucket/Simplewall-Portable.json, ACooper81/scoop-apps, 1
 bucket/SimplyListenMusic.json, abgox/abgo_bucket, 0
