@@ -2056,7 +2056,7 @@ bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
 bucket/bililive-go.json, ygguorun/scoop-bucket, 1
 bucket/bililive-tools-portable.json, DoveBoy/Apps, 1
 bucket/bililive-tools.json, DoveBoy/Apps, 1
-bucket/bililiverecorder.json, cc713/ownscoop, 1
+bucket/bililiverecorder.json, chawyehsu/dorado, 1
 bucket/bilimini.json, amorphobia/siku, 1
 bucket/bilineo.json, DoveBoy/Apps, 1
 bucket/biliup-app.json, Weidows-projects/scoop-3rd, 1
@@ -6656,7 +6656,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7907,7 +7907,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -8024,7 +8024,7 @@ bucket/sak.json, kiennq/scoop-misc, 1
 bucket/sakura.json, mo-san/scoop-bucket, 1
 bucket/salt.json, kidonng/sushi, 1
 bucket/sam.json, ScoopInstaller/Extras, 1
-bucket/sameboy.json, hermanjustnu/scoop-emulators, 1
+bucket/sameboy.json, Calinou/scoop-games, 1
 bucket/saml2aws.json, ScoopInstaller/Main, 1
 bucket/sampler.json, ScoopInstaller/Main, 1
 bucket/samsung-magician-np.json, rasa/scoops, 0
@@ -9000,7 +9000,7 @@ bucket/thunderbird-beta.json, naderi/scoop-bucket, 0
 bucket/thunderbird-de.json, naderi/scoop-bucket, 0
 bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird-fa.json, naderi/scoop-bucket, 0
-bucket/thunderbird-zh-cn.json, cc713/ownscoop, 0
+bucket/thunderbird-zh-cn.json, chawyehsu/dorado, 0
 bucket/thunderbird.ja.json, jfut/scoop-jfut, 0
 bucket/thunderbird.json, ScoopInstaller/Extras, 0
 bucket/ti-analogengineerscalculator.json, SayCV/scoop-cvp, 1
