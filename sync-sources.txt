@@ -8428,7 +8428,7 @@ bucket/snipaste.json, ScoopInstaller/Extras, 0
 bucket/sniproxy.json, DoveBoy/Apps, 1
 bucket/snoop.json, ScoopInstaller/Extras, 1
 bucket/snova-asioCLI-Portable.json, ACooper81/scoop-apps, 1
-bucket/so-novel-with-jre.json, DoveBoy/Apps, 1
+bucket/so-novel-beta.json, DoveBoy/Apps, 1
 bucket/so-novel.json, DoveBoy/Apps, 1
 bucket/so.json, ScoopInstaller/Extras, 1
 bucket/soapui.json, ScoopInstaller/Extras, 1
