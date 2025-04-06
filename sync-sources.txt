@@ -2724,7 +2724,7 @@ bucket/cryfs.json, naderi/scoop-bucket, 1
 bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
-bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskinfo-aoi-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
@@ -6106,6 +6106,7 @@ bucket/networktools.json, ScoopInstaller/Nirsoft, 0
 bucket/networktrafficview.json, ScoopInstaller/Nirsoft, 0
 bucket/networkusageview.json, ScoopInstaller/Nirsoft, 0
 bucket/neverball.json, Calinou/scoop-games, 0
+bucket/new-isofile.json, amorphobia/siku, 1
 bucket/newer-tanooki.json, Calinou/scoop-games, 1
 bucket/newfiletime.json, ViCrack/scoop-bucket, 0
 bucket/newrain-duplicate-photo-finder.json, hu3rror/scoop-muggle, 0
