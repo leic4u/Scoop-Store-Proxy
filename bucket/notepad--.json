@@ -5,11 +5,11 @@
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/cxasm/notepad--/releases/download/notepad-v3.2/Notepad--v3.2.0-win10-Portable.zip",
+      "url": "https://ghgo.xyz/https://github.com/cxasm/notepad--/releases/download/notepad-v3.2/Notepad--v3.2.0-win10-portable.zip",
       "hash": "f53ec3f997145a8bf62ab7d15df387cdd5dddd51617e02b8e556eeeb16f6f7e5",
       "pre_install": [
-        "Move-Item \"$dir\\Notepad--v$version-win10-portable\\*\" \"$dir\"",
-        "Remove-Item \"$dir\\Notepad--v$version-win10-portable\" -Force -Recurse"
+        "Move-Item \"$dir\\notepad--v$version-win10-portable\\*\" \"$dir\"",
+        "Remove-Item \"$dir\\notepad--v$version-win10-portable\" -Force -Recurse"
       ]
     }
   },
@@ -22,12 +22,12 @@
   ],
   "checkver": {
     "url": "https://api.github.com/repos/cxasm/notepad--/releases/latest",
-    "regex": "Notepad--[vV]?([\\d.]+)"
+    "regex": "Notepad--[vV]?(\\d+\\.\\d+\\.\\d+)"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghgo.xyz/https://github.com/cxasm/notepad--/releases/download/notepad-v$majorVersion.$minorVersion/Notepad--v$version-win10-Portable.zip"
+        "url": "https://ghgo.xyz/https://github.com/cxasm/notepad--/releases/download/notepad-v$majorVersion.$minorVersion/Notepad--v$version-win10-portable.zip"
       }
     }
   }
