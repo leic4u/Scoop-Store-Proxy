@@ -1,6 +1,6 @@
 {
-  "version": "3763-322f908",
-  "description": "Sony PlayStation Vita emulator",
+  "version": "3764-05690eb",
+  "description": "Experimental PlayStation Vita emulator",
   "homepage": "https://vita3k.org",
   "license": "GPL-2.0-only",
   "suggest": {
@@ -9,7 +9,7 @@
   "architecture": {
     "64bit": {
       "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
-      "hash": "63aadfc2a80543bc518b150ad18aa1b43e26efb50501a8651260ee3c0ce3af9a"
+      "hash": "e60edff25b7cbe20f399b22d635f8540fd415d61be8d4cee4e8b8216057e59fe"
     }
   },
   "pre_install": [
@@ -21,7 +21,7 @@
   "shortcuts": [
     [
       "Vita3K.exe",
-      "Sony PlayStation Vita [vita][vita3k]"
+      "Vita3K"
     ]
   ],
   "persist": [
@@ -29,7 +29,6 @@
     "config.yml"
   ],
   "checkver": {
-    "regex": "(\\d+-[a-f0-9]{7})",
     "script": [
       "$url = 'https://github.com/Vita3K/Vita3K/releases/tag/continuous'",
       "$build_regex = 'Vita3K Build: (\\d+)'",
@@ -44,7 +43,8 @@
       "",
       "$script_ver = \"$build_number-$commit_sha\"",
       "Write-Output $script_ver"
-    ]
+    ],
+    "regex": "(\\d+-[a-f0-9]{7})"
   },
   "autoupdate": {
     "architecture": {
