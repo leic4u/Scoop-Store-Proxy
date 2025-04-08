@@ -1909,6 +1909,7 @@ bucket/axmlprinter.json, TheCjw/scoop-retools, 1
 bucket/axure.json, chawyehsu/dorado, 0
 bucket/aya.json, DoveBoy/Apps, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
+bucket/azahar.json, Deide/deide-bucket, 1
 bucket/azcopy.json, ScoopInstaller/Main, 0
 bucket/azd.json, ScoopInstaller/Extras, 1
 bucket/aztfexport.json, ScoopInstaller/Main, 1
