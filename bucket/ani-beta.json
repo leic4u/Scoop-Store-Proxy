@@ -1,13 +1,13 @@
 {
-  "version": "4.8.0-beta03",
+  "version": "4.9.0-alpha01",
   "description": "一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ...",
   "homepage": "https://myani.org/",
   "license": {
     "identifier": "AGPL-3.0 license",
     "url": "https://github.com/open-ani/ani#AGPL-3.0-1-ov-file"
   },
-  "url": "https://ghgo.xyz/https://github.com/open-ani/ani/releases/download/v4.8.0-beta03/ani-4.8.0-beta03-windows-x86_64.zip",
-  "hash": "7bf4875002bf5026abdb883419a2f4007049f60cb7149191fe113d2631b5eae7",
+  "url": "https://ghgo.xyz/https://github.com/open-ani/ani/releases/download/v4.9.0-alpha01/ani-4.9.0-alpha01-windows-x86_64.zip",
+  "hash": "6e3679b373ff607cd6727025e66809454d754289c7c7e5bca97d10f8d07c833e",
   "extract_dir": "Ani",
   "installer": {
     "script": [
