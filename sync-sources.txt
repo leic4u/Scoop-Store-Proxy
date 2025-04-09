@@ -75,6 +75,7 @@ bucket/ACG-Power.json, Darkatse/Scoop-KanColle, 0
 bucket/ACNH-design-pattern-editor.json, hu3rror/scoop-muggle, 1
 bucket/AIO-Boot.json, Weidows-projects/scoop-3rd, 1
 bucket/AIStarter.json, Weidows-projects/scoop-3rd, 0
+bucket/APP-TEST.json, leic4u/Scoop-Store, 1
 bucket/AWGG-Portable.json, ACooper81/scoop-apps, 1
 bucket/AccentApplicator-UserInstall.json, ACooper81/scoop-apps, 1
 bucket/AcronisTrueImage.json, kkzzhizhou/scoop-zapps, 1
@@ -10340,6 +10341,7 @@ scripts/InstallAllInstallApps.ps1, ACooper81/scoop-apps, 0
 scripts/InstallAllPortableApps.ps1, ACooper81/scoop-apps, 0
 scripts/ModifyPSProfile.psm1, ScoopInstaller/Extras, 0
 scripts/S4Utils.psm1, AkariiinMKII/Scoop4kariiin, 0
+scripts/SS_Utils.psm1, leic4u/Scoop-Store, 0
 scripts/Scoop-Core/install.ps1, ACooper81/scoop-apps, 1
 scripts/Scoop-Core/installAsAdmin.ps1, ACooper81/scoop-apps, 0
 scripts/Scoop-Core/postinstall.ps1, ACooper81/scoop-apps, 0
