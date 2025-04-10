@@ -179,7 +179,7 @@ bucket/BetterNCM.json, ygguorun/scoop-bucket, 1
 bucket/BigBlueTerminal-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Bilibili.json, DoveBoy/Apps, 0
+bucket/Bilibili.json, abgox/abgo_bucket, 1
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitComet.json, leic4u/Scoop-Store, 0
@@ -7407,7 +7407,6 @@ bucket/pseps.json, ScoopInstaller/Extras, 0
 bucket/pseverything.json, akirco/aki-apps, 0
 bucket/psexec.json, niheaven/scoop-sysinternals, 1
 bucket/psfile.json, niheaven/scoop-sysinternals, 1
-bucket/psfzf-master.json, brian6932/dank-scoop, 0
 bucket/psfzf.json, ScoopInstaller/Extras, 0
 bucket/psgetsid.json, niheaven/scoop-sysinternals, 1
 bucket/psgithub.json, ScoopInstaller/Main, 0
