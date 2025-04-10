@@ -7191,6 +7191,7 @@ bucket/pinentry-w32-ncg.json, iquiw/scoop-bucket, 1
 bucket/pinginfoview.json, ScoopInstaller/Nirsoft, 0
 bucket/pingo.json, beerpiss/scoop-bucket, 1
 bucket/pingu.json, aliesbelik/poldi, 1
+bucket/pingy.json, aliesbelik/poldi, 1
 bucket/pinta.json, ScoopInstaller/Extras, 1
 bucket/pip-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/pip-tool.json, ScoopInstaller/Extras, 1
@@ -7320,7 +7321,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -7914,7 +7915,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -9222,7 +9223,7 @@ bucket/typora0.11.18.json, ScoopInstaller/Versions, 0
 bucket/typora1.2.5.json, ygguorun/scoop-bucket, 0
 bucket/typos.json, ScoopInstaller/Main, 1
 bucket/typst.json, ScoopInstaller/Main, 1
-bucket/uTools.json, ivaquero/scoopet, 0
+bucket/uTools.json, chawyehsu/dorado, 0
 bucket/uabea.json, Calinou/scoop-games, 1
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 1
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
