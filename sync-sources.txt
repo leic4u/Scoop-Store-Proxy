@@ -396,6 +396,7 @@ bucket/EnvyUpdate-Portable.json, ACooper81/scoop-apps, 1
 bucket/EpicGamesLauncher-Install.json, ACooper81/scoop-apps, 0
 bucket/EpicGamesLauncher-Portable.json, ACooper81/scoop-apps, 0
 bucket/Eraser5-Portable.json, ACooper81/scoop-apps, 0
+bucket/Eros-FE.json, batkiz/backit, 1
 bucket/Escrcpy.json, abgox/abgo_bucket, 1
 bucket/EventLogViewer-Portable.json, ACooper81/scoop-apps, 0
 bucket/ExVR.json, Weidows-projects/scoop-3rd, 1
@@ -3538,7 +3539,6 @@ bucket/fedify.json, ScoopInstaller/Main, 1
 bucket/feedster.json, rasa/scoops, 1
 bucket/feeluown.json, ivaquero/scoopet, 1
 bucket/feem.json, ScoopInstaller/Extras, 0
-bucket/fehviewer.json, batkiz/backit, 1
 bucket/feiq.json, SayCV/scoop-cvp, 1
 bucket/feishin.json, ScoopInstaller/Extras, 1
 bucket/feishurevokemsgpatcher.json, ViCrack/scoop-bucket, 1
@@ -8548,7 +8548,7 @@ bucket/spyder-lite.json, ScoopInstaller/Extras, 1
 bucket/spyder.json, ScoopInstaller/Extras, 1
 bucket/spystudio.json, 42wim/scoop-bucket, 0
 bucket/spytify.json, ScoopInstaller/Extras, 1
-bucket/sq.json, aliesbelik/poldi, 1
+bucket/sq.json, batkiz/backit, 1
 bucket/sql-server-management-studio-np.json, ScoopInstaller/Nonportable, 0
 bucket/sql-workbench-dev.json, ScoopInstaller/Versions, 0
 bucket/sql-workbench.json, ScoopInstaller/Extras, 0
