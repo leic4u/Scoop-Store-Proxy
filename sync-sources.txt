@@ -7248,6 +7248,7 @@ bucket/pocketbase.json, ScoopInstaller/Main, 1
 bucket/pocketsphinx.json, ScoopInstaller/Extras, 0
 bucket/podesk.json, mo-san/scoop-bucket, 0
 bucket/podman-desktop.json, ScoopInstaller/Extras, 1
+bucket/podman-tui.json, ScoopInstaller/Main, 1
 bucket/podman.json, ScoopInstaller/Main, 1
 bucket/poedit-oss-unofficial.json, jingyu9575/scoop-jingyu9575, 1
 bucket/poedit.json, ScoopInstaller/Extras, 0
