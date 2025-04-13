@@ -1374,6 +1374,7 @@ bucket/VNCViewer-Install.json, ACooper81/scoop-apps, 0
 bucket/VNCViewer-Portable.json, ACooper81/scoop-apps, 0
 bucket/VRCFaceTracking.json, Weidows-projects/scoop-3rd, 1
 bucket/VSCodium-Portable.json, ACooper81/scoop-apps, 1
+bucket/VSRepoGUI.json, leic4u/Scoop-Store, 1
 bucket/Vagrant-Portable.json, ACooper81/scoop-apps, 0
 bucket/VagrantManager-Portable.json, ACooper81/scoop-apps, 1
 bucket/VbsToExe.json, kkzzhizhou/scoop-zapps, 1
@@ -3214,7 +3215,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
