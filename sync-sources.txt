@@ -1377,6 +1377,7 @@ bucket/VSCodium-Portable.json, ACooper81/scoop-apps, 1
 bucket/VSRepoGUI.json, leic4u/Scoop-Store, 1
 bucket/Vagrant-Portable.json, ACooper81/scoop-apps, 0
 bucket/VagrantManager-Portable.json, ACooper81/scoop-apps, 1
+bucket/Varia.json, leic4u/Scoop-Store, 1
 bucket/VbsToExe.json, kkzzhizhou/scoop-zapps, 1
 bucket/Ventoy-Portable.json, ACooper81/scoop-apps, 1
 bucket/Venue11Remap.json, kkzzhizhou/scoop-zapps, 1
@@ -6334,7 +6335,7 @@ bucket/officetool-dotnet.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetool-plus.json, HUMORCE/nuke, 1
 bucket/officetool.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetoolplus-with-runtime.json, DoveBoy/Apps, 1
-bucket/officetoolplus.json, DoveBoy/Apps, 1
+bucket/officetoolplus.json, akirco/aki-apps, 1
 bucket/offlineinsiderenroll.json, ScoopInstaller/Main, 1
 bucket/offlineregistryfinder.json, ScoopInstaller/Nirsoft, 0
 bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
@@ -9397,7 +9398,6 @@ bucket/vals.json, ScoopInstaller/Main, 1
 bucket/vapoursynth.json, ScoopInstaller/Main, 1
 bucket/vapoursyntheditor.json, ScoopInstaller/Extras, 0
 bucket/varia-portable.json, DoveBoy/Apps, 1
-bucket/varia.json, naderi/scoop-bucket, 1
 bucket/varpanel.json, kidonng/sushi, 1
 bucket/vault.json, ScoopInstaller/Main, 0
 bucket/vaultpasswordview.json, ScoopInstaller/Nirsoft, 0
