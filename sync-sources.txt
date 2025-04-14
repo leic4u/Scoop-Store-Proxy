@@ -9551,7 +9551,6 @@ bucket/vpnc-front-end-np.json, ScoopInstaller/Nonportable, 0
 bucket/vrcx.json, ScoopInstaller/Extras, 1
 bucket/vrf-decompiler.json, HUMORCE/nuke, 1
 bucket/vroid-studio.json, ScoopInstaller/Extras, 0
-bucket/vs_BuildTools.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/vscan.json, ViCrack/scoop-bucket, 1
 bucket/vscli.json, aliesbelik/poldi, 1
 bucket/vscode-1-98-2.json, yuusakuri/scoop-bucket, 0
