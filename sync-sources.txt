@@ -260,6 +260,8 @@ bucket/CodeNewRoman-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ComIntRep.json, kkzzhizhou/scoop-zapps, 1
+bucket/ComfyUI-Portable.json, ACooper81/scoop-apps, 0
+bucket/ComfyUIManager-Portable.json, ACooper81/scoop-apps, 1
 bucket/ComicShannsMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ComicShannsMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ComicShannsMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
