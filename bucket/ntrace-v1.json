@@ -1,20 +1,20 @@
 {
-  "version": "1.3.8",
+  "version": "1.3.9",
   "description": "An open source visual route tracking CLI tool",
   "homepage": "https://mtr.moe/",
   "license": "GPL-3.0 license",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.3.8/nexttrace_windows_amd64.exe#/nexttrace.exe",
-      "hash": "2c6a919db6477dea87dc68d897ccbbb8e4b40a9dc106145d340aba17b4d6c37a"
+      "url": "https://ghgo.xyz/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.3.9/nexttrace_windows_amd64.exe#/nexttrace.exe",
+      "hash": "a0fbb1f41527149d57ab49063cb7da385502e9943394ca7724b3330471f3654d"
     },
     "32bit": {
-      "url": "https://ghgo.xyz/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.3.8/nexttrace_windows_386.exe#/nexttrace.exe",
-      "hash": "b984207eaacd7bce73eca492a37e36dad6cb02f0fe1a0a4b9444b930e56f7e54"
+      "url": "https://ghgo.xyz/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.3.9/nexttrace_windows_386.exe#/nexttrace.exe",
+      "hash": "5b4eb2053b78038862ec77f2e58fa889e83e44ba9ff8a25b995c49715d737354"
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.3.8/nexttrace_windows_arm64.exe#/nexttrace.exe",
-      "hash": "1118a71f738ff461478c484a7bfddf52b468c92df78fdd03370763c58c49bdfc"
+      "url": "https://ghgo.xyz/https://github.com/nxtrace/Ntrace-V1/releases/download/v1.3.9/nexttrace_windows_arm64.exe#/nexttrace.exe",
+      "hash": "51759f4a713c6ad5c4ae2b6853ff91e2fe6b65adfcf67d55e8732ee5151028f2"
     }
   },
   "bin": "nexttrace.exe",
