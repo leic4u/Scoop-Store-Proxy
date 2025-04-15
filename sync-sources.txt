@@ -3149,7 +3149,7 @@ bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/doukutsu-rs.json, Calinou/scoop-games, 1
 bucket/douyin-ide.json, chawyehsu/dorado, 0
-bucket/douyin-streamingtool.json, ivaquero/scoopet, 0
+bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
 bucket/douyu.json, DoveBoy/Apps, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyicore.json, batkiz/backit, 1
@@ -3630,7 +3630,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -3729,7 +3729,7 @@ bucket/folderchangesview.json, ScoopInstaller/Nirsoft, 0
 bucket/foldersreport.json, kodybrown/scoop-nirsoft, 0
 bucket/foldertimeupdate.json, ScoopInstaller/Nirsoft, 0
 bucket/folding-at-home.json, ScoopInstaller/Extras, 0
-bucket/follow.json, DoveBoy/Apps, 1
+bucket/folo.json, DoveBoy/Apps, 1
 bucket/folrep.json, ScoopInstaller/Nirsoft, 0
 bucket/font-behdad.json, naderi/scoop-bucket, 1
 bucket/font-estedad.json, naderi/scoop-bucket, 1
@@ -5617,7 +5617,7 @@ bucket/metarweather.json, kodybrown/scoop-nirsoft, 0
 bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -6666,7 +6666,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7326,7 +7326,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -8008,7 +8008,7 @@ bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
-bucket/ryujinx-canary.json, borger/scoop-emulators, 1
+bucket/ryujinx-canary.json, Calinou/scoop-games, 1
 bucket/ryujinx.json, Calinou/scoop-games, 1
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
@@ -8406,6 +8406,7 @@ bucket/smartgit-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/smartgit.json, ScoopInstaller/Extras, 0
 bucket/smartmontools.json, ScoopInstaller/Main, 0
 bucket/smartsniff.json, kodybrown/scoop-nirsoft, 0
+bucket/smartsub.json, DoveBoy/Apps, 1
 bucket/smartsvn.json, ScoopInstaller/Extras, 0
 bucket/smartsvn11.json, zhoujin7/tomato, 0
 bucket/smartsynchronize.json, ScoopInstaller/Extras, 0
@@ -9462,7 +9463,6 @@ bucket/video-srt-windows.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor-cpu.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor-gpu.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor.json, SayCV/scoop-cvp, 1
-bucket/video-subtitle-master.json, DoveBoy/Apps, 1
 bucket/video-thumbnails-maker.json, ScoopInstaller/Extras, 0
 bucket/video2x.json, seumsc/scoop-seu, 1
 bucket/videoaudiotools.json, ScoopInstaller/Nirsoft, 0
