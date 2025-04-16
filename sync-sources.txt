@@ -7920,7 +7920,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -9943,7 +9943,7 @@ bucket/wps-photo-plus.json, Weidows-projects/scoop-3rd, 0
 bucket/wps.json, scoopcn/scoopcn, 0
 bucket/wpsoffice-cn.json, DoveBoy/Apps, 0
 bucket/wpsoffice.json, ScoopInstaller/Extras, 0
-bucket/wrangler.json, ScoopInstaller/Main, 1
+bucket/wrangler.json, akirco/aki-apps, 1
 bucket/writage.json, SayCV/scoop-cvp, 0
 bucket/write.json, ScoopInstaller/Extras, 1
 bucket/writer.json, KnotUntied/scoop-fonts, 0
