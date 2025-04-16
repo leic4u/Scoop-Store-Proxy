@@ -6082,7 +6082,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -8000,11 +8000,11 @@ bucket/rustdesk.json, ScoopInstaller/Extras, 1
 bucket/rustic.json, ScoopInstaller/Main, 1
 bucket/rustrover.json, ScoopInstaller/Extras, 1
 bucket/rustup-cvp.json, SayCV/scoop-cvp, 1
-bucket/rustup-gnu.json, ScoopInstaller/Main, 1
+bucket/rustup-gnu.json, ScoopInstaller/Main, 0
 bucket/rustup-msvc-np.json, chawyehsu/dorado, 1
-bucket/rustup-msvc.json, ScoopInstaller/Main, 1
+bucket/rustup-msvc.json, ScoopInstaller/Main, 0
 bucket/rustup-np.json, chawyehsu/dorado, 1
-bucket/rustup.json, ScoopInstaller/Main, 1
+bucket/rustup.json, ScoopInstaller/Main, 0
 bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
@@ -9663,6 +9663,7 @@ bucket/wechat-backup.json, DoveBoy/Apps, 1
 bucket/wechat-beta.json, scoopcn/scoopcn, 0
 bucket/wechat-cvp.json, SayCV/scoop-cvp, 1
 bucket/wechat-devtools.json, scoopcn/scoopcn, 0
+bucket/wechat-legacy.json, ScoopInstaller/Versions, 0
 bucket/wechat-np.json, chawyehsu/dorado, 0
 bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
