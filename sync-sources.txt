@@ -9665,7 +9665,7 @@ bucket/wechat-cvp.json, SayCV/scoop-cvp, 1
 bucket/wechat-devtools.json, scoopcn/scoopcn, 0
 bucket/wechat-np.json, chawyehsu/dorado, 0
 bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
-bucket/wechat.json, ScoopInstaller/Extras, 0
+bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
 bucket/wechatdevtools.json, chawyehsu/dorado, 0
 bucket/wechatdownload.json, DoveBoy/Apps, 1
