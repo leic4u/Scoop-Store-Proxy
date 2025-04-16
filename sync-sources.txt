@@ -2123,7 +2123,7 @@ bucket/blockthespot.json, TheRandomLabs/Scoop-Spotify, 1
 bucket/bloomrpc.json, batkiz/backit, 1
 bucket/bloop.json, ScoopInstaller/Extras, 1
 bucket/bloxstrap.json, Calinou/scoop-games, 1
-bucket/bluej.json, naderi/scoop-bucket, 0
+bucket/bluej.json, naderi/scoop-bucket, 1
 bucket/bluelife-host-editor.json, ViCrack/scoop-bucket, 0
 bucket/bluelife-keyfreeze.json, ViCrack/scoop-bucket, 0
 bucket/bluescreen.json, mogeko/scoop-sysinternals, 0
