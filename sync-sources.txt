@@ -6502,7 +6502,7 @@ bucket/opensupaplex.json, Calinou/scoop-games, 1
 bucket/opentabletdriver.json, ScoopInstaller/Extras, 1
 bucket/opentofu.json, ScoopInstaller/Main, 1
 bucket/opentoonz.json, ScoopInstaller/Extras, 1
-bucket/opentrace.json, naderi/scoop-bucket, 1
+bucket/opentrace.json, chawyehsu/dorado, 1
 bucket/opentrack.json, ScoopInstaller/Extras, 1
 bucket/openttd.json, Calinou/scoop-games, 0
 bucket/opentyrian2000.json, Calinou/scoop-games, 1
