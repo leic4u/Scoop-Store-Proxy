@@ -420,7 +420,7 @@ bucket/FantasqueSansMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FantasqueSansMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FastCopy-M.json, Paxxs/Cluttered-bucket, 1
 bucket/FastGithub.json, abgox/abgo_bucket, 0
-bucket/FeiShu.json, abgox/abgo_bucket, 1
+bucket/FeiShu.json, scoopcn/scoopcn, 0
 bucket/FerdiumNightly-Portable.json, ACooper81/scoop-apps, 1
 bucket/Fido-PSScript.json, ACooper81/scoop-apps, 1
 bucket/FileCentipede.json, leic4u/Scoop-Store, 1
@@ -7922,7 +7922,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
