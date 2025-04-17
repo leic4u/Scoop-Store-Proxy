@@ -9180,6 +9180,7 @@ bucket/trojan.json, ScoopInstaller/Main, 1
 bucket/trojita.json, ScoopInstaller/Extras, 0
 bucket/trubka.json, aliesbelik/poldi, 1
 bucket/trufflehog.json, ScoopInstaller/Main, 1
+bucket/trunk.json, ScoopInstaller/Main, 1
 bucket/trzsz.json, ScoopInstaller/Main, 1
 bucket/tsftool.json, hu3rror/scoop-muggle, 0
 bucket/tsip.json, ScoopInstaller/Extras, 1
