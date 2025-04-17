@@ -1481,6 +1481,7 @@ bucket/WingetUIBeta-Portable.json, ACooper81/scoop-apps, 1
 bucket/Winhance-Script.json, ACooper81/scoop-apps, 0
 bucket/Winpilot-Portable.json, ACooper81/scoop-apps, 1
 bucket/Wireshark-Portable.json, ACooper81/scoop-apps, 0
+bucket/Wise-Registry-Cleaner.json, leic4u/Scoop-Store, 0
 bucket/WiseCare365.json, echoiron/echo-scoop, 0
 bucket/WiseDataRecovery-Portable.json, ACooper81/scoop-apps, 0
 bucket/WizFile-Portable.json, ACooper81/scoop-apps, 0
@@ -9901,7 +9902,6 @@ bucket/wireshark3.6.json, ScoopInstaller/Versions, 0
 bucket/wireshark3.json, ScoopInstaller/Versions, 0
 bucket/wise-disk-cleaner.json, naderi/scoop-bucket, 0
 bucket/wise-program-uninstaller.json, naderi/scoop-bucket, 0
-bucket/wise-registry-cleaner.json, naderi/scoop-bucket, 0
 bucket/witchblast.json, Calinou/scoop-games, 1
 bucket/wix.json, chawyehsu/dorado, 0
 bucket/wixtoolset.json, ScoopInstaller/Main, 0
