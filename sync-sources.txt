@@ -2061,7 +2061,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -3218,7 +3218,7 @@ bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
 bucket/duckstation-preview.json, Calinou/scoop-games, 1
-bucket/duckstation.json, Calinou/scoop-games, 1
+bucket/duckstation.json, borger/scoop-emulators, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
 bucket/duf.json, ScoopInstaller/Main, 1
@@ -7923,7 +7923,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -8287,7 +8287,6 @@ bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
 bucket/shadps4-dev.json, Calinou/scoop-games, 1
 bucket/shadps4.json, Calinou/scoop-games, 1
-bucket/shakemousetolocate.json, amorphobia/siku, 1
 bucket/shareaza.json, ScoopInstaller/Extras, 0
 bucket/shareenum.json, niheaven/scoop-sysinternals, 1
 bucket/sharex-dev.json, ScoopInstaller/Versions, 1
@@ -9447,7 +9446,6 @@ bucket/vesktop.json, ScoopInstaller/Extras, 1
 bucket/vesta.json, ScoopInstaller/Extras, 0
 bucket/veusz.json, ScoopInstaller/Extras, 1
 bucket/veyon-np.json, ScoopInstaller/Nonportable, 1
-bucket/vfilename.json, amorphobia/siku, 0
 bucket/vfox.json, ScoopInstaller/Main, 1
 bucket/vgmstream.json, ScoopInstaller/Main, 1
 bucket/vhs.json, ScoopInstaller/Main, 1
@@ -10163,7 +10161,6 @@ bucket/yj.json, iquiw/scoop-bucket, 1
 bucket/ynote.json, scoopcn/scoopcn, 0
 bucket/yoke.json, ScoopInstaller/Extras, 1
 bucket/yomikiru.json, hu3rror/scoop-muggle, 1
-bucket/yong-im.json, amorphobia/siku, 0
 bucket/yori.json, ScoopInstaller/Main, 0
 bucket/yosys.json, ScoopInstaller/Main, 0
 bucket/you-get.json, akirco/aki-apps, 1
