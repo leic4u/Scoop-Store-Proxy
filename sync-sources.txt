@@ -3160,6 +3160,7 @@ bucket/downtester.json, ScoopInstaller/Nirsoft, 0
 bucket/doxygen.json, ScoopInstaller/Main, 0
 bucket/dpeaklim.json, seumsc/scoop-seu, 0
 bucket/dprint.json, ScoopInstaller/Main, 1
+bucket/dps8m.json, chawyehsu/dorado, 0
 bucket/dra.json, ScoopInstaller/Extras, 1
 bucket/draft.json, ScoopInstaller/Main, 1
 bucket/dragon.json, ygguorun/scoop-bucket, 1
@@ -6155,7 +6156,7 @@ bucket/nmap-portable.json, akirco/aki-apps, 0
 bucket/nmap.json, ScoopInstaller/Main, 0
 bucket/nmkoder.json, ScoopInstaller/Extras, 1
 bucket/no-steam-webhelper.json, brian6932/dank-scoop, 1
-bucket/noMeiryoUI.json, DoveBoy/Apps, 1
+bucket/noMeiryoUI.json, wordpure/scoop-air, 1
 bucket/node-compiler.json, ScoopInstaller/Extras, 1
 bucket/nodejs-bin.json, wzv5/ScoopBucket, 1
 bucket/nodejs-lts-np.json, ScoopInstaller/Nonportable, 1
@@ -7329,7 +7330,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
