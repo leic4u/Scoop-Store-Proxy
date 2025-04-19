@@ -6155,7 +6155,7 @@ bucket/nmap-portable.json, akirco/aki-apps, 0
 bucket/nmap.json, ScoopInstaller/Main, 0
 bucket/nmkoder.json, ScoopInstaller/Extras, 1
 bucket/no-steam-webhelper.json, brian6932/dank-scoop, 1
-bucket/noMeiryoUI.json, wordpure/scoop-air, 1
+bucket/noMeiryoUI.json, DoveBoy/Apps, 1
 bucket/node-compiler.json, ScoopInstaller/Extras, 1
 bucket/nodejs-bin.json, wzv5/ScoopBucket, 1
 bucket/nodejs-lts-np.json, ScoopInstaller/Nonportable, 1
