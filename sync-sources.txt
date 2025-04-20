@@ -5653,7 +5653,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
+bucket/microsoftedge.json, chawyehsu/dorado, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
@@ -6290,6 +6290,7 @@ bucket/nvui.json, ScoopInstaller/Extras, 1
 bucket/nvy.json, ScoopInstaller/Extras, 1
 bucket/nwjs-sdk.json, ScoopInstaller/Extras, 0
 bucket/nwjs.json, ScoopInstaller/Extras, 0
+bucket/nyaa.json, brian6932/dank-scoop, 1
 bucket/nyagos.json, ScoopInstaller/Main, 1
 bucket/nyan.json, batkiz/backit, 1
 bucket/oauth2c.json, ScoopInstaller/Main, 1
