@@ -659,6 +659,7 @@ bucket/KitX.json, Weidows-projects/scoop-3rd, 1
 bucket/Klee-One.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Knotes.json, abgox/abgo_bucket, 0
 bucket/KoHo.json, matthewjberger/scoop-nerd-fonts, 0
+bucket/KoboldCpp-Portable.json, ACooper81/scoop-apps, 1
 bucket/Kodchasan.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Kodi-Portable.json, ACooper81/scoop-apps, 0
 bucket/KoodoReader-Portable.json, ACooper81/scoop-apps, 1
