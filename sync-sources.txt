@@ -10163,7 +10163,7 @@ bucket/yoke.json, ScoopInstaller/Extras, 1
 bucket/yomikiru.json, hu3rror/scoop-muggle, 1
 bucket/yori.json, ScoopInstaller/Main, 0
 bucket/yosys.json, ScoopInstaller/Main, 0
-bucket/you-get.json, akirco/aki-apps, 1
+bucket/you-get.json, amorphobia/siku, 1
 bucket/youdaodict.json, ygguorun/scoop-bucket, 0
 bucket/youku-cvp.json, SayCV/scoop-cvp, 1
 bucket/youku.json, DoveBoy/Apps, 0
