@@ -3019,7 +3019,6 @@ bucket/disk2vhd.json, niheaven/scoop-sysinternals, 1
 bucket/diskcheckup.json, ScoopInstaller/Extras, 0
 bucket/diskcountersview.json, ScoopInstaller/Nirsoft, 0
 bucket/diskext.json, niheaven/scoop-sysinternals, 1
-bucket/diskgenius-zh-cn.json, amorphobia/siku, 0
 bucket/diskgenius.json, ScoopInstaller/Extras, 0
 bucket/diskgeniusCN.json, cc713/ownscoop, 0
 bucket/diskmon.json, niheaven/scoop-sysinternals, 1
@@ -8442,7 +8441,6 @@ bucket/sni.json, wzv5/ScoopBucket, 1
 bucket/sniffnet.json, ScoopInstaller/Extras, 1
 bucket/sniffpass.json, ScoopInstaller/Nirsoft, 0
 bucket/snipaste-beta.json, ScoopInstaller/Versions, 0
-bucket/snipaste-x86.json, amorphobia/siku, 0
 bucket/snipaste.json, ScoopInstaller/Extras, 0
 bucket/sniproxy.json, DoveBoy/Apps, 1
 bucket/snoop.json, ScoopInstaller/Extras, 1
