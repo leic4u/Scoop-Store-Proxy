@@ -1,20 +1,14 @@
 {
+  "version": "1.16.56",
+  "description": "Bypass-分流抢票",
   "homepage": "https://www.bypass.cn/",
-  "version": "1.16.55",
-  "url": "https://www.bypass.cn/api/download?name=Bypass.zip#/dl.zip",
-  "hash": "476f9a267faeb5abcc6b8428ebc1b5f2a2b7577d669629530d82ab8ce9f8b65e",
+  "license": "BSD-3-Clause",
+  "url": "https://www.bypass.cn/api/download?name=Bypass.zip#/dl.7z",
   "extract_dir": "Bypass",
-  "checkver": {
-    "url": "https://www.bypass.cn/",
-    "regex": "Version&#xFF1A;([\\d.]+)"
-  },
-  "autoupdate": {
-    "url": "https://www.bypass.cn/api/download?name=Bypass.zip#/dl.zip"
-  },
   "shortcuts": [
     [
       "Bypass.exe",
-      "Bypass"
+      "分流抢票"
     ]
   ]
 }

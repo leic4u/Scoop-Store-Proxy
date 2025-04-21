@@ -209,7 +209,7 @@ bucket/BrowserTamer-Portable.json, ACooper81/scoop-apps, 1
 bucket/BrutalityExtractor.json, Weidows-projects/scoop-3rd, 1
 bucket/BulkCrapUninstaller-Portable.json, ACooper81/scoop-apps, 1
 bucket/BurntToast-PSModule.json, ACooper81/scoop-apps, 1
-bucket/ByPass.json, kkzzhizhou/scoop-zapps, 0
+bucket/ByPass.json, echoiron/echo-scoop, 0
 bucket/CCleaner-Portable.json, ACooper81/scoop-apps, 0
 bucket/CCleaner540.json, zhoujin7/tomato, 0
 bucket/CJK-character-count.json, ygguorun/scoop-bucket, 1
