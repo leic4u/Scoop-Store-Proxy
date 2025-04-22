@@ -4905,7 +4905,7 @@ bucket/julia-rc.json, ScoopInstaller/Versions, 0
 bucket/julia.json, ScoopInstaller/Main, 0
 bucket/juliamono-latin.json, KnotUntied/scoop-fonts, 1
 bucket/juliamono.json, KnotUntied/scoop-fonts, 1
-bucket/juliaup.json, ScoopInstaller/Main, 1
+bucket/juliaup.json, ScoopInstaller/Main, 0
 bucket/jumplistsview.json, ScoopInstaller/Nirsoft, 0
 bucket/junction.json, niheaven/scoop-sysinternals, 1
 bucket/just.json, ScoopInstaller/Main, 1
@@ -7214,7 +7214,7 @@ bucket/pixel-clipper.json, brian6932/dank-scoop, 0
 bucket/pixelflasher.json, ScoopInstaller/Extras, 1
 bucket/pixelorama.json, ScoopInstaller/Extras, 1
 bucket/pixfront.json, mo-san/scoop-bucket, 0
-bucket/pixi.json, chawyehsu/dorado, 1
+bucket/pixi.json, ScoopInstaller/Main, 1
 bucket/pixie.json, ScoopInstaller/Extras, 0
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
@@ -7926,7 +7926,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
