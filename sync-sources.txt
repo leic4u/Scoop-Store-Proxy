@@ -5531,6 +5531,7 @@ bucket/matterbridge.json, ScoopInstaller/Extras, 1
 bucket/matterircd.json, ScoopInstaller/Extras, 1
 bucket/mattermost.json, ScoopInstaller/Extras, 0
 bucket/maven.json, ScoopInstaller/Main, 0
+bucket/maven3.json, ScoopInstaller/Versions, 0
 bucket/maven36.json, zhoujin7/tomato, 0
 bucket/maven4.json, ScoopInstaller/Versions, 0
 bucket/maxim-eesim.json, SayCV/scoop-cvp, 1
