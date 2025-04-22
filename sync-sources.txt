@@ -209,7 +209,7 @@ bucket/BrowserTamer-Portable.json, ACooper81/scoop-apps, 1
 bucket/BrutalityExtractor.json, Weidows-projects/scoop-3rd, 1
 bucket/BulkCrapUninstaller-Portable.json, ACooper81/scoop-apps, 1
 bucket/BurntToast-PSModule.json, ACooper81/scoop-apps, 1
-bucket/ByPass.json, echoiron/echo-scoop, 0
+bucket/ByPass.json, kkzzhizhou/scoop-zapps, 0
 bucket/CCleaner-Portable.json, ACooper81/scoop-apps, 0
 bucket/CCleaner540.json, zhoujin7/tomato, 0
 bucket/CJK-character-count.json, ygguorun/scoop-bucket, 1
@@ -9507,7 +9507,7 @@ bucket/visualboyadvance-m.json, Calinou/scoop-games, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
