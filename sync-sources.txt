@@ -1549,7 +1549,6 @@ bucket/acm.json, ScoopInstaller/Nirsoft, 0
 bucket/acmekit.json, echoiron/echo-scoop, 0
 bucket/acmesharp.json, ScoopInstaller/Main, 0
 bucket/acnet-glsl.json, HUMORCE/nuke, 1
-bucket/acorn.json, ScoopInstaller/Main, 1
 bucket/acrylic-dns-proxy.json, naderi/scoop-bucket, 0
 bucket/act.json, ScoopInstaller/Main, 1
 bucket/actionlint.json, ScoopInstaller/Main, 1
@@ -2500,7 +2499,7 @@ bucket/clash-rev-go120.json, DoveBoy/Apps, 1
 bucket/clash-rev.json, DoveBoy/Apps, 1
 bucket/clash-verge-rev.json, ScoopInstaller/Extras, 1
 bucket/clash-verge.json, ScoopInstaller/Extras, 1
-bucket/clash.json, ScoopInstaller/Main, 1
+bucket/clash.json, everyx/scoop-bucket, 0
 bucket/clash.mini.json, ScoopInstaller/Extras, 1
 bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
@@ -7927,7 +7926,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
