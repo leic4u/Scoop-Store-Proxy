@@ -8876,6 +8876,7 @@ bucket/teamviewer.json, ScoopInstaller/Extras, 0
 bucket/technorino-portable.json, brian6932/dank-scoop, 1
 bucket/technorino.json, brian6932/dank-scoop, 1
 bucket/tectonic.json, ScoopInstaller/Main, 1
+bucket/teevolution-mouse-drive.json, brian6932/dank-scoop, 0
 bucket/teeworlds.json, Calinou/scoop-games, 1
 bucket/tegrarcmgui.json, brian6932/dank-scoop, 1
 bucket/tektoncd-cli.json, ScoopInstaller/Main, 1
