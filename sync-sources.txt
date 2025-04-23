@@ -170,7 +170,7 @@ bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
+bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
@@ -2063,7 +2063,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -6711,7 +6711,6 @@ bucket/peerblock.json, ScoopInstaller/Extras, 0
 bucket/pegasus-nightly.json, hermanjustnu/scoop-emulators, 1
 bucket/pegasus.json, Calinou/scoop-games, 1
 bucket/peid.json, ScoopInstaller/Extras, 1
-bucket/pelook.json, ScoopInstaller/Main, 0
 bucket/pencil.json, ScoopInstaller/Extras, 0
 bucket/pencil2d.json, ScoopInstaller/Extras, 1
 bucket/pendmoves.json, niheaven/scoop-sysinternals, 1
@@ -9011,6 +9010,7 @@ bucket/thewitchshouse-jp.json, beerpiss/scoop-bucket, 0
 bucket/thief.json, Weidows-projects/scoop-3rd, 0
 bucket/thisiswin11.json, ScoopInstaller/Extras, 1
 bucket/thonny.json, ScoopInstaller/Extras, 1
+bucket/thorium-avx2.json, ScoopInstaller/Versions, 1
 bucket/thorium-reader.json, ScoopInstaller/Extras, 1
 bucket/thorium.json, ScoopInstaller/Extras, 1
 bucket/threema.json, ScoopInstaller/Extras, 0
@@ -9239,7 +9239,7 @@ bucket/typora0.11.18.json, ScoopInstaller/Versions, 0
 bucket/typora1.2.5.json, ygguorun/scoop-bucket, 0
 bucket/typos.json, ScoopInstaller/Main, 1
 bucket/typst.json, ScoopInstaller/Main, 1
-bucket/uTools.json, ivaquero/scoopet, 0
+bucket/uTools.json, chawyehsu/dorado, 0
 bucket/uabea.json, Calinou/scoop-games, 1
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 1
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
