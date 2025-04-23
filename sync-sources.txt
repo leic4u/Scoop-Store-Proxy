@@ -8039,7 +8039,6 @@ bucket/safarihistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/safebrowser.json, ScoopInstaller/Extras, 1
 bucket/safeincloud.json, naderi/scoop-bucket, 0
 bucket/sagemath-cn.json, ivaquero/scoopet, 0
-bucket/sagemath.json, ScoopInstaller/Extras, 1
 bucket/sagerconnect.json, AkinoKaede/maple, 1
 bucket/sak.json, kiennq/scoop-misc, 1
 bucket/sakura.json, mo-san/scoop-bucket, 1
@@ -8290,7 +8289,7 @@ bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
 bucket/shadps4-dev.json, Calinou/scoop-games, 1
-bucket/shadps4.json, Calinou/scoop-games, 1
+bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shareaza.json, ScoopInstaller/Extras, 0
 bucket/shareenum.json, niheaven/scoop-sysinternals, 1
 bucket/sharex-dev.json, ScoopInstaller/Versions, 1
