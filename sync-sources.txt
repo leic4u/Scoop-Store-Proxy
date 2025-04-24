@@ -9236,7 +9236,6 @@ bucket/typioca.json, ScoopInstaller/Main, 1
 bucket/typora-dev.json, ScoopInstaller/Versions, 0
 bucket/typora-plugin.json, DoveBoy/Apps, 1
 bucket/typora.json, ScoopInstaller/Extras, 0
-bucket/typora0.11.18.json, ScoopInstaller/Versions, 0
 bucket/typora1.2.5.json, ygguorun/scoop-bucket, 0
 bucket/typos.json, ScoopInstaller/Main, 1
 bucket/typst.json, ScoopInstaller/Main, 1
