@@ -1485,7 +1485,7 @@ bucket/Winhance-Script.json, ACooper81/scoop-apps, 0
 bucket/Winpilot-Portable.json, ACooper81/scoop-apps, 1
 bucket/Wireshark-Portable.json, ACooper81/scoop-apps, 0
 bucket/Wise-Registry-Cleaner.json, leic4u/Scoop-Store, 0
-bucket/WiseCare365.json, echoiron/echo-scoop, 0
+bucket/WiseCare365.json, abgox/abgo_bucket, 0
 bucket/WiseDataRecovery-Portable.json, ACooper81/scoop-apps, 0
 bucket/WizFile-Portable.json, ACooper81/scoop-apps, 0
 bucket/WizTree-Portable.json, ACooper81/scoop-apps, 0
@@ -8656,7 +8656,6 @@ bucket/stopwatch.json, SayCV/scoop-cvp, 1
 bucket/stormhen-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/stpviewer.json, SayCV/scoop-cvp, 1
 bucket/stranslate.json, ScoopInstaller/Extras, 1
-bucket/strawberry-nightly.json, ScoopInstaller/Versions, 0
 bucket/streamcap.json, DoveBoy/Apps, 1
 bucket/streamdeck.json, ScoopInstaller/Extras, 0
 bucket/streamlabs-chatbot.json, ScoopInstaller/Extras, 0
@@ -9236,6 +9235,7 @@ bucket/typioca.json, ScoopInstaller/Main, 1
 bucket/typora-dev.json, ScoopInstaller/Versions, 0
 bucket/typora-plugin.json, DoveBoy/Apps, 1
 bucket/typora.json, ScoopInstaller/Extras, 0
+bucket/typora0.11.18.json, ScoopInstaller/Versions, 1
 bucket/typora1.2.5.json, ygguorun/scoop-bucket, 0
 bucket/typos.json, ScoopInstaller/Main, 1
 bucket/typst.json, ScoopInstaller/Main, 1
@@ -9798,6 +9798,7 @@ bucket/windows11-classic-context-menu.json, ScoopInstaller/Extras, 0
 bucket/windows95.json, ScoopInstaller/Extras, 1
 bucket/windowscleaner.json, DoveBoy/Apps, 1
 bucket/windowsdesktop-runtime-6.0.json, ScoopInstaller/Versions, 0
+bucket/windowsdesktop-runtime-7.0.json, ScoopInstaller/Versions, 0
 bucket/windowsdesktop-runtime-lts.json, ScoopInstaller/Extras, 0
 bucket/windowsdesktop-runtime.json, ScoopInstaller/Extras, 0
 bucket/windowspasswordrecoverypackage.json, kodybrown/scoop-nirsoft, 0
