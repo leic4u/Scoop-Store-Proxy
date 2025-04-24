@@ -170,7 +170,7 @@ bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, abgox/abgo_bucket, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
@@ -1309,7 +1309,7 @@ bucket/TranslucentTB-Install.json, ACooper81/scoop-apps, 1
 bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
 bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
-bucket/TreeSize.json, DoveBoy/Apps, 0
+bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
 bucket/TscanPlus.json, ViCrack/scoop-bucket, 1
 bucket/TsubakiTranslator-noRT.json, cc713/ownscoop, 1
 bucket/TsubakiTranslator.json, cc713/ownscoop, 1
@@ -3219,7 +3219,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -8579,6 +8579,7 @@ bucket/squirrel-sql.json, ScoopInstaller/Extras, 0
 bucket/squirreldisk.json, ScoopInstaller/Extras, 1
 bucket/srb2kart.json, Calinou/scoop-games, 1
 bucket/srecord.json, ScoopInstaller/Main, 0
+bucket/srgn.json, aliesbelik/poldi, 1
 bucket/srlua.json, ScoopInstaller/Main, 0
 bucket/srmd-ncnn-vulkan.json, seumsc/scoop-seu, 1
 bucket/srt-to-vtt.json, starise/Scoop-Confetti, 1
