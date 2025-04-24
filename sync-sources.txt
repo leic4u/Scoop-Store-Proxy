@@ -461,7 +461,6 @@ bucket/FolderMonitor-Portable.json, ACooper81/scoop-apps, 0
 bucket/Fonger.json, abgox/abgo_bucket, 0
 bucket/Font-Awesome-Free.json, leic4u/Scoop-Store, 1
 bucket/Font-Awesome.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Font-Hack.json, abgox/abgo_bucket, 1
 bucket/FontMod.json, ygguorun/scoop-bucket, 1
 bucket/ForceBindIPCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/FreeFileSync-Portable.json, ACooper81/scoop-apps, 0
@@ -600,7 +599,6 @@ bucket/InconsolataLGC-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IniModCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/Inkscape-Portable.json, ACooper81/scoop-apps, 0
 bucket/InnoExtractor.json, kkzzhizhou/scoop-zapps, 0
-bucket/InputTip.json, abgox/abgo_bucket, 0
 bucket/Intel-One-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IntelExtremeTuningUtility-Install.json, ACooper81/scoop-apps, 0
 bucket/IntelOneMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -915,7 +913,6 @@ bucket/PDQInventory-Install.json, ACooper81/scoop-apps, 0
 bucket/PEAnatomist-Portable.json, ACooper81/scoop-apps, 0
 bucket/PRemoteM-Portable.json, ACooper81/scoop-apps, 1
 bucket/PS.Get-ChildItemColor.json, Paxxs/Cluttered-bucket, 0
-bucket/PSCompletions.json, abgox/abgo_bucket, 0
 bucket/PSGen-Portable.json, ACooper81/scoop-apps, 0
 bucket/PSHash-Portable.json, ACooper81/scoop-apps, 0
 bucket/PSScoop-PSModule.json, ACooper81/scoop-apps, 1
@@ -1513,7 +1510,6 @@ bucket/YuQue.json, abgox/abgo_bucket, 0
 bucket/Yumi-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiExFAT-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiUefi-Portable.json, ACooper81/scoop-apps, 0
-bucket/Z-Library.json, abgox/abgo_bucket, 0
 bucket/ZMeter-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZY-Player.json, kkzzhizhou/scoop-zapps, 1
 bucket/ZedMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -7415,6 +7411,7 @@ bucket/ps3-system-software.json, Calinou/scoop-games, 0
 bucket/psake.json, ScoopInstaller/Main, 0
 bucket/pscalendar.json, DoveBoy/Apps, 0
 bucket/pscolor.json, ScoopInstaller/Extras, 1
+bucket/pscompletions.json, DoveBoy/Apps, 0
 bucket/pseps.json, ScoopInstaller/Extras, 0
 bucket/pseverything.json, akirco/aki-apps, 0
 bucket/psexec.json, niheaven/scoop-sysinternals, 1
