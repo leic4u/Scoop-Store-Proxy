@@ -3215,8 +3215,8 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
-bucket/duckstation.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
 bucket/duf.json, ScoopInstaller/Main, 1
@@ -10151,6 +10151,7 @@ bucket/yasb.json, ScoopInstaller/Extras, 1
 bucket/yasm.json, ScoopInstaller/Main, 1
 bucket/yasocut.json, DoveBoy/Apps, 1
 bucket/yatqa.json, ScoopInstaller/Extras, 0
+bucket/yazi-nightly.json, ScoopInstaller/Versions, 1
 bucket/yazi.json, ScoopInstaller/Main, 1
 bucket/yc.json, aliesbelik/poldi, 0
 bucket/yddict.json, akirco/aki-apps, 0
