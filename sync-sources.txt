@@ -7667,6 +7667,7 @@ bucket/r3playx.json, DoveBoy/Apps, 1
 bucket/r41.json, ScoopInstaller/Versions, 0
 bucket/r42.json, ScoopInstaller/Versions, 0
 bucket/r43.json, ScoopInstaller/Versions, 0
+bucket/rabbit.json, amorphobia/siku, 1
 bucket/rabbitmq.json, ScoopInstaller/Extras, 1
 bucket/rabbitmqadmin.json, ScoopInstaller/Extras, 1
 bucket/racelab.json, Calinou/scoop-games, 0
