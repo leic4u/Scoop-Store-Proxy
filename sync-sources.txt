@@ -7514,6 +7514,7 @@ bucket/pytest-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/python-alpha.json, ScoopInstaller/Versions, 1
 bucket/python-beta.json, ScoopInstaller/Versions, 1
 bucket/python-bucket-utils.json, TheRandomLabs/Scoop-Python, 1
+bucket/python-debug.json, brian6932/dank-scoop, 0
 bucket/python-doc-zh-cn.json, wzv5/ScoopBucket, 0
 bucket/python-doc.json, wzv5/ScoopBucket, 0
 bucket/python-docs-zh-cn.json, cc713/ownscoop, 0
