@@ -6303,7 +6303,7 @@ bucket/obs-plugin-scale-to-sound.json, Weidows-projects/scoop-3rd, 1
 bucket/obs-studio-cn.json, ivaquero/scoopet, 0
 bucket/obs-studio-pre.json, ScoopInstaller/Versions, 1
 bucket/obs-studio-small.json, ScoopInstaller/Extras, 1
-bucket/obs-studio.json, ScoopInstaller/Extras, 1
+bucket/obs-studio.json, ScoopInstaller/Extras, 0
 bucket/obs-studio27.json, ScoopInstaller/Versions, 0
 bucket/obs-studio28.json, ScoopInstaller/Versions, 0
 bucket/observerward.json, ViCrack/scoop-bucket, 1
