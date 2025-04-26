@@ -1732,7 +1732,7 @@ bucket/api-monitor.json, rasa/scoops, 0
 bucket/apifox.json, ScoopInstaller/Extras, 0
 bucket/apimonitor.json, 42wim/scoop-bucket, 0
 bucket/apimtemplate.json, ScoopInstaller/Main, 1
-bucket/apipost.json, HCLonely/my-scoop-bucket, 0
+bucket/apipost.json, zhoujin7/tomato, 0
 bucket/apkeep.json, ScoopInstaller/Extras, 1
 bucket/apkeepCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/apkstudio.json, ChungZH/peach, 1
@@ -7476,7 +7476,7 @@ bucket/purescript.json, ScoopInstaller/Main, 1
 bucket/purewriter.json, DoveBoy/Apps, 1
 bucket/pushbullet.json, naderi/scoop-bucket, 0
 bucket/puttie.json, ScoopInstaller/Extras, 1
-bucket/putty-cac.json, ScoopInstaller/Versions, 1
+bucket/putty-cac.json, ScoopInstaller/Versions, 0
 bucket/putty-gdi-pfwd.json, jfut/scoop-jfut, 0
 bucket/putty-gdi.ja.json, jfut/scoop-jfut, 0
 bucket/putty-gdi.json, jfut/scoop-jfut, 0
