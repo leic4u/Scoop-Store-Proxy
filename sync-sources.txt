@@ -1732,7 +1732,7 @@ bucket/api-monitor.json, rasa/scoops, 0
 bucket/apifox.json, ScoopInstaller/Extras, 0
 bucket/apimonitor.json, 42wim/scoop-bucket, 0
 bucket/apimtemplate.json, ScoopInstaller/Main, 1
-bucket/apipost.json, zhoujin7/tomato, 0
+bucket/apipost.json, HCLonely/my-scoop-bucket, 0
 bucket/apkeep.json, ScoopInstaller/Extras, 1
 bucket/apkeepCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/apkstudio.json, ChungZH/peach, 1
@@ -5652,7 +5652,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, chawyehsu/dorado, 0
+bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/miflash.json, batkiz/backit, 0
