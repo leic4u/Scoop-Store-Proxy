@@ -1418,7 +1418,7 @@ bucket/WTGA.json, kkzzhizhou/scoop-zapps, 1
 bucket/WXQQ_RevokeMsgPatcher.json, Paxxs/Cluttered-bucket, 1
 bucket/WacomTablet-Install.json, ACooper81/scoop-apps, 0
 bucket/WaitCLI-Portable.json, ACooper81/scoop-apps, 0
-bucket/Waterfox-Portable.json, naderi/scoop-bucket, 0
+bucket/Waterfox-Portable.json, ACooper81/scoop-apps, 0
 bucket/WazuhAgent-Install.json, ACooper81/scoop-apps, 0
 bucket/WeChat-Portable.json, Paxxs/Cluttered-bucket, 0
 bucket/WePE.json, Weidows-projects/scoop-3rd, 0
