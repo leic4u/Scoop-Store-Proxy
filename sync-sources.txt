@@ -1018,6 +1018,7 @@ bucket/RaiDrive.json, kkzzhizhou/scoop-zapps, 1
 bucket/Raleway.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Raptor.json, abgox/abgo_bucket, 1
 bucket/Rare-Portable.json, ACooper81/scoop-apps, 1
+bucket/ReClass.NET.json, TheCjw/scoop-retools, 1
 bucket/Recursive-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Recursive-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Recursive-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -4925,7 +4926,7 @@ bucket/k3d.json, ScoopInstaller/Main, 1
 bucket/k3sup.json, ScoopInstaller/Main, 1
 bucket/k6.json, ScoopInstaller/Main, 1
 bucket/k9s.json, ScoopInstaller/Main, 1
-bucket/kaf-cli.json, DoveBoy/Apps, 1
+bucket/kaf-cli.json, ygguorun/scoop-bucket, 1
 bucket/kaf-wifi.json, DoveBoy/Apps, 1
 bucket/kaf.json, ScoopInstaller/Main, 1
 bucket/kafka-exporter.json, ScoopInstaller/Main, 1
@@ -6083,7 +6084,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, chawyehsu/dorado, 0
+bucket/neteasemusic.json, DoveBoy/Apps, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
