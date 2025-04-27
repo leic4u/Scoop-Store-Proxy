@@ -402,7 +402,7 @@ bucket/EpicGamesLauncher-Install.json, ACooper81/scoop-apps, 0
 bucket/EpicGamesLauncher-Portable.json, ACooper81/scoop-apps, 0
 bucket/Eraser5-Portable.json, ACooper81/scoop-apps, 0
 bucket/Eros-FE.json, batkiz/backit, 1
-bucket/Escrcpy.json, DoveBoy/Apps, 1
+bucket/Escrcpy.json, abgox/abgo_bucket, 1
 bucket/EventLogViewer-Portable.json, ACooper81/scoop-apps, 0
 bucket/ExVR.json, Weidows-projects/scoop-3rd, 1
 bucket/ExifPilot-Portable.json, ACooper81/scoop-apps, 0
@@ -4926,7 +4926,7 @@ bucket/k3d.json, ScoopInstaller/Main, 1
 bucket/k3sup.json, ScoopInstaller/Main, 1
 bucket/k6.json, ScoopInstaller/Main, 1
 bucket/k9s.json, ScoopInstaller/Main, 1
-bucket/kaf-cli.json, ygguorun/scoop-bucket, 1
+bucket/kaf-cli.json, batkiz/backit, 1
 bucket/kaf-wifi.json, DoveBoy/Apps, 1
 bucket/kaf.json, ScoopInstaller/Main, 1
 bucket/kafka-exporter.json, ScoopInstaller/Main, 1
