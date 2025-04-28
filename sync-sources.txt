@@ -234,6 +234,7 @@ bucket/CascadiaMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CascadiaMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CascadiaMono.json, KnotUntied/scoop-fonts, 1
 bucket/CascadiaMonoPL.json, everyx/scoop-bucket, 1
+bucket/Catime.json, ygguorun/scoop-bucket, 1
 bucket/CefDetector.json, ygguorun/scoop-bucket, 1
 bucket/CefDetectorX.json, Weidows-projects/scoop-3rd, 1
 bucket/CenterTaskbar-Portable.json, ACooper81/scoop-apps, 1
