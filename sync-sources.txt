@@ -98,6 +98,9 @@ bucket/AdvancedIPScanner-Portable.json, ACooper81/scoop-apps, 0
 bucket/AdvancedPassGen-Portable.json, ACooper81/scoop-apps, 1
 bucket/AdvancedWgetGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Adwaita-for-Steam.json, Weidows-projects/scoop-3rd, 1
+bucket/AdwaitaMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/AdwaitaMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/AdwaitaMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Agave-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Agave-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Agave-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -7929,7 +7932,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -9678,7 +9681,7 @@ bucket/wechat-np.json, chawyehsu/dorado, 0
 bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
-bucket/wechatdevtools.json, chawyehsu/dorado, 0
+bucket/wechatdevtools.json, akirco/aki-apps, 0
 bucket/wechatdownload.json, DoveBoy/Apps, 1
 bucket/wechatexporter.json, amorphobia/siku, 1
 bucket/wechatmoments.json, DoveBoy/Apps, 1
