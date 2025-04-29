@@ -2609,6 +2609,7 @@ bucket/colorcontrol.json, ScoopInstaller/Extras, 1
 bucket/colors.json, starise/Scoop-Confetti, 0
 bucket/colortool.json, ScoopInstaller/Main, 1
 bucket/comicmono.json, KnotUntied/scoop-fonts, 0
+bucket/comicrack-ce-nightly.json, brian6932/dank-scoop, 1
 bucket/comicrack.json, brian6932/dank-scoop, 0
 bucket/commandbox.json, ScoopInstaller/Extras, 0
 bucket/commitmono.json, KnotUntied/scoop-fonts, 1
@@ -5502,6 +5503,7 @@ bucket/mancy.json, ScoopInstaller/Extras, 1
 bucket/mandoc.json, ScoopInstaller/Main, 0
 bucket/mangadex-dl.json, hu3rror/scoop-muggle, 1
 bucket/mangal.json, ScoopInstaller/Extras, 1
+bucket/manhuagui-downloader.json, hu3rror/scoop-muggle, 1
 bucket/mani.json, aliesbelik/poldi, 1
 bucket/manictime.json, ScoopInstaller/Extras, 0
 bucket/manifold-viewer.json, ScoopInstaller/Extras, 0
