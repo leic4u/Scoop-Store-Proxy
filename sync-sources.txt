@@ -303,7 +303,6 @@ bucket/D2Coding-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/D2Coding-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/DBeaver-Portable.json, ACooper81/scoop-apps, 1
 bucket/DDMonitor.json, ygguorun/scoop-bucket, 1
-bucket/DDNS-go.json, leic4u/Scoop-Store, 1
 bucket/DHCPServer-Portable.json, ACooper81/scoop-apps, 0
 bucket/DLSSSwapper-Portable.json, ACooper81/scoop-apps, 1
 bucket/DNSControlCLI-Portable.json, ACooper81/scoop-apps, 1
@@ -428,7 +427,7 @@ bucket/FantasqueSansMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FantasqueSansMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FastCopy-M.json, Paxxs/Cluttered-bucket, 1
 bucket/FastGithub.json, abgox/abgo_bucket, 0
-bucket/FeiShu.json, abgox/abgo_bucket, 1
+bucket/FeiShu.json, scoopcn/scoopcn, 0
 bucket/FerdiumNightly-Portable.json, ACooper81/scoop-apps, 1
 bucket/Fido-PSScript.json, ACooper81/scoop-apps, 1
 bucket/FileCentipede.json, leic4u/Scoop-Store, 1
@@ -2898,6 +2897,7 @@ bucket/ddc-toolbox.json, ScoopInstaller/Extras, 1
 bucket/dddd.json, ViCrack/scoop-bucket, 1
 bucket/ddev.json, ScoopInstaller/Main, 1
 bucket/ddnet.json, Calinou/scoop-games, 0
+bucket/ddns-go.json, ScoopInstaller/Extras, 1
 bucket/ddosify.json, ScoopInstaller/Main, 1
 bucket/ddtv2.json, aoisummer/scoop-bucket, 1
 bucket/ddu-lean.json, brian6932/dank-scoop, 1
