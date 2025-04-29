@@ -3738,7 +3738,7 @@ bucket/folderchangesview.json, ScoopInstaller/Nirsoft, 0
 bucket/foldersreport.json, kodybrown/scoop-nirsoft, 0
 bucket/foldertimeupdate.json, ScoopInstaller/Nirsoft, 0
 bucket/folding-at-home.json, ScoopInstaller/Extras, 0
-bucket/folo.json, DoveBoy/Apps, 1
+bucket/folo.json, ScoopInstaller/Extras, 1
 bucket/folrep.json, ScoopInstaller/Nirsoft, 0
 bucket/font-behdad.json, naderi/scoop-bucket, 1
 bucket/font-estedad.json, naderi/scoop-bucket, 1
@@ -6679,7 +6679,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7935,7 +7935,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
@@ -8340,7 +8340,6 @@ bucket/shudaxia.json, HCLonely/my-scoop-bucket, 0
 bucket/shutter-encoder.json, ScoopInstaller/Extras, 0
 bucket/shutter.json, ScoopInstaller/Extras, 0
 bucket/shutup10.json, ScoopInstaller/Extras, 0
-bucket/sic.json, brian6932/dank-scoop, 1
 bucket/sidebar-diagnostics.json, ScoopInstaller/Extras, 1
 bucket/sidekick-browser.json, ScoopInstaller/Extras, 0
 bucket/sift.json, ScoopInstaller/Main, 0
@@ -9172,6 +9171,7 @@ bucket/tree.json, cderv/r-bucket, 0
 bucket/treeline.json, amorphobia/siku, 1
 bucket/treesheets.json, ScoopInstaller/Extras, 1
 bucket/treesize-free.json, ScoopInstaller/Extras, 0
+bucket/treex.json, ScoopInstaller/Extras, 1
 bucket/tremulous.json, ScoopInstaller/Extras, 1
 bucket/trenchbroom.json, Calinou/scoop-games, 1
 bucket/trenchman.json, littleli/scoop-clojure, 1
@@ -9684,7 +9684,7 @@ bucket/wechat-np.json, chawyehsu/dorado, 0
 bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
-bucket/wechatdevtools.json, akirco/aki-apps, 0
+bucket/wechatdevtools.json, chawyehsu/dorado, 0
 bucket/wechatdownload.json, DoveBoy/Apps, 1
 bucket/wechatexporter.json, amorphobia/siku, 1
 bucket/wechatmoments.json, DoveBoy/Apps, 1
