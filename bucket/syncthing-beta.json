@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0-beta.11",
+  "version": "1.29.6-rc.3",
   "description": "Open Source Continuous File Synchronization.",
   "homepage": "https://syncthing.net/",
   "license": {
@@ -9,19 +9,19 @@
   "notes": "To start syncthing automatically, use a method described at https://docs.syncthing.net/users/autostart.html#windows",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/syncthing/syncthing/releases/download/v2.0.0-beta.11/syncthing-windows-amd64-v2.0.0-beta.11.zip",
-      "hash": "e40bb7c75c749c649e4d5b48d315c4717e1c847cbc3f3a3313419848526b5214",
-      "extract_dir": "syncthing-windows-amd64-v2.0.0-beta.11"
+      "url": "https://ghgo.xyz/https://github.com/syncthing/syncthing/releases/download/v1.29.6-rc.3/syncthing-windows-amd64-v1.29.6-rc.3.zip",
+      "hash": "dc85da5ea56de47122554fbdf9aafa8ebacf64d878d8a9cd7b60bdc1ced21d74",
+      "extract_dir": "syncthing-windows-amd64-v1.29.6-rc.3"
     },
     "32bit": {
-      "url": "https://ghgo.xyz/https://github.com/syncthing/syncthing/releases/download/v2.0.0-beta.11/syncthing-windows-386-v2.0.0-beta.11.zip",
-      "hash": "e138f75b8edeaa87bd96d813c835ffdf761d57d65a807dfac21ac9e6bee6c455",
-      "extract_dir": "syncthing-windows-386-v2.0.0-beta.11"
+      "url": "https://ghgo.xyz/https://github.com/syncthing/syncthing/releases/download/v1.29.6-rc.3/syncthing-windows-386-v1.29.6-rc.3.zip",
+      "hash": "8c0c29c73fbb0210b215d94c18e673ff8f74871f25c2e8aa71470bf0d5bd2f8f",
+      "extract_dir": "syncthing-windows-386-v1.29.6-rc.3"
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/syncthing/syncthing/releases/download/v2.0.0-beta.11/syncthing-windows-arm64-v2.0.0-beta.11.zip",
-      "hash": "a45be227c34b26c813d30d89baeed99070aae3a05c17185e678c2209eddc951c",
-      "extract_dir": "syncthing-windows-arm64-v2.0.0-beta.11"
+      "url": "https://ghgo.xyz/https://github.com/syncthing/syncthing/releases/download/v1.29.6-rc.3/syncthing-windows-arm64-v1.29.6-rc.3.zip",
+      "hash": "b43b5336c6e9316a3cf656d2d2cffa03144e64fad3d38d86acffcd3e6cef90b4",
+      "extract_dir": "syncthing-windows-arm64-v1.29.6-rc.3"
     }
   },
   "pre_install": [
