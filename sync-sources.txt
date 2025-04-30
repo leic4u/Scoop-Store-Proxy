@@ -5124,6 +5124,7 @@ bucket/kubewall.json, aliesbelik/poldi, 1
 bucket/kubo.json, ScoopInstaller/Main, 0
 bucket/kugou.json, scoopcn/scoopcn, 0
 bucket/kui.json, ScoopInstaller/Extras, 1
+bucket/kure.json, aliesbelik/poldi, 1
 bucket/kusion.json, ScoopInstaller/Main, 1
 bucket/kustomize.json, ScoopInstaller/Main, 1
 bucket/kwmusic-cvp.json, SayCV/scoop-cvp, 1
