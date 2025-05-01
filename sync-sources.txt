@@ -3037,6 +3037,7 @@ bucket/diskusage.json, aliesbelik/poldi, 1
 bucket/diskview.json, niheaven/scoop-sysinternals, 1
 bucket/dismplusplus.json, ScoopInstaller/Extras, 1
 bucket/dismpp.json, echoiron/echo-scoop, 1
+bucket/dispatch.json, brian6932/dank-scoop, 1
 bucket/display-changer-ii.json, rasa/scoops, 0
 bucket/display-changer.json, rasa/scoops, 0
 bucket/displaycal.json, ScoopInstaller/Extras, 0
