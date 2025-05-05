@@ -2722,6 +2722,7 @@ bucket/cpuz-cn.json, ViCrack/scoop-bucket, 0
 bucket/cq.json, littleli/scoop-clojure, 1
 bucket/cracklock.json, SayCV/scoop-cvp, 0
 bucket/cranko.json, batkiz/backit, 1
+bucket/crapfixer.json, naderi/scoop-bucket, 1
 bucket/crawlergo.json, ViCrack/scoop-bucket, 1
 bucket/crc.json, ScoopInstaller/Main, 0
 bucket/credentialsfileview.json, ScoopInstaller/Nirsoft, 0
