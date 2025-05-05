@@ -2269,8 +2269,6 @@ bucket/cairo-desktop.json, ScoopInstaller/Extras, 1
 bucket/cajviewer.json, ivaquero/scoopet, 0
 bucket/cake.json, ScoopInstaller/Main, 1
 bucket/calctus.json, DoveBoy/Apps, 1
-bucket/calibre-cjk.json, hu3rror/scoop-muggle, 1
-bucket/calibre-normal-cjk.json, hu3rror/scoop-muggle, 1
 bucket/calibre-normal.json, ScoopInstaller/Extras, 0
 bucket/calibre-normal5.json, ScoopInstaller/Versions, 0
 bucket/calibre-np.json, ScoopInstaller/Nonportable, 1
