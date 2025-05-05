@@ -5799,6 +5799,7 @@ bucket/moar.json, ScoopInstaller/Extras, 1
 bucket/mob.json, ScoopInstaller/Main, 1
 bucket/mobalivecd.json, ScoopInstaller/Extras, 0
 bucket/mobaxterm-professional.json, naderi/scoop-bucket, 0
+bucket/mobaxterm-sp.json, hu3rror/scoop-muggle, 0
 bucket/mobaxterm.json, ScoopInstaller/Extras, 0
 bucket/mobilecontrolguru.json, DoveBoy/Apps, 1
 bucket/mobilefilesearch.json, ScoopInstaller/Nirsoft, 0
@@ -10371,6 +10372,7 @@ scripts/DoradoUtils.psm1, chawyehsu/dorado, 0
 scripts/Install-Font.ps1, batkiz/backit, 0
 scripts/InstallAllInstallApps.ps1, ACooper81/scoop-apps, 0
 scripts/InstallAllPortableApps.ps1, ACooper81/scoop-apps, 0
+scripts/MobaXtermX.exe, hu3rror/scoop-muggle, 0
 scripts/ModifyPSProfile.psm1, ScoopInstaller/Extras, 0
 scripts/S4Utils.psm1, AkariiinMKII/Scoop4kariiin, 0
 scripts/SSUtils.psm1, leic4u/Scoop-Store, 0
