@@ -3615,6 +3615,7 @@ bucket/filelight-nightly.json, ScoopInstaller/Versions, 0
 bucket/filelight.json, ScoopInstaller/Extras, 0
 bucket/filelist.json, starise/Scoop-Confetti, 0
 bucket/fileoptimizer.json, ScoopInstaller/Extras, 0
+bucket/filepilot.json, brian6932/dank-scoop, 0
 bucket/files-np.json, ScoopInstaller/Nonportable, 0
 bucket/filetypesman.json, ScoopInstaller/Nirsoft, 0
 bucket/filevoyager-portable.json, naderi/scoop-bucket, 0
@@ -6172,7 +6173,6 @@ bucket/nmap-portable.json, akirco/aki-apps, 0
 bucket/nmap.json, ScoopInstaller/Main, 0
 bucket/nmkoder.json, ScoopInstaller/Extras, 1
 bucket/no-steam-webhelper.json, brian6932/dank-scoop, 1
-bucket/noMeiryoUI.json, wordpure/scoop-air, 1
 bucket/node-compiler.json, ScoopInstaller/Extras, 1
 bucket/nodejs-bin.json, wzv5/ScoopBucket, 1
 bucket/nodejs-lts-np.json, ScoopInstaller/Nonportable, 1
@@ -6201,6 +6201,7 @@ bucket/noi.json, ScoopInstaller/Extras, 1
 bucket/nomachine-enterprise.json, 42wim/scoop-bucket, 0
 bucket/nomacs.json, ScoopInstaller/Extras, 1
 bucket/nomad.json, ScoopInstaller/Main, 0
+bucket/nomeiryoui.json, ScoopInstaller/Extras, 1
 bucket/nomino.json, ScoopInstaller/Main, 1
 bucket/none.json, kodybrown/scoop-nirsoft, 0
 bucket/noodlemanager.json, Deide/deide-bucket, 1
