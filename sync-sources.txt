@@ -8860,6 +8860,7 @@ bucket/task.json, ScoopInstaller/Main, 1
 bucket/taskbarx.json, ScoopInstaller/Extras, 1
 bucket/taskschedulerview.json, ScoopInstaller/Nirsoft, 0
 bucket/taskt.json, ScoopInstaller/Extras, 1
+bucket/tauon.json, ScoopInstaller/Extras, 1
 bucket/tautulli.json, amorphobia/siku, 1
 bucket/tb-Toolbox.json, Paxxs/Cluttered-bucket, 0
 bucket/tb-vol-scroll.json, ScoopInstaller/Extras, 1
