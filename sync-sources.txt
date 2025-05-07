@@ -2411,6 +2411,7 @@ bucket/cherry-studio.json, ScoopInstaller/Extras, 1
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi-modify-manager.json, cderv/r-bucket, 1
 bucket/chezmoi.json, ScoopInstaller/Main, 1
+bucket/chezscheme.json, chawyehsu/dorado, 1
 bucket/chfs-gui.json, chawyehsu/dorado, 0
 bucket/chfs-tab-completion.json, DoveBoy/Apps, 0
 bucket/chfs.json, abgox/abgo_bucket, 0
@@ -3719,7 +3720,7 @@ bucket/flux.json, ScoopInstaller/Main, 1
 bucket/fluxctl.json, ScoopInstaller/Versions, 1
 bucket/flvextract.json, chawyehsu/dorado, 0
 bucket/flybird-downloader.json, DoveBoy/Apps, 1
-bucket/flycast.json, Calinou/scoop-games, 1
+bucket/flycast.json, hermanjustnu/scoop-emulators, 1
 bucket/flyctl.json, ScoopInstaller/Main, 1
 bucket/flyway.json, ScoopInstaller/Main, 0
 bucket/fm.json, aliesbelik/poldi, 1
