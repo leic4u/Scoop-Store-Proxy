@@ -1782,7 +1782,7 @@ bucket/arduino-cli.json, ScoopInstaller/Main, 1
 bucket/arduino-ide-rc.json, ScoopInstaller/Versions, 1
 bucket/arduino.json, ScoopInstaller/Extras, 0
 bucket/arduino18.json, ScoopInstaller/Versions, 0
-bucket/ares.json, borger/scoop-emulators, 1
+bucket/ares.json, Calinou/scoop-games, 1
 bucket/argo.json, ScoopInstaller/Main, 1
 bucket/argocd-autopilot.json, ScoopInstaller/Main, 1
 bucket/argocd.json, ScoopInstaller/Main, 1
@@ -1816,6 +1816,7 @@ bucket/asciidoctorj.json, ScoopInstaller/Main, 0
 bucket/asio4all-np.json, ScoopInstaller/Nonportable, 0
 bucket/aspell.json, ScoopInstaller/Main, 0
 bucket/assaultcube.json, Calinou/scoop-games, 1
+bucket/asset-ripper.json, Calinou/scoop-games, 1
 bucket/assetstudio.json, Calinou/scoop-games, 1
 bucket/assh.json, aliesbelik/poldi, 1
 bucket/assimp3.json, ScoopInstaller/Versions, 1
@@ -3953,6 +3954,7 @@ bucket/gdidrop.json, Calinou/scoop-games, 1
 bucket/gdisk.json, ScoopInstaller/Main, 0
 bucket/gdiview.json, ScoopInstaller/Nirsoft, 0
 bucket/gdrive.json, ScoopInstaller/Main, 1
+bucket/gdsdecomp.json, Calinou/scoop-games, 1
 bucket/gdu.json, ScoopInstaller/Main, 1
 bucket/geany-plugins.json, ScoopInstaller/Extras, 0
 bucket/geany.json, ScoopInstaller/Extras, 0
@@ -7242,6 +7244,7 @@ bucket/pkhex.json, Calinou/scoop-games, 0
 bucket/pkl-cli.json, ScoopInstaller/Main, 1
 bucket/plain-craft-launcher.json, amorphobia/siku, 1
 bucket/plantuml.json, ScoopInstaller/Extras, 1
+bucket/playback.json, Calinou/scoop-games, 0
 bucket/playit.json, Calinou/scoop-games, 1
 bucket/playnite.json, ScoopInstaller/Extras, 1
 bucket/plex-desktop.json, ScoopInstaller/Extras, 0
@@ -8056,7 +8059,7 @@ bucket/safebrowser.json, ScoopInstaller/Extras, 1
 bucket/safeincloud.json, naderi/scoop-bucket, 0
 bucket/sagemath-cn.json, ivaquero/scoopet, 0
 bucket/sagerconnect.json, AkinoKaede/maple, 1
-bucket/sak.json, kiennq/scoop-misc, 1
+bucket/sak.json, Calinou/scoop-games, 1
 bucket/sakura.json, mo-san/scoop-bucket, 1
 bucket/salt.json, kidonng/sushi, 1
 bucket/sam.json, ScoopInstaller/Extras, 1
