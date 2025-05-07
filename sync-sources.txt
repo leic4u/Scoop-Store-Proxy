@@ -2269,7 +2269,7 @@ bucket/calctus.json, DoveBoy/Apps, 1
 bucket/calibre-normal.json, ScoopInstaller/Extras, 0
 bucket/calibre-normal5.json, ScoopInstaller/Versions, 0
 bucket/calibre-np.json, ScoopInstaller/Nonportable, 1
-bucket/calibre.json, ScoopInstaller/Extras, 0
+bucket/calibre.json, ScoopInstaller/Extras, 1
 bucket/calories.json, MCOfficer/scoop-bucket, 1
 bucket/cam350-122.json, SayCV/scoop-cvp, 1
 bucket/cambridge.json, Calinou/scoop-games, 1
@@ -9622,6 +9622,7 @@ bucket/waitforit.json, aliesbelik/poldi, 1
 bucket/wakatime-cli.json, ScoopInstaller/Main, 1
 bucket/wakemeonlan.json, ScoopInstaller/Nirsoft, 0
 bucket/walk.json, ScoopInstaller/Main, 1
+bucket/walksnail-osd-tool.json, ScoopInstaller/Extras, 1
 bucket/wapm-cli.json, ScoopInstaller/Main, 1
 bucket/warp-cloudflare.json, Weidows-projects/scoop-3rd, 0
 bucket/warp-terminal.json, ScoopInstaller/Extras, 0
