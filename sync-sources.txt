@@ -408,7 +408,6 @@ bucket/EpicGamesLauncher-Install.json, ACooper81/scoop-apps, 0
 bucket/EpicGamesLauncher-Portable.json, ACooper81/scoop-apps, 0
 bucket/Eraser5-Portable.json, ACooper81/scoop-apps, 0
 bucket/Eros-FE.json, batkiz/backit, 1
-bucket/Escrcpy.json, abgox/abgo_bucket, 1
 bucket/EventLogViewer-Portable.json, ACooper81/scoop-apps, 0
 bucket/ExVR.json, Weidows-projects/scoop-3rd, 1
 bucket/ExifPilot-Portable.json, ACooper81/scoop-apps, 0
@@ -3407,6 +3406,7 @@ bucket/erlang.json, ScoopInstaller/Main, 1
 bucket/errorlookup.json, HUMORCE/nuke, 1
 bucket/es.json, echoiron/echo-scoop, 0
 bucket/escrcpy-portable.json, DoveBoy/Apps, 1
+bucket/escrcpy.json, ScoopInstaller/Extras, 1
 bucket/esearch-portable.json, DoveBoy/Apps, 1
 bucket/esearch.json, ScoopInstaller/Extras, 1
 bucket/esedatabaseview.json, ScoopInstaller/Nirsoft, 0
@@ -9824,7 +9824,7 @@ bucket/windowstoolbox.json, beerpiss/scoop-bucket, 1
 bucket/windowsupdateshistoryviewer.json, kodybrown/scoop-nirsoft, 0
 bucket/windowtextextractor.json, ScoopInstaller/Extras, 1
 bucket/windscribe.json, Homeland-Community/scoop, 1
-bucket/windsurf.json, akirco/aki-apps, 0
+bucket/windsurf.json, ScoopInstaller/Extras, 0
 bucket/windterm.json, ScoopInstaller/Extras, 1
 bucket/windynamicdesktop.json, ScoopInstaller/Extras, 1
 bucket/winexplorer.json, kodybrown/scoop-nirsoft, 0
