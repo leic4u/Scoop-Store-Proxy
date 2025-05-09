@@ -3158,7 +3158,7 @@ bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/doukutsu-rs.json, Calinou/scoop-games, 1
 bucket/douyin-ide.json, chawyehsu/dorado, 0
-bucket/douyin-streamingtool.json, ivaquero/scoopet, 0
+bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
 bucket/douyu.json, DoveBoy/Apps, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyicore.json, batkiz/backit, 1
@@ -4087,6 +4087,7 @@ bucket/glab.json, ScoopInstaller/Main, 0
 bucket/glary-utilities.json, ScoopInstaller/Extras, 0
 bucket/glasswire-lite-np.json, ScoopInstaller/Nonportable, 0
 bucket/glasswire-np.json, ScoopInstaller/Nonportable, 0
+bucket/glazewm-np.json, ScoopInstaller/Nonportable, 1
 bucket/glazewm.json, ScoopInstaller/Extras, 1
 bucket/gleam.json, ScoopInstaller/Main, 1
 bucket/glfw.json, ScoopInstaller/Main, 1
@@ -6689,7 +6690,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
