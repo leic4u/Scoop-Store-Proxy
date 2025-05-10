@@ -9175,6 +9175,7 @@ bucket/trashy.json, ScoopInstaller/Main, 1
 bucket/traymond.json, ScoopInstaller/Extras, 1
 bucket/trays.json, NyaMisty/scoop_bucket_misty, 1
 bucket/trayweather.json, ScoopInstaller/Extras, 1
+bucket/trayy.json, naderi/scoop-bucket, 1
 bucket/trdlCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/trdsql.json, aliesbelik/poldi, 1
 bucket/trdsqlCLI-Portable.json, ACooper81/scoop-apps, 1
