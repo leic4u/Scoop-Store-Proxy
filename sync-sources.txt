@@ -3919,7 +3919,7 @@ bucket/gallery-dlCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/game-backup-monitor.json, Calinou/scoop-games, 1
 bucket/game-editor.json, ScoopInstaller/Extras, 0
 bucket/gameboosthd.json, ScoopInstaller/Main, 0
-bucket/gamebuff.json, SayCV/scoop-cvp, 0
+bucket/gamebuff.json, Weidows-projects/scoop-3rd, 0
 bucket/gamesave-manager.json, starise/Scoop-Gaming, 0
 bucket/gammy.json, ScoopInstaller/Extras, 1
 bucket/gamutvision.json, seumsc/scoop-seu, 0
