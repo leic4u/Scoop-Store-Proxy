@@ -2064,7 +2064,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -8038,7 +8038,7 @@ bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
-bucket/ryujinx-canary.json, Calinou/scoop-games, 1
+bucket/ryujinx-canary.json, borger/scoop-emulators, 1
 bucket/ryujinx.json, Calinou/scoop-games, 1
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
