@@ -2064,7 +2064,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -6105,7 +6105,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, DoveBoy/Apps, 0
+bucket/neteasemusic.json, ivaquero/scoopet, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
