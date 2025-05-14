@@ -3469,7 +3469,7 @@ bucket/exifcleaner.json, ScoopInstaller/Extras, 1
 bucket/exifdataview.json, ScoopInstaller/Nirsoft, 0
 bucket/exifglass.json, ScoopInstaller/Extras, 1
 bucket/exiftool.json, ScoopInstaller/Main, 0
-bucket/exiftoolgui.json, everyx/scoop-bucket, 0
+bucket/exiftoolgui.json, cc713/ownscoop, 0
 bucket/experimental-clash.json, DoveBoy/Apps, 1
 bucket/explorer-suite.json, ScoopInstaller/Extras, 0
 bucket/explorerpatcher.json, DoveBoy/Apps, 1
@@ -4972,7 +4972,7 @@ bucket/kavita.json, ScoopInstaller/Extras, 1
 bucket/kawaii-player.json, ScoopInstaller/Extras, 1
 bucket/kawanime.json, ScoopInstaller/Extras, 1
 bucket/kaxaml.json, Deide/deide-bucket, 1
-bucket/kazumi.json, DoveBoy/Apps, 1
+bucket/kazumi.json, wzv5/ScoopBucket, 1
 bucket/kbootopt.json, echoiron/echo-scoop, 0
 bucket/kcc.json, ScoopInstaller/Extras, 1
 bucket/kcleaner.json, echoiron/echo-scoop, 0
@@ -7353,7 +7353,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
