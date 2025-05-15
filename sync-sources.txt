@@ -7396,7 +7396,7 @@ bucket/produkey.json, ScoopInstaller/Nirsoft, 0
 bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
-bucket/project64-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
 bucket/prometheus-pushgateway.json, ScoopInstaller/Main, 1
@@ -8039,7 +8039,7 @@ bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
-bucket/ryujinx-canary.json, borger/scoop-emulators, 1
+bucket/ryujinx-canary.json, Calinou/scoop-games, 1
 bucket/ryujinx.json, Calinou/scoop-games, 1
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
