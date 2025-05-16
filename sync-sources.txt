@@ -8428,6 +8428,7 @@ bucket/slk-img2pixel.json, hu3rror/scoop-muggle, 1
 bucket/slskd.json, ScoopInstaller/Extras, 1
 bucket/slu.json, littleli/Scoop-littleli, 1
 bucket/slumber.json, aliesbelik/poldi, 1
+bucket/sm64coopdx.json, borger/scoop-emulators, 1
 bucket/smali.json, TheCjw/scoop-retools, 0
 bucket/smart-svg-viewer.json, naderi/scoop-bucket, 0
 bucket/smartcontextmenu.json, ScoopInstaller/Extras, 1
@@ -10272,6 +10273,7 @@ bucket/zeebe-modeler.json, ScoopInstaller/Extras, 1
 bucket/zeebe.json, ScoopInstaller/Main, 1
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
 bucket/zelda-oot-soh.json, Deide/deide-bucket, 1
+bucket/zelda64recomp.json, borger/scoop-emulators, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
 bucket/zeplin.json, ScoopInstaller/Extras, 0
 bucket/zeppelin.json, ScoopInstaller/Extras, 0
