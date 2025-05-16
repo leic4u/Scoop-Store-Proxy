@@ -9501,6 +9501,7 @@ bucket/video-thumbnails-maker.json, ScoopInstaller/Extras, 0
 bucket/video2x.json, seumsc/scoop-seu, 1
 bucket/videoaudiotools.json, ScoopInstaller/Nirsoft, 0
 bucket/videocacheview.json, ScoopInstaller/Nirsoft, 0
+bucket/videocaptioner.json, ivaquero/scoopet, 1
 bucket/videofusion.json, DoveBoy/Apps, 1
 bucket/videosubfinder.json, seumsc/scoop-seu, 0
 bucket/vidi.json, ScoopInstaller/Extras, 1
