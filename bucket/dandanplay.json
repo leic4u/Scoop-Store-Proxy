@@ -1,44 +1,35 @@
 {
   "homepage": "https://www.dandanplay.com/",
-  "description": "A free to use bangumi player with danmaku support",
-  "version": "15.13.3.509",
+  "description": "A local video player with danmu.",
+  "version": "15.14.0",
   "license": "Unknown",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/kaedei/dandanplay/releases/download/windows-15.13.3.509/dandanplay-x64_15.13.3.zip",
-      "hash": "48324b471f66700ea34e495aaa9e77b27d8f4219214f0dca97599b7191417825"
+      "url": "https://ghgo.xyz/https://github.com/kaedei/dandanplay/releases/download/windows-15.14.0.0/dandanplay-x64_15.14.0.zip",
+      "hash": "1491bf829c833b13b67170abb67a4d2bea77870f576133f4a74ac6a1fae84489",
+      "extract_dir": "dandanplay-x64"
     }
   },
-  "extract_dir": "dandanplay-x64",
-  "pre_install": [
-    "if (!(Test-Path \"$persist_dir\\Config\")) {",
-    "    New-Item -Path \"$persist_dir\\Config\" -ItemType Directory | Out-Null",
-    "}",
-    "# Disable auto update",
-    "if (!(Test-Path \"$persist_dir\\Config\\ConnectionSettings.xml\")) {",
-    "    New-Item -Force -Path \"$persist_dir\\Config\\ConnectionSettings.xml\" -ItemType File -Value '<?xml version=\"1.0\"?><ConnectionSettings><EnableAutoUpdate>false</EnableAutoUpdate><NotifyOnUpdateDownloaded>false</NotifyOnUpdateDownloaded></ConnectionSettings>' | Out-Null",
-    "}",
-    "# Disable tracking",
-    "if (!(Test-Path \"$persist_dir\\Config\\UserSettings.xml\")) {",
-    "    New-Item -Force -Path \"$persist_dir\\Config\\UserSettings.xml\" -ItemType File -Value '<?xml version=\"1.0\"?><UserSettings><EnableTelemetry>false</EnableTelemetry></UserSettings>' | Out-Null",
-    "}"
+  "persist": [
+    "Cache",
+    "Config",
+    "Log"
   ],
   "shortcuts": [
     [
       "dandanplay.exe",
-      "弹弹play"
+      "DandanPlay"
     ]
   ],
-  "persist": [
-    "Config",
-    "Log",
-    "Cache"
-  ],
   "checkver": {
-    "url": "https://github.com/kaedei/dandanplay/tags",
-    "regex": ">windows-([\\d.]+)"
+    "url": "https://github.com/kaedei/dandanplay/releases/latest",
+    "regex": "(?sm)/releases/tag/windows-(?<ver>[\\d.]+).+\\bv(?<version>[\\d.]+)\\.0</"
   },
   "autoupdate": {
-    "url": "https://ghgo.xyz/https://github.com/kaedei/dandanplay/releases/download/windows-$version/dandanplay-x64_$matchHead.zip"
+    "architecture": {
+      "64bit": {
+        "url": "https://ghgo.xyz/https://github.com/kaedei/dandanplay/releases/download/windows-$matchVer/dandanplay-x64_$version.zip"
+      }
+    }
   }
 }
