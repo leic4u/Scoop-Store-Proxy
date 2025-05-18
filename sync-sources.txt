@@ -5360,6 +5360,15 @@ bucket/lively.json, ScoopInstaller/Extras, 1
 bucket/livesplit.json, Calinou/scoop-games, 1
 bucket/livetcpudpwatch.json, ScoopInstaller/Nirsoft, 0
 bucket/lky-officetools.json, ivaquero/scoopet, 1
+bucket/llama.cpp-cpu.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-cu117.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-cu124.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-hip-gfx1030.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-hip-gfx1100.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-hip-gfx1101.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-opencl.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-sycl.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-vulkan.json, ScoopInstaller/Versions, 1
 bucket/llamafile.json, chawyehsu/dorado, 1
 bucket/lltskb.json, seumsc/scoop-seu, 0
 bucket/llvm-arm64.json, ScoopInstaller/Main, 1
