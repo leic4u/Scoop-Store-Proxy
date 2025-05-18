@@ -1689,10 +1689,9 @@ bucket/anew.json, ViCrack/scoop-bucket, 1
 bucket/angband-dev.json, Calinou/scoop-games, 1
 bucket/angband.json, Calinou/scoop-games, 1
 bucket/angr-management.json, ScoopInstaller/Extras, 1
-bucket/ani-alpha.json, hu3rror/scoop-muggle, 1
 bucket/ani-beta.json, DoveBoy/Apps, 1
 bucket/ani-cli.json, ScoopInstaller/Extras, 1
-bucket/ani.json, hu3rror/scoop-muggle, 1
+bucket/ani.json, DoveBoy/Apps, 1
 bucket/animation-garden-desktop.json, Weidows-projects/scoop-3rd, 1
 bucket/anime4k-glsl.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-avisynthplus-plugin.json, HUMORCE/nuke, 1
@@ -1700,6 +1699,7 @@ bucket/anime4kcpp-cli.json, seumsc/scoop-seu, 1
 bucket/anime4kcpp-dsfilter.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-gui.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-vapoursynth-plugin.json, HUMORCE/nuke, 1
+bucket/animeko-alpha.json, hu3rror/scoop-muggle, 1
 bucket/animeko.json, Weidows-projects/scoop-3rd, 1
 bucket/anki-np.json, ScoopInstaller/Nonportable, 1
 bucket/anki-with-sync.json, kkzzhizhou/scoop-zapps, 1
@@ -7353,7 +7353,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -10380,6 +10380,7 @@ scripts/AppsUtils.psm1, ivaquero/scoopet, 0
 scripts/ClashforWindows/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/DisplayCal-SchTasks.ps1, starise/Scoop-Confetti, 0
 scripts/DoradoUtils.psm1, chawyehsu/dorado, 0
+scripts/Get-LatestGitHubActionLog.ps1, hu3rror/scoop-muggle, 0
 scripts/Install-Font.ps1, batkiz/backit, 0
 scripts/InstallAllInstallApps.ps1, ACooper81/scoop-apps, 0
 scripts/InstallAllPortableApps.ps1, ACooper81/scoop-apps, 0
