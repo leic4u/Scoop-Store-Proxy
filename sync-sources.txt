@@ -2419,6 +2419,7 @@ bucket/chfs-tab-completion.json, DoveBoy/Apps, 0
 bucket/chfs.json, abgox/abgo_bucket, 0
 bucket/chia-blockchain.json, chawyehsu/dorado, 1
 bucket/chiaki-ng.json, Calinou/scoop-games, 1
+bucket/chiko.json, aliesbelik/poldi, 1
 bucket/chinesesubtitleconversiontool.json, chawyehsu/dorado, 1
 bucket/chipmunk.json, ScoopInstaller/Extras, 1
 bucket/chisel.json, ScoopInstaller/Main, 1
@@ -7961,7 +7962,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
