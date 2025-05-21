@@ -2065,7 +2065,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -3315,6 +3315,7 @@ bucket/edgedriver-legacy.json, ScoopInstaller/Versions, 0
 bucket/edgedriver.json, ScoopInstaller/Main, 0
 bucket/edgeless.json, ivaquero/scoopet, 0
 bucket/ediary.json, ChinLong/scoop-customize, 0
+bucket/edit.json, ScoopInstaller/Main, 1
 bucket/editorconfig.json, ScoopInstaller/Main, 0
 bucket/edlo.json, KnotUntied/scoop-fonts, 0
 bucket/edrawmax.json, ivaquero/scoopet, 0
@@ -9166,7 +9167,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, akirco/aki-apps, 1
+bucket/trae-cn.json, chawyehsu/dorado, 0
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
@@ -9714,7 +9715,7 @@ bucket/wechat-np.json, chawyehsu/dorado, 0
 bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
-bucket/wechatdevtools.json, akirco/aki-apps, 0
+bucket/wechatdevtools.json, chawyehsu/dorado, 0
 bucket/wechatdownload.json, DoveBoy/Apps, 1
 bucket/wechatexporter.json, amorphobia/siku, 1
 bucket/wechatmoments.json, DoveBoy/Apps, 1
@@ -10065,7 +10066,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu.json, borger/scoop-emulators, 1
+bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
