@@ -1486,7 +1486,7 @@ bucket/Winhance-Script.json, ACooper81/scoop-apps, 0
 bucket/Winpilot-Portable.json, ACooper81/scoop-apps, 1
 bucket/Wireshark-Portable.json, ACooper81/scoop-apps, 0
 bucket/Wise-Registry-Cleaner.json, leic4u/Scoop-Store, 0
-bucket/WiseCare365.json, echoiron/echo-scoop, 0
+bucket/WiseCare365.json, abgox/abgo_bucket, 0
 bucket/WiseDataRecovery-Portable.json, ACooper81/scoop-apps, 0
 bucket/WizFile-Portable.json, ACooper81/scoop-apps, 0
 bucket/WizTree-Portable.json, ACooper81/scoop-apps, 0
@@ -7415,7 +7415,7 @@ bucket/produkey.json, ScoopInstaller/Nirsoft, 0
 bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
-bucket/project64-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
 bucket/prometheus-pushgateway.json, ScoopInstaller/Main, 1
@@ -7721,7 +7721,7 @@ bucket/racket.json, ScoopInstaller/Main, 0
 bucket/rad.json, ViCrack/scoop-bucket, 1
 bucket/radare2.json, ScoopInstaller/Main, 1
 bucket/radarr.json, ScoopInstaller/Extras, 1
-bucket/raddebugger.json, chawyehsu/dorado, 1
+bucket/raddebugger.json, brian6932/dank-scoop, 1
 bucket/radius.json, ScoopInstaller/Main, 1
 bucket/rage.json, ScoopInstaller/Main, 1
 bucket/ragel.json, ScoopInstaller/Extras, 0
