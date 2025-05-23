@@ -5758,8 +5758,9 @@ bucket/mingit.json, ScoopInstaller/Main, 1
 bucket/mingw-mstorsjo-llvm-ucrt.json, ScoopInstaller/Main, 1
 bucket/mingw-msvcrt.json, ScoopInstaller/Versions, 1
 bucket/mingw-nuwen.json, ScoopInstaller/Main, 0
+bucket/mingw-winlibs-llvm-msvcrt.json, ScoopInstaller/Versions, 1
 bucket/mingw-winlibs-llvm-ucrt.json, ScoopInstaller/Versions, 1
-bucket/mingw-winlibs-llvm.json, ScoopInstaller/Versions, 1
+bucket/mingw-winlibs-msvcrt.json, ScoopInstaller/Versions, 1
 bucket/mingw-winlibs-ucrt-mcf.json, ScoopInstaller/Versions, 1
 bucket/mingw-winlibs-ucrt.json, ScoopInstaller/Versions, 1
 bucket/mingw-winlibs.json, ScoopInstaller/Main, 1
@@ -7968,7 +7969,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
