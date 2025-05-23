@@ -2172,6 +2172,7 @@ bucket/boostnote-local.json, ScoopInstaller/Extras, 1
 bucket/boostnote.json, ScoopInstaller/Extras, 1
 bucket/boot-clj.json, ScoopInstaller/Extras, 1
 bucket/bootleg.json, littleli/scoop-clojure, 1
+bucket/bootperformanceview.json, ScoopInstaller/Nirsoft, 0
 bucket/borderless-gaming-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/borderless-gaming.json, starise/Scoop-Gaming, 1
 bucket/borderlessgaming.json, Deide/deide-bucket, 1
@@ -8371,6 +8372,7 @@ bucket/showkeyboard-node.json, DoveBoy/Apps, 1
 bucket/showkeyboard.json, DoveBoy/Apps, 1
 bucket/shterm-alt.json, seumsc/scoop-seu, 1
 bucket/shudaxia.json, HCLonely/my-scoop-bucket, 0
+bucket/shutdownperformanceview.json, ScoopInstaller/Nirsoft, 0
 bucket/shutter-encoder.json, ScoopInstaller/Extras, 0
 bucket/shutter.json, ScoopInstaller/Extras, 0
 bucket/shutup10.json, ScoopInstaller/Extras, 0
