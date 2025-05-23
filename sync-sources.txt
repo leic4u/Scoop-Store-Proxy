@@ -9440,7 +9440,7 @@ bucket/v2ray-domain-list-community.json, kidonng/sushi, 1
 bucket/v2ray-extra-beta.json, AkinoKaede/maple, 1
 bucket/v2ray-extra.json, AkinoKaede/maple, 1
 bucket/v2ray-geoip.json, kidonng/sushi, 1
-bucket/v2ray-plugin.json, Homeland-Community/scoop, 1
+bucket/v2ray-plugin.json, AkinoKaede/maple, 1
 bucket/v2ray-rules-dat-git.json, DoveBoy/Apps, 1
 bucket/v2ray-rules-dat.json, DoveBoy/Apps, 1
 bucket/v2ray.json, ScoopInstaller/Main, 1
@@ -9939,7 +9939,6 @@ bucket/winyl.json, ScoopInstaller/Extras, 1
 bucket/wire-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/wire.json, ScoopInstaller/Extras, 0
 bucket/wireguard-np.json, ScoopInstaller/Nonportable, 0
-bucket/wireguard.json, Homeland-Community/scoop, 0
 bucket/wirelessconnectioninfo.json, ScoopInstaller/Nirsoft, 0
 bucket/wirelesskeydump.json, ScoopInstaller/Nirsoft, 0
 bucket/wirelesskeyview.json, ScoopInstaller/Nirsoft, 0
@@ -10151,7 +10150,6 @@ bucket/xplorer.json, ScoopInstaller/Extras, 1
 bucket/xpoc.json, ViCrack/scoop-bucket, 1
 bucket/xprop.json, beerpiss/scoop-bucket, 0
 bucket/xq.json, batkiz/backit, 1
-bucket/xray-knife.json, Homeland-Community/scoop, 1
 bucket/xray.json, ScoopInstaller/Main, 1
 bucket/xshell7p.json, kkzzhizhou/scoop-zapps, 1
 bucket/xshellplus.json, echoiron/echo-scoop, 0
