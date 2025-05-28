@@ -817,6 +817,7 @@ bucket/Mononoki-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Mononoki-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Moo0VideoConverter-Portable.json, ACooper81/scoop-apps, 0
 bucket/Moonlight-Portable.json, ACooper81/scoop-apps, 1
+bucket/MouseInc.json, Weidows-projects/scoop-3rd, 0
 bucket/MouseWithoutBorders-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/MuMu-Player-EXE.json, leic4u/Scoop-Store, 0
 bucket/Multrin-Portable.json, ACooper81/scoop-apps, 1
@@ -5889,7 +5890,6 @@ bucket/moul.json, chawyehsu/dorado, 1
 bucket/mouse-tester-fork.json, couleur-tweak-tips/utils, 1
 bucket/mouse-tester.json, couleur-tweak-tips/utils, 1
 bucket/mousegesturel-ahk.json, mo-san/scoop-bucket, 0
-bucket/mouseinc.json, echoiron/echo-scoop, 1
 bucket/mousejiggler.json, ScoopInstaller/Extras, 1
 bucket/movefile.json, niheaven/scoop-sysinternals, 1
 bucket/mozbackup.json, ScoopInstaller/Extras, 0
