@@ -3227,7 +3227,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -9091,6 +9091,7 @@ bucket/tiddlydesktop-prerelease.json, hu3rror/scoop-muggle, 1
 bucket/tiddlydesktop.json, ScoopInstaller/Extras, 1
 bucket/tidy-viewer.json, brian6932/dank-scoop, 1
 bucket/tidy.json, ScoopInstaller/Main, 1
+bucket/tidyos.json, DoveBoy/Apps, 1
 bucket/tigervnc-client.json, jfut/scoop-jfut, 0
 bucket/tigervnc.json, jingyu9575/scoop-jingyu9575, 0
 bucket/tightvnc.json, ScoopInstaller/Extras, 0
