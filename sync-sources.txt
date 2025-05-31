@@ -1700,7 +1700,7 @@ bucket/anime4kcpp-dsfilter.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-gui.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-vapoursynth-plugin.json, HUMORCE/nuke, 1
 bucket/animeko-alpha.json, hu3rror/scoop-muggle, 1
-bucket/animeko.json, Weidows-projects/scoop-3rd, 1
+bucket/animeko.json, hu3rror/scoop-muggle, 1
 bucket/anki-np.json, ScoopInstaller/Nonportable, 1
 bucket/anki-with-sync.json, kkzzhizhou/scoop-zapps, 1
 bucket/anki.json, ScoopInstaller/Extras, 1
