@@ -1,5 +1,5 @@
 {
-  "version": "2024-12-14",
+  "version": "4.0.0-beta.13",
   "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
   "homepage": "https://cloudreve.org/",
   "license": {
@@ -8,12 +8,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/Tohrusky/Final2x/releases/download/2024-12-14/Final2x-windows-x64-setup.exe#/dl.7z",
-      "hash": "e6ed8c4c154f6643dd6ee4c826cdd75df61551e1e95f03e018a9b1d0758bdf89"
+      "url": "https://ghgo.xyz/https://github.com/cloudreve/Cloudreve/releases/download/4.0.0-beta.13/cloudreve_4.0.0-beta.13_windows_amd64.zip",
+      "hash": "6ff49f572f0498f2a62c7f78a2d0a8819c188c9de7ac1664093085d94f481033"
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/Tohrusky/Final2x/releases/download/2024-12-14/Final2x-windows-arm64-setup.exe#/dl.7z",
-      "hash": "c22b1647afc0a3d4e706213b2f986772720479fc34c2bc0ef7060b268e3ab37f"
+      "url": "https://ghgo.xyz/https://github.com/cloudreve/Cloudreve/releases/download/4.0.0-beta.13/cloudreve_4.0.0-beta.13_windows_arm64.zip",
+      "hash": "0114e3d75b3dfdc1533e7445d1fd23be33ac752be7e19d4a017de1bcb8276408"
     }
   },
   "bin": "cloudreve.exe",

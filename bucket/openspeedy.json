@@ -1,5 +1,5 @@
 {
-  "version": "2024-12-14",
+  "version": "1.6.3",
   "description": "OpenSpeedy 是一款开源免费的游戏变速工具，让你的游戏突破帧率限制，提供更流畅丝滑的游戏加速体验。",
   "homepage": "https://github.com/game1024/OpenSpeedy",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/Tohrusky/Final2x/releases/download/2024-12-14/Final2x-windows-x64-setup.exe#/dl.7z",
-      "hash": "e6ed8c4c154f6643dd6ee4c826cdd75df61551e1e95f03e018a9b1d0758bdf89"
+      "url": "https://ghgo.xyz/https://github.com/game1024/OpenSpeedy/releases/download/release-v1.6.3/OpenSpeedy-v1.6.3.zip",
+      "hash": "d383f62c870e8a315789aab427537a950ca18abccf59dc5c3f038142869e6ddc"
     }
   },
   "bin": "OpenSpeedy.exe",
