@@ -7858,6 +7858,8 @@ bucket/rehex.json, ScoopInstaller/Extras, 1
 bucket/reicon.json, ScoopInstaller/Extras, 0
 bucket/reko.json, TheCjw/scoop-retools, 1
 bucket/reloaded-ii.json, Calinou/scoop-games, 1
+bucket/remnant-save-guardian.json, brian6932/dank-scoop, 1
+bucket/remnant-save-manager.json, brian6932/dank-scoop, 1
 bucket/remnote.json, echoiron/echo-scoop, 0
 bucket/remotedesktoppassview.json, kodybrown/scoop-nirsoft, 0
 bucket/remount.json, rasa/scoops, 0
