@@ -1,6 +1,6 @@
 {
-  "version": "2506-41",
-  "description": "A Nintendo GameCube and Wii emulator, with enhancements and Netplay. (development version)",
+  "version": "2506-43",
+  "description": "A Nintendo GameCube and Wii emulator",
   "homepage": "https://dolphin-emu.org/",
   "license": {
     "identifier": "GPL-2.0-or-later",
@@ -11,14 +11,9 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://dl.dolphin-emu.org/builds/76/3c/dolphin-master-2506-41-x64.7z",
-      "hash": "6064800ec9f789e17c5e398bc48b6e4d2dce3bf658a29f461a2013e416d0270a",
+      "url": "https://dl.dolphin-emu.org/builds/0f/ad/dolphin-master-2506-43-x64.7z",
+      "hash": "3368abe965f5ba87f3b58f90919b07e5494a7bee8bd5b0c11e14638fe19e2472",
       "extract_dir": "Dolphin-x64"
-    },
-    "arm64": {
-      "url": "https://dl.dolphin-emu.org/builds/f2/4e/dolphin-master-2506-41-ARM64.7z",
-      "hash": "fc3188f848d2746ebab7f8ee2f8a61eb485b6169a36ab4b6dae19e279c52a668",
-      "extract_dir": "Dolphin-ARM64"
     }
   },
   "pre_install": [
@@ -31,33 +26,25 @@
   ],
   "post_install": "Set-Content -Value $null -Path \"$dir\\portable.txt\"",
   "bin": [
-    [
-      "Dolphin.exe",
-      "dolphin-dev"
-    ],
-    [
-      "DolphinTool.exe",
-      "dolphintool-dev"
-    ]
+    "Dolphin.exe",
+    "DolphinTool.exe"
   ],
   "shortcuts": [
     [
       "Dolphin.exe",
-      "Dolphin (Development)"
+      "Nintendo GameCube & Wii [ngc][dolphin] (dev)"
     ]
   ],
   "persist": "User",
   "checkver": {
-    "url": "https://dolphin-emu.org/download/",
-    "regex": "(?<prefix1>.{5})/dolphin-master-(?<version>[\\w-]+)-x64[\\s\\S]+?(?<prefix2>.{5})/dolphin-master-\\k<version>-ARM64"
+    "url": "https://dolphin-emu.org/download/list/master/1/",
+    "regex": "\\/(?<rand1>.{2})\\/(?<rand2>.{2})\\/dolphin-master-(?<major>[\\d\\.]+)-(?<build>[\\d]+)",
+    "replace": "${major}-${build}"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://dl.dolphin-emu.org/builds/$matchPrefix1/dolphin-master-$version-x64.7z"
-      },
-      "arm64": {
-        "url": "https://dl.dolphin-emu.org/builds/$matchPrefix2/dolphin-master-$version-ARM64.7z"
+        "url": "https://dl.dolphin-emu.org/builds/$matchRand1/$matchRand2/dolphin-master-$matchMajor-$matchBuild-x64.7z"
       }
     }
   }
