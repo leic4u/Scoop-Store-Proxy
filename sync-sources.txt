@@ -610,7 +610,6 @@ bucket/IntelOneMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IntelOneMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IntelOneMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IntelligentNavalGun.json, Darkatse/Scoop-KanColle, 1
-bucket/Iobitdriverbooster.json, echoiron/echo-scoop, 0
 bucket/Iosevka-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Iosevka-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Iosevka-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -4724,6 +4723,7 @@ bucket/iobit-system-information.json, DoveBoy/Apps, 0
 bucket/iobit-undelete.json, chawyehsu/dorado, 0
 bucket/iobit-uninstaller.json, DoveBoy/Apps, 0
 bucket/iobit-unlocker.json, chawyehsu/dorado, 0
+bucket/iobitdriverbooster.json, echoiron/echo-scoop, 0
 bucket/iobituninstaller.json, echoiron/echo-scoop, 0
 bucket/iographica.json, ScoopInstaller/Extras, 1
 bucket/iortcw.json, Calinou/scoop-games, 1
@@ -6722,7 +6722,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
