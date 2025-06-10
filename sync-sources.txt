@@ -176,7 +176,7 @@ bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
+bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
@@ -2065,7 +2065,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -5664,7 +5664,7 @@ bucket/metarweather.json, kodybrown/scoop-nirsoft, 0
 bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
