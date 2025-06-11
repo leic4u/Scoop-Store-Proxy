@@ -898,6 +898,7 @@ bucket/OperaBeta-Portable.json, ACooper81/scoop-apps, 0
 bucket/OperaDeveloper-Portable.json, ACooper81/scoop-apps, 0
 bucket/OperaGX-Portable.json, ACooper81/scoop-apps, 0
 bucket/OperatorMono.json, everyx/scoop-bucket, 1
+bucket/OperatorMonoSSmNerdLig.json, Weidows-projects/scoop-3rd, 1
 bucket/Optimizer-Portable.json, ACooper81/scoop-apps, 1
 bucket/OracleJDK11.json, zhoujin7/tomato, 0
 bucket/OracleJDK17.json, zhoujin7/tomato, 0
