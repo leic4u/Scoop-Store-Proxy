@@ -6032,6 +6032,7 @@ bucket/musikcube.json, ScoopInstaller/Extras, 1
 bucket/musique.json, ScoopInstaller/Extras, 0
 bucket/mutagen-compose.json, ScoopInstaller/Main, 1
 bucket/mutagen.json, ScoopInstaller/Main, 1
+bucket/muxun-accelerator.json, Weidows-projects/scoop-3rd, 0
 bucket/mvmc.json, rasa/scoops, 0
 bucket/mvndaemon.json, ScoopInstaller/Main, 0
 bucket/mweather.json, ScoopInstaller/Nirsoft, 0
