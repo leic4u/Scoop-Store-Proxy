@@ -674,7 +674,6 @@ bucket/LDPlayer-Portable.json, ACooper81/scoop-apps, 0
 bucket/LDWin-Portable.json, ACooper81/scoop-apps, 1
 bucket/LGPO-Portable.json, ACooper81/scoop-apps, 0
 bucket/LLFTOOL.json, kkzzhizhou/scoop-zapps, 1
-bucket/LM-Studio.json, Weidows-projects/scoop-3rd, 0
 bucket/LX-Music.json, abgox/abgo_bucket, 1
 bucket/LXGW-Bright-GB.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LXGW-Bright-TC.json, matthewjberger/scoop-nerd-fonts, 1
