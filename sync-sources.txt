@@ -4982,7 +4982,7 @@ bucket/kasts.json, ScoopInstaller/Extras, 0
 bucket/katana.json, ViCrack/scoop-bucket, 1
 bucket/kate-nightly.json, ScoopInstaller/Versions, 0
 bucket/kate.json, ScoopInstaller/Extras, 0
-bucket/katrain.json, Calinou/scoop-games, 1
+bucket/katrain.json, ygguorun/scoop-bucket, 1
 bucket/kavita.json, ScoopInstaller/Extras, 1
 bucket/kawaii-player.json, ScoopInstaller/Extras, 1
 bucket/kawanime.json, ScoopInstaller/Extras, 1
@@ -9194,7 +9194,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, chawyehsu/dorado, 0
+bucket/trae-cn.json, akirco/aki-apps, 1
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
