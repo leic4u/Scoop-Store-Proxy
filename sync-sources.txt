@@ -4782,7 +4782,7 @@ bucket/iqiyi.json, echoiron/echo-scoop, 0
 bucket/irfanview-lean.json, ScoopInstaller/Extras, 0
 bucket/irfanview.ja.json, jfut/scoop-jfut, 0
 bucket/irfanview.json, ScoopInstaller/Extras, 0
-bucket/iris.json, amorphobia/siku, 1
+bucket/iris.json, DoveBoy/Apps, 1
 bucket/iroh.json, ScoopInstaller/Main, 1
 bucket/ironwail.json, Calinou/scoop-games, 1
 bucket/irreader.json, kkzzhizhou/scoop-zapps, 0
@@ -6731,7 +6731,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
