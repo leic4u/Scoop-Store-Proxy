@@ -4140,6 +4140,7 @@ bucket/go-chromecast.json, ScoopInstaller/Extras, 1
 bucket/go-cn.json, chawyehsu/dorado, 0
 bucket/go-containerregistry.json, ScoopInstaller/Main, 1
 bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
+bucket/go-drive.json, DoveBoy/Apps, 1
 bucket/go-feature-flag.json, ScoopInstaller/Main, 1
 bucket/go-jsonnet.json, ScoopInstaller/Main, 1
 bucket/go-musicfox.json, DoveBoy/Apps, 1
@@ -5449,6 +5450,7 @@ bucket/lsd.json, ScoopInstaller/Main, 1
 bucket/lsdsk.json, rasa/scoops, 1
 bucket/lsix.json, ScoopInstaller/Main, 1
 bucket/lstags.json, MCOfficer/scoop-bucket, 1
+bucket/lsx.json, DoveBoy/Apps, 1
 bucket/ltrdata.json, rasa/scoops, 0
 bucket/lua-for-windows.json, ScoopInstaller/Main, 1
 bucket/lua-joedf.json, ScoopInstaller/Versions, 0
@@ -6332,6 +6334,7 @@ bucket/nvidia-display-driver.json, starise/Scoop-Gaming, 0
 bucket/nvidia-geforce-experience.json, starise/Scoop-Gaming, 0
 bucket/nvidia-inspector.json, brian6932/dank-scoop, 0
 bucket/nvidia-physx-legacy.json, starise/Scoop-Gaming, 0
+bucket/nvidia-profile-inspector-revamped.json, hu3rror/scoop-muggle, 1
 bucket/nvidia-profile-inspector.json, ScoopInstaller/Extras, 1
 bucket/nvm-completion.json, DoveBoy/Apps, 0
 bucket/nvm-desktop.json, abgox/abgo_bucket, 1
@@ -6519,6 +6522,7 @@ bucket/openjdk8-redhat.json, ScoopInstaller/Java, 1
 bucket/openjdk9.json, ScoopInstaller/Java, 0
 bucket/openlens.json, ScoopInstaller/Extras, 1
 bucket/openliberty.json, ScoopInstaller/Extras, 0
+bucket/openlist.json, DoveBoy/Apps, 1
 bucket/openloco.json, Calinou/scoop-games, 1
 bucket/openmcdf.json, SayCV/scoop-cvp, 1
 bucket/openmpt.json, ScoopInstaller/Extras, 0
@@ -6655,6 +6659,7 @@ bucket/oxker.json, aliesbelik/poldi, 1
 bucket/oxlint.json, ScoopInstaller/Main, 1
 bucket/oxygenmono.json, KnotUntied/scoop-fonts, 0
 bucket/p1soda.json, DoveBoy/Apps, 1
+bucket/p2p.json, DoveBoy/Apps, 1
 bucket/p4.json, ScoopInstaller/Main, 0
 bucket/p4v.json, ScoopInstaller/Extras, 0
 bucket/pacaptr.json, ScoopInstaller/Extras, 1
@@ -7680,6 +7685,7 @@ bucket/qualitymuncher.json, couleur-tweak-tips/utils, 1
 bucket/quardcrt.json, DoveBoy/Apps, 1
 bucket/quark-cloud-drive.json, amorphobia/siku, 0
 bucket/quarkpan.json, akirco/aki-apps, 0
+bucket/quarkpantool.json, DoveBoy/Apps, 1
 bucket/quarkus-cli.json, ScoopInstaller/Main, 1
 bucket/quarto-prerelease.json, cderv/r-bucket, 1
 bucket/quarto.json, ScoopInstaller/Extras, 1
