@@ -2757,7 +2757,7 @@ bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
-bucket/crystaldiskmark-shizuku-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskmark-shizuku-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskmark-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskmark.json, ScoopInstaller/Extras, 0
 bucket/csauto.json, Calinou/scoop-games, 1
