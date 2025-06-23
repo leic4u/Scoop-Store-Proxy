@@ -3232,7 +3232,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -9448,7 +9448,7 @@ bucket/userprofilesview.json, ScoopInstaller/Nirsoft, 0
 bucket/usql.json, ScoopInstaller/Main, 1
 bucket/ussf.json, ScoopInstaller/Extras, 1
 bucket/util-linux-ng.json, ScoopInstaller/Extras, 0
-bucket/utools-persist.json, Weidows-projects/scoop-3rd, 0
+bucket/utools-install.json, Weidows-projects/scoop-3rd, 0
 bucket/utorrent-portable.json, SayCV/scoop-cvp, 0
 bucket/utorrent.json, kkzzhizhou/scoop-zapps, 0
 bucket/utvideo.json, couleur-tweak-tips/utils, 1
