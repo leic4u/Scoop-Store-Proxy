@@ -3166,7 +3166,7 @@ bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/doukutsu-rs.json, Calinou/scoop-games, 1
 bucket/douyin-ide.json, chawyehsu/dorado, 0
-bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
+bucket/douyin-streamingtool.json, ivaquero/scoopet, 0
 bucket/douyu.json, DoveBoy/Apps, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyicore.json, batkiz/backit, 1
@@ -4959,7 +4959,7 @@ bucket/k3d.json, ScoopInstaller/Main, 1
 bucket/k3sup.json, ScoopInstaller/Main, 1
 bucket/k6.json, ScoopInstaller/Main, 1
 bucket/k9s.json, ScoopInstaller/Main, 1
-bucket/kaf-cli.json, DoveBoy/Apps, 1
+bucket/kaf-cli.json, ygguorun/scoop-bucket, 1
 bucket/kaf-wifi.json, DoveBoy/Apps, 1
 bucket/kaf.json, ScoopInstaller/Main, 1
 bucket/kafka-exporter.json, ScoopInstaller/Main, 1
