@@ -1764,6 +1764,7 @@ bucket/appnetworkcounter.json, ScoopInstaller/Nirsoft, 0
 bucket/appreadwritecounter.json, ScoopInstaller/Nirsoft, 0
 bucket/appresourcesusageview.json, ScoopInstaller/Nirsoft, 0
 bucket/apprhyme.json, DoveBoy/Apps, 1
+bucket/aptakube.json, ScoopInstaller/Extras, 1
 bucket/aptos-cli.json, HUMORCE/nuke, 1
 bucket/aqtinstall.json, ScoopInstaller/Main, 1
 bucket/aqua.json, ScoopInstaller/Main, 1
@@ -3167,7 +3168,7 @@ bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/doukutsu-rs.json, Calinou/scoop-games, 1
 bucket/douyin-ide.json, chawyehsu/dorado, 0
-bucket/douyin-streamingtool.json, ivaquero/scoopet, 0
+bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
 bucket/douyu.json, DoveBoy/Apps, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyicore.json, batkiz/backit, 1
@@ -10104,7 +10105,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu.json, borger/scoop-emulators, 1
+bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
