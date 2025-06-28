@@ -265,7 +265,7 @@ bucket/ClashXW.json, ygguorun/scoop-bucket, 1
 bucket/ClashforWindows.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/CloneApp-Portable.json, ACooper81/scoop-apps, 1
 bucket/CloudMusic.json, abgox/abgo_bucket, 1
-bucket/CloudflareSpeedTest.json, DoveBoy/Apps, 1
+bucket/CloudflareSpeedTest.json, ygguorun/scoop-bucket, 1
 bucket/CodeNewRoman-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -6734,7 +6734,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
