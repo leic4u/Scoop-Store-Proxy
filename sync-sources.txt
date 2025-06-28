@@ -1692,6 +1692,7 @@ bucket/ani-beta.json, DoveBoy/Apps, 1
 bucket/ani-cli.json, ScoopInstaller/Extras, 1
 bucket/ani.json, DoveBoy/Apps, 1
 bucket/animation-garden-desktop.json, Weidows-projects/scoop-3rd, 1
+bucket/anime4k-glsl-high.json, Weidows-projects/scoop-3rd, 1
 bucket/anime4k-glsl.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-avisynthplus-plugin.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-cli.json, seumsc/scoop-seu, 1
