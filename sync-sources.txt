@@ -4254,6 +4254,7 @@ bucket/gource.json, ScoopInstaller/Main, 1
 bucket/govc.json, ScoopInstaller/Main, 1
 bucket/govvv.json, MCOfficer/scoop-bucket, 1
 bucket/gow.json, ScoopInstaller/Main, 1
+bucket/gowall.json, chawyehsu/dorado, 1
 bucket/gowin.json, SayCV/scoop-cvp, 0
 bucket/gowitness.json, ViCrack/scoop-bucket, 1
 bucket/gpac-nightly.json, ScoopInstaller/Versions, 0
