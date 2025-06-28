@@ -265,7 +265,7 @@ bucket/ClashXW.json, ygguorun/scoop-bucket, 1
 bucket/ClashforWindows.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/CloneApp-Portable.json, ACooper81/scoop-apps, 1
 bucket/CloudMusic.json, abgox/abgo_bucket, 1
-bucket/CloudflareSpeedTest.json, ygguorun/scoop-bucket, 1
+bucket/CloudflareSpeedTest.json, DoveBoy/Apps, 1
 bucket/CodeNewRoman-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -2565,7 +2565,7 @@ bucket/cloud-nuke.json, ScoopInstaller/Main, 1
 bucket/cloud-sql-proxy.json, ScoopInstaller/Main, 0
 bucket/cloudcompare-alpha.json, ScoopInstaller/Versions, 0
 bucket/cloudcompare.json, ScoopInstaller/Extras, 0
-bucket/cloudflare-speedtest.json, chawyehsu/dorado, 1
+bucket/cloudflare-speedtest.json, seumsc/scoop-seu, 1
 bucket/cloudflared.json, ScoopInstaller/Main, 1
 bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 0
 bucket/cloudmusic-green.json, hu3rror/scoop-muggle, 0
