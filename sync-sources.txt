@@ -2076,7 +2076,7 @@ bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
 bucket/bililive-go.json, ygguorun/scoop-bucket, 1
 bucket/bililive-tools-portable.json, DoveBoy/Apps, 1
 bucket/bililive-tools.json, DoveBoy/Apps, 1
-bucket/bililiverecorder.json, cc713/ownscoop, 1
+bucket/bililiverecorder.json, chawyehsu/dorado, 1
 bucket/bilimini.json, amorphobia/siku, 1
 bucket/bilineo.json, DoveBoy/Apps, 1
 bucket/biliup-app.json, Weidows-projects/scoop-3rd, 1
@@ -2566,7 +2566,7 @@ bucket/cloud-nuke.json, ScoopInstaller/Main, 1
 bucket/cloud-sql-proxy.json, ScoopInstaller/Main, 0
 bucket/cloudcompare-alpha.json, ScoopInstaller/Versions, 0
 bucket/cloudcompare.json, ScoopInstaller/Extras, 0
-bucket/cloudflare-speedtest.json, seumsc/scoop-seu, 1
+bucket/cloudflare-speedtest.json, chawyehsu/dorado, 1
 bucket/cloudflared.json, ScoopInstaller/Main, 1
 bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 0
 bucket/cloudmusic-green.json, hu3rror/scoop-muggle, 0
@@ -3112,7 +3112,7 @@ bucket/doggo.json, ScoopInstaller/Main, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
