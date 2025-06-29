@@ -782,6 +782,7 @@ bucket/MicrosoftOneDrive-UserInstall.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftOneDriveEnterprise-Install.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftOneDriveEnterprise-UserInstall.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftOneDriveInsiders-UserInstall.json, ACooper81/scoop-apps, 0
+bucket/MicrosoftSafetyScanner-Portable.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftTeams-Portable.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftTeams-UserInstall.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftTeamsWorkOrSchool-Portable.json, ACooper81/scoop-apps, 0
@@ -3235,7 +3236,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
