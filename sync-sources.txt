@@ -1299,7 +1299,6 @@ bucket/TimeVertor-Portable.json, ACooper81/scoop-apps, 1
 bucket/Tinos-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Tinos-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Tinos-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/TinyHand.json, Weidows-projects/scoop-3rd, 1
 bucket/TinyImageProcessor-Portable.json, ACooper81/scoop-apps, 0
 bucket/TinyNvidiaUpdateChecker-Portable.json, ACooper81/scoop-apps, 1
 bucket/TinyRDM.json, abgox/abgo_bucket, 1
@@ -2077,7 +2076,7 @@ bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
 bucket/bililive-go.json, ygguorun/scoop-bucket, 1
 bucket/bililive-tools-portable.json, DoveBoy/Apps, 1
 bucket/bililive-tools.json, DoveBoy/Apps, 1
-bucket/bililiverecorder.json, cc713/ownscoop, 1
+bucket/bililiverecorder.json, chawyehsu/dorado, 1
 bucket/bilimini.json, amorphobia/siku, 1
 bucket/bilineo.json, DoveBoy/Apps, 1
 bucket/biliup-app.json, Weidows-projects/scoop-3rd, 1
@@ -2830,6 +2829,7 @@ bucket/curli.json, aliesbelik/poldi, 1
 bucket/curlie.json, ScoopInstaller/Main, 1
 bucket/currports.json, kodybrown/scoop-nirsoft, 0
 bucket/currprocess.json, kodybrown/scoop-nirsoft, 0
+bucket/cursor-TinyHand.json, Weidows-projects/scoop-3rd, 1
 bucket/cursor-latest.json, ScoopInstaller/Versions, 0
 bucket/cursor.json, ScoopInstaller/Extras, 0
 bucket/custom-resolution-utility.json, TheRandomLabs/Scoop-Bucket, 0
@@ -3113,7 +3113,7 @@ bucket/doggo.json, ScoopInstaller/Main, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4199,7 +4199,7 @@ bucket/goland-rc.json, ScoopInstaller/Versions, 1
 bucket/goland.json, ScoopInstaller/Extras, 1
 bucket/golang.json, kiennq/scoop-misc, 0
 bucket/golangci-lint.json, ScoopInstaller/Main, 1
-bucket/goldendict-ng.json, hu3rror/scoop-muggle, 1
+bucket/goldendict-ng.json, cc713/ownscoop, 1
 bucket/goldendict.json, ScoopInstaller/Extras, 1
 bucket/golly.json, Calinou/scoop-games, 0
 bucket/gom-player-plus.json, mo-san/scoop-bucket, 0
