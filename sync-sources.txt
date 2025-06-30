@@ -3657,7 +3657,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -5090,6 +5090,7 @@ bucket/koffee.json, ScoopInstaller/Extras, 1
 bucket/koka-lang.json, littleli/Scoop-littleli, 1
 bucket/kokomite.json, jfut/scoop-jfut, 0
 bucket/komac.json, ScoopInstaller/Extras, 1
+bucket/komelia.json, aoisummer/scoop-bucket, 1
 bucket/komf.json, ScoopInstaller/Extras, 1
 bucket/komga.json, ScoopInstaller/Extras, 1
 bucket/komokana.json, ScoopInstaller/Extras, 1
