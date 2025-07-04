@@ -2395,6 +2395,7 @@ bucket/championify.json, ScoopInstaller/Extras, 1
 bucket/change-key.json, mo-san/scoop-bucket, 0
 bucket/changie.json, aliesbelik/poldi, 1
 bucket/chapters-for-mpv.json, brian6932/dank-scoop, 0
+bucket/charles4.json, chawyehsu/dorado, 0
 bucket/charm-gum.json, ScoopInstaller/Main, 1
 bucket/chart-geany.json, ScoopInstaller/Extras, 0
 bucket/chat2db.json, ViCrack/scoop-bucket, 1
@@ -5893,7 +5894,6 @@ bucket/monolith.json, ScoopInstaller/Main, 1
 bucket/mononoki.json, KnotUntied/scoop-fonts, 1
 bucket/montserrat-alternates.json, KnotUntied/scoop-fonts, 1
 bucket/montserrat.json, KnotUntied/scoop-fonts, 1
-bucket/moonbit.json, chawyehsu/dorado, 1
 bucket/moonlight-nightly.json, brian6932/dank-scoop, 0
 bucket/moonlight.json, ScoopInstaller/Extras, 1
 bucket/moonscript.json, ScoopInstaller/Extras, 1
