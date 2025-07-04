@@ -670,6 +670,7 @@ bucket/Krita-Portable.json, ACooper81/scoop-apps, 0
 bucket/Krub.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/KryptorGUI.json, brian6932/dank-scoop, 1
 bucket/KuGouMusic.json, abgox/abgo_bucket, 0
+bucket/LDDC.json, batkiz/backit, 1
 bucket/LDPlayer-Portable.json, ACooper81/scoop-apps, 0
 bucket/LDWin-Portable.json, ACooper81/scoop-apps, 1
 bucket/LGPO-Portable.json, ACooper81/scoop-apps, 0
