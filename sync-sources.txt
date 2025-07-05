@@ -1931,7 +1931,7 @@ bucket/azahar.json, Calinou/scoop-games, 1
 bucket/azcopy.json, ScoopInstaller/Main, 1
 bucket/azd.json, ScoopInstaller/Extras, 1
 bucket/aztfexport.json, ScoopInstaller/Main, 1
-bucket/azure-cli.json, ScoopInstaller/Main, 0
+bucket/azure-cli.json, ScoopInstaller/Main, 1
 bucket/azure-developer-cli.json, ScoopInstaller/Main, 1
 bucket/azure-functions-core-tools.json, ScoopInstaller/Main, 1
 bucket/azure-iot-explorer.json, ScoopInstaller/Extras, 1
@@ -6740,7 +6740,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
