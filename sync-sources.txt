@@ -9935,6 +9935,7 @@ bucket/winnfsd.json, ScoopInstaller/Main, 1
 bucket/winobj.json, niheaven/scoop-sysinternals, 1
 bucket/winobjex64.json, wzv5/ScoopBucket, 1
 bucket/winpaletter.json, naderi/scoop-bucket, 1
+bucket/winpkfilter.json, seumsc/scoop-seu, 1
 bucket/winprefetchview.json, ScoopInstaller/Nirsoft, 0
 bucket/winpty.json, ScoopInstaller/Extras, 1
 bucket/winpython.json, ScoopInstaller/Main, 0
