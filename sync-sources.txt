@@ -1590,8 +1590,9 @@ bucket/advancedrun.json, ScoopInstaller/Nirsoft, 0
 bucket/adventuregamestudio.json, ScoopInstaller/Extras, 1
 bucket/adwcleaner.json, ScoopInstaller/Extras, 0
 bucket/aegisub-arch.json, cc713/ownscoop, 1
-bucket/aegisub.json, chawyehsu/dorado, 1
-bucket/aegisubdc.json, ScoopInstaller/Extras, 1
+bucket/aegisub-arch1t3cht.json, ScoopInstaller/Extras, 1
+bucket/aegisub.json, ScoopInstaller/Extras, 1
+bucket/aegisubdc.json, batkiz/backit, 1
 bucket/aemulus.json, Deide/deide-bucket, 1
 bucket/affine.json, ScoopInstaller/Extras, 1
 bucket/afrog.json, ViCrack/scoop-bucket, 1
@@ -4874,7 +4875,7 @@ bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
 bucket/jianying-pro5.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, chawyehsu/dorado, 0
+bucket/jianyingpro.json, akirco/aki-apps, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
 bucket/jijidown.json, amorphobia/siku, 0
