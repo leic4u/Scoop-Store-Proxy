@@ -9089,7 +9089,7 @@ bucket/tfmv.json, aliesbelik/poldi, 1
 bucket/tfsec.json, ScoopInstaller/Main, 1
 bucket/tftpd.json, ScoopInstaller/Extras, 0
 bucket/tftputil-gui.json, ScoopInstaller/Extras, 0
-bucket/tgpt.json, chawyehsu/dorado, 1
+bucket/tgpt.json, brian6932/dank-scoop, 1
 bucket/theia-ide.json, ScoopInstaller/Extras, 0
 bucket/thewitchshouse-en.json, beerpiss/scoop-bucket, 0
 bucket/thewitchshouse-jp.json, beerpiss/scoop-bucket, 0
