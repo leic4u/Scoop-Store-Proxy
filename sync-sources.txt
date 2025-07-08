@@ -591,6 +591,7 @@ bucket/ImDiskToolkit.json, cc713/ownscoop, 0
 bucket/ImTip.json, ygguorun/scoop-bucket, 0
 bucket/ImageGlass-Portable.json, ACooper81/scoop-apps, 1
 bucket/ImageMagick-portable-Q16-HDRI.json, Weidows-projects/scoop-3rd, 0
+bucket/ImageSearch.json, Weidows-projects/scoop-3rd, 1
 bucket/ImgBurn-Portable.json, ACooper81/scoop-apps, 1
 bucket/Inconsolata-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Inconsolata-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
