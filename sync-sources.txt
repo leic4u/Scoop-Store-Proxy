@@ -4070,6 +4070,7 @@ bucket/git-tfs.json, ScoopInstaller/Main, 1
 bucket/git-tower.json, ScoopInstaller/Extras, 0
 bucket/git-town.json, ScoopInstaller/Main, 1
 bucket/git-up.json, ScoopInstaller/Main, 1
+bucket/git-who.json, batkiz/backit, 1
 bucket/git-with-openssh.json, ScoopInstaller/Main, 1
 bucket/git-without-openssh.json, ScoopInstaller/Versions, 1
 bucket/git-xargs.json, ScoopInstaller/Main, 1
