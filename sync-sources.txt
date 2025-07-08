@@ -4010,7 +4010,7 @@ bucket/gh-dash.json, littleli/Scoop-littleli, 1
 bucket/gh.json, ScoopInstaller/Main, 1
 bucket/ghc96.json, iquiw/scoop-bucket, 0
 bucket/ghcup.json, ScoopInstaller/Main, 1
-bucket/ghdl.json, batkiz/backit, 1
+bucket/ghdl.json, ScoopInstaller/Main, 1
 bucket/ghidra-beta.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidra-nightly.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidra.json, ScoopInstaller/Extras, 1
@@ -5424,6 +5424,7 @@ bucket/local-wp.json, naderi/scoop-bucket, 0
 bucket/locale-emulator.json, ScoopInstaller/Extras, 1
 bucket/locale-remulator.json, hu3rror/scoop-muggle, 1
 bucket/localsend.json, ScoopInstaller/Extras, 1
+bucket/localstack.json, ScoopInstaller/Main, 1
 bucket/locaspace.json, scoopcn/scoopcn, 0
 bucket/locate.json, naderi/scoop-bucket, 0
 bucket/lockhunter-np.json, ScoopInstaller/Nonportable, 0
@@ -6745,7 +6746,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
