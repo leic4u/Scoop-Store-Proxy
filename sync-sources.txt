@@ -7407,7 +7407,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -9598,7 +9598,7 @@ bucket/virtualhere-server.json, ScoopInstaller/Extras, 0
 bucket/virtualjaguar.json, hermanjustnu/scoop-emulators, 0
 bucket/visual-arm-emulator.json, ScoopInstaller/Extras, 0
 bucket/visualboyadvance-m-nightly.json, Calinou/scoop-games, 1
-bucket/visualboyadvance-m.json, Calinou/scoop-games, 1
+bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
