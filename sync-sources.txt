@@ -3964,7 +3964,6 @@ bucket/gcc-arm-none-eabi.json, ScoopInstaller/Extras, 0
 bucket/gcc-arm-none-linux-gnueabihf.json, ScoopInstaller/Extras, 0
 bucket/gcc-mcore-elf.json, SayCV/scoop-cvp, 0
 bucket/gcc-mingw64-hostcc-mcore-unknown-elf.json, SayCV/scoop-cvp, 1
-bucket/gcc-msys.json, ScoopInstaller/Versions, 0
 bucket/gcc.json, ScoopInstaller/Main, 0
 bucket/gcc4.8.5.json, MCOfficer/scoop-bucket, 0
 bucket/gcc45.json, ScoopInstaller/Versions, 0
@@ -4162,7 +4161,18 @@ bucket/go-sqlcmd.json, ScoopInstaller/Main, 1
 bucket/go-swagger.json, ScoopInstaller/Main, 1
 bucket/go-unstable.json, batkiz/backit, 0
 bucket/go.json, ScoopInstaller/Main, 0
+bucket/go113.json, ScoopInstaller/Versions, 0
 bucket/go114.json, ScoopInstaller/Versions, 0
+bucket/go115.json, ScoopInstaller/Versions, 0
+bucket/go116.json, ScoopInstaller/Versions, 0
+bucket/go117.json, ScoopInstaller/Versions, 0
+bucket/go118.json, ScoopInstaller/Versions, 0
+bucket/go119.json, ScoopInstaller/Versions, 0
+bucket/go120.json, ScoopInstaller/Versions, 0
+bucket/go121.json, ScoopInstaller/Versions, 0
+bucket/go122.json, ScoopInstaller/Versions, 0
+bucket/go123.json, ScoopInstaller/Versions, 0
+bucket/go124.json, ScoopInstaller/Versions, 0
 bucket/goawk.json, aliesbelik/poldi, 1
 bucket/gobang.json, ScoopInstaller/Main, 1
 bucket/gobench.json, aliesbelik/poldi, 1
@@ -6570,7 +6580,6 @@ bucket/openshot.json, ScoopInstaller/Extras, 1
 bucket/opensoldat.json, Deide/deide-bucket, 1
 bucket/openspades.json, Calinou/scoop-games, 1
 bucket/openspeedy.json, DoveBoy/Apps, 1
-bucket/openssh-msys.json, ScoopInstaller/Versions, 0
 bucket/openssh.json, ScoopInstaller/Main, 1
 bucket/openssl-light.json, ScoopInstaller/Main, 1
 bucket/openssl-lts-light.json, ScoopInstaller/Main, 1
