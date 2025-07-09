@@ -1786,7 +1786,7 @@ bucket/arduino-cli.json, ScoopInstaller/Main, 1
 bucket/arduino-ide-rc.json, ScoopInstaller/Versions, 1
 bucket/arduino.json, ScoopInstaller/Extras, 0
 bucket/arduino18.json, ScoopInstaller/Versions, 0
-bucket/ares.json, borger/scoop-emulators, 1
+bucket/ares.json, Calinou/scoop-games, 1
 bucket/argo.json, ScoopInstaller/Main, 1
 bucket/argocd-autopilot.json, ScoopInstaller/Main, 1
 bucket/argocd.json, ScoopInstaller/Main, 1
