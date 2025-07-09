@@ -2071,7 +2071,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -3242,7 +3242,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -6263,6 +6263,7 @@ bucket/nora.json, hu3rror/scoop-muggle, 1
 bucket/nordpass.json, ScoopInstaller/Extras, 0
 bucket/nosleep.json, ScoopInstaller/Extras, 1
 bucket/notable.json, ScoopInstaller/Extras, 1
+bucket/note-gen.json, DoveBoy/Apps, 1
 bucket/notejoy.json, ScoopInstaller/Extras, 0
 bucket/notepad--.json, zhoujin7/tomato, 1
 bucket/notepad2-mod.json, ScoopInstaller/Extras, 1
