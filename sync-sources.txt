@@ -3234,7 +3234,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -5554,6 +5554,7 @@ bucket/mancy.json, ScoopInstaller/Extras, 1
 bucket/mandoc.json, ScoopInstaller/Main, 0
 bucket/mangadex-dl.json, hu3rror/scoop-muggle, 1
 bucket/mangal.json, ScoopInstaller/Extras, 1
+bucket/mangayomi.json, cc713/ownscoop, 1
 bucket/manhuagui-downloader.json, hu3rror/scoop-muggle, 1
 bucket/mani.json, aliesbelik/poldi, 1
 bucket/manictime.json, ScoopInstaller/Extras, 0
