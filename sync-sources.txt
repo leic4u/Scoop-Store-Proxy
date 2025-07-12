@@ -3410,6 +3410,7 @@ bucket/epsxe.json, Deide/deide-bucket, 0
 bucket/epub-metadata-editor.json, starise/Scoop-Confetti, 1
 bucket/eql-cli.json, littleli/scoop-clojure, 1
 bucket/equalizer-apo-np.json, ScoopInstaller/Nonportable, 0
+bucket/equationtoolsgui.json, ViCrack/scoop-bucket, 1
 bucket/eraser.json, ScoopInstaller/Extras, 0
 bucket/erdtree.json, ScoopInstaller/Main, 1
 bucket/ericw-tools.json, Calinou/scoop-games, 1
