@@ -4506,6 +4506,7 @@ bucket/houdoku.json, ScoopInstaller/Extras, 1
 bucket/hourglass-godot.json, ScoopInstaller/Extras, 0
 bucket/hourglass.json, ScoopInstaller/Extras, 1
 bucket/hoxs64.json, hermanjustnu/scoop-emulators, 1
+bucket/hoyo.gacha.json, batkiz/backit, 1
 bucket/hp-support-assistant-np.json, ScoopInstaller/Nonportable, 0
 bucket/hq.json, aliesbelik/poldi, 1
 bucket/hqfpga.json, SayCV/scoop-cvp, 0
