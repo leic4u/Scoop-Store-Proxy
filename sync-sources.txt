@@ -265,7 +265,7 @@ bucket/ClashXW.json, ygguorun/scoop-bucket, 1
 bucket/ClashforWindows.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/CloneApp-Portable.json, ACooper81/scoop-apps, 1
 bucket/CloudMusic.json, abgox/abgo_bucket, 1
-bucket/CloudflareSpeedTest.json, DoveBoy/Apps, 1
+bucket/CloudflareSpeedTest.json, ygguorun/scoop-bucket, 1
 bucket/CodeNewRoman-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -4475,7 +4475,7 @@ bucket/hl.json, aliesbelik/poldi, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 0
-bucket/hmcl.json, seumsc/scoop-seu, 0
+bucket/hmcl.json, chawyehsu/dorado, 0
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
 bucket/hok.json, chawyehsu/dorado, 1
@@ -5102,7 +5102,7 @@ bucket/kompose.json, ScoopInstaller/Main, 1
 bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 1
-bucket/kook.json, seumsc/scoop-seu, 0
+bucket/kook.json, chawyehsu/dorado, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -9213,7 +9213,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, akirco/aki-apps, 1
+bucket/trae-cn.json, chawyehsu/dorado, 0
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
