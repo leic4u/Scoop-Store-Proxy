@@ -2562,7 +2562,7 @@ bucket/cloud-nuke.json, ScoopInstaller/Main, 1
 bucket/cloud-sql-proxy.json, ScoopInstaller/Main, 0
 bucket/cloudcompare-alpha.json, ScoopInstaller/Versions, 0
 bucket/cloudcompare.json, ScoopInstaller/Extras, 0
-bucket/cloudflare-speedtest.json, chawyehsu/dorado, 1
+bucket/cloudflare-speedtest.json, seumsc/scoop-seu, 1
 bucket/cloudflared.json, ScoopInstaller/Main, 1
 bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 0
 bucket/cloudmusic-green.json, hu3rror/scoop-muggle, 0
@@ -5480,7 +5480,6 @@ bucket/ludo.json, Calinou/scoop-games, 1
 bucket/ludusavi.json, ScoopInstaller/Extras, 1
 bucket/ludwig.json, ScoopInstaller/Extras, 0
 bucket/luminous-ttv.json, brian6932/dank-scoop, 1
-bucket/luna-translator.json, seumsc/scoop-seu, 1
 bucket/lunacy.json, ScoopInstaller/Extras, 0
 bucket/lunarips.json, Deide/deide-bucket, 0
 bucket/lunarvim.json, ScoopInstaller/Extras, 1
@@ -5681,7 +5680,7 @@ bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
