@@ -127,6 +127,7 @@ bucket/AnyTXT.json, cc713/ownscoop, 0
 bucket/ApkMessenger.json, kkzzhizhou/scoop-zapps, 1
 bucket/AppBuster-Portable.json, ACooper81/scoop-apps, 0
 bucket/AppFlowy-Portable.json, ACooper81/scoop-apps, 1
+bucket/Appcopier-Portable.json, ACooper81/scoop-apps, 1
 bucket/AquaSnap-Portable.json, ACooper81/scoop-apps, 0
 bucket/Archivarius3000.json, kkzzhizhou/scoop-zapps, 0
 bucket/Archive-password-cracker.json, Weidows-projects/scoop-3rd, 1
