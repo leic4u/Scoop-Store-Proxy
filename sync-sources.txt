@@ -526,7 +526,7 @@ bucket/HBuilder.json, zhoujin7/tomato, 0
 bucket/HBuilderX-Alpha.json, zhoujin7/tomato, 0
 bucket/HBuilderX-Full-Alpha.json, zhoujin7/tomato, 0
 bucket/HBuilderX-Full.json, zhoujin7/tomato, 0
-bucket/HBuilderX.json, abgox/abgo_bucket, 0
+bucket/HBuilderX.json, echoiron/echo-scoop, 0
 bucket/HDCleaner-Portable.json, ACooper81/scoop-apps, 0
 bucket/HDTunePro.json, kkzzhizhou/scoop-zapps, 1
 bucket/HWIDGEN.json, kkzzhizhou/scoop-zapps, 1
