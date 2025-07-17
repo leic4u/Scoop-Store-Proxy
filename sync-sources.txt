@@ -10070,6 +10070,7 @@ bucket/wslgit.json, ScoopInstaller/Extras, 1
 bucket/wslinternals.json, ScoopInstaller/Extras, 1
 bucket/wsltty.json, ScoopInstaller/Extras, 1
 bucket/wstunnel.json, ScoopInstaller/Main, 1
+bucket/wtq.json, ScoopInstaller/Extras, 1
 bucket/wttop.json, ScoopInstaller/Main, 1
 bucket/wu10man.json, jingyu9575/scoop-jingyu9575, 1
 bucket/wub.json, ViCrack/scoop-bucket, 0
