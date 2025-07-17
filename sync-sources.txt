@@ -5953,6 +5953,7 @@ bucket/mpv-lazy.json, cc713/ownscoop, 1
 bucket/mpv-persist-properties.json, brian6932/dank-scoop, 1
 bucket/mpv-sponsorblock-minimal.json, brian6932/dank-scoop, 0
 bucket/mpv-sub-select.json, brian6932/dank-scoop, 0
+bucket/mpv-user-input.json, brian6932/dank-scoop, 0
 bucket/mpv.json, ScoopInstaller/Extras, 0
 bucket/mpv.net-DW.json, cc713/ownscoop, 1
 bucket/mpv.net-beta.json, ScoopInstaller/Versions, 1
@@ -8213,6 +8214,7 @@ bucket/sass.json, ScoopInstaller/Main, 1
 bucket/saturn-pcbtoolkit.json, SayCV/scoop-cvp, 0
 bucket/saturn.json, ScoopInstaller/Extras, 1
 bucket/sauerbraten.json, Calinou/scoop-games, 0
+bucket/save-playlist.json, brian6932/dank-scoop, 1
 bucket/say.json, ScoopInstaller/Main, 1
 bucket/sayit.json, ScoopInstaller/Main, 1
 bucket/sbcl.json, ScoopInstaller/Main, 0
@@ -8489,7 +8491,7 @@ bucket/slu.json, littleli/Scoop-littleli, 1
 bucket/slumber.json, aliesbelik/poldi, 1
 bucket/sm64coopdx.json, Calinou/scoop-games, 1
 bucket/smali.json, TheCjw/scoop-retools, 0
-bucket/smart-svg-viewer.json, naderi/scoop-bucket, 0
+bucket/smart-svg-viewer.json, naderi/scoop-bucket, 1
 bucket/smartcontextmenu.json, ScoopInstaller/Extras, 1
 bucket/smartgit-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/smartgit.json, ScoopInstaller/Extras, 0
