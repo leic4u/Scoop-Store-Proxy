@@ -266,7 +266,7 @@ bucket/ClashXW.json, ygguorun/scoop-bucket, 1
 bucket/ClashforWindows.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/CloneApp-Portable.json, ACooper81/scoop-apps, 1
 bucket/CloudMusic.json, abgox/abgo_bucket, 1
-bucket/CloudflareSpeedTest.json, DoveBoy/Apps, 1
+bucket/CloudflareSpeedTest.json, ygguorun/scoop-bucket, 1
 bucket/CodeNewRoman-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -4873,7 +4873,7 @@ bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
 bucket/jianying-pro5.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, chawyehsu/dorado, 0
+bucket/jianyingpro.json, akirco/aki-apps, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
 bucket/jijidown.json, amorphobia/siku, 0
