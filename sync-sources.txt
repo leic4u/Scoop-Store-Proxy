@@ -3231,7 +3231,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -6654,6 +6654,7 @@ bucket/ouch.json, ScoopInstaller/Main, 1
 bucket/outline-server-nightly.json, kidonng/sushi, 1
 bucket/outline-server.json, kidonng/sushi, 1
 bucket/outlook-google-calendar-sync.json, ScoopInstaller/Extras, 1
+bucket/outlook-window-hook.json, ScoopInstaller/Extras, 1
 bucket/outlookaccountsview.json, ScoopInstaller/Nirsoft, 0
 bucket/outlookaddressbookview.json, ScoopInstaller/Nirsoft, 0
 bucket/outlookattachview.json, ScoopInstaller/Nirsoft, 0
@@ -9014,6 +9015,7 @@ bucket/teracopy.json, naderi/scoop-bucket, 0
 bucket/teraterm.json, ScoopInstaller/Extras, 1
 bucket/tere.json, ScoopInstaller/Main, 1
 bucket/terjang.json, aliesbelik/poldi, 1
+bucket/termframe.json, aliesbelik/poldi, 1
 bucket/terminal-icons.json, ScoopInstaller/Extras, 0
 bucket/terminal-parrot.json, ScoopInstaller/Extras, 1
 bucket/terminalpp.json, ScoopInstaller/Extras, 1
