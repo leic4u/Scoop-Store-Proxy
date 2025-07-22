@@ -477,7 +477,7 @@ bucket/FreeTube-Portable.json, ACooper81/scoop-apps, 1
 bucket/FreezeToStock-Portable.json, ACooper81/scoop-apps, 1
 bucket/FrpcGUI.json, kkzzhizhou/scoop-zapps, 1
 bucket/GARbro-Mod.json, cc713/ownscoop, 1
-bucket/GIMP-Portable.json, ACooper81/scoop-apps, 0
+bucket/GIMP-Portable.json, naderi/scoop-bucket, 0
 bucket/GImageX-Portable.json, ACooper81/scoop-apps, 0
 bucket/GOGGalaxy-Install.json, ACooper81/scoop-apps, 0
 bucket/GOGGalaxy-Portable.json, ACooper81/scoop-apps, 0
@@ -3010,7 +3010,7 @@ bucket/digital.json, ScoopInstaller/Extras, 1
 bucket/dijo.json, aliesbelik/poldi, 1
 bucket/dim.json, akirco/aki-apps, 1
 bucket/dingtalk-gov.json, scoopcn/scoopcn, 0
-bucket/dingtalk.json, ivaquero/scoopet, 0
+bucket/dingtalk.json, scoopcn/scoopcn, 0
 bucket/dino-rss.json, batkiz/backit, 1
 bucket/dioxus.json, ScoopInstaller/Main, 1
 bucket/directory-compare.json, naderi/scoop-bucket, 0
@@ -6149,7 +6149,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, chawyehsu/dorado, 0
+bucket/neteasemusic.json, wzv5/ScoopBucket, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
