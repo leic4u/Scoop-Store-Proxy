@@ -3396,7 +3396,7 @@ bucket/enigma.json, Calinou/scoop-games, 1
 bucket/enonic.json, ScoopInstaller/Main, 0
 bucket/enpass.json, ScoopInstaller/Extras, 0
 bucket/enso.json, ScoopInstaller/Extras, 1
-bucket/ente-auth.json, aoisummer/scoop-bucket, 1
+bucket/ente-auth.json, ScoopInstaller/Extras, 1
 bucket/ente-cli.json, aliesbelik/poldi, 1
 bucket/envfetch.json, aliesbelik/poldi, 1
 bucket/envsubst.json, ScoopInstaller/Main, 1
