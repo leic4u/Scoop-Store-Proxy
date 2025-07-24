@@ -8097,7 +8097,7 @@ bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
-bucket/ryujinx-canary.json, Calinou/scoop-games, 0
+bucket/ryujinx-canary.json, borger/scoop-emulators, 0
 bucket/ryujinx.json, Calinou/scoop-games, 0
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
@@ -8580,6 +8580,7 @@ bucket/spacegrotesk-variable.json, KnotUntied/scoop-fonts, 0
 bucket/spacegrotesk.json, KnotUntied/scoop-fonts, 1
 bucket/spacescape.json, ScoopInstaller/Extras, 0
 bucket/spacesniffer.json, ScoopInstaller/Extras, 0
+bucket/spaghettikart.json, borger/scoop-emulators, 1
 bucket/spark-hadoop3.json, ScoopInstaller/Versions, 0
 bucket/spark-scala2.13.json, ScoopInstaller/Versions, 0
 bucket/spark-without-hadoop.json, ScoopInstaller/Versions, 0
