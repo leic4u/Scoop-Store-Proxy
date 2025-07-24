@@ -1066,7 +1066,7 @@ bucket/Rounded-Mplus.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Rounded-X-Mplus.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/RoundedTB-Portable.json, ACooper81/scoop-apps, 1
 bucket/RoyalTS-Portable.json, ACooper81/scoop-apps, 0
-bucket/Rubick.json, abgox/abgo_bucket, 1
+bucket/Rubick.json, ViCrack/scoop-bucket, 1
 bucket/RuckZuck-Portable.json, ACooper81/scoop-apps, 1
 bucket/Rufus-Portable.json, ACooper81/scoop-apps, 1
 bucket/RunAsTICLI-Portable.json, ACooper81/scoop-apps, 1
