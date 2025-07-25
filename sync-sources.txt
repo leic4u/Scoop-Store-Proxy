@@ -2597,6 +2597,7 @@ bucket/codeblocks.json, ScoopInstaller/Extras, 0
 bucket/codeowners-validator.json, ScoopInstaller/Main, 1
 bucket/codeql.json, ScoopInstaller/Main, 1
 bucket/coder.json, ScoopInstaller/Main, 1
+bucket/codescan.json, ViCrack/scoop-bucket, 1
 bucket/codesnap.json, ScoopInstaller/Extras, 1
 bucket/codespell-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/codetrack.json, ScoopInstaller/Extras, 0
