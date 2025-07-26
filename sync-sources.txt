@@ -4362,6 +4362,7 @@ bucket/gyroflow.json, ScoopInstaller/Extras, 1
 bucket/gzdoom.json, Calinou/scoop-games, 1
 bucket/gzip.json, ScoopInstaller/Main, 0
 bucket/h2.json, zhoujin7/tomato, 1
+bucket/h2testw.json, starise/Scoop-Confetti, 0
 bucket/hack-font.json, ScoopInstaller/Extras, 1
 bucket/hackbrowserdata.json, DoveBoy/Apps, 1
 bucket/hackernews-tui.json, ScoopInstaller/Main, 1
