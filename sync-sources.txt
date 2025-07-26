@@ -3682,7 +3682,7 @@ bucket/firemin.json, ScoopInstaller/Extras, 0
 bucket/firetools.json, seumsc/scoop-seu, 0
 bucket/firewallappblocker.json, ScoopInstaller/Extras, 0
 bucket/firmwaretablesview.json, ScoopInstaller/Nirsoft, 0
-bucket/fishing-funds.json, ivaquero/scoopet, 1
+bucket/fishing-funds.json, ygguorun/scoop-bucket, 1
 bucket/fishstrap.json, Calinou/scoop-games, 1
 bucket/fission-cli.json, ScoopInstaller/Main, 1
 bucket/fitwin.json, jfut/scoop-jfut, 0
