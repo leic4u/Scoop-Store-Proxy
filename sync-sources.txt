@@ -8128,7 +8128,7 @@ bucket/samsung-magician-np.json, rasa/scoops, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, DoveBoy/Apps, 1
+bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1
@@ -9214,7 +9214,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, akirco/aki-apps, 1
+bucket/trae-cn.json, chawyehsu/dorado, 0
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
