@@ -3850,6 +3850,7 @@ bucket/freeplane.json, ScoopInstaller/Extras, 0
 bucket/freerapid.json, ScoopInstaller/Extras, 1
 bucket/freerenamer.json, DoveBoy/Apps, 1
 bucket/freespacelogview.json, ScoopInstaller/Nirsoft, 0
+bucket/freetex.json, ivaquero/scoopet, 1
 bucket/freetube.json, ScoopInstaller/Extras, 1
 bucket/freeze.json, aliesbelik/poldi, 1
 bucket/freezer.json, starise/Scoop-Confetti, 0
