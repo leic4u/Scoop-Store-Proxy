@@ -1385,6 +1385,7 @@ bucket/VNCConnect-Install.json, ACooper81/scoop-apps, 0
 bucket/VNCServer-Install.json, ACooper81/scoop-apps, 0
 bucket/VNCViewer-Install.json, ACooper81/scoop-apps, 0
 bucket/VNCViewer-Portable.json, ACooper81/scoop-apps, 0
+bucket/VRC-OBS-Overlay.json, Weidows-projects/scoop-3rd, 1
 bucket/VRCFaceTracking.json, Weidows-projects/scoop-3rd, 1
 bucket/VSCodium-Portable.json, ACooper81/scoop-apps, 1
 bucket/VSRepoGUI.json, leic4u/Scoop-Store, 1
@@ -5681,7 +5682,7 @@ bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
