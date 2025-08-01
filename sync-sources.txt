@@ -8125,7 +8125,7 @@ bucket/sak.json, Calinou/scoop-games, 1
 bucket/sakura.json, mo-san/scoop-bucket, 1
 bucket/salt.json, kidonng/sushi, 1
 bucket/sam.json, ScoopInstaller/Extras, 1
-bucket/sameboy.json, Calinou/scoop-games, 1
+bucket/sameboy.json, borger/scoop-emulators, 1
 bucket/saml2aws.json, ScoopInstaller/Main, 1
 bucket/sampler.json, ScoopInstaller/Main, 1
 bucket/samsung-magician-np.json, rasa/scoops, 0
