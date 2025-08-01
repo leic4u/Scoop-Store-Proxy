@@ -3231,7 +3231,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -5546,7 +5546,7 @@ bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makemkv.json, ScoopInstaller/Extras, 0
 bucket/malware-patch.json, ivaquero/scoopet, 1
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
-bucket/mame.json, hermanjustnu/scoop-emulators, 1
+bucket/mame.json, Calinou/scoop-games, 1
 bucket/mameui.json, Calinou/scoop-games, 0
 bucket/managewirelessnetworks.json, ScoopInstaller/Nirsoft, 0
 bucket/mancy.json, ScoopInstaller/Extras, 1
@@ -8125,7 +8125,7 @@ bucket/sak.json, Calinou/scoop-games, 1
 bucket/sakura.json, mo-san/scoop-bucket, 1
 bucket/salt.json, kidonng/sushi, 1
 bucket/sam.json, ScoopInstaller/Extras, 1
-bucket/sameboy.json, borger/scoop-emulators, 1
+bucket/sameboy.json, Calinou/scoop-games, 1
 bucket/saml2aws.json, ScoopInstaller/Main, 1
 bucket/sampler.json, ScoopInstaller/Main, 1
 bucket/samsung-magician-np.json, rasa/scoops, 0
