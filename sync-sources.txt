@@ -3231,7 +3231,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -6499,6 +6499,7 @@ bucket/openclonk.json, Calinou/scoop-games, 0
 bucket/openclosedriveeject.json, ScoopInstaller/Extras, 0
 bucket/opencode.json, ScoopInstaller/Extras, 1
 bucket/opencomic.json, cc713/ownscoop, 1
+bucket/openconnect.json, ScoopInstaller/Main, 0
 bucket/opencv.json, ScoopInstaller/Main, 1
 bucket/opendungeons.json, Calinou/scoop-games, 0
 bucket/openedfilesview.json, kodybrown/scoop-nirsoft, 0
