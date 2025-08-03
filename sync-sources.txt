@@ -3736,6 +3736,7 @@ bucket/flybird-downloader.json, DoveBoy/Apps, 1
 bucket/flyby11-Portable.json, ACooper81/scoop-apps, 1
 bucket/flycast.json, Calinou/scoop-games, 1
 bucket/flyctl.json, ScoopInstaller/Main, 1
+bucket/flyoobe-Portable.json, ACooper81/scoop-apps, 1
 bucket/flyway.json, ScoopInstaller/Main, 0
 bucket/fm.json, aliesbelik/poldi, 1
 bucket/fman-np.json, ScoopInstaller/Nonportable, 0
@@ -8099,7 +8100,7 @@ bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
-bucket/ryujinx-canary.json, Calinou/scoop-games, 0
+bucket/ryujinx-canary.json, borger/scoop-emulators, 0
 bucket/ryujinx.json, Calinou/scoop-games, 0
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
