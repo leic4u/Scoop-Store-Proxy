@@ -1802,6 +1802,7 @@ bucket/armagetronad.json, Calinou/scoop-games, 0
 bucket/armclient.json, ScoopInstaller/Main, 1
 bucket/armips.json, ScoopInstaller/Extras, 1
 bucket/armor.json, ScoopInstaller/Main, 1
+bucket/arnis.json, batkiz/backit, 1
 bucket/arrayv.json, beerpiss/scoop-bucket, 1
 bucket/artcnn.json, brian6932/dank-scoop, 0
 bucket/artemis.json, naderi/scoop-bucket, 1
