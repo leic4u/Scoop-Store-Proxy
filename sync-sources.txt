@@ -3656,7 +3656,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -4143,7 +4143,7 @@ bucket/gnupg1.json, ScoopInstaller/Main, 0
 bucket/gnuplot.json, ScoopInstaller/Main, 0
 bucket/gnutls.json, ScoopInstaller/Main, 0
 bucket/go-chromecast.json, ScoopInstaller/Extras, 1
-bucket/go-cn.json, chawyehsu/dorado, 0
+bucket/go-cn.json, akirco/aki-apps, 0
 bucket/go-containerregistry.json, ScoopInstaller/Main, 1
 bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
 bucket/go-drive.json, DoveBoy/Apps, 1
