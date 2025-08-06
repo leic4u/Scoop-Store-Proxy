@@ -1676,6 +1676,7 @@ bucket/amulet.json, ScoopInstaller/Main, 1
 bucket/anaconda2.json, ScoopInstaller/Versions, 0
 bucket/anaconda3-2022.05.json, ScoopInstaller/Versions, 0
 bucket/anaconda3.json, ScoopInstaller/Extras, 0
+bucket/anchor-cli.json, chawyehsu/dorado, 1
 bucket/andika-compact.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika-new-basic.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika.json, matthewjberger/scoop-nerd-fonts, 0
