@@ -6198,6 +6198,7 @@ bucket/nextcloud.json, ScoopInstaller/Extras, 1
 bucket/nextdns.json, ScoopInstaller/Main, 1
 bucket/nexttrace.json, ScoopInstaller/Extras, 1
 bucket/nexus-repository-oss.json, ScoopInstaller/Extras, 0
+bucket/nexus-terminal.json, Weidows-projects/scoop-3rd, 1
 bucket/nexusfont.json, ScoopInstaller/Extras, 0
 bucket/nfpm.json, ScoopInstaller/Main, 1
 bucket/nfs2019.json, SayCV/scoop-cvp, 1
