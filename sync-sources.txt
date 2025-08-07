@@ -6697,6 +6697,7 @@ bucket/paintball2.json, Calinou/scoop-games, 0
 bucket/painter.json, ScoopInstaller/Extras, 1
 bucket/paket.json, ScoopInstaller/Main, 1
 bucket/palemoon.json, ScoopInstaller/Extras, 0
+bucket/palworld-save-pal.json, cc713/ownscoop, 1
 bucket/panasonic-capsel.json, SayCV/scoop-cvp, 0
 bucket/pandaocrpro.json, DoveBoy/Apps, 1
 bucket/pandoc-crossref.json, ScoopInstaller/Main, 1
