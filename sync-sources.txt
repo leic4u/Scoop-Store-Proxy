@@ -3720,6 +3720,7 @@ bucket/flexihub.json, SayCV/scoop-cvp, 0
 bucket/flips.json, Deide/deide-bucket, 1
 bucket/flog.json, aliesbelik/poldi, 1
 bucket/floorp.json, ScoopInstaller/Extras, 1
+bucket/flow-control.json, ScoopInstaller/Extras, 1
 bucket/flow-launcher.json, ScoopInstaller/Extras, 1
 bucket/flow.json, ScoopInstaller/Main, 1
 bucket/flow030.json, ScoopInstaller/Versions, 1
