@@ -1524,7 +1524,6 @@ bucket/ZY-Player.json, kkzzhizhou/scoop-zapps, 1
 bucket/ZedMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ZedMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Zen-Browser.json, leic4u/Scoop-Store, 1
 bucket/ZeroTier.json, kkzzhizhou/scoop-zapps, 0
 bucket/ZigCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZigDevCLI-Portable.json, ACooper81/scoop-apps, 0
@@ -7474,6 +7473,7 @@ bucket/protoc-gen-grpc-web.json, ScoopInstaller/Main, 1
 bucket/protoc.json, echoiron/echo-scoop, 1
 bucket/protodec.json, TheCjw/scoop-retools, 1
 bucket/protolint.json, ScoopInstaller/Main, 1
+bucket/proton-authenticator.json, ScoopInstaller/Extras, 0
 bucket/proton-launcher.json, kiennq/scoop-misc, 1
 bucket/proton-mail-export.json, ScoopInstaller/Extras, 1
 bucket/protonmail-bridge.json, ScoopInstaller/Extras, 1
@@ -10352,6 +10352,7 @@ bucket/zeebe.json, ScoopInstaller/Main, 1
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
 bucket/zelda-oot-soh.json, Deide/deide-bucket, 1
 bucket/zelda64recomp.json, Calinou/scoop-games, 1
+bucket/zen-browser.json, ScoopInstaller/Extras, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
 bucket/zeplin.json, ScoopInstaller/Extras, 0
 bucket/zeppelin.json, ScoopInstaller/Extras, 0
