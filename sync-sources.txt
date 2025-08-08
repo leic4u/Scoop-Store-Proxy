@@ -8855,7 +8855,6 @@ bucket/swoff.json, echoiron/echo-scoop, 0
 bucket/swyh-rs.json, ScoopInstaller/Extras, 1
 bucket/swyh.json, ScoopInstaller/Extras, 1
 bucket/syft.json, ScoopInstaller/Main, 1
-bucket/sylpheed.json, brian6932/dank-scoop, 1
 bucket/symfony-cli.json, ScoopInstaller/Main, 1
 bucket/symphytum.json, ScoopInstaller/Extras, 1
 bucket/sync-dis-boi.json, brian6932/dank-scoop, 1
