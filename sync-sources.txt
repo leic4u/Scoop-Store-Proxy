@@ -3105,6 +3105,7 @@ bucket/docnet.json, MCOfficer/scoop-bucket, 1
 bucket/doctl.json, ScoopInstaller/Main, 1
 bucket/docto.json, ScoopInstaller/Main, 1
 bucket/dog.json, ScoopInstaller/Main, 1
+bucket/doge.json, brian6932/dank-scoop, 1
 bucket/dogecoin-core.json, naderi/scoop-bucket, 1
 bucket/dogecoincore.json, chawyehsu/dorado, 1
 bucket/doggo.json, ScoopInstaller/Main, 1
