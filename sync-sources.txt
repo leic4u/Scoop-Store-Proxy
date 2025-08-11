@@ -7323,6 +7323,7 @@ bucket/plexamp.json, naderi/scoop-bucket, 0
 bucket/plow.json, aliesbelik/poldi, 1
 bucket/pls.json, DoveBoy/Apps, 1
 bucket/plugdata.json, ScoopInstaller/Extras, 1
+bucket/plugin-manager-OBS.json, Weidows-projects/scoop-3rd, 1
 bucket/plumber.json, batkiz/backit, 1
 bucket/plutil.json, beerpiss/scoop-bucket, 0
 bucket/pluto.json, ScoopInstaller/Main, 1
@@ -7486,7 +7487,7 @@ bucket/proxifier-pe.json, HUMORCE/nuke, 0
 bucket/proxifier.json, ScoopInstaller/Extras, 0
 bucket/proxifierpe.json, SayCV/scoop-cvp, 0
 bucket/proxify.json, iquiw/scoop-bucket, 1
-bucket/proxifyre.json, seumsc/scoop-seu, 1
+bucket/proxifyre.json, Homeland-Community/scoop, 1
 bucket/proxsign.json, naderi/scoop-bucket, 0
 bucket/proxy-switch.json, jingyu9575/scoop-jingyu9575, 1
 bucket/proxychains.json, ScoopInstaller/Main, 1
