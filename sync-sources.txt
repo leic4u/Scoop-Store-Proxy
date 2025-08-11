@@ -2068,7 +2068,7 @@ bucket/bifrost.json, ScoopInstaller/Extras, 1
 bucket/biglybt-np.json, ScoopInstaller/Nonportable, 1
 bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
-bucket/bilibili-backup.json, DoveBoy/Apps, 1
+bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
 bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
@@ -5710,7 +5710,7 @@ bucket/microk8s.json, ScoopInstaller/Main, 0
 bucket/micromamba.json, chawyehsu/dorado, 1
 bucket/micronaut.json, ScoopInstaller/Main, 1
 bucket/microsip.json, ScoopInstaller/Extras, 0
-bucket/microsoft-activation-scripts.json, DoveBoy/Apps, 1
+bucket/microsoft-activation-scripts.json, DoveBoy/Apps, 0
 bucket/microsoft-edge-beta-np.json, ScoopInstaller/Nonportable, 0
 bucket/microsoft-edge-canary-np.json, ScoopInstaller/Nonportable, 0
 bucket/microsoft-edge-dev-np.json, ScoopInstaller/Nonportable, 0
@@ -7485,7 +7485,7 @@ bucket/proxifier-pe.json, HUMORCE/nuke, 0
 bucket/proxifier.json, ScoopInstaller/Extras, 0
 bucket/proxifierpe.json, SayCV/scoop-cvp, 0
 bucket/proxify.json, iquiw/scoop-bucket, 1
-bucket/proxifyre.json, seumsc/scoop-seu, 1
+bucket/proxifyre.json, Homeland-Community/scoop, 1
 bucket/proxsign.json, naderi/scoop-bucket, 0
 bucket/proxy-switch.json, jingyu9575/scoop-jingyu9575, 1
 bucket/proxychains.json, ScoopInstaller/Main, 1
