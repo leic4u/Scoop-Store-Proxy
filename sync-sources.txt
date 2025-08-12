@@ -2362,7 +2362,6 @@ bucket/ccstudio33.json, SayCV/scoop-cvp, 1
 bucket/cdburnerxp.json, ScoopInstaller/Extras, 0
 bucket/cdex.json, ScoopInstaller/Extras, 0
 bucket/cdialog.json, ScoopInstaller/Main, 0
-bucket/cdnget.json, aoisummer/scoop-bucket, 1
 bucket/cdnlookup.json, hu3rror/scoop-muggle, 1
 bucket/cdntest.json, aliesbelik/poldi, 1
 bucket/cdogs-sdl.json, Calinou/scoop-games, 1
