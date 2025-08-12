@@ -495,6 +495,7 @@ bucket/GitHub520.json, Weidows-projects/scoop-3rd, 1
 bucket/GitHubDesktop-Install.json, ACooper81/scoop-apps, 0
 bucket/GitHubDesktop-Portable.json, ACooper81/scoop-apps, 0
 bucket/GitHubDesktop-UserInstall.json, ACooper81/scoop-apps, 0
+bucket/GithubStarsManager.json, Weidows-projects/scoop-3rd, 1
 bucket/GliderCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/GlowSansJ-Compressed.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/GlowSansJ-Condensed.json, matthewjberger/scoop-nerd-fonts, 1
