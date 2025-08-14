@@ -1007,7 +1007,7 @@ bucket/PureCodec.json, cc713/ownscoop, 0
 bucket/PyCharmCE.json, abgox/abgo_bucket, 0
 bucket/PyDebloatX-Portable.json, ACooper81/scoop-apps, 1
 bucket/QQBrowser.json, abgox/abgo_bucket, 1
-bucket/QQNT.json, chawyehsu/dorado, 0
+bucket/QQNT.json, wordpure/scoop-air, 0
 bucket/QQNTPatcher-DllHijack.json, wordpure/scoop-air, 1
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
@@ -9781,7 +9781,7 @@ bucket/wechat-np.json, chawyehsu/dorado, 0
 bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
-bucket/wechatdevtools.json, chawyehsu/dorado, 0
+bucket/wechatdevtools.json, akirco/aki-apps, 0
 bucket/wechatdownload.json, DoveBoy/Apps, 1
 bucket/wechatexporter.json, amorphobia/siku, 1
 bucket/wechatmoments.json, DoveBoy/Apps, 1
