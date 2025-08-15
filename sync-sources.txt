@@ -6021,7 +6021,7 @@ bucket/mu-editor.json, ScoopInstaller/Extras, 1
 bucket/mubu.json, chawyehsu/dorado, 0
 bucket/mucommander.json, ScoopInstaller/Extras, 1
 bucket/mudlet.json, Calinou/scoop-games, 0
-bucket/muffet.json, batkiz/backit, 1
+bucket/muffet.json, aliesbelik/poldi, 1
 bucket/muffon.json, starise/Scoop-Confetti, 1
 bucket/muicacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/mujoco.json, ScoopInstaller/Extras, 1
