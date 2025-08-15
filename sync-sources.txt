@@ -3171,7 +3171,7 @@ bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/doukutsu-rs.json, Calinou/scoop-games, 1
 bucket/douyin-ide.json, chawyehsu/dorado, 0
-bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
+bucket/douyin-streamingtool.json, ivaquero/scoopet, 0
 bucket/douyu.json, DoveBoy/Apps, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyicore.json, batkiz/backit, 1
@@ -3237,7 +3237,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
