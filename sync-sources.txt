@@ -2860,7 +2860,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, aoisummer/scoop-bucket, 1
+bucket/dandanplay.json, chawyehsu/dorado, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -3171,7 +3171,7 @@ bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/doukutsu-rs.json, Calinou/scoop-games, 1
 bucket/douyin-ide.json, chawyehsu/dorado, 0
-bucket/douyin-streamingtool.json, ivaquero/scoopet, 0
+bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
 bucket/douyu.json, DoveBoy/Apps, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyicore.json, batkiz/backit, 1
@@ -9237,7 +9237,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, akirco/aki-apps, 1
+bucket/trae-cn.json, chawyehsu/dorado, 0
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
