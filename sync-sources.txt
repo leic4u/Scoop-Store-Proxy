@@ -9046,6 +9046,7 @@ bucket/terminal-parrot.json, ScoopInstaller/Extras, 1
 bucket/terminalpp.json, ScoopInstaller/Extras, 1
 bucket/terminals.json, ScoopInstaller/Extras, 1
 bucket/terminus.json, akirco/aki-apps, 1
+bucket/termite.json, ScoopInstaller/Extras, 0
 bucket/termius.json, ScoopInstaller/Extras, 0
 bucket/termscp.json, ScoopInstaller/Main, 1
 bucket/termshark.json, ScoopInstaller/Main, 1
