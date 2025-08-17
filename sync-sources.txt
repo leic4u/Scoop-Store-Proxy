@@ -1722,6 +1722,8 @@ bucket/anto.json, DoveBoy/Apps, 1
 bucket/anx-reader.json, hu3rror/scoop-muggle, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
+bucket/anyportal-portable.json, DoveBoy/Apps, 1
+bucket/anyportal.json, DoveBoy/Apps, 1
 bucket/anythingllm.json, ScoopInstaller/Extras, 1
 bucket/anytype.json, ScoopInstaller/Extras, 1
 bucket/ao.json, ScoopInstaller/Extras, 1
@@ -2512,6 +2514,8 @@ bucket/clash.json, everyx/scoop-bucket, 0
 bucket/clash.mini.json, ScoopInstaller/Extras, 1
 bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
+bucket/clashmi-portable.json, DoveBoy/Apps, 1
+bucket/clashmi.json, DoveBoy/Apps, 1
 bucket/clashn.json, DoveBoy/Apps, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashsinicizationtool.json, DoveBoy/Apps, 1
