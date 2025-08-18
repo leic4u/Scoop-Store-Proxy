@@ -3754,7 +3754,6 @@ bucket/flyoobe-Portable.json, ACooper81/scoop-apps, 1
 bucket/flyway.json, ScoopInstaller/Main, 0
 bucket/fm.json, aliesbelik/poldi, 1
 bucket/fman-np.json, ScoopInstaller/Nonportable, 0
-bucket/fmedia.json, ScoopInstaller/Extras, 1
 bucket/fmedia16.json, ScoopInstaller/Versions, 0
 bucket/fmodel.json, Calinou/scoop-games, 1
 bucket/fnm.json, ScoopInstaller/Main, 1
