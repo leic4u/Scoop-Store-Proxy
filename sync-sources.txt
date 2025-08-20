@@ -1979,6 +1979,10 @@ bucket/bandizip6.json, ScoopInstaller/Versions, 0
 bucket/bandwhich.json, ScoopInstaller/Main, 1
 bucket/baregrep.json, ScoopInstaller/Extras, 0
 bucket/baretail.json, ScoopInstaller/Extras, 0
+bucket/bark-server-v2.json, amorphobia/siku, 1
+bucket/bark-server-v3.json, amorphobia/siku, 1
+bucket/bark-server-v4.json, amorphobia/siku, 1
+bucket/bark-server.json, amorphobia/siku, 1
 bucket/barrier-np.json, ScoopInstaller/Nonportable, 1
 bucket/barrier.json, ScoopInstaller/Extras, 1
 bucket/bart.json, naderi/scoop-bucket, 0
@@ -9355,6 +9359,7 @@ bucket/typora0.11.18.json, ScoopInstaller/Versions, 1
 bucket/typora1.2.5.json, ygguorun/scoop-bucket, 0
 bucket/typos.json, ScoopInstaller/Main, 1
 bucket/typst.json, ScoopInstaller/Main, 1
+bucket/typstyle.json, ScoopInstaller/Main, 1
 bucket/uTools.json, chawyehsu/dorado, 0
 bucket/uabea.json, Calinou/scoop-games, 1
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 1
