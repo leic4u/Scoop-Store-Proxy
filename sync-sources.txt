@@ -3123,7 +3123,7 @@ bucket/doggo.json, ScoopInstaller/Main, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -3670,7 +3670,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -9753,7 +9753,7 @@ bucket/wavebox-classic.json, ScoopInstaller/Extras, 0
 bucket/wavebox-portable.json, naderi/scoop-bucket, 0
 bucket/wavebox.json, ScoopInstaller/Extras, 0
 bucket/wavepad.json, naderi/scoop-bucket, 0
-bucket/waveterm.json, Weidows-projects/scoop-3rd, 1
+bucket/waveterm.json, DoveBoy/Apps, 1
 bucket/wavosaur.json, ScoopInstaller/Extras, 0
 bucket/wavpack.json, ScoopInstaller/Main, 1
 bucket/wax.json, DoveBoy/Apps, 1
