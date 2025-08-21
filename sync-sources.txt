@@ -5838,6 +5838,7 @@ bucket/minitool-partition-wizard-free.json, mo-san/scoop-bucket, 0
 bucket/minutor.json, Calinou/scoop-games, 1
 bucket/mirc-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/miru.json, ScoopInstaller/Extras, 1
+bucket/misaka-translator.json, seumsc/scoop-seu, 1
 bucket/misakatranslator.json, ivaquero/scoopet, 1
 bucket/misc.json, brian6932/dank-scoop, 1
 bucket/mise.json, ScoopInstaller/Main, 1
@@ -7928,6 +7929,7 @@ bucket/remove-ms-edge.json, DoveBoy/Apps, 1
 bucket/removedrive.json, rasa/scoops, 0
 bucket/renamer.json, ScoopInstaller/Extras, 0
 bucket/renderdoc.json, ScoopInstaller/Extras, 0
+bucket/renpy-translator.json, seumsc/scoop-seu, 1
 bucket/renpy.json, ScoopInstaller/Extras, 0
 bucket/repassgen.json, brian6932/dank-scoop, 1
 bucket/repkg.json, ygguorun/scoop-bucket, 1
