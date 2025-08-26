@@ -2078,7 +2078,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -3186,6 +3186,7 @@ bucket/douyu.json, DoveBoy/Apps, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyicore.json, batkiz/backit, 1
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
+bucket/doxx.json, DoveBoy/Apps, 1
 bucket/doxygen.json, ScoopInstaller/Main, 0
 bucket/dpeaklim.json, seumsc/scoop-seu, 0
 bucket/dprint.json, ScoopInstaller/Main, 1
@@ -9801,7 +9802,7 @@ bucket/wechat-np.json, chawyehsu/dorado, 0
 bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
-bucket/wechatdevtools.json, chawyehsu/dorado, 0
+bucket/wechatdevtools.json, akirco/aki-apps, 0
 bucket/wechatdownload.json, DoveBoy/Apps, 1
 bucket/wechatexporter.json, amorphobia/siku, 1
 bucket/wechatmoments.json, DoveBoy/Apps, 1
