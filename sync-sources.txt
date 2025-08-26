@@ -1716,6 +1716,7 @@ bucket/ant.json, ScoopInstaller/Main, 0
 bucket/ant19.json, ScoopInstaller/Versions, 0
 bucket/antares.json, ScoopInstaller/Extras, 1
 bucket/anti-twin.json, naderi/scoop-bucket, 0
+bucket/antidupl.json, naderi/scoop-bucket, 1
 bucket/antidupl.net.json, ScoopInstaller/Extras, 1
 bucket/antimicro.json, ScoopInstaller/Extras, 1
 bucket/antimicrox.json, ScoopInstaller/Extras, 1
