@@ -2704,7 +2704,7 @@ bucket/corretto23-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/corsair-icue.json, TheRandomLabs/Scoop-Bucket, 0
-bucket/cosbrowser.json, akirco/aki-apps, 1
+bucket/cosbrowser.json, chawyehsu/dorado, 1
 bucket/cosign.json, ScoopInstaller/Main, 1
 bucket/cosmosdbexplorer-beta.json, ScoopInstaller/Versions, 1
 bucket/cotp.json, brian6932/dank-scoop, 1
@@ -3674,7 +3674,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -5740,7 +5740,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
+bucket/microsoftedge.json, chawyehsu/dorado, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/mighty-mike.json, Calinou/scoop-games, 1
@@ -6774,7 +6774,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
