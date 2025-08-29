@@ -5590,6 +5590,7 @@ bucket/maple.json, ScoopInstaller/Extras, 1
 bucket/marble.json, ScoopInstaller/Extras, 0
 bucket/mariadb.json, ScoopInstaller/Main, 0
 bucket/mariadb103.json, ScoopInstaller/Versions, 0
+bucket/mariokart-64-ultraship.json, Deide/deide-bucket, 1
 bucket/markdown-edit.json, naderi/scoop-bucket, 1
 bucket/markdown-monster.json, ScoopInstaller/Extras, 1
 bucket/markdown-oxide.json, ScoopInstaller/Main, 1
@@ -10382,7 +10383,8 @@ bucket/zed.json, ScoopInstaller/Extras, 1
 bucket/zeebe-modeler.json, ScoopInstaller/Extras, 1
 bucket/zeebe.json, ScoopInstaller/Main, 1
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
-bucket/zelda-oot-soh.json, Deide/deide-bucket, 1
+bucket/zelda-mm-ultraship.json, Deide/deide-bucket, 1
+bucket/zelda-oot-ultraship.json, Deide/deide-bucket, 1
 bucket/zelda64recomp.json, Calinou/scoop-games, 1
 bucket/zen-browser.json, ScoopInstaller/Extras, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
