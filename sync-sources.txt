@@ -7499,7 +7499,7 @@ bucket/proxifier-pe.json, HUMORCE/nuke, 0
 bucket/proxifier.json, ScoopInstaller/Extras, 0
 bucket/proxifierpe.json, SayCV/scoop-cvp, 0
 bucket/proxify.json, iquiw/scoop-bucket, 1
-bucket/proxifyre.json, seumsc/scoop-seu, 1
+bucket/proxifyre.json, Homeland-Community/scoop, 1
 bucket/proxsign.json, naderi/scoop-bucket, 0
 bucket/proxy-switch.json, jingyu9575/scoop-jingyu9575, 1
 bucket/proxychains.json, ScoopInstaller/Main, 1
@@ -8133,7 +8133,7 @@ bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
-bucket/ryujinx-canary.json, borger/scoop-emulators, 0
+bucket/ryujinx-canary.json, Calinou/scoop-games, 0
 bucket/ryujinx.json, Calinou/scoop-games, 0
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
