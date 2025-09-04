@@ -2527,7 +2527,6 @@ bucket/claws-mail.json, ScoopInstaller/Extras, 0
 bucket/claws.json, aliesbelik/poldi, 1
 bucket/clcl.json, naderi/scoop-bucket, 0
 bucket/cleanafterme.json, ScoopInstaller/Nirsoft, 0
-bucket/cleanmgrplus-de.json, naderi/scoop-bucket, 1
 bucket/cleanmgrplus.json, naderi/scoop-bucket, 1
 bucket/cleanmywechat.json, amorphobia/siku, 1
 bucket/cleed.json, aliesbelik/poldi, 1
