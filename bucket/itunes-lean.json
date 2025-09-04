@@ -6,7 +6,7 @@
   "depends": "main/lessmsi",
   "notes": [
     "You'll probably want to create the following symlink",
-    "$_ = '/Apple Application Support'; New-Item -ItemType SymbolicLink -Target \"$(scoop prefix itunes-lean)$_\" -Path \"/Program Files/Common Files/Apple$_\""
+    "$_ = '/Apple Application Support'; New-Item -ItemType SymbolicLink -Target \"$(scoop prefix itunes-lean)$_\" -Path \"$(New-Item -ItemType Directory -Force '/Program Files/Common Files/Apple')$_\""
   ],
   "architecture": {
     "64bit": {
