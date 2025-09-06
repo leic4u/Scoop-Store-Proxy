@@ -1476,7 +1476,7 @@ bucket/WinfetchCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/WinfetchNightlyCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/WingetCLI-Install.json, ACooper81/scoop-apps, 1
 bucket/WingetUI-Portable.json, ACooper81/scoop-apps, 1
-bucket/WingetUI.json, DoveBoy/Apps, 1
+bucket/WingetUI.json, Weidows-projects/scoop-3rd, 1
 bucket/WingetUIBeta-Portable.json, ACooper81/scoop-apps, 1
 bucket/Winhance-Script.json, ACooper81/scoop-apps, 0
 bucket/Winpilot-Portable.json, ACooper81/scoop-apps, 1
@@ -8040,7 +8040,7 @@ bucket/roughgrep.json, ScoopInstaller/Extras, 1
 bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rshell.json, ViCrack/scoop-bucket, 1
