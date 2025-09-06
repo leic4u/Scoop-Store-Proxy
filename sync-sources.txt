@@ -9968,7 +9968,7 @@ bucket/winlibs-mingw-ucrt.json, chawyehsu/dorado, 1
 bucket/winlister.json, ScoopInstaller/Nirsoft, 0
 bucket/winlogonview.json, ScoopInstaller/Nirsoft, 0
 bucket/winmailpassrec.json, ScoopInstaller/Nirsoft, 0
-bucket/winmemorycleaner.json, DoveBoy/Apps, 1
+bucket/winmemorycleaner.json, ViCrack/scoop-bucket, 1
 bucket/winmerge.json, ScoopInstaller/Extras, 1
 bucket/winmerge2011.json, ScoopInstaller/Extras, 1
 bucket/winmtr-live.json, ScoopInstaller/Extras, 1
