@@ -1219,7 +1219,6 @@ bucket/StardockFences-Install.json, ACooper81/scoop-apps, 0
 bucket/StartAllBack-Portable.json, ACooper81/scoop-apps, 0
 bucket/StartupDelayer-Portable.json, ACooper81/scoop-apps, 0
 bucket/StartupManagerCLI-Portable.json, ACooper81/scoop-apps, 1
-bucket/Starward.json, Weidows-projects/scoop-3rd, 1
 bucket/Stash-Portable.json, ACooper81/scoop-apps, 1
 bucket/StaticWebServer-Portable.json, ACooper81/scoop-apps, 1
 bucket/Steam-Portable.json, ACooper81/scoop-apps, 0
@@ -8726,6 +8725,7 @@ bucket/starship-cvp.json, SayCV/scoop-cvp, 1
 bucket/starship.json, ScoopInstaller/Main, 1
 bucket/start.json, ygguorun/scoop-bucket, 0
 bucket/startuprun.json, kodybrown/scoop-nirsoft, 0
+bucket/starward.json, Calinou/scoop-games, 1
 bucket/stash-dev.json, ScoopInstaller/Versions, 1
 bucket/stash.json, ScoopInstaller/Extras, 1
 bucket/static-web-server.json, ScoopInstaller/Main, 1
