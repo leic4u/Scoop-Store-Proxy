@@ -4268,6 +4268,7 @@ bucket/gossl.json, aliesbelik/poldi, 1
 bucket/gossm.json, ScoopInstaller/Main, 1
 bucket/gost.json, wzv5/ScoopBucket, 1
 bucket/gostv3.json, NyaMisty/scoop_bucket_misty, 1
+bucket/got.json, aliesbelik/poldi, 1
 bucket/gotify-cli.json, ScoopInstaller/Main, 1
 bucket/gotify-server.json, ScoopInstaller/Main, 1
 bucket/gotop.json, ScoopInstaller/Main, 1
