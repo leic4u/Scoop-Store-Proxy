@@ -4952,6 +4952,7 @@ bucket/jsae.json, ScoopInstaller/Nirsoft, 0
 bucket/jsign.json, ScoopInstaller/Main, 1
 bucket/jsoncomma.json, brian6932/dank-scoop, 1
 bucket/jsonedit.json, naderi/scoop-bucket, 0
+bucket/jsonschema.json, ScoopInstaller/Main, 1
 bucket/jstock.json, ScoopInstaller/Extras, 1
 bucket/juce.json, ScoopInstaller/Extras, 1
 bucket/juicefs.json, ScoopInstaller/Main, 1
