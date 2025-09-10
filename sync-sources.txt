@@ -2498,7 +2498,7 @@ bucket/clash-mini.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu-portable.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 1
 bucket/clash-party-portable.json, DoveBoy/Apps, 1
-bucket/clash-party.json, DoveBoy/Apps, 1
+bucket/clash-party.json, ScoopInstaller/Extras, 1
 bucket/clash-premium.json, everyx/scoop-bucket, 0
 bucket/clash-rev-cgo.json, DoveBoy/Apps, 1
 bucket/clash-rev-compatible-go120.json, DoveBoy/Apps, 1
