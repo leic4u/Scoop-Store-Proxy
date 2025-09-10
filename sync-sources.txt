@@ -5195,6 +5195,7 @@ bucket/lan-mouse.json, Weidows-projects/scoop-3rd, 1
 bucket/landrop.json, ScoopInstaller/Extras, 1
 bucket/languagetool-java.json, ScoopInstaller/Extras, 0
 bucket/languagetool.json, ScoopInstaller/Extras, 0
+bucket/lanipscanner.json, ScoopInstaller/Nirsoft, 0
 bucket/lantern-client.json, ScoopInstaller/Extras, 0
 bucket/lantern-np.json, ScoopInstaller/Nonportable, 0
 bucket/lantern-oldver.json, SayCV/scoop-cvp, 1
