@@ -7476,7 +7476,7 @@ bucket/produkey.json, ScoopInstaller/Nirsoft, 0
 bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
-bucket/project64-dev.json, Calinou/scoop-games, 0
+bucket/project64-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom-lite.json, seumsc/scoop-seu, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
@@ -9225,6 +9225,7 @@ bucket/todotxt-net.json, ScoopInstaller/Extras, 1
 bucket/toggl.json, ChungZH/peach, 1
 bucket/tokei.json, ScoopInstaller/Main, 1
 bucket/tokio-console.json, littleli/Scoop-littleli, 1
+bucket/tombi.json, iquiw/scoop-bucket, 1
 bucket/tomboy-ng.json, ScoopInstaller/Extras, 1
 bucket/tomcat.json, ScoopInstaller/Extras, 0
 bucket/tomcat6.json, ScoopInstaller/Versions, 0
