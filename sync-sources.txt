@@ -2860,7 +2860,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, aoisummer/scoop-bucket, 1
+bucket/dandanplay.json, chawyehsu/dorado, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -4889,7 +4889,7 @@ bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, akirco/aki-apps, 0
+bucket/jianyingpro.json, chawyehsu/dorado, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
 bucket/jijidown.json, amorphobia/siku, 0
@@ -6430,7 +6430,7 @@ bucket/officeins.json, ScoopInstaller/Nirsoft, 0
 bucket/officetool-dotnet.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetool.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetoolplus-with-runtime.json, DoveBoy/Apps, 1
-bucket/officetoolplus.json, naderi/scoop-bucket, 1
+bucket/officetoolplus.json, chawyehsu/dorado, 1
 bucket/offlineinsiderenroll.json, ScoopInstaller/Main, 1
 bucket/offlineregistryfinder.json, ScoopInstaller/Nirsoft, 0
 bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
