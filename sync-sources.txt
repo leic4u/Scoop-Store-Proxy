@@ -9416,6 +9416,7 @@ bucket/umi-ocr-rapid.json, hu3rror/scoop-muggle, 1
 bucket/umi-ocr.json, ScoopInstaller/Extras, 1
 bucket/umlet.json, ScoopInstaller/Extras, 0
 bucket/umod.json, Calinou/scoop-games, 0
+bucket/umodel.json, Calinou/scoop-games, 0
 bucket/umoria.json, Calinou/scoop-games, 1
 bucket/unar.json, ScoopInstaller/Main, 0
 bucket/unblockneteasemusic-git.json, DoveBoy/Apps, 0
