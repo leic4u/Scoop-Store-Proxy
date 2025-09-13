@@ -5438,6 +5438,7 @@ bucket/local-wp.json, naderi/scoop-bucket, 0
 bucket/locale-emulator.json, ScoopInstaller/Extras, 1
 bucket/locale-remulator.json, hu3rror/scoop-muggle, 1
 bucket/localsend.json, ScoopInstaller/Extras, 1
+bucket/localsqueeze.json, DoveBoy/Apps, 1
 bucket/localstack.json, ScoopInstaller/Main, 1
 bucket/locaspace.json, scoopcn/scoopcn, 0
 bucket/locate.json, naderi/scoop-bucket, 0
