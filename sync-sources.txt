@@ -2074,7 +2074,7 @@ bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
 bucket/bilibilidown.json, DoveBoy/Apps, 1
 bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
-bucket/bililive-go.json, DoveBoy/Apps, 1
+bucket/bililive-go.json, cc713/ownscoop, 1
 bucket/bililive-tools-portable.json, DoveBoy/Apps, 1
 bucket/bililive-tools.json, DoveBoy/Apps, 1
 bucket/bililiverecorder.json, chawyehsu/dorado, 1
@@ -5737,7 +5737,7 @@ bucket/microsoft21-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoftedge-beta.json, chawyehsu/dorado, 0
 bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
-bucket/microsoftedge.json, chawyehsu/dorado, 0
+bucket/microsoftedge.json, beerpiss/scoop-bucket, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/mighty-mike.json, Calinou/scoop-games, 1
