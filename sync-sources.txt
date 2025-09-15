@@ -591,7 +591,7 @@ bucket/IPVanish-Portable.json, ACooper81/scoop-apps, 0
 bucket/Icalingua-plus-plus.json, batkiz/backit, 1
 bucket/IdeaCE.json, abgox/abgo_bucket, 0
 bucket/ImDiskToolkit.json, cc713/ownscoop, 0
-bucket/ImTip.json, ygguorun/scoop-bucket, 0
+bucket/ImTip.json, hu3rror/scoop-muggle, 0
 bucket/ImageGlass-Portable.json, ACooper81/scoop-apps, 1
 bucket/ImageMagick-portable-Q16-HDRI.json, Weidows-projects/scoop-3rd, 0
 bucket/ImageSearch.json, Weidows-projects/scoop-3rd, 1
@@ -5706,7 +5706,7 @@ bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
