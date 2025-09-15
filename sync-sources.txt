@@ -5159,6 +5159,7 @@ bucket/kubeadm.json, ScoopInstaller/Main, 0
 bucket/kubebox.json, ScoopInstaller/Extras, 1
 bucket/kubecolor.json, ScoopInstaller/Main, 1
 bucket/kubeconform.json, ScoopInstaller/Main, 1
+bucket/kubectl-explore.json, aliesbelik/poldi, 1
 bucket/kubectl.json, ScoopInstaller/Main, 0
 bucket/kubectx.json, ScoopInstaller/Main, 1
 bucket/kubedump.json, aliesbelik/poldi, 1
