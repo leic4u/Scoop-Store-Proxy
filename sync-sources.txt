@@ -4606,6 +4606,7 @@ bucket/iawriterquattro-variable.json, KnotUntied/scoop-fonts, 0
 bucket/iawriterquattro.json, KnotUntied/scoop-fonts, 0
 bucket/ib-en.json, beerpiss/scoop-bucket, 0
 bucket/ib-jp.json, beerpiss/scoop-bucket, 0
+bucket/ibazel.json, ScoopInstaller/Extras, 1
 bucket/ibmcloud-cli.json, ScoopInstaller/Main, 0
 bucket/icaros-np.json, ScoopInstaller/Nonportable, 0
 bucket/icat.json, couleur-tweak-tips/utils, 0
@@ -9842,6 +9843,7 @@ bucket/whatinstartup.json, ScoopInstaller/Nirsoft, 0
 bucket/whatishang.json, ScoopInstaller/Nirsoft, 0
 bucket/whatsapp-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/wheel-py.json, TheRandomLabs/Scoop-Python, 1
+bucket/wheelwizard.json, Calinou/scoop-games, 1
 bucket/whepfrom.json, ScoopInstaller/Extras, 1
 bucket/which.json, ScoopInstaller/Main, 0
 bucket/whipinto.json, ScoopInstaller/Extras, 1
