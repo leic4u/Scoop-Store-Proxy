@@ -10170,7 +10170,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu.json, Calinou/scoop-games, 1
+bucket/xemu.json, borger/scoop-emulators, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
@@ -10423,6 +10423,7 @@ bucket/zlocation.json, ScoopInstaller/Extras, 0
 bucket/zls-dev.json, ScoopInstaller/Versions, 0
 bucket/zls.json, ScoopInstaller/Main, 1
 bucket/zmc.json, ScoopInstaller/Extras, 0
+bucket/zns.json, aliesbelik/poldi, 1
 bucket/zokumbsp.json, Calinou/scoop-games, 0
 bucket/zola.json, ScoopInstaller/Main, 1
 bucket/zookeeper.json, ScoopInstaller/Main, 0
