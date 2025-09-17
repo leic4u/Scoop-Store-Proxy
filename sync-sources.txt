@@ -1990,6 +1990,8 @@ bucket/batcodecheck.json, ScoopInstaller/Extras, 0
 bucket/battery-care.json, ScoopInstaller/Extras, 0
 bucket/batteryhistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/batteryinfoview.json, ScoopInstaller/Nirsoft, 0
+bucket/batterymode-portable.json, DoveBoy/Apps, 1
+bucket/batterymode.json, DoveBoy/Apps, 1
 bucket/battlenet.json, Calinou/scoop-games, 0
 bucket/baulk.json, chawyehsu/dorado, 1
 bucket/bazel-buildtools.json, ScoopInstaller/Main, 1
@@ -3115,7 +3117,7 @@ bucket/doggo.json, ScoopInstaller/Main, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -3239,7 +3241,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -3528,6 +3530,10 @@ bucket/falkon.json, ScoopInstaller/Extras, 0
 bucket/famistudio.json, ScoopInstaller/Extras, 1
 bucket/famitracker.json, chawyehsu/dorado, 0
 bucket/fan-control.json, naderi/scoop-bucket, 0
+bucket/fancontrol-net4.8-portable.json, DoveBoy/Apps, 1
+bucket/fancontrol-net4.8.json, DoveBoy/Apps, 1
+bucket/fancontrol-net8.0-portable.json, DoveBoy/Apps, 1
+bucket/fancontrol-net8.0.json, DoveBoy/Apps, 1
 bucket/fancontrol.json, ScoopInstaller/Extras, 1
 bucket/fanqienovel-downloader.json, DoveBoy/Apps, 1
 bucket/fantasquesansmono-llh-nlk.json, KnotUntied/scoop-fonts, 1
@@ -5532,6 +5538,8 @@ bucket/lz4.json, ScoopInstaller/Main, 1
 bucket/lzdoom.json, Calinou/scoop-games, 1
 bucket/lzip.json, ScoopInstaller/Main, 0
 bucket/m3u8-downloader.json, ivaquero/scoopet, 1
+bucket/m3u8d-cli.json, DoveBoy/Apps, 1
+bucket/m3u8d-ui.json, DoveBoy/Apps, 1
 bucket/m4.json, ScoopInstaller/Main, 0
 bucket/m4a-to-mp3-converter.json, ScoopInstaller/Extras, 0
 bucket/m4acut.json, hu3rror/scoop-muggle, 1
@@ -10024,6 +10032,7 @@ bucket/wintogo.json, kkzzhizhou/scoop-zapps, 1
 bucket/wintools.json, SayCV/scoop-cvp, 1
 bucket/wintun.json, HUMORCE/nuke, 0
 bucket/winuae.json, hermanjustnu/scoop-emulators, 0
+bucket/winupdateminitool.json, DoveBoy/Apps, 1
 bucket/winupdateslist.json, kodybrown/scoop-nirsoft, 0
 bucket/winupdatesview.json, ScoopInstaller/Nirsoft, 0
 bucket/winusb.json, naderi/scoop-bucket, 0
