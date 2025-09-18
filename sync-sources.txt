@@ -5236,6 +5236,7 @@ bucket/lazy-posh-git.json, ScoopInstaller/Extras, 1
 bucket/lazydocker.json, ScoopInstaller/Main, 1
 bucket/lazygit.json, ScoopInstaller/Extras, 1
 bucket/lazysql.json, ScoopInstaller/Extras, 1
+bucket/lazyssh.json, aliesbelik/poldi, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
 bucket/lbry.json, ScoopInstaller/Extras, 1
 bucket/lceda-pro.json, chawyehsu/dorado, 0
@@ -8058,7 +8059,7 @@ bucket/roughgrep.json, ScoopInstaller/Extras, 1
 bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rshell.json, ViCrack/scoop-bucket, 1
