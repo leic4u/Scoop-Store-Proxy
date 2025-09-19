@@ -5992,6 +5992,7 @@ bucket/mpv.net-DW.json, cc713/ownscoop, 1
 bucket/mpv.net-beta.json, ScoopInstaller/Versions, 1
 bucket/mpv.net-cm.json, ivaquero/scoopet, 1
 bucket/mpv.net.json, ScoopInstaller/Extras, 1
+bucket/mpv_PlayKit.json, Weidows-projects/scoop-3rd, 1
 bucket/mpvconfigurator.json, DoveBoy/Apps, 1
 bucket/mpxplay.json, ScoopInstaller/Main, 0
 bucket/mqtt-cli.json, ScoopInstaller/Extras, 1
