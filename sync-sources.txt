@@ -1788,6 +1788,7 @@ bucket/aria2manager.json, DoveBoy/Apps, 1
 bucket/ariang-native.json, ScoopInstaller/Extras, 1
 bucket/arimo.json, KnotUntied/scoop-fonts, 0
 bucket/ark-smart-breeding.json, Calinou/scoop-games, 1
+bucket/ark.json, cderv/r-bucket, 1
 bucket/armadillo-key-tool.json, SayCV/scoop-cvp, 1
 bucket/armadillo-splicerebase.json, SayCV/scoop-cvp, 0
 bucket/armageddon.json, SayCV/scoop-cvp, 1
