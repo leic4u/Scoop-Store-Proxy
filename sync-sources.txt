@@ -3604,6 +3604,7 @@ bucket/ffmpeg-shared-nightly.json, ScoopInstaller/Versions, 1
 bucket/ffmpeg-shared.json, ScoopInstaller/Main, 0
 bucket/ffmpeg-yt-dlp.json, ScoopInstaller/Versions, 1
 bucket/ffmpeg.json, ScoopInstaller/Main, 0
+bucket/ffmpegfreeui.json, ivaquero/scoopet, 1
 bucket/ffprogress.json, couleur-tweak-tips/utils, 1
 bucket/ffqueue.json, ScoopInstaller/Extras, 0
 bucket/ffsend.json, ScoopInstaller/Main, 1
