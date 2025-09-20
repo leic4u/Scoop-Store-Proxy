@@ -247,7 +247,7 @@ bucket/CefDetector.json, ygguorun/scoop-bucket, 1
 bucket/CefDetectorX.json, Weidows-projects/scoop-3rd, 1
 bucket/CenterTaskbar-Portable.json, ACooper81/scoop-apps, 1
 bucket/Chakra-Petch.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/Charles.json, chawyehsu/dorado, 0
+bucket/Charles.json, DoveBoy/Apps, 0
 bucket/Charm.json, batkiz/backit, 1
 bucket/Charmonman.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/ChatALL-Portable.json, ACooper81/scoop-apps, 1
@@ -2024,7 +2024,7 @@ bucket/bedrock-launcher.json, Calinou/scoop-games, 1
 bucket/bedrockupdater.json, Calinou/scoop-games, 1
 bucket/bee.json, chawyehsu/dorado, 1
 bucket/beebeep.json, ScoopInstaller/Extras, 0
-bucket/beebem.json, Calinou/scoop-games, 0
+bucket/beebem.json, hermanjustnu/scoop-emulators, 0
 bucket/beef-nightly.json, ScoopInstaller/Versions, 0
 bucket/beef.json, ScoopInstaller/Main, 1
 bucket/beeftext.json, ScoopInstaller/Extras, 1
