@@ -5019,7 +5019,8 @@ bucket/kapacitor.json, ScoopInstaller/Main, 0
 bucket/kapow-punch-clock.json, ScoopInstaller/Extras, 0
 bucket/kapp.json, ScoopInstaller/Main, 1
 bucket/karate.json, ScoopInstaller/Main, 1
-bucket/karing.json, aliesbelik/poldi, 1
+bucket/karing-portable.json, DoveBoy/Apps, 1
+bucket/karing.json, DoveBoy/Apps, 1
 bucket/kassistant-live2d.json, Weidows-projects/scoop-3rd, 1
 bucket/kasts.json, ScoopInstaller/Extras, 0
 bucket/katana.json, ViCrack/scoop-bucket, 1

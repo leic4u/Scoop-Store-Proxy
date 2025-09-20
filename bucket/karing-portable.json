@@ -8,11 +8,10 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/KaringX/karing/releases/download/v1.2.4.867/karing_1.2.4.867_windows_x64.exe",
-      "hash": "b68beeca0ac7a0bc226f6617f978dc9f6cf8c2d7ce7ea968ee03503a9234c939"
+      "url": "https://ghgo.xyz/https://github.com/KaringX/karing/releases/download/v1.2.4.867/karing_1.2.4.867_windows_x64.zip",
+      "hash": "bf5db91fa229e963337827d2fef11bb53a544997c739afede34d639b7226af73"
     }
   },
-  "innosetup": true,
   "installer": {
     "script": [
       "# handle runtime cache",
@@ -43,7 +42,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghgo.xyz/https://github.com/KaringX/karing/releases/download/v$version/karing_$version_windows_x64.exe"
+        "url": "https://ghgo.xyz/https://github.com/KaringX/karing/releases/download/v$version/karing_$version_windows_x64.zip"
       }
     }
   }
