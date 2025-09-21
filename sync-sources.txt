@@ -563,7 +563,7 @@ bucket/HostsMan-Portable.json, ACooper81/scoop-apps, 1
 bucket/HostsMgrCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/HueSync-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/HueSync-Portable.json, ACooper81/scoop-apps, 0
-bucket/Hydrogen-Music.json, abgox/abgo_bucket, 0
+bucket/Hydrogen-Music.json, DoveBoy/Apps, 1
 bucket/I-Ming.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IBMPlexMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IBMPlexMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3242,7 +3242,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -4581,6 +4581,7 @@ bucket/hwinfo.json, ScoopInstaller/Extras, 0
 bucket/hwmonitor.json, ScoopInstaller/Extras, 0
 bucket/hwp-converter.json, ScoopInstaller/Extras, 0
 bucket/hxd.json, ScoopInstaller/Extras, 0
+bucket/hydrogen-music-portable.json, DoveBoy/Apps, 1
 bucket/hydrogen.json, ScoopInstaller/Extras, 1
 bucket/hydrus-network.json, ScoopInstaller/Extras, 1
 bucket/hygen.json, ScoopInstaller/Main, 1
@@ -8084,7 +8085,7 @@ bucket/roughgrep.json, ScoopInstaller/Extras, 1
 bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rshell.json, ViCrack/scoop-bucket, 1

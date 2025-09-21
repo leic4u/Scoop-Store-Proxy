@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/ldx123000/Hydrogen-Music/releases/download/v0.5.4/Hydrogen.Music.Setup.0.5.4.exe#/dl.7z",
-      "hash": "sha512:14ab6a9fc7088e3c099a25a7029b2e54b1aace5d2e1acaa1f11e86c6ba414b361e6ef72fde29268bfc5a952dca98c8864aaa3440ed03b2cf1abb6c291e7ca575",
+      "url": "https://ghgo.xyz/https://github.com/ldx123000/Hydrogen-Music/releases/download/v0.5.4/Hydrogen.Music.0.5.4.exe#/dl.7z",
+      "hash": "fb73083ba974919bf7c16af6e11dad9cb9e0ce269547c340248744c5e2cf5501",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$*\" -Force -Recurse"
@@ -45,12 +45,8 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghgo.xyz/https://github.com/ldx123000/Hydrogen-Music/releases/download/v$version/Hydrogen.Music.Setup.$version.exe#/dl.7z"
+        "url": "https://ghgo.xyz/https://github.com/ldx123000/Hydrogen-Music/releases/download/v$version/Hydrogen.Music.$version.exe#/dl.7z"
       }
-    },
-    "hash": {
-      "url": "$baseurl/latest.yml",
-      "regex": "sha512:\\s+$base64"
     }
   }
 }
