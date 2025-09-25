@@ -6776,6 +6776,7 @@ bucket/parallels-client.json, amorphobia/siku, 0
 bucket/paraview.json, ScoopInstaller/Extras, 0
 bucket/pari-gp.json, ScoopInstaller/Extras, 0
 bucket/parsec-np.json, ScoopInstaller/Nonportable, 0
+bucket/parsec-vdd.json, Weidows-projects/scoop-3rd, 1
 bucket/parsec.json, ScoopInstaller/Extras, 0
 bucket/parsify-desktop.json, amorphobia/siku, 1
 bucket/parsify.json, ChungZH/peach, 1
