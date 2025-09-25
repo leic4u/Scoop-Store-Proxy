@@ -5140,7 +5140,7 @@ bucket/kompose.json, ScoopInstaller/Main, 1
 bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 1
-bucket/kook.json, seumsc/scoop-seu, 0
+bucket/kook.json, chawyehsu/dorado, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -5166,6 +5166,7 @@ bucket/ksnip.json, ScoopInstaller/Extras, 1
 bucket/ksoftmgr.json, echoiron/echo-scoop, 0
 bucket/ksubdomain.json, ViCrack/scoop-bucket, 1
 bucket/kt-connect.json, chawyehsu/dorado, 1
+bucket/ktea.json, aliesbelik/poldi, 1
 bucket/ktlint.json, ScoopInstaller/Main, 1
 bucket/ktor-cli.json, aliesbelik/poldi, 1
 bucket/ktunnel.json, ScoopInstaller/Main, 1
@@ -9311,7 +9312,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, akirco/aki-apps, 1
+bucket/trae-cn.json, chawyehsu/dorado, 0
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
