@@ -9092,6 +9092,8 @@ bucket/temurin23-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin23-jre.json, ScoopInstaller/Java, 1
 bucket/temurin24-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin24-jre.json, ScoopInstaller/Java, 1
+bucket/temurin25-jdk.json, ScoopInstaller/Java, 1
+bucket/temurin25-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin8-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jdk.json, ScoopInstaller/Java, 1
