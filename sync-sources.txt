@@ -6816,7 +6816,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -10540,6 +10540,7 @@ bucket/zulumc.json, ScoopInstaller/Java, 0
 bucket/zvm.json, ScoopInstaller/Main, 1
 bucket/zxhn-f610gv9-crcv.json, SayCV/scoop-cvp, 1
 bucket/zyfun.json, cc713/ownscoop, 1
+bucket/zyperwinoptimize.json, DoveBoy/Apps, 1
 bucket/zyplayer.json, DoveBoy/Apps, 1
 install.ps1, , 1
 scripts/.deprecated/yy/yy-setup.ps1, HUMORCE/nuke, 0
