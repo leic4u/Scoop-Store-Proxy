@@ -2810,6 +2810,7 @@ bucket/cuda11.7.json, ScoopInstaller/Versions, 0
 bucket/cuda11.8.json, ScoopInstaller/Versions, 0
 bucket/cuda12.4.json, Weidows-projects/scoop-3rd, 0
 bucket/cuda12.8.json, Weidows-projects/scoop-3rd, 0
+bucket/cuda12.9.json, ScoopInstaller/Versions, 0
 bucket/cuda6.0.json, ScoopInstaller/Versions, 0
 bucket/cuda6.5.json, ScoopInstaller/Versions, 0
 bucket/cuda6.json, ScoopInstaller/Versions, 0
