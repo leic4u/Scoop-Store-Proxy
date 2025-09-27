@@ -1851,6 +1851,7 @@ bucket/audiotester.json, starise/Scoop-Confetti, 0
 bucket/audius.json, Weidows-projects/scoop-3rd, 0
 bucket/audmes.json, ScoopInstaller/Extras, 0
 bucket/augmentinel.json, Calinou/scoop-games, 0
+bucket/aurora-rgb.json, ScoopInstaller/Versions, 1
 bucket/aurora.json, ScoopInstaller/Extras, 1
 bucket/auryo.json, naderi/scoop-bucket, 1
 bucket/austin.json, ScoopInstaller/Main, 1
