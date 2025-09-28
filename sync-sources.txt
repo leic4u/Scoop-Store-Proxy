@@ -4311,6 +4311,7 @@ bucket/gpodder.json, ScoopInstaller/Extras, 1
 bucket/gptcommit.json, Weidows-projects/scoop-3rd, 1
 bucket/gpth.json, ScoopInstaller/Main, 1
 bucket/gptscript.json, ScoopInstaller/Extras, 1
+bucket/gpu-kill.json, Weidows-projects/scoop-3rd, 1
 bucket/gpu-z.json, ScoopInstaller/Extras, 0
 bucket/gpxsee.json, ScoopInstaller/Extras, 0
 bucket/gql.json, brian6932/dank-scoop, 1
