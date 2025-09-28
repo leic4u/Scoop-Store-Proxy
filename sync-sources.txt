@@ -1753,7 +1753,7 @@ bucket/appetizer.json, naderi/scoop-bucket, 0
 bucket/appflowy.json, ScoopInstaller/Extras, 1
 bucket/appget.json, naderi/scoop-bucket, 1
 bucket/appium-inspector.json, ScoopInstaller/Extras, 1
-bucket/applewin.json, Calinou/scoop-games, 1
+bucket/applewin.json, hermanjustnu/scoop-emulators, 1
 bucket/applicationinspector.json, wzv5/ScoopBucket, 1
 bucket/appnetworkcounter.json, ScoopInstaller/Nirsoft, 0
 bucket/appreadwritecounter.json, ScoopInstaller/Nirsoft, 0
