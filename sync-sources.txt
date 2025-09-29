@@ -7464,6 +7464,7 @@ bucket/postgresql13.json, ScoopInstaller/Versions, 0
 bucket/postgresql14.json, ScoopInstaller/Versions, 0
 bucket/postgresql15.json, ScoopInstaller/Versions, 0
 bucket/postgresql16.json, ScoopInstaller/Versions, 0
+bucket/postgresql17.json, ScoopInstaller/Versions, 0
 bucket/postgrest.json, ScoopInstaller/Main, 1
 bucket/postman-canary.json, ScoopInstaller/Versions, 0
 bucket/postman-cn.json, ViCrack/scoop-bucket, 1
