@@ -6536,6 +6536,7 @@ bucket/ollama-full.json, ScoopInstaller/Extras, 1
 bucket/ollama-zip.json, iquiw/scoop-bucket, 1
 bucket/ollama.json, ScoopInstaller/Main, 1
 bucket/ollydbg.json, ScoopInstaller/Extras, 0
+bucket/ols-nightly.json, ScoopInstaller/Versions, 1
 bucket/omegat.json, ScoopInstaller/Extras, 0
 bucket/omenmon.json, ScoopInstaller/Extras, 1
 bucket/omnidb-np.json, ScoopInstaller/Nonportable, 1
