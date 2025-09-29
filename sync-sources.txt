@@ -5147,6 +5147,7 @@ bucket/komorebi-tray.json, starise/Scoop-Confetti, 1
 bucket/komorebi.json, ScoopInstaller/Extras, 1
 bucket/kompose.json, ScoopInstaller/Main, 1
 bucket/kondo.json, ScoopInstaller/Main, 1
+bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 1
 bucket/kook.json, chawyehsu/dorado, 0
