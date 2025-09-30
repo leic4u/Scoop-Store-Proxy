@@ -5168,6 +5168,7 @@ bucket/krew.json, ScoopInstaller/Main, 1
 bucket/kreya.json, batkiz/backit, 0
 bucket/krigbilateral.json, brian6932/dank-scoop, 1
 bucket/krita.json, ScoopInstaller/Extras, 0
+bucket/krokiet.json, ScoopInstaller/Extras, 1
 bucket/kryptor.json, ScoopInstaller/Extras, 1
 bucket/kscan.json, ViCrack/scoop-bucket, 1
 bucket/kscript.json, ScoopInstaller/Extras, 1
