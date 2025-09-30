@@ -2634,6 +2634,7 @@ bucket/compactgui.json, ScoopInstaller/Extras, 1
 bucket/compactor.json, ScoopInstaller/Extras, 1
 bucket/compatibility-manager.json, ScoopInstaller/Extras, 1
 bucket/completion-predictor.json, akirco/aki-apps, 0
+bucket/completionpredictor.json, ScoopInstaller/Extras, 0
 bucket/composer.json, ScoopInstaller/Main, 0
 bucket/composer1.json, ScoopInstaller/Versions, 0
 bucket/compresso.json, DoveBoy/Apps, 1
