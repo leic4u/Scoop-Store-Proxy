@@ -8999,6 +8999,7 @@ bucket/tabletextcompare.json, ScoopInstaller/Nirsoft, 0
 bucket/tabletop-club.json, Calinou/scoop-games, 1
 bucket/tabula.json, ScoopInstaller/Extras, 1
 bucket/tachidesk-server-preview.json, ScoopInstaller/Versions, 1
+bucket/tacky-borders.json, ScoopInstaller/Extras, 1
 bucket/tad.json, ScoopInstaller/Extras, 1
 bucket/tageditor-qt5.json, DoveBoy/Apps, 1
 bucket/tageditor.json, ScoopInstaller/Extras, 1
