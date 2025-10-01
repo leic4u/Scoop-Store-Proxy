@@ -8568,6 +8568,7 @@ bucket/siyuan-note.json, ScoopInstaller/Extras, 1
 bucket/sizer.json, starise/Scoop-Confetti, 0
 bucket/skaffold.json, ScoopInstaller/Extras, 1
 bucket/skm.json, MCOfficer/scoop-bucket, 1
+bucket/skyemu.json, Calinou/scoop-games, 1
 bucket/skylark.json, echoiron/echo-scoop, 1
 bucket/skype-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/skypecontactsview.json, ScoopInstaller/Nirsoft, 0
