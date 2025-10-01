@@ -438,7 +438,6 @@ bucket/FileMonitor.json, ygguorun/scoop-bucket, 0
 bucket/Files-Install.json, ACooper81/scoop-apps, 0
 bucket/FilesInspector-Install.json, ACooper81/scoop-apps, 0
 bucket/FilesInspector-Portable.json, ACooper81/scoop-apps, 0
-bucket/Final2x.json, DoveBoy/Apps, 1
 bucket/FingerGo.json, ygguorun/scoop-bucket, 1
 bucket/FiraCode-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FiraCode-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3662,6 +3661,7 @@ bucket/filezilla-server0.9.json, ScoopInstaller/Versions, 1
 bucket/filezilla.json, ScoopInstaller/Extras, 0
 bucket/fillets.json, Calinou/scoop-games, 0
 bucket/final2x-portable.json, DoveBoy/Apps, 1
+bucket/final2x.json, ScoopInstaller/Extras, 1
 bucket/finalshell.json, ViCrack/scoop-bucket, 0
 bucket/find-java.json, ScoopInstaller/Extras, 1
 bucket/findlinks.json, niheaven/scoop-sysinternals, 1
