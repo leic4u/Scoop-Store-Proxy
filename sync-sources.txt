@@ -6683,6 +6683,7 @@ bucket/operapassview.json, ScoopInstaller/Nirsoft, 0
 bucket/optimizer.json, ScoopInstaller/Extras, 1
 bucket/optipng.json, ScoopInstaller/Main, 0
 bucket/opus-tools.json, ScoopInstaller/Main, 0
+bucket/oq.json, aliesbelik/poldi, 1
 bucket/oracle-instant-client-odbc.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client-odbc19.json, ScoopInstaller/Versions, 0
 bucket/oracle-instant-client-odbc21.json, ScoopInstaller/Versions, 0
