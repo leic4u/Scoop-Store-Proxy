@@ -10498,6 +10498,7 @@ bucket/zola.json, ScoopInstaller/Main, 1
 bucket/zookeeper.json, ScoopInstaller/Main, 0
 bucket/zoom.json, ScoopInstaller/Extras, 0
 bucket/zoomit.json, niheaven/scoop-sysinternals, 1
+bucket/zopfli.json, seumsc/scoop-seu, 0
 bucket/zotero.json, ScoopInstaller/Extras, 1
 bucket/zotero6.json, ScoopInstaller/Versions, 1
 bucket/zoxide.json, ScoopInstaller/Main, 1
