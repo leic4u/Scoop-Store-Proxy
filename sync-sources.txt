@@ -4240,7 +4240,7 @@ bucket/goland-rc.json, ScoopInstaller/Versions, 1
 bucket/goland.json, ScoopInstaller/Extras, 1
 bucket/golang.json, kiennq/scoop-misc, 0
 bucket/golangci-lint.json, ScoopInstaller/Main, 1
-bucket/goldendict-ng.json, hu3rror/scoop-muggle, 1
+bucket/goldendict-ng.json, cc713/ownscoop, 1
 bucket/goldendict.json, ScoopInstaller/Extras, 1
 bucket/golly.json, Calinou/scoop-games, 0
 bucket/gom-player-plus.json, mo-san/scoop-bucket, 0
@@ -9198,6 +9198,7 @@ bucket/tf2classic.json, Calinou/scoop-games, 0
 bucket/tflint.json, ScoopInstaller/Main, 1
 bucket/tfmv.json, aliesbelik/poldi, 1
 bucket/tfsec.json, ScoopInstaller/Main, 1
+bucket/tfsort.json, aliesbelik/poldi, 1
 bucket/tftpd.json, ScoopInstaller/Extras, 0
 bucket/tftputil-gui.json, ScoopInstaller/Extras, 0
 bucket/tgpt.json, chawyehsu/dorado, 1
