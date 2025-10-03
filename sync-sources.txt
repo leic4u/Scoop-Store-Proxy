@@ -1921,7 +1921,7 @@ bucket/axiom.json, ScoopInstaller/Extras, 1
 bucket/axis.json, ScoopInstaller/Extras, 0
 bucket/axmlprinter.json, TheCjw/scoop-retools, 1
 bucket/axure.json, chawyehsu/dorado, 0
-bucket/aya.json, DoveBoy/Apps, 1
+bucket/aya.json, akirco/aki-apps, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
 bucket/azahar.json, Calinou/scoop-games, 1
 bucket/azcopy.json, ScoopInstaller/Main, 1
@@ -6830,7 +6830,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
