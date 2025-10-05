@@ -6717,6 +6717,7 @@ bucket/orange.json, ScoopInstaller/Extras, 0
 bucket/oras.json, ScoopInstaller/Extras, 1
 bucket/orca.json, ScoopInstaller/Extras, 0
 bucket/orca3.json, ScoopInstaller/Versions, 1
+bucket/orcaslicer-nightly.json, ScoopInstaller/Versions, 1
 bucket/orcaslicer.json, ScoopInstaller/Extras, 1
 bucket/origin.json, chawyehsu/dorado, 0
 bucket/oripa.json, ScoopInstaller/Extras, 1
