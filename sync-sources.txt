@@ -4212,9 +4212,9 @@ bucket/godot-dev.json, ScoopInstaller/Versions, 1
 bucket/godot-manager.json, ScoopInstaller/Extras, 1
 bucket/godot-mono-beta.json, ScoopInstaller/Versions, 1
 bucket/godot-mono-dev.json, ScoopInstaller/Versions, 1
-bucket/godot-mono-rc.json, ScoopInstaller/Versions, 0
+bucket/godot-mono-rc.json, ScoopInstaller/Versions, 1
 bucket/godot-mono.json, ScoopInstaller/Extras, 1
-bucket/godot-rc.json, ScoopInstaller/Versions, 0
+bucket/godot-rc.json, ScoopInstaller/Versions, 1
 bucket/godot-version-manager.json, ScoopInstaller/Extras, 1
 bucket/godot.json, ScoopInstaller/Extras, 1
 bucket/godot3-mono.json, ScoopInstaller/Versions, 1
@@ -8903,6 +8903,7 @@ bucket/sunloginclient-lite.json, SayCV/scoop-cvp, 0
 bucket/sunloginclientsos.json, DoveBoy/Apps, 0
 bucket/sunsetscreen.json, ScoopInstaller/Extras, 0
 bucket/sunshine-nightly.json, brian6932/dank-scoop, 1
+bucket/sunshine-pre.json, ScoopInstaller/Versions, 1
 bucket/sunshine.json, ScoopInstaller/Extras, 1
 bucket/sunvox.json, chawyehsu/dorado, 0
 bucket/suo5.json, ViCrack/scoop-bucket, 1
