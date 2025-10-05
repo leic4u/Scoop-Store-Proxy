@@ -3249,7 +3249,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -8188,7 +8188,7 @@ bucket/rust-nightly.json, ScoopInstaller/Versions, 0
 bucket/rust-sl.json, amorphobia/siku, 1
 bucket/rust.json, ScoopInstaller/Main, 0
 bucket/rustclock.json, ygguorun/scoop-bucket, 1
-bucket/rustdesk-nightly.json, brian6932/dank-scoop, 1
+bucket/rustdesk-nightly.json, ScoopInstaller/Versions, 1
 bucket/rustdesk.json, ScoopInstaller/Extras, 1
 bucket/rustic.json, ScoopInstaller/Main, 1
 bucket/rustrover.json, ScoopInstaller/Extras, 1
@@ -8903,7 +8903,6 @@ bucket/sunloginclient-desktop.json, SayCV/scoop-cvp, 0
 bucket/sunloginclient-lite.json, SayCV/scoop-cvp, 0
 bucket/sunloginclientsos.json, DoveBoy/Apps, 0
 bucket/sunsetscreen.json, ScoopInstaller/Extras, 0
-bucket/sunshine-nightly.json, brian6932/dank-scoop, 1
 bucket/sunshine-pre.json, ScoopInstaller/Versions, 1
 bucket/sunshine.json, ScoopInstaller/Extras, 1
 bucket/sunvox.json, chawyehsu/dorado, 0
