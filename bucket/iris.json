@@ -1,22 +1,57 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "A lightweight video player / 轻量级视频播放器",
   "homepage": "https://github.com/nini22P/iris",
-  "license": "AGPL-3.0",
+  "license": {
+    "identifier": "AGPL-3.0 license",
+    "url": "https://github.com/nini22P/iris#AGPL-3.0-1-ov-file"
+  },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/nini22P/iris/releases/download/v1.5.0/IRIS-windows.zip",
-      "hash": "9d7efe70c9716f6e417133eaebfc13c9dc426ccb1e85ba4fd43ae691e0576d79"
+      "url": "https://ghgo.xyz/https://github.com/nini22P/iris/releases/download/v1.5.1/IRIS-windows.zip",
+      "hash": "25391bf5b18a71934957c4068d51bf5f580c26401efd73f6ebce8d68ca93bc5a"
     }
   },
   "extract_dir": "IRIS",
+  "installer": {
+    "script": [
+      "# handle runtime cache",
+      "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
+      "Mount-ExternalRuntimeData -Source \"$persist_dir\\appdata\" -Target \"$env:APPDATA\\nini22p.iris\"",
+      "Remove-Module -Name AppsUtils"
+    ]
+  },
+  "uninstaller": {
+    "script": [
+      "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
+      "Dismount-ExternalRuntimeData -Target \"$env:APPDATA\\nini22p.iris\"",
+      "Remove-Module -Name AppsUtils"
+    ]
+  },
+  "bin": [
+    [
+      "iris.exe",
+      "iris"
+    ],
+    [
+      "iris-updater.bat",
+      "iris-updater"
+    ]
+  ],
   "shortcuts": [
     [
       "iris.exe",
-      "Iris"
+      "iris"
+    ],
+    [
+      "iris-updater.bat",
+      "iris-updater"
     ]
   ],
-  "checkver": "github",
+  "checkver": {
+    "url": "https://api.github.com/repos/nini22P/iris/releases/latest",
+    "regex": "/releases/tag/v([\\d.]+)"
+  },
   "autoupdate": {
     "architecture": {
       "64bit": {
