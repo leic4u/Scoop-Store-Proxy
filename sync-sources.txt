@@ -1765,7 +1765,7 @@ bucket/aqua.json, ScoopInstaller/Main, 1
 bucket/aquasnap.json, starise/Scoop-Confetti, 0
 bucket/arc.json, ScoopInstaller/Main, 1
 bucket/arcadedb.json, ScoopInstaller/Extras, 1
-bucket/archi.json, ScoopInstaller/Extras, 0
+bucket/archi.json, ScoopInstaller/Extras, 1
 bucket/archisteamfarm-generic.json, seumsc/scoop-seu, 1
 bucket/archisteamfarm.json, ScoopInstaller/Extras, 1
 bucket/archive.is.json, chawyehsu/dorado, 1
