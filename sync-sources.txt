@@ -1380,7 +1380,6 @@ bucket/VSCodium-Portable.json, ACooper81/scoop-apps, 1
 bucket/VSRepoGUI.json, leic4u/Scoop-Store, 1
 bucket/Vagrant-Portable.json, ACooper81/scoop-apps, 0
 bucket/VagrantManager-Portable.json, ACooper81/scoop-apps, 1
-bucket/Varia.json, DoveBoy/Apps, 1
 bucket/VbsToExe.json, kkzzhizhou/scoop-zapps, 1
 bucket/Ventoy-Portable.json, ACooper81/scoop-apps, 1
 bucket/Venue11Remap.json, kkzzhizhou/scoop-zapps, 1
@@ -7909,6 +7908,7 @@ bucket/rcc.json, ScoopInstaller/Main, 0
 bucket/rcedit.json, ScoopInstaller/Main, 1
 bucket/rclone-beta.json, ScoopInstaller/Versions, 0
 bucket/rclone-browser.json, ScoopInstaller/Extras, 1
+bucket/rclone-ui.json, ScoopInstaller/Extras, 1
 bucket/rclone.json, ScoopInstaller/Main, 1
 bucket/rcon-cli.json, chawyehsu/dorado, 1
 bucket/rdcman.json, niheaven/scoop-sysinternals, 1
@@ -9621,6 +9621,7 @@ bucket/vals.json, ScoopInstaller/Main, 1
 bucket/vapoursynth.json, ScoopInstaller/Main, 1
 bucket/vapoursyntheditor.json, ScoopInstaller/Extras, 0
 bucket/varia-portable.json, DoveBoy/Apps, 1
+bucket/varia.json, ScoopInstaller/Extras, 1
 bucket/varpanel.json, kidonng/sushi, 1
 bucket/vault.json, ScoopInstaller/Main, 0
 bucket/vaultpasswordview.json, ScoopInstaller/Nirsoft, 0
