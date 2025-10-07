@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0-beta3",
+  "version": "3.1.1-beta1",
   "description": "跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution",
   "homepage": "https://github.com/Jeric-X/SyncClipboard",
   "license": {
@@ -8,12 +8,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/Jeric-X/SyncClipboard/releases/download/v3.1.0-beta3/SyncClipboard_win_x64_portable.zip",
-      "hash": "3e2a9885b2757078a0035586bdc97d7efd99cbef3ab47a173903a82a5ea80fa1"
+      "url": "https://ghgo.xyz/https://github.com/Jeric-X/SyncClipboard/releases/download/v3.1.1-beta1/SyncClipboard_win_x64_portable.zip",
+      "hash": "34d397b69c60600174060ec9de1f808669366adb1a16ff84b7ffff696f306e54"
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/Jeric-X/SyncClipboard/releases/download/v3.1.0-beta3/SyncClipboard_win_arm64_portable.zip",
-      "hash": "d5cdb45fe03604104ba679382699f69c73d87a683e959fa4ac4a34a438ab2aa3"
+      "url": "https://ghgo.xyz/https://github.com/Jeric-X/SyncClipboard/releases/download/v3.1.1-beta1/SyncClipboard_win_arm64_portable.zip",
+      "hash": "4b005610a29f4201c0a241a303ce6b8a40cec439cba8f9a7d60ebf8dd224c7b5"
     }
   },
   "installer": {
