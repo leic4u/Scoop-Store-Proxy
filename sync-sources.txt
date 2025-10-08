@@ -8811,8 +8811,6 @@ bucket/statuspilatus.json, MCOfficer/scoop-bucket, 1
 bucket/staxrip.json, ScoopInstaller/Extras, 1
 bucket/stc.json, rasa/scoops, 1
 bucket/stdiscosrv.json, ScoopInstaller/Main, 1
-bucket/stdu-viewer.json, naderi/scoop-bucket, 0
-bucket/stdu-xml-editor.json, naderi/scoop-bucket, 0
 bucket/steam-achievement-manager-syntaxtm.json, Calinou/scoop-games, 1
 bucket/steam-achievement-manager.json, Calinou/scoop-games, 1
 bucket/steam-art-manager.json, Calinou/scoop-games, 1
