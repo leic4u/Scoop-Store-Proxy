@@ -9615,9 +9615,10 @@ bucket/v2ray-rules-dat.json, DoveBoy/Apps, 1
 bucket/v2ray.json, ScoopInstaller/Main, 1
 bucket/v2raya-unstable.json, DoveBoy/Apps, 0
 bucket/v2raya.json, DoveBoy/Apps, 1
-bucket/v2rayn-SelfContained.json, DoveBoy/Apps, 1
+bucket/v2rayn-desktop.json, ScoopInstaller/Versions, 1
 bucket/v2rayn-pre.json, ScoopInstaller/Versions, 1
 bucket/v2rayn-rules-dat.json, everyx/scoop-bucket, 1
+bucket/v2rayn-selfcontained.json, ScoopInstaller/Versions, 1
 bucket/v2rayn.json, ScoopInstaller/Extras, 1
 bucket/vagrant-manager.json, ScoopInstaller/Extras, 1
 bucket/vagrant.json, ScoopInstaller/Main, 0
