@@ -9455,6 +9455,7 @@ bucket/typst.json, ScoopInstaller/Main, 1
 bucket/typstyle.json, ScoopInstaller/Main, 1
 bucket/uTools.json, chawyehsu/dorado, 0
 bucket/uabea.json, Calinou/scoop-games, 1
+bucket/uad-ng.json, ScoopInstaller/Extras, 1
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 1
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
 bucket/ubports-installer.json, ScoopInstaller/Extras, 1
