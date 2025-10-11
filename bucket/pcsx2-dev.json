@@ -1,6 +1,6 @@
 {
-  "version": "2.5.215",
-  "description": "A feature rich FOSS PlayStation 2 emulator (development version)",
+  "version": "2.5.216",
+  "description": "Sony PlayStation 2 emulator",
   "homepage": "https://pcsx2.net/",
   "license": {
     "identifier": "GPL-3.0",
@@ -16,8 +16,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/PCSX2/pcsx2/releases/download/v2.5.215/pcsx2-v2.5.215-windows-x64-Qt.7z",
-      "hash": "0ee3f19e4d757c0ee64b8d665153bc719e9a06285ba84ffe3b49407f94804c48"
+      "url": "https://ghgo.xyz/https://github.com/PCSX2/pcsx2/releases/download/v2.5.216/pcsx2-v2.5.216-windows-x64-Qt.7z",
+      "hash": "e85dd3bb39b9d40c35b691806bb85a36dd0550db05a12a4d9442980eb576b56e"
     }
   },
   "pre_install": [
@@ -44,7 +44,7 @@
   "shortcuts": [
     [
       "pcsx2-qt.exe",
-      "PCSX2 (dev)"
+      "Sony PlayStation 2 [ps2][pcsx2] (dev)"
     ]
   ],
   "persist": [
