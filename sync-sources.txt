@@ -10118,6 +10118,7 @@ bucket/winupdateminitool.json, DoveBoy/Apps, 1
 bucket/winupdateslist.json, kodybrown/scoop-nirsoft, 0
 bucket/winupdatesview.json, ScoopInstaller/Nirsoft, 0
 bucket/winusb.json, naderi/scoop-bucket, 0
+bucket/winutil.json, ScoopInstaller/Extras, 1
 bucket/winxcorners.json, Paxxs/Cluttered-bucket, 1
 bucket/winxray.json, Weidows-projects/scoop-3rd, 1
 bucket/winyl.json, ScoopInstaller/Extras, 1
