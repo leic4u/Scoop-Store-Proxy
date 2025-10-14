@@ -10107,6 +10107,7 @@ bucket/winsnap.json, kkzzhizhou/scoop-zapps, 0
 bucket/winsockservicesview.json, ScoopInstaller/Nirsoft, 0
 bucket/winspy.json, ScoopInstaller/Extras, 0
 bucket/winsshterm.json, ScoopInstaller/Extras, 1
+bucket/winsw-pre.json, ScoopInstaller/Versions, 1
 bucket/winsw.json, ScoopInstaller/Main, 1
 bucket/wintogo.json, kkzzhizhou/scoop-zapps, 1
 bucket/wintools.json, SayCV/scoop-cvp, 1
