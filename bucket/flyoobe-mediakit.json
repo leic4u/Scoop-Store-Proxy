@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/builtbybel/Flyoobe/releases/download/1.31.531/Flyoobe-1.31-win.zip",
-      "hash": "12d1dfc136fc3230031b9ca802c7df938380a0622299e822b18413dca2d19883"
+      "url": "https://ghgo.xyz/https://github.com/builtbybel/Flyoobe/releases/download/1.31.531/Flyoobe-MediaKit-for-Press.zip",
+      "hash": "d83c6b7de01c9f4394a660300d83b94f3b1b8cf3d34c3b795e7acd2173ae1ece"
     }
   },
   "bin": "Flyo.exe",
@@ -22,12 +22,12 @@
   "checkver": {
     "url": "https://api.github.com/repos/builtbybel/Flyoobe/releases",
     "jp": "$[0].assets[*].browser_download_url",
-    "regex": "/releases/download/([\\d.]+)/(?<file>Flyoobe.*?\\.zip)"
+    "regex": "/releases/download/([\\d.]+)/Flyoobe-MediaKit-for-Press\\.zip"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghgo.xyz/https://github.com/builtbybel/Flyoobe/releases/download/$version/$matchFile"
+        "url": "https://ghgo.xyz/https://github.com/builtbybel/Flyoobe/releases/download/$version/Flyoobe-MediaKit-for-Press.zip"
       }
     }
   }

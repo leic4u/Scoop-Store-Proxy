@@ -3769,6 +3769,7 @@ bucket/flycast.json, Calinou/scoop-games, 1
 bucket/flyctl.json, ScoopInstaller/Main, 1
 bucket/flyoobe-Portable.json, ACooper81/scoop-apps, 1
 bucket/flyoobe-classic.json, DoveBoy/Apps, 1
+bucket/flyoobe-mediakit.json, DoveBoy/Apps, 1
 bucket/flyoobe.json, DoveBoy/Apps, 1
 bucket/flyway.json, ScoopInstaller/Main, 0
 bucket/fm.json, aliesbelik/poldi, 1
