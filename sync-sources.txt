@@ -794,6 +794,7 @@ bucket/MicrosoftVisualStudioCommunity2022-Install.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftYaHeiMono.json, everyx/scoop-bucket, 0
 bucket/Mitr.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Mixxx-Portable.json, ACooper81/scoop-apps, 0
+bucket/Mobaxterm-Chinese.json, Weidows-projects/scoop-3rd, 1
 bucket/ModOrganizer.json, Weidows-projects/scoop-3rd, 1
 bucket/ModernFlyouts-Portable.json, ACooper81/scoop-apps, 1
 bucket/Monaspace-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -7872,7 +7873,7 @@ bucket/racket.json, ScoopInstaller/Main, 0
 bucket/rad.json, ViCrack/scoop-bucket, 1
 bucket/radare2.json, ScoopInstaller/Main, 1
 bucket/radarr.json, ScoopInstaller/Extras, 1
-bucket/raddebugger.json, chawyehsu/dorado, 1
+bucket/raddebugger.json, brian6932/dank-scoop, 1
 bucket/radius.json, ScoopInstaller/Main, 1
 bucket/rage.json, ScoopInstaller/Main, 1
 bucket/ragel.json, ScoopInstaller/Extras, 0
