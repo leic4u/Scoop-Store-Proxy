@@ -5990,7 +5990,7 @@ bucket/moonup.json, chawyehsu/dorado, 1
 bucket/moor.json, ScoopInstaller/Extras, 1
 bucket/moosync.json, ScoopInstaller/Extras, 1
 bucket/mootool-portable.json, DoveBoy/Apps, 1
-bucket/mootool.json, ViCrack/scoop-bucket, 1
+bucket/mootool.json, DoveBoy/Apps, 1
 bucket/mosdns-cn.json, chawyehsu/dorado, 1
 bucket/mosdns.json, chawyehsu/dorado, 1
 bucket/mosh-client.json, ScoopInstaller/Main, 1
