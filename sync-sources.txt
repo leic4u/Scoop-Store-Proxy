@@ -5160,7 +5160,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -7924,6 +7924,7 @@ bucket/rcc.json, ScoopInstaller/Main, 0
 bucket/rcedit.json, ScoopInstaller/Main, 1
 bucket/rclone-beta.json, ScoopInstaller/Versions, 0
 bucket/rclone-browser.json, ScoopInstaller/Extras, 1
+bucket/rclone-manager.json, ScoopInstaller/Extras, 1
 bucket/rclone-ui.json, ScoopInstaller/Extras, 1
 bucket/rclone.json, ScoopInstaller/Main, 1
 bucket/rcon-cli.json, chawyehsu/dorado, 1
