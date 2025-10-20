@@ -4437,7 +4437,7 @@ bucket/handbrake-snapshot.json, ScoopInstaller/Versions, 1
 bucket/handbrake.json, ScoopInstaller/Extras, 1
 bucket/handle.json, niheaven/scoop-sysinternals, 1
 bucket/handlecountersview.json, ScoopInstaller/Nirsoft, 0
-bucket/handy.json, hermanjustnu/scoop-emulators, 0
+bucket/handy.json, ScoopInstaller/Extras, 1
 bucket/haofang-platform.json, SayCV/scoop-cvp, 0
 bucket/harbour.json, littleli/Scoop-littleli, 0
 bucket/harfbuzz.json, ScoopInstaller/Main, 1
