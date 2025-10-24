@@ -7513,6 +7513,7 @@ bucket/powershell-beautifier.json, ScoopInstaller/Main, 0
 bucket/powershell-preview.json, chawyehsu/dorado, 1
 bucket/powershell-yaml.json, ScoopInstaller/Main, 0
 bucket/powershell.json, chawyehsu/dorado, 1
+bucket/powershelleditorservices.json, ScoopInstaller/Main, 1
 bucket/powertab.json, ScoopInstaller/Extras, 1
 bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
