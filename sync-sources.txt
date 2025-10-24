@@ -1693,7 +1693,7 @@ bucket/anime4k-glsl.json, brian6932/dank-scoop, 1
 bucket/anime4kcpp-cli.json, seumsc/scoop-seu, 1
 bucket/animeko-alpha.json, hu3rror/scoop-muggle, 1
 bucket/animeko-pre.json, DoveBoy/Apps, 1
-bucket/animeko.json, batkiz/backit, 0
+bucket/animeko.json, Weidows-projects/scoop-3rd, 1
 bucket/anki-np.json, ScoopInstaller/Nonportable, 1
 bucket/anki-with-sync.json, kkzzhizhou/scoop-zapps, 1
 bucket/anki.json, ScoopInstaller/Extras, 1
@@ -5636,7 +5636,7 @@ bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makemkv.json, ScoopInstaller/Extras, 0
 bucket/malware-patch.json, ivaquero/scoopet, 1
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
-bucket/mame.json, Calinou/scoop-games, 1
+bucket/mame.json, Deide/deide-bucket, 1
 bucket/mameui.json, Calinou/scoop-games, 0
 bucket/managewirelessnetworks.json, ScoopInstaller/Nirsoft, 0
 bucket/mancy.json, ScoopInstaller/Extras, 1
@@ -6246,7 +6246,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -7877,7 +7877,7 @@ bucket/racket.json, ScoopInstaller/Main, 0
 bucket/rad.json, ViCrack/scoop-bucket, 1
 bucket/radare2.json, ScoopInstaller/Main, 1
 bucket/radarr.json, ScoopInstaller/Extras, 1
-bucket/raddebugger.json, chawyehsu/dorado, 1
+bucket/raddebugger.json, brian6932/dank-scoop, 1
 bucket/radius.json, ScoopInstaller/Main, 1
 bucket/rage.json, ScoopInstaller/Main, 1
 bucket/ragel.json, ScoopInstaller/Extras, 0
