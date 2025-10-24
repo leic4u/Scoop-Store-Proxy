@@ -9919,7 +9919,7 @@ bucket/wechat-np.json, chawyehsu/dorado, 0
 bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
-bucket/wechatdevtools.json, chawyehsu/dorado, 0
+bucket/wechatdevtools.json, akirco/aki-apps, 0
 bucket/wechatdownload.json, DoveBoy/Apps, 1
 bucket/wechatexporter.json, amorphobia/siku, 1
 bucket/wechatmoments.json, DoveBoy/Apps, 1
@@ -10380,7 +10380,7 @@ bucket/xysubfilter-libass-np.json, ScoopInstaller/Nonportable, 1
 bucket/xysubfilter-np.json, ScoopInstaller/Nonportable, 1
 bucket/xz.json, ScoopInstaller/Main, 0
 bucket/y-cruncher.json, ScoopInstaller/Main, 0
-bucket/yaak.json, naderi/scoop-bucket, 1
+bucket/yaak.json, ScoopInstaller/Extras, 1
 bucket/yacd.json, everyx/scoop-bucket, 1
 bucket/yacreader.json, ScoopInstaller/Extras, 1
 bucket/yaffplayer.json, ScoopInstaller/Extras, 0
