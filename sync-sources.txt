@@ -5616,6 +5616,7 @@ bucket/macintosh.js.json, ScoopInstaller/Extras, 1
 bucket/macrocreator.json, ScoopInstaller/Extras, 1
 bucket/mactype-np.json, ScoopInstaller/Nonportable, 1
 bucket/madpassext.json, ScoopInstaller/Nirsoft, 0
+bucket/madvr-test.json, seumsc/scoop-seu, 0
 bucket/madvr.json, ScoopInstaller/Extras, 0
 bucket/mage.json, ScoopInstaller/Main, 1
 bucket/magic-wormhole-rs.json, ScoopInstaller/Main, 1
