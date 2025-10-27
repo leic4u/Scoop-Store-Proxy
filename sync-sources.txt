@@ -3900,6 +3900,7 @@ bucket/freezetostock.json, couleur-tweak-tips/utils, 1
 bucket/frhelper.json, ivaquero/scoopet, 0
 bucket/fricas.json, ScoopInstaller/Extras, 1
 bucket/fritzing.json, ScoopInstaller/Extras, 1
+bucket/froststrap.json, Calinou/scoop-games, 1
 bucket/frostwire.json, ScoopInstaller/Extras, 0
 bucket/frp.json, ScoopInstaller/Main, 1
 bucket/frpc-desktop.json, akirco/aki-apps, 1
@@ -8230,7 +8231,7 @@ bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
-bucket/ryujinx-canary.json, Calinou/scoop-games, 0
+bucket/ryujinx-canary.json, borger/scoop-emulators, 0
 bucket/ryujinx.json, Calinou/scoop-games, 0
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
