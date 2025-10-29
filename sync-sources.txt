@@ -6116,6 +6116,7 @@ bucket/mullvadvpn-np.json, ScoopInstaller/Nonportable, 0
 bucket/multi-gitter.json, ScoopInstaller/Main, 1
 bucket/multibootusb.json, ScoopInstaller/Extras, 1
 bucket/multicommander.json, ScoopInstaller/Extras, 0
+bucket/multicurl.json, aliesbelik/poldi, 1
 bucket/multidoge.json, naderi/scoop-bucket, 1
 bucket/multimarkdown.json, kkzzhizhou/scoop-zapps, 1
 bucket/multimc.json, Deide/deide-bucket, 0
