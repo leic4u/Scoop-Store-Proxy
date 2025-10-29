@@ -6182,7 +6182,7 @@ bucket/naivesharp.json, kidonng/sushi, 1
 bucket/nak.json, littleli/Scoop-littleli, 1
 bucket/nali.json, ScoopInstaller/Main, 1
 bucket/nanaget.json, naderi/scoop-bucket, 1
-bucket/nanarun.json, hu3rror/scoop-muggle, 1
+bucket/nanarun.json, ScoopInstaller/Main, 1
 bucket/nanazip.json, ScoopInstaller/Main, 1
 bucket/nancy.json, ScoopInstaller/Main, 1
 bucket/nano.json, ScoopInstaller/Main, 1
