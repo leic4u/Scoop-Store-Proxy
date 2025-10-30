@@ -4511,7 +4511,7 @@ bucket/hf.json, aliesbelik/poldi, 1
 bucket/hfd.json, Weidows-projects/scoop-3rd, 0
 bucket/hfs.json, ScoopInstaller/Extras, 1
 bucket/hfsexplorer.json, amorphobia/siku, 1
-bucket/hgrep.json, batkiz/backit, 1
+bucket/hgrep.json, DoveBoy/Apps, 1
 bucket/hhreg.json, rasa/scoops, 0
 bucket/hibernate.json, naderi/scoop-bucket, 0
 bucket/hibit-startup-manager.json, ScoopInstaller/Extras, 0
