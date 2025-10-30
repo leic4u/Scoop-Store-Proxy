@@ -5780,7 +5780,7 @@ bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -6250,7 +6250,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, chawyehsu/dorado, 0
+bucket/neteasemusic.json, DoveBoy/Apps, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
