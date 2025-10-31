@@ -1476,7 +1476,7 @@ bucket/WinfetchCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/WinfetchNightlyCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/WingetCLI-Install.json, ACooper81/scoop-apps, 1
 bucket/WingetUI-Portable.json, ACooper81/scoop-apps, 1
-bucket/WingetUI.json, Weidows-projects/scoop-3rd, 1
+bucket/WingetUI.json, DoveBoy/Apps, 1
 bucket/WingetUIBeta-Portable.json, ACooper81/scoop-apps, 1
 bucket/Winhance-Script.json, ACooper81/scoop-apps, 0
 bucket/Winpilot-Portable.json, ACooper81/scoop-apps, 1
