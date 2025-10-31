@@ -1634,7 +1634,7 @@ bucket/alisthelper.json, DoveBoy/Apps, 1
 bucket/aliworkbench.json, SayCV/scoop-cvp, 1
 bucket/alixby.json, echoiron/echo-scoop, 1
 bucket/aliyun.json, ScoopInstaller/Main, 1
-bucket/aliyunDrive.json, wzv5/ScoopBucket, 0
+bucket/aliyunDrive.json, chawyehsu/dorado, 0
 bucket/aliyundrive-webdav.json, ScoopInstaller/Main, 1
 bucket/aliyunpan-xiaobaiyang.json, ygguorun/scoop-bucket, 1
 bucket/aliyunpan.json, SayCV/scoop-cvp, 1
@@ -4992,6 +4992,7 @@ bucket/jruby.json, ScoopInstaller/Main, 0
 bucket/jrview.json, ScoopInstaller/Nirsoft, 0
 bucket/jsae.json, ScoopInstaller/Nirsoft, 0
 bucket/jsign.json, ScoopInstaller/Main, 1
+bucket/json-tui.json, aliesbelik/poldi, 1
 bucket/jsoncomma.json, brian6932/dank-scoop, 1
 bucket/jsonedit.json, naderi/scoop-bucket, 0
 bucket/jsonschema.json, ScoopInstaller/Main, 1
@@ -6251,9 +6252,9 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, wzv5/ScoopBucket, 0
+bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -9372,7 +9373,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, akirco/aki-apps, 1
+bucket/trae-cn.json, chawyehsu/dorado, 0
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
