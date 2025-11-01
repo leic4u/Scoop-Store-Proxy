@@ -3133,7 +3133,7 @@ bucket/doggo.json, ScoopInstaller/Main, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4851,7 +4851,7 @@ bucket/iqiyi.json, echoiron/echo-scoop, 0
 bucket/irfanview-lean.json, ScoopInstaller/Extras, 0
 bucket/irfanview.ja.json, jfut/scoop-jfut, 0
 bucket/irfanview.json, ScoopInstaller/Extras, 0
-bucket/iris.json, DoveBoy/Apps, 1
+bucket/iris.json, amorphobia/siku, 1
 bucket/ironwail.json, Calinou/scoop-games, 1
 bucket/irreader.json, kkzzhizhou/scoop-zapps, 0
 bucket/irust.json, batkiz/backit, 1
@@ -8847,7 +8847,7 @@ bucket/steam-achievement-manager.json, Calinou/scoop-games, 1
 bucket/steam-art-manager.json, Calinou/scoop-games, 1
 bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
-bucket/steam-game-idler.json, Calinou/scoop-games, 1
+bucket/steam-game-idler.json, starise/Scoop-Gaming, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
 bucket/steam-rom-manager.json, Calinou/scoop-games, 1
