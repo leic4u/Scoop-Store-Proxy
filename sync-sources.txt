@@ -396,7 +396,7 @@ bucket/ElevenClock-Portable.json, ACooper81/scoop-apps, 1
 bucket/EmbyServer-Portable.json, ACooper81/scoop-apps, 1
 bucket/EmbyServer.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/EmbyTheater-Portable.json, ACooper81/scoop-apps, 1
-bucket/EmbyTheater.json, ygguorun/scoop-bucket, 1
+bucket/EmbyTheater.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/EnableLoopbackUtility-Portable.json, ACooper81/scoop-apps, 0
 bucket/EnableLoopbackUtility.json, everyx/scoop-bucket, 0
 bucket/EncodeGUI-UserInstall.json, ACooper81/scoop-apps, 0
@@ -3259,7 +3259,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
