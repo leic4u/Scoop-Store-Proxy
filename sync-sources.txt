@@ -21,7 +21,7 @@ bucket/1password-cli.json, ScoopInstaller/Main, 0
 bucket/1password-cli1.json, ScoopInstaller/Versions, 0
 bucket/2345pic.json, echoiron/echo-scoop, 0
 bucket/2faguard.json, naderi/scoop-bucket, 1
-bucket/2ship2harkinian.json, Calinou/scoop-games, 1
+bucket/2ship2harkinian.json, borger/scoop-emulators, 1
 bucket/3270-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/3270-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/3270-NF.json, matthewjberger/scoop-nerd-fonts, 1
