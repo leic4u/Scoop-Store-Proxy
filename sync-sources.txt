@@ -6298,6 +6298,7 @@ bucket/newer-tanooki.json, Calinou/scoop-games, 1
 bucket/newfiletime.json, ViCrack/scoop-bucket, 0
 bucket/newrain-duplicate-photo-finder.json, hu3rror/scoop-muggle, 0
 bucket/newreleases.json, batkiz/backit, 1
+bucket/nextai-translator.json, DoveBoy/Apps, 1
 bucket/nextcloud-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/nextcloud-uploader.json, kkzzhizhou/scoop-zapps, 1
 bucket/nextcloud.json, ScoopInstaller/Extras, 1
@@ -6684,7 +6685,7 @@ bucket/openshift-origin-client.json, ScoopInstaller/Main, 1
 bucket/openshot.json, ScoopInstaller/Extras, 1
 bucket/opensoldat.json, Deide/deide-bucket, 1
 bucket/openspades.json, Calinou/scoop-games, 1
-bucket/openspeedy.json, Calinou/scoop-games, 1
+bucket/openspeedy.json, DoveBoy/Apps, 1
 bucket/openssh.json, ScoopInstaller/Main, 1
 bucket/openssl-light.json, ScoopInstaller/Main, 1
 bucket/openssl-lts-light.json, ScoopInstaller/Main, 1
