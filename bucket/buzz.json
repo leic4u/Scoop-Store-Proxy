@@ -1,12 +1,12 @@
 {
-  "version": "1.3.3",
+  "version": "1.2.0",
   "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
   "homepage": "https://buzzcaptions.com/",
   "license": "MIT license",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/chidiwilliams/buzz/releases/download/v1.3.3/Buzz-1.3.3-windows.exe",
-      "hash": "7766a16cb20c3c3e556ba07841f613cb291a0d07a5108d422a3e5de279688f90"
+      "url": "https://ghgo.xyz/https://github.com/chidiwilliams/buzz/releases/download/v1.2.0/Buzz-1.2.0-windows.exe",
+      "hash": "bbc37eb36c517d3e9f25d5d247728a2684f355ae8702dcac85c45e7f332b8244"
     }
   },
   "innosetup": true,
