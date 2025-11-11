@@ -1601,6 +1601,7 @@ bucket/agm-supra.json, SayCV/scoop-cvp, 1
 bucket/ahkpm.json, ScoopInstaller/Extras, 1
 bucket/ahoy.json, ScoopInstaller/Main, 1
 bucket/aichat.json, ScoopInstaller/Main, 1
+bucket/aictionary.json, DoveBoy/Apps, 1
 bucket/aida64.json, echoiron/echo-scoop, 0
 bucket/aida64extreme.json, ScoopInstaller/Extras, 0
 bucket/aider-desk.json, ScoopInstaller/Extras, 1
@@ -3253,6 +3254,7 @@ bucket/dsqCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/dstp.json, aliesbelik/poldi, 1
 bucket/dsynchronize-zh-cn.json, amorphobia/siku, 0
 bucket/dt.json, aliesbelik/poldi, 1
+bucket/dtv.json, DoveBoy/Apps, 1
 bucket/du.json, niheaven/scoop-sysinternals, 1
 bucket/dua.json, ScoopInstaller/Main, 1
 bucket/dual-monitor-tools.json, ScoopInstaller/Extras, 0
