@@ -1309,7 +1309,7 @@ bucket/TranslucentTB-Install.json, ACooper81/scoop-apps, 1
 bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
 bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
-bucket/TreeSize.json, DoveBoy/Apps, 0
+bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
 bucket/TscanPlus.json, ViCrack/scoop-bucket, 1
 bucket/TuBaTool.json, kkzzhizhou/scoop-zapps, 0
 bucket/TweakPower-Portable.json, ACooper81/scoop-apps, 0
@@ -2877,7 +2877,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, DoveBoy/Apps, 1
+bucket/dandanplay.json, chawyehsu/dorado, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -6668,7 +6668,6 @@ bucket/opennetmeter.json, ScoopInstaller/Extras, 1
 bucket/openocd.json, ScoopInstaller/Main, 1
 bucket/openoffice.json, ScoopInstaller/Extras, 0
 bucket/openorcadparser.json, SayCV/scoop-cvp, 1
-bucket/openotp.json, DoveBoy/Apps, 1
 bucket/openpomodoro.json, aliesbelik/poldi, 1
 bucket/openra.json, Calinou/scoop-games, 1
 bucket/openrct2.json, Calinou/scoop-games, 1
@@ -6868,7 +6867,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8155,7 +8154,7 @@ bucket/roughgrep.json, ScoopInstaller/Extras, 1
 bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rshell.json, ViCrack/scoop-bucket, 1
@@ -8247,7 +8246,7 @@ bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
-bucket/ryujinx-canary.json, Calinou/scoop-games, 0
+bucket/ryujinx-canary.json, borger/scoop-emulators, 0
 bucket/ryujinx.json, Calinou/scoop-games, 0
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
@@ -8282,7 +8281,7 @@ bucket/samsung-magician-np.json, rasa/scoops, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, DoveBoy/Apps, 1
+bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1
