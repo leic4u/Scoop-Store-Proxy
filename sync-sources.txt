@@ -3779,7 +3779,6 @@ bucket/flycast.json, Calinou/scoop-games, 1
 bucket/flyctl.json, ScoopInstaller/Main, 1
 bucket/flyoobe-Portable.json, ACooper81/scoop-apps, 1
 bucket/flyoobe-classic.json, DoveBoy/Apps, 1
-bucket/flyoobe-mediakit.json, DoveBoy/Apps, 1
 bucket/flyoobe.json, DoveBoy/Apps, 1
 bucket/flyway.json, ScoopInstaller/Main, 0
 bucket/fm.json, aliesbelik/poldi, 1
@@ -9450,6 +9449,7 @@ bucket/tsip.json, ScoopInstaller/Extras, 1
 bucket/tsmuxer.json, yuusakuri/scoop-bucket, 0
 bucket/tssh.json, ScoopInstaller/Main, 1
 bucket/tsukimi.json, ScoopInstaller/Extras, 1
+bucket/tt.json, aliesbelik/poldi, 1
 bucket/tta.json, ScoopInstaller/Main, 0
 bucket/ttdl.json, ScoopInstaller/Extras, 1
 bucket/ttfautohint.json, jingyu9575/scoop-jingyu9575, 0
