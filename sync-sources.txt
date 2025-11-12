@@ -5124,6 +5124,7 @@ bucket/kicad-nightly.json, ScoopInstaller/Versions, 0
 bucket/kicad.json, ScoopInstaller/Extras, 1
 bucket/kid3.json, ScoopInstaller/Extras, 0
 bucket/kim.json, ScoopInstaller/Main, 1
+bucket/kimi-cli.json, ScoopInstaller/Main, 1
 bucket/kind.json, ScoopInstaller/Main, 1
 bucket/kindandfair.json, Calinou/scoop-games, 1
 bucket/kindle-previewer.json, seumsc/scoop-seu, 0
@@ -7544,6 +7545,7 @@ bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
+bucket/prek.json, ScoopInstaller/Main, 1
 bucket/premake.json, ScoopInstaller/Main, 1
 bucket/premake4.json, ScoopInstaller/Versions, 0
 bucket/premake5.json, ScoopInstaller/Versions, 1
@@ -9776,7 +9778,7 @@ bucket/visualboyadvance-m.json, Calinou/scoop-games, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
