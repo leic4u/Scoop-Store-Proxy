@@ -2584,6 +2584,7 @@ bucket/cloudcompare.json, ScoopInstaller/Extras, 0
 bucket/cloudflare-speedtest.json, seumsc/scoop-seu, 1
 bucket/cloudflared.json, ScoopInstaller/Main, 1
 bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 0
+bucket/cloudlens.json, aliesbelik/poldi, 1
 bucket/cloudmusic-green.json, hu3rror/scoop-muggle, 0
 bucket/cloudreve-beta.json, DoveBoy/Apps, 1
 bucket/cloudreve.json, DoveBoy/Apps, 1
