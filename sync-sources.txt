@@ -3263,7 +3263,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -6269,6 +6269,7 @@ bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
 bucket/nethack.json, Calinou/scoop-games, 0
 bucket/netlifyctl.json, ScoopInstaller/Extras, 1
+bucket/netlimiter.json, Homeland-Community/scoop, 1
 bucket/netmet.json, littleli/Scoop-littleli, 0
 bucket/netpad.json, naderi/scoop-bucket, 1
 bucket/netpass.json, ScoopInstaller/Nirsoft, 0
