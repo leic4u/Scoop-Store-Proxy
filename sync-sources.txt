@@ -2078,7 +2078,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -9778,7 +9778,7 @@ bucket/visualboyadvance-m.json, Calinou/scoop-games, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
@@ -10073,6 +10073,8 @@ bucket/windows95.json, ScoopInstaller/Extras, 1
 bucket/windowscleaner.json, DoveBoy/Apps, 1
 bucket/windowsdesktop-runtime-6.0.json, ScoopInstaller/Versions, 0
 bucket/windowsdesktop-runtime-7.0.json, ScoopInstaller/Versions, 0
+bucket/windowsdesktop-runtime-8.0.json, ScoopInstaller/Versions, 0
+bucket/windowsdesktop-runtime-9.0.json, ScoopInstaller/Versions, 0
 bucket/windowsdesktop-runtime-lts.json, ScoopInstaller/Extras, 0
 bucket/windowsdesktop-runtime.json, ScoopInstaller/Extras, 0
 bucket/windowspasswordrecoverypackage.json, kodybrown/scoop-nirsoft, 0
