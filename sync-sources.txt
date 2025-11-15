@@ -3176,6 +3176,7 @@ bucket/dotnet-sdk-lts.json, ScoopInstaller/Versions, 0
 bucket/dotnet-sdk-preview.json, ScoopInstaller/Versions, 0
 bucket/dotnet-sdk.json, ScoopInstaller/Main, 0
 bucket/dotnet-uninstall-tool.json, chawyehsu/dorado, 1
+bucket/dotnet10-sdk.json, ScoopInstaller/Versions, 0
 bucket/dotnet2-sdk.json, ScoopInstaller/Versions, 0
 bucket/dotnet3-sdk.json, ScoopInstaller/Versions, 0
 bucket/dotnet5-sdk.json, ScoopInstaller/Versions, 0
@@ -10077,6 +10078,7 @@ bucket/windows-virtualdesktop-helper.json, ScoopInstaller/Extras, 1
 bucket/windows11-classic-context-menu.json, ScoopInstaller/Extras, 0
 bucket/windows95.json, ScoopInstaller/Extras, 1
 bucket/windowscleaner.json, DoveBoy/Apps, 1
+bucket/windowsdesktop-runtime-10.0.json, ScoopInstaller/Versions, 0
 bucket/windowsdesktop-runtime-6.0.json, ScoopInstaller/Versions, 0
 bucket/windowsdesktop-runtime-7.0.json, ScoopInstaller/Versions, 0
 bucket/windowsdesktop-runtime-8.0.json, ScoopInstaller/Versions, 0
