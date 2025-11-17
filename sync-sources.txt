@@ -3630,8 +3630,9 @@ bucket/ffmpeg-gyan-nightly.json, ScoopInstaller/Versions, 0
 bucket/ffmpeg-nightly.json, ScoopInstaller/Versions, 1
 bucket/ffmpeg-shared-4.4.1.json, ScoopInstaller/Versions, 1
 bucket/ffmpeg-shared-nightly.json, ScoopInstaller/Versions, 1
+bucket/ffmpeg-shared-yt-dlp-nightly.json, ScoopInstaller/Versions, 1
 bucket/ffmpeg-shared.json, ScoopInstaller/Main, 0
-bucket/ffmpeg-yt-dlp.json, ScoopInstaller/Versions, 1
+bucket/ffmpeg-yt-dlp-nightly.json, ScoopInstaller/Versions, 1
 bucket/ffmpeg.json, ScoopInstaller/Main, 0
 bucket/ffmpegfreeui.json, ivaquero/scoopet, 1
 bucket/ffprogress.json, couleur-tweak-tips/utils, 1
@@ -9400,7 +9401,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, chawyehsu/dorado, 0
+bucket/trae-cn.json, akirco/aki-apps, 1
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
