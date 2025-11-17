@@ -1,8 +1,16 @@
 {
-  "version": "2.40.16",
-  "homepage": "https://opensourcepack.blogspot.com/2012/06/rsvg-convert-svg-image-conversion-tool.html",
-  "license": "GPL2",
-  "url": "http://downloads.sourceforge.net/project/tumagcc/rsvg-convert-dll-2.40.16.7z",
-  "hash": "sha1:f839a14826a2122b75aff8f944443aab20340869",
-  "bin": "rsvg-convert.exe"
+  "version": "2.40.20",
+  "description": "Command-line SVG rendering tool from GNOME librsvg",
+  "homepage": "https://wiki.gnome.org/Projects/LibRsvg",
+  "license": "LGPL-2.0-or-later",
+  "url": "https://downloads.sourceforge.net/project/tumagcc/rsvg-convert-2.40.20.7z",
+  "hash": "36efd6dc7d490d6fc9b28a4ebf89b57bd68afb957287d5f34131cc7c3ee8b026",
+  "bin": "rsvg-convert.exe",
+  "checkver": {
+    "sourceforge": "tumagcc",
+    "regex": "rsvg-convert-([\\d.]+)\\.7z"
+  },
+  "autoupdate": {
+    "url": "https://downloads.sourceforge.net/project/tumagcc/rsvg-convert-$version.7z"
+  }
 }

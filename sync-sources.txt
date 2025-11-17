@@ -8195,7 +8195,8 @@ bucket/rstudio-pro-release.json, cderv/r-bucket, 0
 bucket/rstudio-release.json, cderv/r-bucket, 0
 bucket/rstudio.json, ScoopInstaller/Extras, 0
 bucket/rstudio11.json, ScoopInstaller/Versions, 0
-bucket/rsvg-convert.json, SayCV/scoop-cvp, 0
+bucket/rsvg-convert-miyako.json, cderv/r-bucket, 1
+bucket/rsvg-convert.json, cderv/r-bucket, 0
 bucket/rtcwcoop.json, Calinou/scoop-games, 1
 bucket/rtlutility.json, ScoopInstaller/Extras, 0
 bucket/rtmpdump.json, ScoopInstaller/Main, 0
