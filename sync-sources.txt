@@ -4953,6 +4953,7 @@ bucket/jira-cli.json, ScoopInstaller/Extras, 1
 bucket/jira.json, ScoopInstaller/Main, 1
 bucket/jitsi-meet.json, ScoopInstaller/Extras, 1
 bucket/jj.json, ScoopInstaller/Main, 1
+bucket/jjui.json, ScoopInstaller/Extras, 1
 bucket/jkrypto.json, ScoopInstaller/Extras, 0
 bucket/jlink512.json, SayCV/scoop-cvp, 1
 bucket/jlink614.json, SayCV/scoop-cvp, 1
