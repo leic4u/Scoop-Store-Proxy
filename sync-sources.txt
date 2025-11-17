@@ -191,7 +191,7 @@ bucket/BetterNCM.json, ygguorun/scoop-bucket, 1
 bucket/BigBlueTerminal-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Bilibili.json, DoveBoy/Apps, 0
+bucket/Bilibili.json, chawyehsu/dorado, 0
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitComet.json, leic4u/Scoop-Store, 0
@@ -8167,7 +8167,7 @@ bucket/roughgrep.json, ScoopInstaller/Extras, 1
 bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rshell.json, ViCrack/scoop-bucket, 1
