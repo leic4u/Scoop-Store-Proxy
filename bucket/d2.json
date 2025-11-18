@@ -1,7 +1,7 @@
 {
   "version": "0.7.1",
-  "description": "A modern diagram scripting language that turns text to diagrams",
-  "homepage": "https://d2lang.com/",
+  "description": "A modern diagram scripting language that turns text to diagrams.",
+  "homepage": "https://d2lang.com",
   "license": "MPL-2.0",
   "architecture": {
     "64bit": {

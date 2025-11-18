@@ -1,8 +1,8 @@
 {
-  "$schema": "https://ghgo.xyz/https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "homepage": "https://github.com/equalsraf/win32yank",
-  "license": "ISC License",
   "version": "0.1.1",
+  "description": "A clipboard tool for Windows",
+  "homepage": "https://github.com/equalsraf/win32yank",
+  "license": "MIT",
   "architecture": {
     "64bit": {
       "url": "https://ghgo.xyz/https://github.com/equalsraf/win32yank/releases/download/v0.1.1/win32yank-x64.zip",
@@ -14,9 +14,7 @@
     }
   },
   "bin": "win32yank.exe",
-  "checkver": {
-    "github": "https://github.com/equalsraf/win32yank"
-  },
+  "checkver": "github",
   "autoupdate": {
     "architecture": {
       "64bit": {

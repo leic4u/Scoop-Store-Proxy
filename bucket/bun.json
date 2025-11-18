@@ -3,10 +3,9 @@
   "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager - all in one.",
   "homepage": "https://bun.sh/",
   "license": "MIT",
-  "notes": [
-    "主要解决:",
-    "- main 里的 bun 并没有把 -g 的 bin 加入 PATH, 也没有 persist"
-  ],
+  "suggest": {
+    "vcredist": "extras/vcredist2022"
+  },
   "architecture": {
     "64bit": {
       "url": [
@@ -29,23 +28,7 @@
     "    $target += '-baseline'",
     "}",
     "Move-Item \"$dir\\$target\\bun.exe\" \"$dir\\bun.exe\"",
-    "Remove-Item \"$dir\\bun-windows-*\" -Recurse",
-    "",
-    "mkdir ~/.bun -ErrorAction SilentlyContinue",
-    "function Create-Junction { param ([string]$runtimeCache, [string]$runtimeCachePersist)",
-    "  if (-not (Test-Path $runtimeCache)) { return }",
-    "  if (Test-Path $runtimeCachePersist) {",
-    "    Remove-Item $runtimeCache -Force -Recurse -ErrorAction SilentlyContinue",
-    "    New-Item -Type Junction -Path $runtimeCache -Target $runtimeCachePersist | Out-Null",
-    "  } else {",
-    "    mkdir $runtimeCache -ErrorAction SilentlyContinue",
-    "    Move-Item $runtimeCache $runtimeCachePersist -Force",
-    "    New-Item -Type Junction -Path $runtimeCache -Target $runtimeCachePersist | Out-Null",
-    "  }",
-    "}",
-    "foreach ($folder in @('.bun')) {",
-    "  Create-Junction -runtimeCache \"$env:USERPROFILE\\$folder\" -runtimeCachePersist \"$persist_dir\\$folder\"",
-    "}"
+    "Remove-Item \"$dir\\bun-windows-*\" -Recurse"
   ],
   "bin": [
     "bun.exe",
@@ -55,8 +38,6 @@
       "x"
     ]
   ],
-  "env_add_path": ".bun\\bin",
-  "persist": ".bun",
   "checkver": {
     "github": "https://github.com/oven-sh/bun",
     "re": "bun-v([\\d.]+)"

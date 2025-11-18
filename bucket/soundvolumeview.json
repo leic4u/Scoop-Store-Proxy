@@ -1,18 +1,33 @@
 {
+  "version": "2.48",
   "homepage": "https://www.nirsoft.net/utils/sound_volume_view.html",
-  "checkver": "SoundVolumeView v(\\d+\\.\\d\\d)",
-  "version": "2.46",
-  "license": "freeware",
-  "description": "SoundVolumeView is a simple tool for Windows Vista/7/8/2008 that displays general information and current volume level for all active sound components on your system, and allows you to mute and unmute them instantly. SoundVolumeView also allows you to save a sound profile into a file, containing the current volume level and the mute/unmute state of all sound components, as well as the default sound devices, and then later, load the same file to restore exactly the same volume levels and settings. There is also extensive command-line support, which allows you to save/load profiles, change current volume of every sound component, and mute/unmute every sound component, without displaying any user interface.",
+  "bin": "SoundVolumeView.exe",
+  "shortcuts": [
+    [
+      "SoundVolumeView.exe",
+      "NirSoft\\SoundVolumeView"
+    ]
+  ],
+  "persist": [
+    "soundvolumeview_lng.ini",
+    "soundvolumeview.cfg"
+  ],
   "architecture": {
     "64bit": {
       "url": "https://www.nirsoft.net/utils/soundvolumeview-x64.zip",
-      "hash": "2b20cabae2168a81501000510c45e2ae0b13ff97edf8b31ac984d384628ad986"
+      "hash": "5f9d500d4421fe31b9eaecd95eba0a0a01cbf967e9ba4374e83e6079de00d657"
     },
     "32bit": {
       "url": "https://www.nirsoft.net/utils/soundvolumeview.zip",
-      "hash": "b085054e5c8c73c0bedc2f239bab5e2d75bd2e2209780c353dfcd4c7a5f41b5d"
+      "hash": "5f91d0caaf315f368c314c5ec5703c6b3a9e872abd1909616a620cc8dcc6d702"
     }
+  },
+  "description": "View/change sound levels & save/load sound level profiles on Windows Vista/7/8",
+  "license": "Freeware",
+  "notes": "If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html",
+  "checkver": {
+    "url": "https://www.nirsoft.net/pad/soundvolumeview.xml",
+    "xpath": "/XML_DIZ_INFO/Program_Info/Program_Version"
   },
   "autoupdate": {
     "architecture": {
@@ -23,12 +38,5 @@
         "url": "https://www.nirsoft.net/utils/soundvolumeview.zip"
       }
     }
-  },
-  "bin": "SoundVolumeView.exe",
-  "shortcuts": [
-    [
-      "SoundVolumeView.exe",
-      "NirSoft\\SoundVolumeView - Save_load sound level profiles on Windows 7_8"
-    ]
-  ]
+  }
 }

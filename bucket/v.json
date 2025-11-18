@@ -1,13 +1,26 @@
 {
-  "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies.",
-  "homepage": "https://github.com/vlang/v",
-  "version": "0.3.3",
+  "version": "0.4.12",
+  "description": "The V programming language",
+  "homepage": "https://vlang.io",
   "license": "MIT",
-  "url": "https://ghgo.xyz/https://github.com/vlang/v/releases/download/0.1.24/v_windows.zip",
+  "notes": "Windows SDK is required, you either install it by Visual Studios Installer, or download from: https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/",
+  "architecture": {
+    "64bit": {
+      "url": "https://ghgo.xyz/https://github.com/vlang/v/releases/download/0.4.12/v_windows.zip",
+      "hash": "51fd569f7fcd1460610575eed02e8c0e2a4e944e18b74be75a7908c3bc74405d"
+    }
+  },
+  "extract_dir": "v",
   "bin": "v.exe",
-  "hash": "35f2d163c780ccb520c7930efd9326c254d3c357ad6503b6cfcb718672072733",
-  "checkver": "github",
+  "checkver": {
+    "url": "https://api.github.com/repositories/169677297/releases?per_page=100",
+    "regex": "releases/tag/([\\d.]+)"
+  },
   "autoupdate": {
-    "url": "https://ghgo.xyz/https://github.com/vlang/v/releases/download/0.1.24/v_windows.zip"
+    "architecture": {
+      "64bit": {
+        "url": "https://ghgo.xyz/https://github.com/vlang/v/releases/download/$version/v_windows.zip"
+      }
+    }
   }
 }

@@ -1,30 +1,16 @@
 {
-  "version": "4.0.5",
-  "description": "A Java diagnostic tool that allows developers to troubleshoot production issues for Java applications without modifying code or restarting servers.",
-  "homepage": "https://alibaba.github.io/arthas/en/",
+  "version": "4.1.1",
+  "description": "Arthas is a Java Diagnostic tool open sourced by Alibaba.",
+  "homepage": "https://github.com/alibaba/arthas",
   "license": "Apache-2.0",
-  "url": "https://maven.aliyun.com/repository/public/com/taobao/arthas/arthas-packaging/4.0.5/arthas-packaging-4.0.5-bin.zip",
-  "hash": "sha1:78a3b5f75bc9dbf87ad0757659599859b23ef797",
-  "bin": [
-    "as.bat",
-    "as-service.bat"
-  ],
-  "suggest": {
-    "JDK": [
-      "tomcat/oraclejdk8",
-      "java/openjdk",
-      "java/temurin11-jdk",
-      "java/zulu"
-    ]
-  },
+  "url": "https://ghgo.xyz/https://github.com/alibaba/arthas/releases/download/arthas-all-4.1.1/arthas-bin.zip",
+  "hash": "0111df0a458c2da261a0ad84326eef3a08a306ccfa45cfd47bd9701cf40c73ec",
+  "bin": "arthas-boot.jar",
   "checkver": {
-    "url": "https://search.maven.org/solrsearch/select/?q=g:com.taobao.arthas+AND+a:arthas-packaging",
-    "jsonpath": "$.response.docs[0].latestVersion"
+    "github": "https://github.com/alibaba/arthas",
+    "regex": "/releases/tag/arthas-all-([\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://maven.aliyun.com/repository/public/com/taobao/arthas/arthas-packaging/$version/arthas-packaging-$version-bin.zip",
-    "hash": {
-      "url": "$url.sha1"
-    }
+    "url": "https://ghgo.xyz/https://github.com/alibaba/arthas/releases/download/arthas-all-$version/arthas-bin.zip"
   }
 }
