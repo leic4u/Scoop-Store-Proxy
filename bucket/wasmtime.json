@@ -1,16 +1,19 @@
 {
-  "version": "38.0.4",
-  "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
-  "homepage": "https://wasmtime.dev",
+  "description": "Wasmtime is a standalone wasm-only optimizing runtime for WebAssembly and WASI.",
+  "homepage": "https://wasmtime.dev/",
+  "version": "7.0.0",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/bytecodealliance/wasmtime/releases/download/v38.0.4/wasmtime-v38.0.4-x86_64-windows.zip",
-      "hash": "5a30c7a78f48a1caa2afb1dd541493fd8af5f629ea45097b04f2412e651285b6",
-      "extract_dir": "wasmtime-v38.0.4-x86_64-windows"
+      "url": "https://ghgo.xyz/https://github.com/bytecodealliance/wasmtime/releases/download/v7.0.0/wasmtime-v7.0.0-x86_64-windows.zip",
+      "hash": "bf796c35020df2df3a29475949e0330ea3fd47bbfd719d2959564c3e32a8c1a7",
+      "extract_dir": "wasmtime-v7.0.0-x86_64-windows"
     }
   },
-  "bin": "wasmtime.exe",
+  "bin": [
+    "wasmtime.exe",
+    "wasm2obj.exe"
+  ],
   "checkver": {
     "github": "https://github.com/bytecodealliance/wasmtime"
   },

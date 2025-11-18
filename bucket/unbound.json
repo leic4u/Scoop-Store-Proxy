@@ -6,7 +6,10 @@
   "suggest": {
     "openssl": [
       "openssl",
-      "openssl-light"
+      "openssl-mingw",
+      "versions/openssl10",
+      "versions/openssl-light",
+      "versions/openssl10-light"
     ],
     "wget": "wget"
   },

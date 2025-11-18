@@ -11,13 +11,13 @@
     "Use 'magick convert ...' instead."
   ],
   "architecture": {
-    "32bit": {
-      "url": "https://ghgo.xyz/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-8/ImageMagick-7.1.2-8-Q16-HDRI-x86-dll.exe",
-      "hash": "88317d48e2c1f739f71fbadcf8e0e57fde513a91b8fb6d9026ae4f00dac24f50"
-    },
     "64bit": {
       "url": "https://ghgo.xyz/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-8/ImageMagick-7.1.2-8-Q16-HDRI-x64-dll.exe",
       "hash": "a19f1af0193c7b29acd1659bbb8637bd68dccaaa2f850fc612cce16813ec8406"
+    },
+    "32bit": {
+      "url": "https://ghgo.xyz/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-8/ImageMagick-7.1.2-8-Q16-HDRI-x86-dll.exe",
+      "hash": "88317d48e2c1f739f71fbadcf8e0e57fde513a91b8fb6d9026ae4f00dac24f50"
     },
     "arm64": {
       "url": "https://ghgo.xyz/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-8/ImageMagick-7.1.2-8-Q16-HDRI-arm64-dll.exe",
@@ -37,11 +37,11 @@
   },
   "autoupdate": {
     "architecture": {
-      "32bit": {
-        "url": "https://ghgo.xyz/https://github.com/ImageMagick/ImageMagick/releases/download/$version/ImageMagick-$version-Q16-HDRI-x86-dll.exe"
-      },
       "64bit": {
         "url": "https://ghgo.xyz/https://github.com/ImageMagick/ImageMagick/releases/download/$version/ImageMagick-$version-Q16-HDRI-x64-dll.exe"
+      },
+      "32bit": {
+        "url": "https://ghgo.xyz/https://github.com/ImageMagick/ImageMagick/releases/download/$version/ImageMagick-$version-Q16-HDRI-x86-dll.exe"
       },
       "arm64": {
         "url": "https://ghgo.xyz/https://github.com/ImageMagick/ImageMagick/releases/download/$version/ImageMagick-$version-Q16-HDRI-arm64-dll.exe"

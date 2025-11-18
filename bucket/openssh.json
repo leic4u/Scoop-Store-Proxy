@@ -29,15 +29,15 @@
   ],
   "checkver": {
     "github": "https://github.com/PowerShell/Win32-OpenSSH",
-    "regex": "tag/(?:v)?([\\d.]+p\\d)-Preview"
+    "regex": "tag/([\\d.]+p\\d)-(?<build>[a-zA-Z]+)"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghgo.xyz/https://github.com/PowerShell/Win32-OpenSSH/releases/download/$version-Preview/OpenSSH-Win64.zip"
+        "url": "https://ghgo.xyz/https://github.com/PowerShell/Win32-OpenSSH/releases/download/$version-$matchBuild/OpenSSH-Win64.zip"
       },
       "32bit": {
-        "url": "https://ghgo.xyz/https://github.com/PowerShell/Win32-OpenSSH/releases/download/$version-Preview/OpenSSH-Win32.zip"
+        "url": "https://ghgo.xyz/https://github.com/PowerShell/Win32-OpenSSH/releases/download/$version-$matchBuild/OpenSSH-Win32.zip"
       }
     }
   },

@@ -28,7 +28,6 @@
   ],
   "installer": {
     "file": "bootstrap-vcpkg.bat",
-    "args": "-disableMetrics",
     "keep": true
   },
   "post_install": "vcpkg integrate install",
