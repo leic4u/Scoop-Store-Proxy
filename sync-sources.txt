@@ -5023,7 +5023,7 @@ bucket/jumplistsview.json, ScoopInstaller/Nirsoft, 0
 bucket/junction.json, niheaven/scoop-sysinternals, 1
 bucket/just.json, ScoopInstaller/Main, 1
 bucket/justasplanned.json, beerpiss/scoop-bucket, 1
-bucket/justcolorpicker.json, naderi/scoop-bucket, 0
+bucket/justcolorpicker.json, chawyehsu/dorado, 0
 bucket/jvms.json, Weidows-projects/scoop-3rd, 1
 bucket/jwt-cli.json, ScoopInstaller/Main, 1
 bucket/jx.json, ScoopInstaller/Main, 1
@@ -7867,6 +7867,7 @@ bucket/quickclipboard-portable.json, DoveBoy/Apps, 1
 bucket/quickclipboard.json, DoveBoy/Apps, 1
 bucket/quickcpu.json, ScoopInstaller/Extras, 0
 bucket/quickinstaller.json, ScoopInstaller/Extras, 0
+bucket/quickjs.json, ScoopInstaller/Main, 0
 bucket/quicklook.json, ScoopInstaller/Extras, 1
 bucket/quicksetdns.json, ScoopInstaller/Nirsoft, 0
 bucket/quicktextpaste.json, ScoopInstaller/Extras, 0
@@ -9915,7 +9916,7 @@ bucket/wavebox-classic.json, ScoopInstaller/Extras, 0
 bucket/wavebox-portable.json, naderi/scoop-bucket, 0
 bucket/wavebox.json, ScoopInstaller/Extras, 0
 bucket/wavepad.json, naderi/scoop-bucket, 0
-bucket/waveterm.json, Weidows-projects/scoop-3rd, 1
+bucket/waveterm.json, DoveBoy/Apps, 1
 bucket/wavosaur.json, ScoopInstaller/Extras, 0
 bucket/wavpack.json, ScoopInstaller/Main, 1
 bucket/wax.json, DoveBoy/Apps, 1
