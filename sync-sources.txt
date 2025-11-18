@@ -3137,7 +3137,7 @@ bucket/doggo.json, ScoopInstaller/Main, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -5659,7 +5659,7 @@ bucket/makelnk.json, naderi/scoop-bucket, 1
 bucket/makemkv.json, ScoopInstaller/Extras, 0
 bucket/malware-patch.json, ivaquero/scoopet, 1
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
-bucket/mame.json, DoveBoy/Apps, 1
+bucket/mame.json, Calinou/scoop-games, 1
 bucket/mameui.json, Calinou/scoop-games, 0
 bucket/managewirelessnetworks.json, ScoopInstaller/Nirsoft, 0
 bucket/mancy.json, ScoopInstaller/Extras, 1
@@ -5770,7 +5770,7 @@ bucket/mekhq.json, Calinou/scoop-games, 1
 bucket/meld.json, ScoopInstaller/Extras, 0
 bucket/mellow.json, ScoopInstaller/Extras, 1
 bucket/mellowplayer.json, ScoopInstaller/Extras, 1
-bucket/melonds.json, Calinou/scoop-games, 1
+bucket/melonds.json, Deide/deide-bucket, 1
 bucket/memcached.json, ScoopInstaller/Main, 1
 bucket/memo.json, brian6932/dank-scoop, 0
 bucket/memory-checker.json, brian6932/dank-scoop, 1
@@ -6670,6 +6670,7 @@ bucket/openliberty.json, ScoopInstaller/Extras, 0
 bucket/openlist.json, ScoopInstaller/Main, 1
 bucket/openloco.json, Calinou/scoop-games, 1
 bucket/openmcdf.json, SayCV/scoop-cvp, 1
+bucket/openmohaa.json, Calinou/scoop-games, 1
 bucket/openmpt.json, ScoopInstaller/Extras, 0
 bucket/openmsx-dev.json, Calinou/scoop-games, 0
 bucket/openmsx.json, Calinou/scoop-games, 1
@@ -9403,7 +9404,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, akirco/aki-apps, 1
+bucket/trae-cn.json, chawyehsu/dorado, 0
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
@@ -9787,7 +9788,7 @@ bucket/virtualhere-server.json, ScoopInstaller/Extras, 0
 bucket/virtualjaguar.json, hermanjustnu/scoop-emulators, 0
 bucket/visual-arm-emulator.json, ScoopInstaller/Extras, 0
 bucket/visualboyadvance-m-nightly.json, Calinou/scoop-games, 1
-bucket/visualboyadvance-m.json, Calinou/scoop-games, 1
+bucket/visualboyadvance-m.json, Deide/deide-bucket, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
