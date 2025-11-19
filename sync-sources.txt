@@ -1711,7 +1711,7 @@ bucket/antidupl.net.json, ScoopInstaller/Extras, 1
 bucket/antimicro.json, ScoopInstaller/Extras, 1
 bucket/antimicrox.json, ScoopInstaller/Extras, 1
 bucket/anto.json, DoveBoy/Apps, 1
-bucket/anx-reader.json, hu3rror/scoop-muggle, 1
+bucket/anx-reader.json, ScoopInstaller/Extras, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
 bucket/anyportal-portable.json, DoveBoy/Apps, 1
