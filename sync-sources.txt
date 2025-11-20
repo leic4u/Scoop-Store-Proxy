@@ -2489,7 +2489,7 @@ bucket/chunker-cli.json, Calinou/scoop-games, 1
 bucket/chunker.json, Calinou/scoop-games, 1
 bucket/chunky.json, chawyehsu/dorado, 0
 bucket/cica.json, iquiw/scoop-bucket, 1
-bucket/cider.json, ScoopInstaller/Extras, 1
+bucket/cider.json, beerpiss/scoop-bucket, 1
 bucket/cidr.json, aliesbelik/poldi, 1
 bucket/cinc-auditor.json, iquiw/scoop-bucket, 0
 bucket/cinebench.json, aoisummer/scoop-bucket, 0
@@ -7580,7 +7580,7 @@ bucket/privatezilla.json, ScoopInstaller/Extras, 1
 bucket/privoxy.json, ScoopInstaller/Extras, 0
 bucket/prm.json, ScoopInstaller/Main, 1
 bucket/procdump.json, niheaven/scoop-sysinternals, 1
-bucket/process-explorer.json, chawyehsu/dorado, 0
+bucket/process-explorer.json, niheaven/scoop-sysinternals, 1
 bucket/process-governor.json, ScoopInstaller/Main, 1
 bucket/process-monitor.json, chawyehsu/dorado, 0
 bucket/processactivityview.json, ScoopInstaller/Nirsoft, 0
