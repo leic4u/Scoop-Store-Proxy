@@ -3561,10 +3561,10 @@ bucket/falkon.json, ScoopInstaller/Extras, 0
 bucket/famistudio.json, ScoopInstaller/Extras, 1
 bucket/famitracker.json, chawyehsu/dorado, 0
 bucket/fan-control.json, naderi/scoop-bucket, 0
+bucket/fancontrol-net10.0-portable.json, DoveBoy/Apps, 1
+bucket/fancontrol-net10.0.json, DoveBoy/Apps, 1
 bucket/fancontrol-net4.8-portable.json, DoveBoy/Apps, 1
 bucket/fancontrol-net4.8.json, DoveBoy/Apps, 1
-bucket/fancontrol-net8.0-portable.json, DoveBoy/Apps, 1
-bucket/fancontrol-net8.0.json, DoveBoy/Apps, 1
 bucket/fancontrol.json, ScoopInstaller/Extras, 1
 bucket/fanqienovel-downloader.json, DoveBoy/Apps, 1
 bucket/fantasquesansmono-llh-nlk.json, KnotUntied/scoop-fonts, 1
