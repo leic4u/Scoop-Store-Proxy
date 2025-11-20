@@ -2237,7 +2237,7 @@ bucket/bugdom-2.json, Calinou/scoop-games, 1
 bucket/bugdom.json, Calinou/scoop-games, 1
 bucket/bugn.json, ScoopInstaller/Extras, 1
 bucket/buildcache.json, ScoopInstaller/Extras, 0
-bucket/buildkit.json, iquiw/scoop-bucket, 1
+bucket/buildkit.json, batkiz/backit, 1
 bucket/bulk-crap-uninstaller.json, ScoopInstaller/Extras, 1
 bucket/bulk-extractor.json, brian6932/dank-scoop, 1
 bucket/bulk-rename-command.json, ScoopInstaller/Main, 0
