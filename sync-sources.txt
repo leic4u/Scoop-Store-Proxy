@@ -1861,7 +1861,6 @@ bucket/auth-thu.json, jingyu9575/scoop-jingyu9575, 0
 bucket/authenticator.json, naderi/scoop-bucket, 1
 bucket/authme.json, ScoopInstaller/Extras, 1
 bucket/authpass.json, ScoopInstaller/Extras, 1
-bucket/authy.json, ScoopInstaller/Extras, 0
 bucket/auto-caption.json, Weidows-projects/scoop-3rd, 1
 bucket/auto-dark-mode-np.json, ScoopInstaller/Nonportable, 1
 bucket/auto-doc.json, ScoopInstaller/Main, 1
