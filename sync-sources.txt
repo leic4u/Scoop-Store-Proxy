@@ -2355,6 +2355,7 @@ bucket/cbmc.json, seumsc/scoop-seu, 1
 bucket/cbox-cvp.json, SayCV/scoop-cvp, 1
 bucket/cbxconverter.json, starise/Scoop-Confetti, 0
 bucket/cc-clean-launcher.json, brian6932/dank-scoop, 1
+bucket/cc-switch.json, ScoopInstaller/Extras, 1
 bucket/cc65.json, ScoopInstaller/Main, 0
 bucket/ccache.json, ScoopInstaller/Main, 1
 bucket/ccat.json, ScoopInstaller/Main, 1
@@ -8176,7 +8177,7 @@ bucket/roughgrep.json, ScoopInstaller/Extras, 1
 bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rshell.json, ViCrack/scoop-bucket, 1
