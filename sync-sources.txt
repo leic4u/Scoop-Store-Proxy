@@ -949,7 +949,7 @@ bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/Pinokio-Portable.json, ACooper81/scoop-apps, 1
 bucket/PixBuilder.json, zhoujin7/tomato, 0
 bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
-bucket/PixPin.json, ivaquero/scoopet, 0
+bucket/PixPin.json, ygguorun/scoop-bucket, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixel-Code.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Pixeval.json, cc713/ownscoop, 1
@@ -1923,7 +1923,7 @@ bucket/axiom.json, ScoopInstaller/Extras, 1
 bucket/axis.json, ScoopInstaller/Extras, 0
 bucket/axmlprinter.json, TheCjw/scoop-retools, 1
 bucket/axure.json, chawyehsu/dorado, 0
-bucket/aya.json, DoveBoy/Apps, 1
+bucket/aya.json, akirco/aki-apps, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
 bucket/az-tui.json, aliesbelik/poldi, 1
 bucket/azahar.json, Calinou/scoop-games, 1
