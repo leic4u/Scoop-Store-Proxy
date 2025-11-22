@@ -8022,7 +8022,7 @@ bucket/redli.json, batkiz/backit, 1
 bucket/rednotebook.json, ScoopInstaller/Extras, 1
 bucket/redpanda-cpp.json, chawyehsu/dorado, 0
 bucket/redpen.json, ScoopInstaller/Main, 1
-bucket/redream-dev.json, borger/scoop-emulators, 0
+bucket/redream-dev.json, Calinou/scoop-games, 0
 bucket/redream.json, Calinou/scoop-games, 0
 bucket/redshift-tray.json, ScoopInstaller/Extras, 0
 bucket/redshift.json, ScoopInstaller/Main, 1
@@ -8180,7 +8180,7 @@ bucket/roughgrep.json, ScoopInstaller/Extras, 1
 bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rshell.json, ViCrack/scoop-bucket, 1
