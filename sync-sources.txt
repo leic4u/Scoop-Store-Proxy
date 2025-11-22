@@ -7902,7 +7902,7 @@ bucket/r-patched.json, ScoopInstaller/Versions, 0
 bucket/r-release.json, cderv/r-bucket, 0
 bucket/r.json, ScoopInstaller/Main, 0
 bucket/r128gain.json, ScoopInstaller/Main, 1
-bucket/r2modman.json, Deide/deide-bucket, 1
+bucket/r2modman.json, Calinou/scoop-games, 1
 bucket/r36.json, ScoopInstaller/Versions, 0
 bucket/r3dfox.json, ScoopInstaller/Extras, 1
 bucket/r3nzskin.json, DoveBoy/Apps, 1
