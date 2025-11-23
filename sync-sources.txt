@@ -3347,7 +3347,7 @@ bucket/ecopaste.json, DoveBoy/Apps, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden.json, Calinou/scoop-games, 1
+bucket/eden.json, Deide/deide-bucket, 1
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-portable-beta.json, naderi/scoop-bucket, 0
 bucket/edge-portable-canary.json, naderi/scoop-bucket, 0
@@ -4770,7 +4770,7 @@ bucket/innosetup-np.json, ScoopInstaller/Nonportable, 0
 bucket/innosetup-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/innounp-unicode.json, ScoopInstaller/Versions, 1
 bucket/innounp.json, ScoopInstaller/Main, 1
-bucket/innounpacker.json, ScoopInstaller/Extras, 0
+bucket/innounpacker.json, ScoopInstaller/Extras, 1
 bucket/inotifywait.json, jingyu9575/scoop-jingyu9575, 1
 bucket/inputshare.json, DoveBoy/Apps, 1
 bucket/insideclipboard.json, ScoopInstaller/Nirsoft, 0
