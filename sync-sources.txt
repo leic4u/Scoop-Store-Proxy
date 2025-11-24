@@ -3139,7 +3139,7 @@ bucket/doggo.json, ScoopInstaller/Main, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4551,7 +4551,7 @@ bucket/hlae.json, Calinou/scoop-games, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 1
-bucket/hmcl.json, seumsc/scoop-seu, 1
+bucket/hmcl.json, chawyehsu/dorado, 1
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
 bucket/hok.json, chawyehsu/dorado, 1
@@ -8667,7 +8667,7 @@ bucket/slk-img2pixel.json, hu3rror/scoop-muggle, 1
 bucket/slskd.json, ScoopInstaller/Extras, 1
 bucket/slu.json, littleli/Scoop-littleli, 1
 bucket/slumber.json, aliesbelik/poldi, 1
-bucket/sm64coopdx.json, borger/scoop-emulators, 1
+bucket/sm64coopdx.json, Calinou/scoop-games, 1
 bucket/smali.json, TheCjw/scoop-retools, 0
 bucket/smart-svg-viewer.json, naderi/scoop-bucket, 1
 bucket/smartcontextmenu.json, ScoopInstaller/Extras, 1
