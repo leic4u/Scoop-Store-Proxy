@@ -5777,7 +5777,7 @@ bucket/mekhq.json, Calinou/scoop-games, 1
 bucket/meld.json, ScoopInstaller/Extras, 0
 bucket/mellow.json, ScoopInstaller/Extras, 1
 bucket/mellowplayer.json, ScoopInstaller/Extras, 1
-bucket/melonds.json, borger/scoop-emulators, 1
+bucket/melonds.json, Calinou/scoop-games, 1
 bucket/memcached.json, ScoopInstaller/Main, 1
 bucket/memo.json, brian6932/dank-scoop, 0
 bucket/memory-checker.json, brian6932/dank-scoop, 1
@@ -7561,7 +7561,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppsspp-dev.json, Calinou/scoop-games, 0
-bucket/ppsspp.json, Calinou/scoop-games, 0
+bucket/ppsspp.json, borger/scoop-emulators, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
