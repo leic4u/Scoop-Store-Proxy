@@ -1059,7 +1059,7 @@ bucket/Rounded-Mplus.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Rounded-X-Mplus.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/RoundedTB-Portable.json, ACooper81/scoop-apps, 1
 bucket/RoyalTS-Portable.json, ACooper81/scoop-apps, 0
-bucket/Rubick.json, amorphobia/siku, 1
+bucket/Rubick.json, ViCrack/scoop-bucket, 1
 bucket/RuckZuck-Portable.json, ACooper81/scoop-apps, 1
 bucket/Rufus-Portable.json, ACooper81/scoop-apps, 1
 bucket/RunAsTICLI-Portable.json, ACooper81/scoop-apps, 1
@@ -5084,7 +5084,7 @@ bucket/katrain.json, Calinou/scoop-games, 1
 bucket/kavita.json, ScoopInstaller/Extras, 1
 bucket/kawaii-player.json, ScoopInstaller/Extras, 1
 bucket/kaxaml.json, Deide/deide-bucket, 1
-bucket/kazumi.json, wzv5/ScoopBucket, 1
+bucket/kazumi.json, DoveBoy/Apps, 1
 bucket/kbootopt.json, echoiron/echo-scoop, 0
 bucket/kcc.json, ScoopInstaller/Extras, 1
 bucket/kcleaner.json, echoiron/echo-scoop, 0
