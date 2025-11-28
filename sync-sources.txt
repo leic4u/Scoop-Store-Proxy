@@ -1925,7 +1925,7 @@ bucket/axiom.json, ScoopInstaller/Extras, 1
 bucket/axis.json, ScoopInstaller/Extras, 0
 bucket/axmlprinter.json, TheCjw/scoop-retools, 1
 bucket/axure.json, chawyehsu/dorado, 0
-bucket/aya.json, DoveBoy/Apps, 1
+bucket/aya.json, akirco/aki-apps, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
 bucket/az-tui.json, aliesbelik/poldi, 1
 bucket/azahar.json, Calinou/scoop-games, 1
@@ -2714,6 +2714,7 @@ bucket/corretto20-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto21-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto22-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto23-jdk.json, ScoopInstaller/Java, 0
+bucket/corretto25-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/corsair-icue.json, TheRandomLabs/Scoop-Bucket, 0
@@ -4375,6 +4376,7 @@ bucket/graalvm21.json, ScoopInstaller/Java, 1
 bucket/graalvm22-jdk11.json, ScoopInstaller/Java, 1
 bucket/graalvm22-jdk17.json, ScoopInstaller/Java, 1
 bucket/graalvm22.json, ScoopInstaller/Java, 1
+bucket/graalvm25.json, ScoopInstaller/Java, 1
 bucket/graboid.json, beerpiss/scoop-bucket, 1
 bucket/gradle-bin.json, ScoopInstaller/Main, 0
 bucket/gradle.json, ScoopInstaller/Main, 0
