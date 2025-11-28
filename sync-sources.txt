@@ -1831,6 +1831,9 @@ bucket/athenas-ass-mh4U.json, Deide/deide-bucket, 1
 bucket/athenas-ass-mhFU.json, Deide/deide-bucket, 1
 bucket/athenas-ass-mhGen.json, Deide/deide-bucket, 1
 bucket/athenas-ass-mhP3rd.json, Deide/deide-bucket, 1
+bucket/atkinson-hyperlegible-mono.json, KnotUntied/scoop-fonts, 1
+bucket/atkinson-hyperlegible-next.json, KnotUntied/scoop-fonts, 1
+bucket/atkinson-hyperlegible.json, KnotUntied/scoop-fonts, 1
 bucket/atlas-ce.json, aliesbelik/poldi, 0
 bucket/atlas.json, aliesbelik/poldi, 0
 bucket/atmos.json, ScoopInstaller/Main, 1
