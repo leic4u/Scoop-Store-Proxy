@@ -191,7 +191,7 @@ bucket/BetterNCM.json, ygguorun/scoop-bucket, 1
 bucket/BigBlueTerminal-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Bilibili.json, akirco/aki-apps, 0
+bucket/Bilibili.json, chawyehsu/dorado, 0
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitComet.json, leic4u/Scoop-Store, 0
@@ -4561,7 +4561,7 @@ bucket/hlae.json, Calinou/scoop-games, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 1
-bucket/hmcl.json, seumsc/scoop-seu, 1
+bucket/hmcl.json, chawyehsu/dorado, 1
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
 bucket/hok.json, chawyehsu/dorado, 1
@@ -5816,7 +5816,7 @@ bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -6900,7 +6900,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -10347,7 +10347,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu.json, borger/scoop-emulators, 1
+bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
