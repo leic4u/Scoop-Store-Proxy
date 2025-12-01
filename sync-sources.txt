@@ -3821,6 +3821,7 @@ bucket/folderchangesview.json, ScoopInstaller/Nirsoft, 0
 bucket/foldersreport.json, kodybrown/scoop-nirsoft, 0
 bucket/foldertimeupdate.json, ScoopInstaller/Nirsoft, 0
 bucket/folding-at-home.json, ScoopInstaller/Extras, 0
+bucket/folge.json, ScoopInstaller/Extras, 0
 bucket/folo.json, ScoopInstaller/Extras, 1
 bucket/folrep.json, ScoopInstaller/Nirsoft, 0
 bucket/font-behdad.json, naderi/scoop-bucket, 1
