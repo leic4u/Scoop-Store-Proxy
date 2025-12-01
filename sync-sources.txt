@@ -1547,6 +1547,7 @@ bucket/acmesharp.json, ScoopInstaller/Main, 0
 bucket/acrylic-dns-proxy.json, naderi/scoop-bucket, 0
 bucket/act.json, ScoopInstaller/Main, 1
 bucket/actionlint.json, ScoopInstaller/Main, 1
+bucket/activaid.json, ScoopInstaller/Extras, 0
 bucket/activate-linux.json, ScoopInstaller/Extras, 1
 bucket/activemq-artemis.json, ScoopInstaller/Extras, 0
 bucket/activemq.json, ScoopInstaller/Extras, 0
@@ -9669,7 +9670,7 @@ bucket/usbimager.json, ScoopInstaller/Extras, 0
 bucket/usblogview.json, ScoopInstaller/Nirsoft, 0
 bucket/usblyzer.json, SayCV/scoop-cvp, 0
 bucket/usbtrace.json, SayCV/scoop-cvp, 0
-bucket/usbtreeview.json, rasa/scoops, 0
+bucket/usbtreeview.json, aoisummer/scoop-bucket, 0
 bucket/usbwriter.json, ChinLong/scoop-customize, 0
 bucket/userassistview.json, ScoopInstaller/Nirsoft, 0
 bucket/userbenchmark.json, ScoopInstaller/Extras, 0
