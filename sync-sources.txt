@@ -10448,7 +10448,7 @@ bucket/xyplorer.json, ScoopInstaller/Extras, 0
 bucket/xysubfilter-libass-np.json, ScoopInstaller/Nonportable, 1
 bucket/xysubfilter-np.json, ScoopInstaller/Nonportable, 1
 bucket/xz.json, ScoopInstaller/Main, 0
-bucket/y-cruncher.json, ScoopInstaller/Main, 0
+bucket/y-cruncher.json, ScoopInstaller/Main, 1
 bucket/yaak.json, ScoopInstaller/Extras, 1
 bucket/yacd.json, everyx/scoop-bucket, 1
 bucket/yacreader.json, ScoopInstaller/Extras, 1
