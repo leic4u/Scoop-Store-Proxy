@@ -6463,6 +6463,7 @@ bucket/ntlite.json, ScoopInstaller/Extras, 0
 bucket/ntop.json, ScoopInstaller/Main, 1
 bucket/ntrace-core.json, DoveBoy/Apps, 1
 bucket/ntrace-v1.json, DoveBoy/Apps, 1
+bucket/ntsc-rs.json, ScoopInstaller/Extras, 1
 bucket/ntttcp.json, aliesbelik/poldi, 1
 bucket/nu.json, ScoopInstaller/Main, 1
 bucket/nuclear.json, ScoopInstaller/Extras, 1
