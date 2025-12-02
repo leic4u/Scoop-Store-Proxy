@@ -2123,6 +2123,7 @@ bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitsmanager.json, ScoopInstaller/Extras, 1
 bucket/bitthief.json, yuusakuri/scoop-bucket, 1
+bucket/bittorrent-tracker-editor.json, ScoopInstaller/Extras, 1
 bucket/bitvise-ssh-client.json, SayCV/scoop-cvp, 1
 bucket/bitwarden-cli.json, ScoopInstaller/Main, 1
 bucket/bitwarden.json, ScoopInstaller/Extras, 1
@@ -6161,6 +6162,7 @@ bucket/multibootusb.json, ScoopInstaller/Extras, 1
 bucket/multicommander.json, ScoopInstaller/Extras, 0
 bucket/multicurl.json, aliesbelik/poldi, 1
 bucket/multidoge.json, naderi/scoop-bucket, 1
+bucket/multidrive.json, ScoopInstaller/Extras, 1
 bucket/multimarkdown.json, kkzzhizhou/scoop-zapps, 1
 bucket/multimc.json, Deide/deide-bucket, 0
 bucket/multimonitortool.json, ScoopInstaller/Nirsoft, 0
