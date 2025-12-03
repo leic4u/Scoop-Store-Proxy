@@ -1668,6 +1668,7 @@ bucket/anaconda2.json, ScoopInstaller/Versions, 0
 bucket/anaconda3-2022.05.json, ScoopInstaller/Versions, 0
 bucket/anaconda3.json, ScoopInstaller/Extras, 0
 bucket/anchor-cli.json, chawyehsu/dorado, 1
+bucket/andcli.json, ScoopInstaller/Extras, 1
 bucket/andika-compact.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika-new-basic.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika.json, matthewjberger/scoop-nerd-fonts, 0
@@ -2084,7 +2085,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -4219,7 +4220,7 @@ bucket/gnupg1.json, ScoopInstaller/Main, 0
 bucket/gnuplot.json, ScoopInstaller/Main, 0
 bucket/gnutls.json, ScoopInstaller/Main, 0
 bucket/go-chromecast.json, ScoopInstaller/Extras, 1
-bucket/go-cn.json, akirco/aki-apps, 0
+bucket/go-cn.json, chawyehsu/dorado, 0
 bucket/go-containerregistry.json, ScoopInstaller/Main, 1
 bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
 bucket/go-drive.json, DoveBoy/Apps, 1
@@ -9466,6 +9467,7 @@ bucket/tre.json, MCOfficer/scoop-bucket, 1
 bucket/tree-sitter.json, ScoopInstaller/Main, 1
 bucket/tree.json, cderv/r-bucket, 0
 bucket/treeline.json, amorphobia/siku, 1
+bucket/treemd.json, aliesbelik/poldi, 1
 bucket/treesheets.json, ScoopInstaller/Extras, 1
 bucket/treesize-free.json, ScoopInstaller/Extras, 0
 bucket/treex.json, ScoopInstaller/Extras, 1
