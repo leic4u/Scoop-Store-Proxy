@@ -1710,6 +1710,7 @@ bucket/antares.json, ScoopInstaller/Extras, 1
 bucket/anti-twin.json, naderi/scoop-bucket, 0
 bucket/antidupl.json, naderi/scoop-bucket, 1
 bucket/antidupl.net.json, ScoopInstaller/Extras, 1
+bucket/antigravity.json, ScoopInstaller/Extras, 0
 bucket/antimicro.json, ScoopInstaller/Extras, 1
 bucket/antimicrox.json, ScoopInstaller/Extras, 1
 bucket/anto.json, DoveBoy/Apps, 1
