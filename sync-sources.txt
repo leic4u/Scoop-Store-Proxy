@@ -2805,6 +2805,7 @@ bucket/cspoit.json, mo-san/scoop-bucket, 0
 bucket/csvdiff.json, littleli/Scoop-littleli, 1
 bucket/csved.json, naderi/scoop-bucket, 0
 bucket/csvfileview.json, ScoopInstaller/Nirsoft, 0
+bucket/csvi.json, aliesbelik/poldi, 1
 bucket/csview.json, ScoopInstaller/Main, 1
 bucket/csvlens.json, ScoopInstaller/Main, 1
 bucket/csvq.json, batkiz/backit, 1
