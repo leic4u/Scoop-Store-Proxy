@@ -5526,6 +5526,7 @@ bucket/llama.cpp-cu124.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-hip-gfx1030.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-hip-gfx1100.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-hip-gfx1101.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-hip-radeon.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-opencl.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-sycl.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-vulkan.json, ScoopInstaller/Versions, 1
