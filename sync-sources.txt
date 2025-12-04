@@ -5738,7 +5738,7 @@ bucket/maxima.json, ScoopInstaller/Extras, 0
 bucket/maxto.json, ScoopInstaller/Extras, 0
 bucket/maye.json, ViCrack/scoop-bucket, 1
 bucket/mayo.json, ScoopInstaller/Extras, 1
-bucket/mc.json, ScoopInstaller/Extras, 0
+bucket/mc.json, ScoopInstaller/Extras, 1
 bucket/mcat.json, aliesbelik/poldi, 1
 bucket/mcedit.json, chawyehsu/dorado, 1
 bucket/mcedit2.json, Calinou/scoop-games, 1
@@ -6912,7 +6912,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
