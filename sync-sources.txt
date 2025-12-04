@@ -7517,7 +7517,6 @@ bucket/polling-rate-viewer.json, brian6932/dank-scoop, 1
 bucket/polsedit.json, ScoopInstaller/Extras, 0
 bucket/polymc.json, Deide/deide-bucket, 1
 bucket/pomerium.json, MCOfficer/scoop-bucket, 1
-bucket/pomotodo.json, ScoopInstaller/Extras, 0
 bucket/pomsky.json, ScoopInstaller/Main, 1
 bucket/popcorn-time.json, ScoopInstaller/Extras, 1
 bucket/popeye.json, ScoopInstaller/Main, 1
