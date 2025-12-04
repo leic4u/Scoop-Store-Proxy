@@ -478,7 +478,7 @@ bucket/FreeTube-Portable.json, ACooper81/scoop-apps, 1
 bucket/FreezeToStock-Portable.json, ACooper81/scoop-apps, 1
 bucket/FrpcGUI.json, kkzzhizhou/scoop-zapps, 1
 bucket/GARbro-Mod.json, cc713/ownscoop, 1
-bucket/GIMP-Portable.json, naderi/scoop-bucket, 0
+bucket/GIMP-Portable.json, ACooper81/scoop-apps, 0
 bucket/GImageX-Portable.json, ACooper81/scoop-apps, 0
 bucket/GOGGalaxy-Install.json, ACooper81/scoop-apps, 0
 bucket/GOGGalaxy-Portable.json, ACooper81/scoop-apps, 0
