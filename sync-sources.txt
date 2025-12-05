@@ -10232,7 +10232,7 @@ bucket/wireproxy.json, ScoopInstaller/Main, 1
 bucket/wireshark-cn.json, SayCV/scoop-cvp, 1
 bucket/wireshark-nightly.json, NyaMisty/scoop_bucket_misty, 0
 bucket/wireshark-portapps.json, Velgus/Scoop-Portapps, 1
-bucket/wireshark.json, ScoopInstaller/Extras, 1
+bucket/wireshark.json, ScoopInstaller/Extras, 0
 bucket/wireshark3.6.json, ScoopInstaller/Versions, 0
 bucket/wireshark3.json, ScoopInstaller/Versions, 0
 bucket/wise-disk-cleaner.json, naderi/scoop-bucket, 0
