@@ -6912,7 +6912,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -10886,6 +10886,8 @@ scripts/sentinel-dashboard.ps1, zhoujin7/tomato, 0
 scripts/simple-dnscrypt/simple-dnscrypt.ps1, rasa/scoops, 0
 scripts/sleep-on-lan/install-service.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/sleep-on-lan/remove-service.ps1, AkariiinMKII/Scoop4kariiin, 0
+scripts/smarttaskbar/add-smarttaskbar-startup.ps1, ScoopInstaller/Extras, 0
+scripts/smarttaskbar/remove-smarttaskbar-startup.ps1, ScoopInstaller/Extras, 0
 scripts/softether-vpnclient/softether-vpnclient-install.en-US.ahk, SayCV/scoop-cvp, 0
 scripts/softether-vpnclient/softether-vpnclient-install.zh-CN.ahk, SayCV/scoop-cvp, 0
 scripts/softether-vpnserver/softether-vpnserver-install.en-US.ahk, SayCV/scoop-cvp, 0
