@@ -6912,7 +6912,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7882,6 +7882,7 @@ bucket/quakespasm.json, Calinou/scoop-games, 0
 bucket/qualitymuncher.json, couleur-tweak-tips/utils, 1
 bucket/quardcrt.json, DoveBoy/Apps, 1
 bucket/quark-cloud-drive.json, amorphobia/siku, 0
+bucket/quarkclouddrive.json, ivaquero/scoopet, 0
 bucket/quarkpan.json, akirco/aki-apps, 0
 bucket/quarkpantool.json, DoveBoy/Apps, 1
 bucket/quarkus-cli.json, ScoopInstaller/Main, 1
