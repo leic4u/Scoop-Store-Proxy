@@ -7573,6 +7573,7 @@ bucket/powerping.json, ScoopInstaller/Main, 1
 bucket/powersession-rs.json, ScoopInstaller/Main, 1
 bucket/powersession.json, ScoopInstaller/Main, 1
 bucket/powershell-beautifier.json, ScoopInstaller/Main, 0
+bucket/powershell-lts.json, chawyehsu/dorado, 1
 bucket/powershell-preview.json, chawyehsu/dorado, 1
 bucket/powershell-yaml.json, ScoopInstaller/Main, 0
 bucket/powershell.json, chawyehsu/dorado, 1
