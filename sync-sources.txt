@@ -10005,7 +10005,7 @@ bucket/wechatrealfriends.json, DoveBoy/Apps, 1
 bucket/wechatvideosniffer.json, DoveBoy/Apps, 1
 bucket/wecom.json, ScoopInstaller/Extras, 0
 bucket/weebp.json, ScoopInstaller/Extras, 1
-bucket/wegame.json, akirco/aki-apps, 0
+bucket/wegame.json, ivaquero/scoopet, 0
 bucket/wemod.json, Calinou/scoop-games, 0
 bucket/wepe.json, SayCV/scoop-cvp, 0
 bucket/werf-v2.json, aliesbelik/poldi, 0
