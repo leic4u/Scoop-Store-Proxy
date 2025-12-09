@@ -4920,7 +4920,7 @@ bucket/jan.json, abgox/abgo_bucket, 1
 bucket/janet.json, ScoopInstaller/Main, 1
 bucket/jaq.json, ScoopInstaller/Main, 1
 bucket/jar-analyzer.json, ViCrack/scoop-bucket, 1
-bucket/jarkviewer.json, DoveBoy/Apps, 1
+bucket/jarkviewer.json, ScoopInstaller/Extras, 1
 bucket/jarl.json, cderv/r-bucket, 1
 bucket/jasmine.json, DoveBoy/Apps, 1
 bucket/jasob.json, SayCV/scoop-cvp, 0
