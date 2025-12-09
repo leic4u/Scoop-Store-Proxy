@@ -5048,7 +5048,7 @@ bucket/junction.json, niheaven/scoop-sysinternals, 1
 bucket/just.json, ScoopInstaller/Main, 1
 bucket/justasplanned.json, beerpiss/scoop-bucket, 1
 bucket/justcolorpicker.json, chawyehsu/dorado, 0
-bucket/jvms.json, Weidows-projects/scoop-3rd, 1
+bucket/jvms.json, aliesbelik/poldi, 1
 bucket/jwt-cli.json, ScoopInstaller/Main, 1
 bucket/jx.json, ScoopInstaller/Main, 1
 bucket/jxl-winthumb.json, seumsc/scoop-seu, 1
