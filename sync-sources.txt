@@ -3556,6 +3556,7 @@ bucket/extraterm.json, ScoopInstaller/Extras, 1
 bucket/extreme-injector.json, HUMORCE/nuke, 1
 bucket/extremedumper.json, ViCrack/scoop-bucket, 1
 bucket/extremetuxracer.json, Calinou/scoop-games, 0
+bucket/exwrapper.json, aoisummer/scoop-bucket, 1
 bucket/eza.json, ScoopInstaller/Main, 1
 bucket/ezshare.json, couleur-tweak-tips/utils, 1
 bucket/ezunlock.json, ScoopInstaller/Extras, 1
@@ -3722,7 +3723,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
