@@ -6913,7 +6913,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9953,7 +9953,7 @@ bucket/wavebox-classic.json, ScoopInstaller/Extras, 0
 bucket/wavebox-portable.json, naderi/scoop-bucket, 0
 bucket/wavebox.json, ScoopInstaller/Extras, 0
 bucket/wavepad.json, naderi/scoop-bucket, 0
-bucket/waveterm.json, Weidows-projects/scoop-3rd, 1
+bucket/waveterm.json, DoveBoy/Apps, 1
 bucket/wavosaur.json, ScoopInstaller/Extras, 0
 bucket/wavpack.json, ScoopInstaller/Main, 1
 bucket/wax.json, DoveBoy/Apps, 1
