@@ -8915,7 +8915,7 @@ bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
 bucket/steam-game-idler.json, Calinou/scoop-games, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
-bucket/steam-rom-manager.json, hermanjustnu/scoop-emulators, 1
+bucket/steam-rom-manager.json, Calinou/scoop-games, 1
 bucket/steam.json, ScoopInstaller/Versions, 0
 bucket/steamchina.json, SayCV/scoop-cvp, 0
 bucket/steamcmd.json, ScoopInstaller/Extras, 0
@@ -9327,7 +9327,7 @@ bucket/thunderbird-beta.json, naderi/scoop-bucket, 0
 bucket/thunderbird-de.json, naderi/scoop-bucket, 0
 bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird-fa.json, naderi/scoop-bucket, 0
-bucket/thunderbird-zh-cn.json, chawyehsu/dorado, 0
+bucket/thunderbird-zh-cn.json, cc713/ownscoop, 0
 bucket/thunderbird.ja.json, jfut/scoop-jfut, 0
 bucket/thunderbird.json, ScoopInstaller/Extras, 0
 bucket/ti-analogengineerscalculator.json, SayCV/scoop-cvp, 1
