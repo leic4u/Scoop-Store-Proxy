@@ -7407,6 +7407,7 @@ bucket/php84-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php84.json, ScoopInstaller/Versions, 0
 bucket/phpmyadmin.json, wzv5/ScoopBucket, 0
 bucket/phpstorm-eap.json, ScoopInstaller/Versions, 1
+bucket/phpstorm-latest.json, ScoopInstaller/Versions, 1
 bucket/phpstorm-rc.json, ScoopInstaller/Versions, 1
 bucket/phpstorm.json, ScoopInstaller/Extras, 1
 bucket/phpstudy-lagecy-scoop.json, chawyehsu/dorado, 1
