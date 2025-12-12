@@ -23,10 +23,10 @@
     "}"
   ],
   "checkver": {
-    "url": "http://www.wofficebox.com/js/common.js",
-    "regex": "versionNumber=\"([\\d+\\.]+\\w+?)\""
+    "url": "https://www.wofficebox.com/",
+    "regex": "版本：([\\d+\\.]+\\w+?)正式版"
   },
   "autoupdate": {
-    "url": "http://files.wofficebox.com/officebox/download/OfficeBox%E5%AE%98%E6%96%B9%E7%BB%BF%E8%89%B2%E7%89%88.zip"
+    "url": "http://files.wofficebox.com/officebox/download/OfficeBox官方绿色版v_$version.zip"
   }
 }
