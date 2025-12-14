@@ -8,16 +8,16 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/wood3n/biu/releases/download/v1.6.0-beta.8/Biu-1.6.0-beta.8-win-setup-x64.exe",
-      "hash": "6432e1a6df68ee92fb3247a329123dc825e4daf816a46a9f9f9721df7655c1aa",
+      "url": "https://ghgo.xyz/https://github.com/wood3n/biu/releases/download/v1.6.0-beta.8/Biu-1.6.0-beta.8-win-portable-x64.exe",
+      "hash": "3038cfafaef8817aeaa3207910274d68dd4d32245314e8fb01a1e466a30e4548",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$*\" -Force -Recurse"
       ]
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/wood3n/biu/releases/download/v1.6.0-beta.8/Biu-1.6.0-beta.8-win-setup-arm64.exe",
-      "hash": "2966f7c5e78696b44ebf98bcafa226079d998f6d929bb2a5492f672f833f8daa",
+      "url": "https://ghgo.xyz/https://github.com/wood3n/biu/releases/download/v1.6.0-beta.8/Biu-1.6.0-beta.8-win-portable-arm64.exe",
+      "hash": "1bc18f5d87377af520cf400a2adec20ed09b2004ab4854170b2f21052d9a637b",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$*\" -Force -Recurse"
@@ -54,10 +54,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghgo.xyz/https://github.com/wood3n/biu/releases/download/v$version/Biu-$version-win-setup-x64.exe"
+        "url": "https://ghgo.xyz/https://github.com/wood3n/biu/releases/download/v$version/Biu-$version-win-portable-x64.exe"
       },
       "arm64": {
-        "url": "https://ghgo.xyz/https://github.com/wood3n/biu/releases/download/v$version/Biu-$version-win-setup-arm64.exe"
+        "url": "https://ghgo.xyz/https://github.com/wood3n/biu/releases/download/v$version/Biu-$version-win-portable-arm64.exe"
       }
     }
   }
