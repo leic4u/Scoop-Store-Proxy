@@ -4771,9 +4771,10 @@ bucket/inbucket.json, ScoopInstaller/Extras, 1
 bucket/inconsolata-variable.json, KnotUntied/scoop-fonts, 1
 bucket/inconsolata.json, KnotUntied/scoop-fonts, 1
 bucket/infekt.json, ScoopInstaller/Extras, 0
-bucket/influx.json, ScoopInstaller/Main, 0
+bucket/influx2.json, ScoopInstaller/Versions, 0
 bucket/influxdb.json, ScoopInstaller/Main, 0
 bucket/influxdb1.json, ScoopInstaller/Versions, 0
+bucket/influxdb2.json, ScoopInstaller/Versions, 0
 bucket/infoqube.json, ScoopInstaller/Extras, 0
 bucket/infraarcana.json, Calinou/scoop-games, 0
 bucket/inirw.json, rasa/scoops, 1
