@@ -8990,6 +8990,7 @@ bucket/sublime-merge.json, ScoopInstaller/Extras, 1
 bucket/sublime-text-3.json, amorphobia/siku, 0
 bucket/sublime-text-4.json, naderi/scoop-bucket, 1
 bucket/sublime-text.json, ScoopInstaller/Extras, 0
+bucket/sublinkpro.json, ViCrack/scoop-bucket, 1
 bucket/subrenamer.json, ivaquero/scoopet, 1
 bucket/subsync.json, ScoopInstaller/Extras, 1
 bucket/subtitle-ass-shifter.json, DoveBoy/Apps, 1
