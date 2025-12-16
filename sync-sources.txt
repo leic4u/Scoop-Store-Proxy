@@ -6452,6 +6452,7 @@ bucket/noty.json, ScoopInstaller/Extras, 1
 bucket/nova.json, ScoopInstaller/Main, 1
 bucket/novelwriter.json, ScoopInstaller/Extras, 1
 bucket/now-cli.json, ScoopInstaller/Extras, 1
+bucket/npcap.json, seumsc/scoop-seu, 0
 bucket/nping.json, DoveBoy/Apps, 1
 bucket/npiperelay.json, ScoopInstaller/Extras, 1
 bucket/npm-completion.json, akirco/aki-apps, 1
@@ -6917,7 +6918,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
