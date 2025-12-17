@@ -9962,7 +9962,7 @@ bucket/wavebox-classic.json, ScoopInstaller/Extras, 0
 bucket/wavebox-portable.json, naderi/scoop-bucket, 0
 bucket/wavebox.json, ScoopInstaller/Extras, 0
 bucket/wavepad.json, naderi/scoop-bucket, 0
-bucket/waveterm.json, Weidows-projects/scoop-3rd, 1
+bucket/waveterm.json, DoveBoy/Apps, 1
 bucket/wavosaur.json, ScoopInstaller/Extras, 0
 bucket/wavpack.json, ScoopInstaller/Main, 1
 bucket/wax.json, DoveBoy/Apps, 1
