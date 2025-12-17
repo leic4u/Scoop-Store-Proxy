@@ -2088,7 +2088,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -2704,7 +2704,7 @@ bucket/copytranslator.json, ScoopInstaller/Extras, 1
 bucket/coq.json, ScoopInstaller/Main, 1
 bucket/coredns.json, ScoopInstaller/Main, 1
 bucket/coreftp.json, ScoopInstaller/Extras, 0
-bucket/coreinfo.json, mogeko/scoop-sysinternals, 0
+bucket/coreinfo.json, niheaven/scoop-sysinternals, 1
 bucket/corepack.json, brian6932/dank-scoop, 1
 bucket/coretemp.json, ScoopInstaller/Extras, 1
 bucket/coreutils-rs.json, batkiz/backit, 1
@@ -7615,7 +7615,7 @@ bucket/privatezilla.json, ScoopInstaller/Extras, 1
 bucket/privoxy.json, ScoopInstaller/Extras, 0
 bucket/prm.json, ScoopInstaller/Main, 1
 bucket/procdump.json, niheaven/scoop-sysinternals, 1
-bucket/process-explorer.json, chawyehsu/dorado, 0
+bucket/process-explorer.json, niheaven/scoop-sysinternals, 1
 bucket/process-governor.json, ScoopInstaller/Main, 1
 bucket/process-monitor.json, chawyehsu/dorado, 0
 bucket/processactivityview.json, ScoopInstaller/Nirsoft, 0
