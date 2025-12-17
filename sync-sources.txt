@@ -2572,6 +2572,7 @@ bucket/clink-flex-prompt.json, ScoopInstaller/Main, 1
 bucket/clink-portable.json, naderi/scoop-bucket, 1
 bucket/clink.json, ScoopInstaller/Main, 1
 bucket/clion-eap.json, ScoopInstaller/Versions, 1
+bucket/clion-latest.json, ScoopInstaller/Versions, 1
 bucket/clion-rc.json, ScoopInstaller/Versions, 1
 bucket/clion.json, ScoopInstaller/Extras, 1
 bucket/clip-share-server.json, DoveBoy/Apps, 1
