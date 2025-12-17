@@ -7762,6 +7762,7 @@ bucket/px.json, ScoopInstaller/Main, 1
 bucket/py.exe.json, cderv/r-bucket, 0
 bucket/py.json, rasa/scoops, 0
 bucket/pycharm-eap.json, ScoopInstaller/Versions, 1
+bucket/pycharm-latest.json, ScoopInstaller/Versions, 1
 bucket/pycharm-professional-eap.json, ScoopInstaller/Versions, 1
 bucket/pycharm-professional-rc.json, ScoopInstaller/Versions, 1
 bucket/pycharm-professional.json, ScoopInstaller/Extras, 1
