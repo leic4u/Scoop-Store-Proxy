@@ -1649,6 +1649,7 @@ bucket/altair.json, ScoopInstaller/Extras, 1
 bucket/altdrag.json, ScoopInstaller/Extras, 1
 bucket/alternatestreamview.json, ScoopInstaller/Nirsoft, 0
 bucket/altools.json, ScoopInstaller/Extras, 0
+bucket/altsendme.json, ScoopInstaller/Extras, 1
 bucket/altserver.json, chawyehsu/dorado, 0
 bucket/altsnap.json, ScoopInstaller/Extras, 1
 bucket/altstreamdump.json, ScoopInstaller/Nirsoft, 0
