@@ -4534,6 +4534,7 @@ bucket/helm2.json, ScoopInstaller/Versions, 0
 bucket/helmfile.json, ScoopInstaller/Main, 1
 bucket/helmify.json, aliesbelik/poldi, 1
 bucket/helmsman.json, chawyehsu/dorado, 1
+bucket/hemmelig.json, ScoopInstaller/Extras, 1
 bucket/hercules.json, littleli/Scoop-littleli, 1
 bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
@@ -8064,6 +8065,7 @@ bucket/reduce-memory.json, ScoopInstaller/Extras, 0
 bucket/reflector-desktop.json, SayCV/scoop-cvp, 1
 bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/reg.json, MCOfficer/scoop-bucket, 1
+bucket/regclient.json, ScoopInstaller/Extras, 1
 bucket/regcool.json, naderi/scoop-bucket, 0
 bucket/regdelnull.json, niheaven/scoop-sysinternals, 1
 bucket/regdelta.json, rasa/scoops, 1
