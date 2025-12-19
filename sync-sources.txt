@@ -10775,6 +10775,10 @@ scripts/fork/install-context.reg, ScoopInstaller/Extras, 0
 scripts/fork/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/gen-readme.ps1, iquiw/scoop-bucket, 0
 scripts/gen-visualvm-vbs.ps1, zhoujin7/tomato, 0
+scripts/geogebra/install-associations.reg, ScoopInstaller/Extras, 0
+scripts/geogebra/uninstall-associations.reg, ScoopInstaller/Extras, 0
+scripts/geogebra5/install-associations.reg, ScoopInstaller/Versions, 0
+scripts/geogebra5/uninstall-associations.reg, ScoopInstaller/Versions, 0
 scripts/get-spotify-path.ps1, TheRandomLabs/Scoop-Spotify, 0
 scripts/gimp/default.env, ScoopInstaller/Extras, 0
 scripts/git/install-context.reg, ScoopInstaller/Main, 0
@@ -10982,6 +10986,8 @@ scripts/vscode/uninstall-context-it.reg, starise/Scoop-Confetti, 0
 scripts/vscode/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/vscode/uninstall-github-integration.reg, ScoopInstaller/Extras, 0
 scripts/vulkan/install-vk-layers.ps1, ScoopInstaller/Main, 0
+scripts/wezterm-nightly/install-context.reg, ScoopInstaller/Versions, 0
+scripts/wezterm-nightly/uninstall-context.reg, ScoopInstaller/Versions, 0
 scripts/wezterm/install-context.reg, ScoopInstaller/Extras, 0
 scripts/wezterm/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/winbox-beta/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
