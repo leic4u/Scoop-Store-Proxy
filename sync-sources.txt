@@ -6123,6 +6123,8 @@ bucket/mqttx.json, ScoopInstaller/Extras, 1
 bucket/mra.json, naderi/scoop-bucket, 1
 bucket/mremoteng-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/mremoteng.json, ScoopInstaller/Extras, 1
+bucket/mrrss-portable.json, DoveBoy/Apps, 1
+bucket/mrrss.json, DoveBoy/Apps, 1
 bucket/msbuild-structured-log-viewer.json, ScoopInstaller/Extras, 1
 bucket/msedge-beta.json, 42wim/scoop-bucket, 0
 bucket/msedge-canary.json, 42wim/scoop-bucket, 0
@@ -9785,6 +9787,7 @@ bucket/vesta.json, ScoopInstaller/Extras, 0
 bucket/veusz.json, ScoopInstaller/Extras, 1
 bucket/veyon-np.json, ScoopInstaller/Nonportable, 1
 bucket/vfox.json, ScoopInstaller/Main, 1
+bucket/vget.json, DoveBoy/Apps, 1
 bucket/vgmstream.json, ScoopInstaller/Main, 1
 bucket/vhs.json, ScoopInstaller/Main, 1
 bucket/vi-mongo.json, aliesbelik/poldi, 1
@@ -10013,7 +10016,7 @@ bucket/wechat-np.json, chawyehsu/dorado, 0
 bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
-bucket/wechatdevtools.json, akirco/aki-apps, 0
+bucket/wechatdevtools.json, chawyehsu/dorado, 0
 bucket/wechatdownload.json, DoveBoy/Apps, 1
 bucket/wechatexporter.json, amorphobia/siku, 1
 bucket/wechatmoments.json, DoveBoy/Apps, 1
