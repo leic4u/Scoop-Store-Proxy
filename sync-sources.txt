@@ -4447,7 +4447,7 @@ bucket/gtools.json, ScoopInstaller/Extras, 0
 bucket/gtypist.json, ScoopInstaller/Main, 0
 bucket/guetzli.json, ScoopInstaller/Main, 1
 bucket/gui-for-clash.json, ScoopInstaller/Extras, 1
-bucket/gui-for-singbox.json, DoveBoy/Apps, 1
+bucket/gui-for-singbox.json, ScoopInstaller/Extras, 1
 bucket/guipropview.json, ScoopInstaller/Nirsoft, 0
 bucket/guiscrcpy.json, ScoopInstaller/Extras, 1
 bucket/gum.json, ScoopInstaller/Main, 1
