@@ -201,7 +201,7 @@ bucket/BitstreamVeraSansMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BitstreamVeraSansMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BitstreamVeraSansMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Bitwarden-Portable.json, ACooper81/scoop-apps, 1
-bucket/Biu.json, Weidows-projects/scoop-3rd, 1
+bucket/Biu.json, DoveBoy/Apps, 1
 bucket/BlackBird-Player.json, kkzzhizhou/scoop-zapps, 1
 bucket/Blender-Portable.json, ACooper81/scoop-apps, 0
 bucket/BlueLifeHostsEditor.json, kkzzhizhou/scoop-zapps, 1
