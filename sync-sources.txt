@@ -10896,6 +10896,8 @@ scripts/qbittorrent/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/qqlite/install-qqlite.reg.templ, SayCV/scoop-cvp, 0
 scripts/qqlite/uninstall-qqlite.reg, SayCV/scoop-cvp, 0
 scripts/qqmusic/instok, chawyehsu/dorado, 0
+scripts/qview/install-associations.reg, ScoopInstaller/Extras, 0
+scripts/qview/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/recaps/add-startup.reg, ScoopInstaller/Extras, 0
 scripts/recaps/remove-startup.reg, ScoopInstaller/Extras, 0
 scripts/register.zip, Weidows-projects/scoop-3rd, 0
