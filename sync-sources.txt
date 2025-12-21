@@ -2295,6 +2295,7 @@ bucket/caffeinated.json, naderi/scoop-bucket, 0
 bucket/caffeine.json, ScoopInstaller/Extras, 0
 bucket/cairo-desktop.json, ScoopInstaller/Extras, 1
 bucket/cajviewer.json, ivaquero/scoopet, 0
+bucket/cake-wallet.json, ScoopInstaller/Extras, 1
 bucket/cake.json, ScoopInstaller/Main, 1
 bucket/calctus.json, DoveBoy/Apps, 1
 bucket/calibre-normal.json, ScoopInstaller/Extras, 0
