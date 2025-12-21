@@ -8771,6 +8771,7 @@ bucket/sonarr.json, amorphobia/siku, 0
 bucket/sonic-pi.json, ScoopInstaller/Extras, 0
 bucket/sonic-visualiser.json, ScoopInstaller/Extras, 1
 bucket/sonixd.json, ScoopInstaller/Extras, 1
+bucket/sophia-script.json, ScoopInstaller/Extras, 1
 bucket/sophiapp.json, ScoopInstaller/Extras, 1
 bucket/sops.json, ScoopInstaller/Main, 1
 bucket/sorayomi.json, ScoopInstaller/Extras, 1
