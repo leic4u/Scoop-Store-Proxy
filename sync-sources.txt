@@ -3370,7 +3370,7 @@ bucket/ecopaste.json, DoveBoy/Apps, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden.json, Calinou/scoop-games, 1
+bucket/eden.json, Deide/deide-bucket, 1
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-portable-beta.json, naderi/scoop-bucket, 0
 bucket/edge-portable-canary.json, naderi/scoop-bucket, 0
@@ -6924,7 +6924,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
