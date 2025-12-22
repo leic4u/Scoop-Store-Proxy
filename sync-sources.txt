@@ -1843,6 +1843,7 @@ bucket/atkinson-hyperlegible-next.json, KnotUntied/scoop-fonts, 1
 bucket/atkinson-hyperlegible.json, KnotUntied/scoop-fonts, 1
 bucket/atlas-ce.json, aliesbelik/poldi, 0
 bucket/atlas.json, aliesbelik/poldi, 0
+bucket/atlauncher.json, Calinou/scoop-games, 1
 bucket/atmos.json, ScoopInstaller/Main, 1
 bucket/atom-beta.json, ScoopInstaller/Versions, 1
 bucket/atom-ng.json, ScoopInstaller/Versions, 1
@@ -2903,7 +2904,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, DoveBoy/Apps, 1
+bucket/dandanplay.json, chawyehsu/dorado, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -4578,7 +4579,7 @@ bucket/hlae.json, Calinou/scoop-games, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 1
-bucket/hmcl.json, seumsc/scoop-seu, 1
+bucket/hmcl.json, chawyehsu/dorado, 1
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
 bucket/hok.json, chawyehsu/dorado, 1
