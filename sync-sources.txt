@@ -1954,7 +1954,6 @@ bucket/azuredatastudio.json, ScoopInstaller/Extras, 0
 bucket/azurestorageexplorer.json, ScoopInstaller/Extras, 1
 bucket/b-em.json, hermanjustnu/scoop-emulators, 0
 bucket/b0pass.json, DoveBoy/Apps, 1
-bucket/b1.json, ScoopInstaller/Extras, 0
 bucket/b2.json, ScoopInstaller/Main, 1
 bucket/b23downloader-win7.json, DoveBoy/Apps, 1
 bucket/b23downloader.json, DoveBoy/Apps, 1
