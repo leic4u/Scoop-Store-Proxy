@@ -14,11 +14,11 @@ bucket/163MusicLyrics-pro.json, hu3rror/scoop-muggle, 1
 bucket/163MusicLyrics.json, ygguorun/scoop-bucket, 1
 bucket/1History.json, abgox/abgo_bucket, 1
 bucket/1Remote-Portable.json, ACooper81/scoop-apps, 1
-bucket/1Remote.json, zhoujin7/tomato, 1
 bucket/1by1-Portable.json, ACooper81/scoop-apps, 0
 bucket/1by1.json, naderi/scoop-bucket, 0
 bucket/1password-cli.json, ScoopInstaller/Main, 0
 bucket/1password-cli1.json, ScoopInstaller/Versions, 0
+bucket/1remote.json, ViCrack/scoop-bucket, 1
 bucket/2345pic.json, echoiron/echo-scoop, 0
 bucket/2faguard.json, naderi/scoop-bucket, 1
 bucket/2ship2harkinian.json, Calinou/scoop-games, 1
@@ -84,7 +84,6 @@ bucket/AWGG-Portable.json, ACooper81/scoop-apps, 1
 bucket/AccentApplicator-UserInstall.json, ACooper81/scoop-apps, 1
 bucket/AcronisTrueImage.json, kkzzhizhou/scoop-zapps, 1
 bucket/AcrylicDNSProxy-Portable.json, ACooper81/scoop-apps, 0
-bucket/ActiveMQ-Classic.json, zhoujin7/tomato, 1
 bucket/AdGuardHome-Portable.json, ACooper81/scoop-apps, 1
 bucket/AdGuardHome.json, ViCrack/scoop-bucket, 1
 bucket/AdobeAcrobatReader-Install.json, ACooper81/scoop-apps, 0
@@ -125,6 +124,7 @@ bucket/AnonymousPro-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Anuphan.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/AnyBurn-Portable.json, ACooper81/scoop-apps, 0
 bucket/AnyTXT.json, cc713/ownscoop, 0
+bucket/ApiPost.json, Weidows-projects/scoop-3rd, 0
 bucket/ApkMessenger.json, kkzzhizhou/scoop-zapps, 1
 bucket/AppBuster-Portable.json, ACooper81/scoop-apps, 0
 bucket/AppFlowy-Portable.json, ACooper81/scoop-apps, 1
@@ -222,7 +222,6 @@ bucket/BulkCrapUninstaller-Portable.json, ACooper81/scoop-apps, 1
 bucket/BurntToast-PSModule.json, ACooper81/scoop-apps, 1
 bucket/ByPass.json, kkzzhizhou/scoop-zapps, 0
 bucket/CCleaner-Portable.json, ACooper81/scoop-apps, 0
-bucket/CCleaner540.json, zhoujin7/tomato, 0
 bucket/CJK-character-count.json, ygguorun/scoop-bucket, 1
 bucket/CMWTAT_Digital_Edition.json, batkiz/backit, 1
 bucket/COMTool.json, ygguorun/scoop-bucket, 1
@@ -230,7 +229,6 @@ bucket/CTTWindowsUtility-Script.json, ACooper81/scoop-apps, 0
 bucket/CabMaker.json, Weidows-projects/scoop-3rd, 1
 bucket/Cache-Relocator.json, kkzzhizhou/scoop-zapps, 0
 bucket/Caffeine-Portable.json, ACooper81/scoop-apps, 0
-bucket/CapsLockIndicator.json, zhoujin7/tomato, 1
 bucket/Capture2Text-Portable.json, ACooper81/scoop-apps, 0
 bucket/CarotDAV-Portable.json, ACooper81/scoop-apps, 0
 bucket/Cascadia-Code.json, matthewjberger/scoop-nerd-fonts, 1
@@ -286,7 +284,6 @@ bucket/CompileAHK.json, kkzzhizhou/scoop-zapps, 1
 bucket/ComputerManagementDsc-PSModule.json, ACooper81/scoop-apps, 1
 bucket/ContextMenuManager-Portable.json, ACooper81/scoop-apps, 1
 bucket/ContextMenuManager.json, abgox/abgo_bucket, 1
-bucket/ContextMenuMgr.json, zhoujin7/tomato, 0
 bucket/ControlUWP-Portable.json, ACooper81/scoop-apps, 1
 bucket/ConvertFrom-SourceTable.json, brian6932/dank-scoop, 1
 bucket/Coodesker-Portable.json, ACooper81/scoop-apps, 0
@@ -354,7 +351,6 @@ bucket/DocBox.json, hu3rror/scoop-muggle, 0
 bucket/Document-TagExplorer.json, kkzzhizhou/scoop-zapps, 1
 bucket/DotNetVersions.json, yuusakuri/scoop-bucket, 1
 bucket/DouYin.json, ivaquero/scoopet, 0
-bucket/DoubleKiller.json, zhoujin7/tomato, 0
 bucket/DownKyi.json, abgox/abgo_bucket, 1
 bucket/DrFolder-Portable.json, ACooper81/scoop-apps, 0
 bucket/Draw.io-Portable.json, ACooper81/scoop-apps, 1
@@ -389,8 +385,6 @@ bucket/Edge-Webdriver-Stable.json, Weidows-projects/scoop-3rd, 0
 bucket/Edge-Webdriver.json, Weidows-projects/scoop-3rd, 0
 bucket/EdgeDeflector-Portable.json, ACooper81/scoop-apps, 1
 bucket/Effidit.json, ygguorun/scoop-bucket, 0
-bucket/Elasticsearch6.json, zhoujin7/tomato, 0
-bucket/Elasticsearch7.json, zhoujin7/tomato, 0
 bucket/EleDo.json, brian6932/dank-scoop, 1
 bucket/ElectronicObserver.json, Darkatse/Scoop-KanColle, 1
 bucket/ElevenClock-Portable.json, ACooper81/scoop-apps, 1
@@ -526,10 +520,6 @@ bucket/GoogleChromeCanary-Portable.json, ACooper81/scoop-apps, 0
 bucket/GoogleChromeDev-Portable.json, ACooper81/scoop-apps, 0
 bucket/Grub2.json, kkzzhizhou/scoop-zapps, 0
 bucket/GuiCompletion-PSModule.json, ACooper81/scoop-apps, 0
-bucket/HBuilder.json, zhoujin7/tomato, 0
-bucket/HBuilderX-Alpha.json, zhoujin7/tomato, 0
-bucket/HBuilderX-Full-Alpha.json, zhoujin7/tomato, 0
-bucket/HBuilderX-Full.json, zhoujin7/tomato, 0
 bucket/HBuilderX.json, echoiron/echo-scoop, 0
 bucket/HDCleaner-Portable.json, ACooper81/scoop-apps, 0
 bucket/HDTunePro.json, kkzzhizhou/scoop-zapps, 1
@@ -834,7 +824,6 @@ bucket/MyJoy.json, Weidows-projects/scoop-3rd, 0
 bucket/N0vaDesktop.json, Weidows-projects/scoop-3rd, 0
 bucket/NTLite-Portable.json, ACooper81/scoop-apps, 0
 bucket/NVUpdater-Portable.json, ACooper81/scoop-apps, 0
-bucket/Nacos.json, zhoujin7/tomato, 1
 bucket/NanaZip-Portable.json, ACooper81/scoop-apps, 1
 bucket/NavicatPremium.json, kkzzhizhou/scoop-zapps, 1
 bucket/NegativeEncoder.json, ygguorun/scoop-bucket, 1
@@ -904,9 +893,6 @@ bucket/OperaGX-Portable.json, ACooper81/scoop-apps, 0
 bucket/OperatorMono.json, everyx/scoop-bucket, 1
 bucket/OperatorMonoSSmNerdLig.json, Weidows-projects/scoop-3rd, 1
 bucket/Optimizer-Portable.json, ACooper81/scoop-apps, 1
-bucket/OracleJDK11.json, zhoujin7/tomato, 0
-bucket/OracleJDK17.json, zhoujin7/tomato, 0
-bucket/OracleJDK8.json, zhoujin7/tomato, 0
 bucket/OracleJRE8-Install.json, ACooper81/scoop-apps, 0
 bucket/OracleJRE8-Portable.json, ACooper81/scoop-apps, 0
 bucket/Overpass-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -928,7 +914,7 @@ bucket/PSWindowsUpdate-PSModule.json, ACooper81/scoop-apps, 0
 bucket/PanDownloadServer.json, Paxxs/Cluttered-bucket, 0
 bucket/PanJi-GreenTools.json, Weidows-projects/scoop-3rd, 0
 bucket/PandaOCR.json, kkzzhizhou/scoop-zapps, 1
-bucket/PartAssist.json, zhoujin7/tomato, 0
+bucket/PartAssist.json, Weidows-projects/scoop-3rd, 0
 bucket/PatchMyPCHomeUpdater-Portable.json, ACooper81/scoop-apps, 0
 bucket/Patchfluent-Portable.json, ACooper81/scoop-apps, 1
 bucket/Pattaya.json, matthewjberger/scoop-nerd-fonts, 0
@@ -937,8 +923,6 @@ bucket/PeerBlock-Portable.json, ACooper81/scoop-apps, 0
 bucket/PermissionsReporter-Portable.json, ACooper81/scoop-apps, 0
 bucket/PersonalBackup-Portable.json, ACooper81/scoop-apps, 0
 bucket/PhotoDemon-Portable.json, ACooper81/scoop-apps, 1
-bucket/PhotoFiltre11.json, zhoujin7/tomato, 0
-bucket/PhotoFiltre7.json, zhoujin7/tomato, 0
 bucket/PhotoQt.json, cc713/ownscoop, 0
 bucket/PhotoZoomPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/PicaComic.json, hu3rror/scoop-muggle, 1
@@ -948,7 +932,6 @@ bucket/PingFangHK.json, ygguorun/scoop-bucket, 0
 bucket/PingFangSC.json, ygguorun/scoop-bucket, 0
 bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/Pinokio-Portable.json, ACooper81/scoop-apps, 1
-bucket/PixBuilder.json, zhoujin7/tomato, 0
 bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
 bucket/PixPin.json, ivaquero/scoopet, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
@@ -1003,12 +986,11 @@ bucket/PyDebloatX-Portable.json, ACooper81/scoop-apps, 1
 bucket/QQBrowser.json, abgox/abgo_bucket, 1
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/Qoder.json, akirco/aki-apps, 0
-bucket/QtDesigner.json, zhoujin7/tomato, 1
 bucket/QuickCPU-Portable.json, ACooper81/scoop-apps, 0
 bucket/QuickCut.json, Weidows-projects/scoop-3rd, 1
 bucket/QuickSwitch.json, ygguorun/scoop-bucket, 1
 bucket/Quicker-MSI.json, leic4u/Scoop-Store, 0
-bucket/Quicker.json, zhoujin7/tomato, 0
+bucket/Quicker.json, abgox/abgo_bucket, 0
 bucket/R-Studio.json, kkzzhizhou/scoop-zapps, 1
 bucket/RAMExpect.json, kkzzhizhou/scoop-zapps, 0
 bucket/RDPWrapper-Portable.json, ACooper81/scoop-apps, 1
@@ -1033,7 +1015,6 @@ bucket/RegConvert.json, kkzzhizhou/scoop-zapps, 0
 bucket/RegConverter.json, ViCrack/scoop-bucket, 0
 bucket/RegCool-Portable.json, ACooper81/scoop-apps, 0
 bucket/RegexMatchTracer.json, ygguorun/scoop-bucket, 0
-bucket/RegistryWorkshop.json, zhoujin7/tomato, 0
 bucket/Regshot-Portable.json, ACooper81/scoop-apps, 0
 bucket/RemNote-Portable.json, ACooper81/scoop-apps, 0
 bucket/Remix-desktop.json, Weidows-projects/scoop-3rd, 1
@@ -1352,7 +1333,6 @@ bucket/UbuntuSans-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/UbuntuSans-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/UbuntuSans-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/UltimateWindowsTweakerWin10-Portable.json, ACooper81/scoop-apps, 0
-bucket/UltraCodingSwitch.json, zhoujin7/tomato, 0
 bucket/UltraUXThemePatcher.json, Weidows-projects/scoop-3rd, 1
 bucket/UmaAi.json, Weidows-projects/scoop-3rd, 1
 bucket/UmamusumeResponseAnalyzer.json, Weidows-projects/scoop-3rd, 1
@@ -1494,7 +1474,6 @@ bucket/WubiLex.json, kkzzhizhou/scoop-zapps, 0
 bucket/XAMPP-Portable.json, ACooper81/scoop-apps, 0
 bucket/XBYDriver.json, abgox/abgo_bucket, 1
 bucket/XDown.json, leic4u/Scoop-Store, 0
-bucket/XJad.json, zhoujin7/tomato, 0
 bucket/XStudio.json, Weidows-projects/scoop-3rd, 0
 bucket/XToolBox-Portable.json, ACooper81/scoop-apps, 1
 bucket/XYplorerFree.json, abgox/abgo_bucket, 0
@@ -1739,7 +1718,6 @@ bucket/api-monitor.json, rasa/scoops, 0
 bucket/apifox.json, ScoopInstaller/Extras, 0
 bucket/apimonitor.json, 42wim/scoop-bucket, 0
 bucket/apimtemplate.json, ScoopInstaller/Main, 1
-bucket/apipost.json, zhoujin7/tomato, 0
 bucket/apk-editor-studio.json, ScoopInstaller/Extras, 1
 bucket/apkeep.json, ScoopInstaller/Extras, 1
 bucket/apkeepCLI-Portable.json, ACooper81/scoop-apps, 1
@@ -4461,7 +4439,6 @@ bucket/gvm.json, Weidows-projects/scoop-3rd, 1
 bucket/gyroflow.json, ScoopInstaller/Extras, 1
 bucket/gzdoom.json, Calinou/scoop-games, 1
 bucket/gzip.json, ScoopInstaller/Main, 0
-bucket/h2.json, zhoujin7/tomato, 1
 bucket/h2testw.json, starise/Scoop-Confetti, 0
 bucket/hack-font.json, ScoopInstaller/Extras, 1
 bucket/hackbrowserdata.json, DoveBoy/Apps, 1
@@ -4615,7 +4592,6 @@ bucket/hp-support-assistant-np.json, ScoopInstaller/Nonportable, 0
 bucket/hq.json, aliesbelik/poldi, 1
 bucket/hqfpga.json, SayCV/scoop-cvp, 0
 bucket/hs-flashtool.json, SayCV/scoop-cvp, 1
-bucket/hsqldb.json, zhoujin7/tomato, 0
 bucket/hterm.json, ScoopInstaller/Extras, 0
 bucket/html-comic.json, DoveBoy/Apps, 1
 bucket/htmlastext.json, ScoopInstaller/Nirsoft, 0
@@ -5341,7 +5317,6 @@ bucket/ldplayer9.json, cc713/ownscoop, 1
 bucket/leaf.json, kidonng/sushi, 1
 bucket/leagueakari.json, DoveBoy/Apps, 1
 bucket/leaguemono.json, KnotUntied/scoop-fonts, 1
-bucket/lealone.json, zhoujin7/tomato, 0
 bucket/lean-cli.json, ScoopInstaller/Main, 1
 bucket/leanify.json, seumsc/scoop-seu, 1
 bucket/ledger-live.json, chawyehsu/dorado, 0
@@ -5741,7 +5716,6 @@ bucket/matterircd.json, ScoopInstaller/Extras, 1
 bucket/mattermost.json, ScoopInstaller/Extras, 0
 bucket/maven.json, ScoopInstaller/Main, 0
 bucket/maven3.json, ScoopInstaller/Versions, 0
-bucket/maven36.json, zhoujin7/tomato, 0
 bucket/maven4.json, ScoopInstaller/Versions, 0
 bucket/maxim-eesim.json, SayCV/scoop-cvp, 1
 bucket/maxima.json, ScoopInstaller/Extras, 0
@@ -6227,7 +6201,6 @@ bucket/mysql-workbench.json, ScoopInstaller/Main, 0
 bucket/mysql.json, ScoopInstaller/Main, 0
 bucket/mysql56.json, ScoopInstaller/Versions, 0
 bucket/mysql57.json, ScoopInstaller/Versions, 0
-bucket/mysql8.json, zhoujin7/tomato, 0
 bucket/myuninst.json, ScoopInstaller/Nirsoft, 0
 bucket/myuninstaller.json, kodybrown/scoop-nirsoft, 0
 bucket/mzcacheview.json, kodybrown/scoop-nirsoft, 0
@@ -6804,6 +6777,7 @@ bucket/oraclejdk7-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/oraclejdk8-8u151.json, ZvonimirSun/scoop-iszy, 1
 bucket/oraclejdk8-8u191.json, ZvonimirSun/scoop-iszy, 1
 bucket/oraclejdk8-portapps.json, Velgus/Scoop-Portapps, 1
+bucket/oraclejdk8.json, ZvonimirSun/scoop-iszy, 1
 bucket/oraclejre8.json, ScoopInstaller/Java, 0
 bucket/oranda.json, ScoopInstaller/Extras, 1
 bucket/orange.json, ScoopInstaller/Extras, 0
@@ -8057,7 +8031,7 @@ bucket/redis-desktop-manager.json, chawyehsu/dorado, 1
 bucket/redis-tui.json, ScoopInstaller/Extras, 1
 bucket/redis-viewer.json, batkiz/backit, 1
 bucket/redis.json, ScoopInstaller/Main, 1
-bucket/redis5.json, zhoujin7/tomato, 1
+bucket/redis5.json, akirco/aki-apps, 1
 bucket/redli.json, batkiz/backit, 1
 bucket/rednotebook.json, ScoopInstaller/Extras, 1
 bucket/redpanda-cpp.json, chawyehsu/dorado, 0
@@ -8548,7 +8522,6 @@ bucket/semeru8-jdk.json, ScoopInstaller/Java, 1
 bucket/semeru8-jre.json, ScoopInstaller/Java, 1
 bucket/sendmail.json, ScoopInstaller/Main, 0
 bucket/sendto-menu-editor.json, ScoopInstaller/Extras, 0
-bucket/sentinel-dashboard.json, zhoujin7/tomato, 1
 bucket/sentinel.json, ScoopInstaller/Main, 0
 bucket/sentry-cli.json, ScoopInstaller/Main, 1
 bucket/seqcli.json, ScoopInstaller/Main, 1
@@ -8719,7 +8692,6 @@ bucket/smartmontools.json, ScoopInstaller/Main, 0
 bucket/smartsniff.json, kodybrown/scoop-nirsoft, 0
 bucket/smartsub.json, DoveBoy/Apps, 1
 bucket/smartsvn.json, ScoopInstaller/Extras, 0
-bucket/smartsvn11.json, zhoujin7/tomato, 0
 bucket/smartsynchronize.json, ScoopInstaller/Extras, 0
 bucket/smartsystemmenu.json, ScoopInstaller/Extras, 1
 bucket/smarttaskbar.json, ScoopInstaller/Extras, 1
@@ -8755,7 +8727,6 @@ bucket/so-novel-beta.json, DoveBoy/Apps, 1
 bucket/so-novel.json, DoveBoy/Apps, 1
 bucket/so.json, ScoopInstaller/Extras, 1
 bucket/soapui.json, ScoopInstaller/Extras, 1
-bucket/soar.json, zhoujin7/tomato, 1
 bucket/socketsniff.json, ScoopInstaller/Nirsoft, 0
 bucket/softether-vpnbridge.json, SayCV/scoop-cvp, 1
 bucket/softether-vpnclient.json, SayCV/scoop-cvp, 1
@@ -10628,8 +10599,6 @@ bucket/zip.json, ScoopInstaller/Main, 1
 bucket/zipideo.json, DoveBoy/Apps, 1
 bucket/zipinst.json, ScoopInstaller/Nirsoft, 0
 bucket/zipinstaller.json, kodybrown/scoop-nirsoft, 0
-bucket/zipkin-dependencies.json, zhoujin7/tomato, 1
-bucket/zipkin.json, zhoujin7/tomato, 1
 bucket/zizmor.json, iquiw/scoop-bucket, 1
 bucket/zlib.json, ScoopInstaller/Extras, 1
 bucket/zlibrary.json, hu3rror/scoop-muggle, 0
@@ -10769,7 +10738,6 @@ scripts/eartrumpet/remove-startup.reg, ScoopInstaller/Extras, 0
 scripts/everything/install-context.reg, ScoopInstaller/Extras, 0
 scripts/everything/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/firefox-policies.json, starise/Scoop-Confetti, 0
-scripts/fix-activemq-classic.ps1, zhoujin7/tomato, 0
 scripts/fixes-wsl-mac-dynaddr/.fixes-wsl-mac-dynaddr.bashrc, SayCV/scoop-cvp, 0
 scripts/fixes-wsl-mac-dynaddr/patch-bashrc.cmd, SayCV/scoop-cvp, 0
 scripts/fixes-wsl-mac-dynaddr/patch-bashrc.sh, SayCV/scoop-cvp, 0
@@ -10779,7 +10747,6 @@ scripts/font/uninstall.ps1, abgox/abgo_bucket, 0
 scripts/fork/install-context.reg, ScoopInstaller/Extras, 0
 scripts/fork/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/gen-readme.ps1, iquiw/scoop-bucket, 0
-scripts/gen-visualvm-vbs.ps1, zhoujin7/tomato, 0
 scripts/geogebra/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/geogebra/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/geogebra5/install-associations.reg, ScoopInstaller/Versions, 0
@@ -10914,7 +10881,6 @@ scripts/saturn-pcbtoolkit/install-pcbtoolkit.reg, SayCV/scoop-cvp, 0
 scripts/saturn-pcbtoolkit/uninstall-pcbtoolkit.reg, SayCV/scoop-cvp, 0
 scripts/saturn/install.reg, ScoopInstaller/Extras, 0
 scripts/saturn/uninstall.reg, ScoopInstaller/Extras, 0
-scripts/sentinel-dashboard.ps1, zhoujin7/tomato, 0
 scripts/simple-dnscrypt/simple-dnscrypt.ps1, rasa/scoops, 0
 scripts/sleep-on-lan/install-service.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/sleep-on-lan/remove-service.ps1, AkariiinMKII/Scoop4kariiin, 0
@@ -11039,8 +11005,6 @@ scripts/xlnx-vivado20183/uninstall-context.reg, SayCV/scoop-cvp, 0
 scripts/xmanager/register.reg.templ, kkzzhizhou/scoop-zapps, 0
 scripts/xshell/register.reg.templ, kkzzhizhou/scoop-zapps, 0
 scripts/xshell7p/register.reg.templ, kkzzhizhou/scoop-zapps, 0
-scripts/zipkin-dependencies.ps1, zhoujin7/tomato, 0
-scripts/zipkin.ps1, zhoujin7/tomato, 0
 scripts/zlib/register.reg, ScoopInstaller/Extras, 0
 scripts/zlib/unregister.reg, ScoopInstaller/Extras, 0
 scripts/zotero/install-zotero-url-protocol.ps1, ScoopInstaller/Extras, 0
