@@ -5645,7 +5645,7 @@ bucket/lxrunoffline.json, ScoopInstaller/Extras, 1
 bucket/lychee.json, ScoopInstaller/Main, 1
 bucket/lynx.json, ScoopInstaller/Main, 0
 bucket/lynx283.json, ScoopInstaller/Versions, 1
-bucket/lyricsmaster.json, jfut/scoop-jfut, 0
+bucket/lyricsmaster.json, jfut/scoop-jfut, 1
 bucket/lyx-cn.json, ivaquero/scoopet, 0
 bucket/lyx.json, chawyehsu/dorado, 0
 bucket/lz4.json, ScoopInstaller/Main, 1
