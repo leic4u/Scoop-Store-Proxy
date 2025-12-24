@@ -1719,6 +1719,8 @@ bucket/anx-reader.json, ScoopInstaller/Extras, 1
 bucket/anxreader-portable.json, DoveBoy/Apps, 1
 bucket/anxreader.json, DoveBoy/Apps, 1
 bucket/any-code.json, ScoopInstaller/Extras, 1
+bucket/any-listen-desktop-win7.json, DoveBoy/Apps, 1
+bucket/any-listen-desktop.json, DoveBoy/Apps, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
 bucket/anypoint-studio.json, ScoopInstaller/Extras, 0
@@ -2089,7 +2091,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -2895,6 +2897,7 @@ bucket/cyberduck.json, ScoopInstaller/Extras, 0
 bucket/cygwin-cvp.json, SayCV/scoop-cvp, 1
 bucket/cygwin-libs-hentai.json, Weidows-projects/scoop-3rd, 0
 bucket/cygwin.json, ScoopInstaller/Main, 0
+bucket/cyrenemusic.json, DoveBoy/Apps, 1
 bucket/czkawka-gui.json, ScoopInstaller/Extras, 1
 bucket/czkawka.json, ScoopInstaller/Main, 1
 bucket/d2.json, ScoopInstaller/Main, 1
@@ -3162,7 +3165,7 @@ bucket/doggo.json, ScoopInstaller/Main, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -10383,7 +10386,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu.json, borger/scoop-emulators, 1
+bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
