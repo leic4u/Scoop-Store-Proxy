@@ -3941,6 +3941,7 @@ bucket/freetube.json, ScoopInstaller/Extras, 1
 bucket/freeze.json, aliesbelik/poldi, 1
 bucket/freezer.json, starise/Scoop-Confetti, 0
 bucket/freezetostock.json, couleur-tweak-tips/utils, 1
+bucket/fresh-editor.json, littleli/Scoop-littleli, 1
 bucket/frhelper.json, ivaquero/scoopet, 0
 bucket/fricas.json, ScoopInstaller/Extras, 1
 bucket/fritzing.json, ScoopInstaller/Extras, 1
