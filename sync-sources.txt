@@ -3162,6 +3162,7 @@ bucket/doge.json, brian6932/dank-scoop, 1
 bucket/dogecoin-core.json, naderi/scoop-bucket, 1
 bucket/dogecoincore.json, chawyehsu/dorado, 1
 bucket/doggo.json, ScoopInstaller/Main, 1
+bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
@@ -5884,6 +5885,7 @@ bucket/migrated/ddosify.json, aliesbelik/poldi, 1
 bucket/migrated/dnslookup.json, aliesbelik/poldi, 1
 bucket/migrated/dnsproxy.json, aliesbelik/poldi, 1
 bucket/migrated/doggo.json, aliesbelik/poldi, 1
+bucket/migrated/dyff.json, aliesbelik/poldi, 1
 bucket/migrated/eget.json, aliesbelik/poldi, 1
 bucket/migrated/flamelens.json, aliesbelik/poldi, 1
 bucket/migrated/focus.json, aliesbelik/poldi, 1
@@ -10387,7 +10389,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu.json, borger/scoop-emulators, 1
+bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
