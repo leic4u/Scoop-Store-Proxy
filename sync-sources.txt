@@ -6132,7 +6132,7 @@ bucket/mra.json, naderi/scoop-bucket, 1
 bucket/mremoteng-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/mremoteng.json, ScoopInstaller/Extras, 1
 bucket/mrrss-portable.json, DoveBoy/Apps, 1
-bucket/mrrss.json, DoveBoy/Apps, 1
+bucket/mrrss.json, ScoopInstaller/Extras, 1
 bucket/msbuild-structured-log-viewer.json, ScoopInstaller/Extras, 1
 bucket/msedge-beta.json, 42wim/scoop-bucket, 0
 bucket/msedge-canary.json, 42wim/scoop-bucket, 0
