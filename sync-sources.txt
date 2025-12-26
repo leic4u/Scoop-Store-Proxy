@@ -9466,7 +9466,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, chawyehsu/dorado, 0
+bucket/trae-cn.json, akirco/aki-apps, 1
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
