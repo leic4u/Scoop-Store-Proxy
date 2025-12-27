@@ -4019,6 +4019,7 @@ bucket/galaxy-steam.json, borger/scoop-galaxy-integrations, 1
 bucket/galaxy-twitch.json, borger/scoop-galaxy-integrations, 1
 bucket/galaxy-uplay.json, borger/scoop-galaxy-integrations, 1
 bucket/galaxy-wargaming.json, borger/scoop-galaxy-integrations, 1
+bucket/gallery-dl-nightly.json, ScoopInstaller/Versions, 1
 bucket/gallery-dl-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/gallery-dl.json, ScoopInstaller/Main, 1
 bucket/gallery-dlCLI-Portable.json, ACooper81/scoop-apps, 1
@@ -8277,6 +8278,7 @@ bucket/ruby26.json, ScoopInstaller/Versions, 1
 bucket/ruby27.json, ScoopInstaller/Versions, 1
 bucket/ruby30.json, ScoopInstaller/Versions, 1
 bucket/rubymine-eap.json, ScoopInstaller/Versions, 1
+bucket/rubymine-latest.json, ScoopInstaller/Versions, 1
 bucket/rubymine.json, ScoopInstaller/Extras, 1
 bucket/ruff.json, ScoopInstaller/Main, 1
 bucket/ruffle-nightly.json, ScoopInstaller/Versions, 1
