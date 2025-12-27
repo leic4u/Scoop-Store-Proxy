@@ -5240,7 +5240,6 @@ bucket/kotlin-native.json, ScoopInstaller/Main, 1
 bucket/kotlin.json, ScoopInstaller/Main, 1
 bucket/kpcli.json, rasa/scoops, 0
 bucket/krew.json, ScoopInstaller/Main, 1
-bucket/kreya.json, batkiz/backit, 0
 bucket/krigbilateral.json, brian6932/dank-scoop, 1
 bucket/krita.json, ScoopInstaller/Extras, 0
 bucket/krokiet.json, ScoopInstaller/Extras, 1
@@ -9445,6 +9444,7 @@ bucket/topgrade.json, ScoopInstaller/Main, 1
 bucket/topgradeCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/topmost.json, ViCrack/scoop-bucket, 0
 bucket/topnotify.json, ScoopInstaller/Extras, 1
+bucket/tor-browser-alpha.json, ScoopInstaller/Versions, 0
 bucket/tor-browser.json, ScoopInstaller/Extras, 0
 bucket/tor.json, ScoopInstaller/Main, 0
 bucket/torpar.json, ScoopInstaller/Main, 1
