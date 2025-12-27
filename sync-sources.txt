@@ -2701,6 +2701,7 @@ bucket/cookiecutter.json, ScoopInstaller/Extras, 0
 bucket/coolermaster-masterplus.json, brian6932/dank-scoop, 0
 bucket/coolplayer.json, naderi/scoop-bucket, 0
 bucket/coppeliasim.json, ScoopInstaller/Extras, 0
+bucket/copy-dialog-lunar-lander.json, ScoopInstaller/Extras, 1
 bucket/copy-excel-paste-markdown.json, SayCV/scoop-cvp, 1
 bucket/copy-handler.json, naderi/scoop-bucket, 0
 bucket/copy-translator-rust.json, ygguorun/scoop-bucket, 1
@@ -8132,6 +8133,7 @@ bucket/resharper-clt.json, ScoopInstaller/Main, 0
 bucket/resilio-sync-np.json, ScoopInstaller/Nonportable, 0
 bucket/resizem.json, DoveBoy/Apps, 1
 bucket/resizer.json, ScoopInstaller/Extras, 0
+bucket/resizer2.json, ScoopInstaller/Extras, 1
 bucket/resolute.json, Calinou/scoop-games, 1
 bucket/resonic.json, naderi/scoop-bucket, 0
 bucket/resource-hacker.json, ScoopInstaller/Extras, 0
