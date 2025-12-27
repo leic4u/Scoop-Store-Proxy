@@ -10439,7 +10439,7 @@ bucket/xmplay-stuff.json, ScoopInstaller/Versions, 0
 bucket/xmplay.json, ScoopInstaller/Extras, 0
 bucket/xmrig.json, ScoopInstaller/Extras, 1
 bucket/xmusicdownloader.json, DoveBoy/Apps, 1
-bucket/xnconvert.json, ScoopInstaller/Extras, 1
+bucket/xnconvert.json, ScoopInstaller/Extras, 0
 bucket/xnresize.json, ScoopInstaller/Extras, 0
 bucket/xnview-classic-full.json, naderi/scoop-bucket, 0
 bucket/xnview-classic-min.json, naderi/scoop-bucket, 0
