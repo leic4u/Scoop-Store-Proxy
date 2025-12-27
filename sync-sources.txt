@@ -8051,6 +8051,7 @@ bucket/recmono-casual.json, KnotUntied/scoop-fonts, 0
 bucket/recmono-duotone.json, KnotUntied/scoop-fonts, 0
 bucket/recmono-linear.json, KnotUntied/scoop-fonts, 0
 bucket/recmono-semicasual.json, KnotUntied/scoop-fonts, 0
+bucket/rectanglewin.json, ScoopInstaller/Extras, 1
 bucket/recursive-all.json, KnotUntied/scoop-fonts, 1
 bucket/recuva.json, ScoopInstaller/Extras, 0
 bucket/recyclarr.json, ScoopInstaller/Extras, 1
