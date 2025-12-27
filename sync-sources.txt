@@ -1860,6 +1860,7 @@ bucket/audacity.json, ScoopInstaller/Extras, 1
 bucket/audacity2.4.2.json, ScoopInstaller/Versions, 1
 bucket/audio-share-gui.json, DoveBoy/Apps, 1
 bucket/audio-share.json, DoveBoy/Apps, 1
+bucket/audiobookconverter.json, ScoopInstaller/Extras, 1
 bucket/audiochecker.json, starise/Scoop-Confetti, 0
 bucket/audioswitcher.json, ScoopInstaller/Extras, 1
 bucket/audiotester.json, starise/Scoop-Confetti, 0
@@ -2907,7 +2908,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, DoveBoy/Apps, 1
+bucket/dandanplay.json, aoisummer/scoop-bucket, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -5505,6 +5506,7 @@ bucket/linphone.json, ScoopInstaller/Extras, 0
 bucket/linqpad.json, ScoopInstaller/Extras, 0
 bucket/linqpad5.json, ScoopInstaller/Versions, 0
 bucket/linqpadless.json, ScoopInstaller/Extras, 0
+bucket/lintalist.json, ScoopInstaller/Extras, 1
 bucket/linux-command.json, kkzzhizhou/scoop-zapps, 1
 bucket/linux-reader.json, ScoopInstaller/Extras, 0
 bucket/linuxdoc.json, DoveBoy/Apps, 1
