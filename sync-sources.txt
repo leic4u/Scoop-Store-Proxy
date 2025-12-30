@@ -2775,6 +2775,7 @@ bucket/cpustres.json, niheaven/scoop-sysinternals, 1
 bucket/cpuz-cn.json, ViCrack/scoop-bucket, 0
 bucket/cq.json, littleli/scoop-clojure, 1
 bucket/cracklock.json, SayCV/scoop-cvp, 0
+bucket/crafty-controller.json, Calinou/scoop-games, 0
 bucket/cranko.json, batkiz/backit, 1
 bucket/crapfixer.json, naderi/scoop-bucket, 1
 bucket/crawlergo.json, ViCrack/scoop-bucket, 1
@@ -10400,6 +10401,7 @@ bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
+bucket/xenia-edge.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
