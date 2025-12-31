@@ -4796,7 +4796,6 @@ bucket/infraarcana.json, Calinou/scoop-games, 0
 bucket/inirw.json, rasa/scoops, 1
 bucket/injecteddll.json, ScoopInstaller/Nirsoft, 0
 bucket/injector.json, ScoopInstaller/Extras, 1
-bucket/inkscape-cn.json, ivaquero/scoopet, 0
 bucket/inkscape-dev.json, ScoopInstaller/Versions, 0
 bucket/inkscape-extension-sozi.json, ScoopInstaller/Extras, 1
 bucket/inkscape.json, ScoopInstaller/Extras, 0
