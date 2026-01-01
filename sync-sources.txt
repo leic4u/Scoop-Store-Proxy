@@ -8284,6 +8284,10 @@ bucket/ruby25.json, ScoopInstaller/Versions, 1
 bucket/ruby26.json, ScoopInstaller/Versions, 1
 bucket/ruby27.json, ScoopInstaller/Versions, 1
 bucket/ruby30.json, ScoopInstaller/Versions, 1
+bucket/ruby31.json, ScoopInstaller/Versions, 1
+bucket/ruby32.json, ScoopInstaller/Versions, 1
+bucket/ruby33.json, ScoopInstaller/Versions, 1
+bucket/ruby34.json, ScoopInstaller/Versions, 1
 bucket/rubymine-eap.json, ScoopInstaller/Versions, 1
 bucket/rubymine-latest.json, ScoopInstaller/Versions, 1
 bucket/rubymine.json, ScoopInstaller/Extras, 1
