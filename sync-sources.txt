@@ -8724,7 +8724,7 @@ bucket/slk-img2pixel.json, hu3rror/scoop-muggle, 1
 bucket/slskd.json, ScoopInstaller/Extras, 1
 bucket/slu.json, littleli/Scoop-littleli, 1
 bucket/slumber.json, aliesbelik/poldi, 1
-bucket/sm64coopdx.json, borger/scoop-emulators, 1
+bucket/sm64coopdx.json, Calinou/scoop-games, 1
 bucket/smali.json, TheCjw/scoop-retools, 0
 bucket/smart-svg-viewer.json, naderi/scoop-bucket, 1
 bucket/smartcontextmenu.json, ScoopInstaller/Extras, 1
