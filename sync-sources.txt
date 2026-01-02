@@ -4906,7 +4906,7 @@ bucket/iqiyi.json, echoiron/echo-scoop, 0
 bucket/irfanview-lean.json, ScoopInstaller/Extras, 0
 bucket/irfanview.ja.json, jfut/scoop-jfut, 0
 bucket/irfanview.json, ScoopInstaller/Extras, 0
-bucket/iris.json, amorphobia/siku, 1
+bucket/iris.json, ScoopInstaller/Extras, 1
 bucket/ironwail.json, Calinou/scoop-games, 1
 bucket/irreader.json, kkzzhizhou/scoop-zapps, 0
 bucket/irust.json, batkiz/backit, 1
@@ -8611,7 +8611,7 @@ bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
 bucket/shadps4-dev.json, Calinou/scoop-games, 1
-bucket/shadps4.json, borger/scoop-emulators, 1
+bucket/shadps4.json, Calinou/scoop-games, 1
 bucket/shareaza.json, ScoopInstaller/Extras, 0
 bucket/shareenum.json, niheaven/scoop-sysinternals, 1
 bucket/sharex-dev.json, ScoopInstaller/Versions, 1
@@ -8841,6 +8841,7 @@ bucket/speedfan.json, ScoopInstaller/Extras, 0
 bucket/speedtest-cli.json, ScoopInstaller/Main, 0
 bucket/speedtest-go.json, aliesbelik/poldi, 1
 bucket/speedtest.json, ScoopInstaller/Extras, 0
+bucket/speedy.json, ViCrack/scoop-bucket, 1
 bucket/speedyfox.json, ScoopInstaller/Extras, 0
 bucket/spek-X.json, hu3rror/scoop-muggle, 1
 bucket/spek.json, ScoopInstaller/Extras, 1
