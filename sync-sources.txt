@@ -5924,7 +5924,6 @@ bucket/migrated/walk.json, aliesbelik/poldi, 1
 bucket/migrated/yamlfmt.json, aliesbelik/poldi, 1
 bucket/mihome-token.json, amorphobia/siku, 1
 bucket/mihomo-compatible.json, DoveBoy/Apps, 1
-bucket/mihomo-party.json, ScoopInstaller/Extras, 1
 bucket/mihomo.json, ScoopInstaller/Main, 1
 bucket/miktex.json, ScoopInstaller/Main, 0
 bucket/mikumikudance.json, mo-san/scoop-bucket, 0
@@ -7638,8 +7637,6 @@ bucket/process-explorer.json, chawyehsu/dorado, 0
 bucket/process-governor.json, ScoopInstaller/Main, 1
 bucket/process-monitor.json, chawyehsu/dorado, 0
 bucket/processactivityview.json, ScoopInstaller/Nirsoft, 0
-bucket/processhacker-nightly.json, ScoopInstaller/Versions, 1
-bucket/processhacker.json, ScoopInstaller/Extras, 1
 bucket/processing.json, ScoopInstaller/Extras, 1
 bucket/processing4.json, ScoopInstaller/Extras, 1
 bucket/processko.json, naderi/scoop-bucket, 0
@@ -9526,7 +9523,6 @@ bucket/tribler.json, ScoopInstaller/Extras, 1
 bucket/trid.json, ScoopInstaller/Main, 0
 bucket/trilium-cn.json, ViCrack/scoop-bucket, 1
 bucket/trilium.json, ScoopInstaller/Extras, 1
-bucket/triliumnext.json, ScoopInstaller/Extras, 1
 bucket/trillian.json, ScoopInstaller/Extras, 0
 bucket/triplea.json, Calinou/scoop-games, 1
 bucket/trippy.json, ScoopInstaller/Main, 1
