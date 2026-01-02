@@ -9869,7 +9869,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
@@ -10913,6 +10913,8 @@ scripts/pwsh/uninstall-file-context.reg, ScoopInstaller/Main, 0
 scripts/pyshim.ps1, ScoopInstaller/Extras, 0
 scripts/python/install-pep-514.reg, ScoopInstaller/Main, 0
 scripts/python/uninstall-pep-514.reg, ScoopInstaller/Main, 0
+scripts/qbittorrent-nightly/install-associations.reg, ScoopInstaller/Versions, 0
+scripts/qbittorrent-nightly/uninstall-associations.reg, ScoopInstaller/Versions, 0
 scripts/qbittorrent/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/qbittorrent/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/qqlite/install-qqlite.reg.templ, SayCV/scoop-cvp, 0
