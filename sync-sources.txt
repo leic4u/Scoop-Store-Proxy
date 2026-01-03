@@ -253,7 +253,7 @@ bucket/Charles.json, chawyehsu/dorado, 0
 bucket/Charm.json, batkiz/backit, 1
 bucket/Charmonman.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/ChatALL-Portable.json, ACooper81/scoop-apps, 1
-bucket/ChatBox-Portable.json, ACooper81/scoop-apps, 1
+bucket/ChatBox-Portable.json, ACooper81/scoop-apps, 0
 bucket/Chatbox.json, abgox/abgo_bucket, 0
 bucket/ChenYuLuoYen-Thin.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Chinese-Subtitle-Conversion-Tool.json, leic4u/Scoop-Store, 1
@@ -10400,7 +10400,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu.json, Calinou/scoop-games, 1
+bucket/xemu.json, hermanjustnu/scoop-emulators, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
