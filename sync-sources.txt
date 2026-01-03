@@ -4944,7 +4944,6 @@ bucket/jarl.json, cderv/r-bucket, 1
 bucket/jasmine.json, DoveBoy/Apps, 1
 bucket/jasob.json, SayCV/scoop-cvp, 0
 bucket/jasper.json, ScoopInstaller/Extras, 1
-bucket/jaspersoft-studio.json, ScoopInstaller/Extras, 0
 bucket/java-chains.json, ViCrack/scoop-bucket, 1
 bucket/java-echo-generator-release.json, ViCrack/scoop-bucket, 1
 bucket/java-editor.json, naderi/scoop-bucket, 0
