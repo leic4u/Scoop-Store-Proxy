@@ -582,6 +582,7 @@ bucket/IBMPlexSans.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IBMPlexSerif.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ICQ-Portable.json, ACooper81/scoop-apps, 0
 bucket/IDA-Pro.64.json, Paxxs/Cluttered-bucket, 0
+bucket/IME-Indicator.json, ygguorun/scoop-bucket, 1
 bucket/IMMagicPartitionResizer-Portable.json, ACooper81/scoop-apps, 0
 bucket/IMMagicPartitionResizerPro-Portable.json, ACooper81/scoop-apps, 0
 bucket/IObitSoftwareUpdater-Portable.json, ACooper81/scoop-apps, 0
