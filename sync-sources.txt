@@ -1071,6 +1071,7 @@ bucket/RustDesk-Portable.json, ACooper81/scoop-apps, 1
 bucket/Rymdport-Portable.json, ACooper81/scoop-apps, 1
 bucket/RyzenController-Portable.json, ACooper81/scoop-apps, 0
 bucket/SABnzbd-Portable.json, ACooper81/scoop-apps, 1
+bucket/SD-LoRA-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/SDeleteCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/SFP.json, Weidows-projects/scoop-3rd, 1
 bucket/SIW.json, kkzzhizhou/scoop-zapps, 1
@@ -9869,7 +9870,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
