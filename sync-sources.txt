@@ -6329,7 +6329,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
