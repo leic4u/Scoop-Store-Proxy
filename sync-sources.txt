@@ -6941,7 +6941,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Calinou/scoop-games, 1
@@ -7502,6 +7502,7 @@ bucket/pkg2zip.json, Deide/deide-bucket, 1
 bucket/pkhex.json, Calinou/scoop-games, 0
 bucket/pkl-cli.json, ScoopInstaller/Main, 1
 bucket/plain-craft-launcher.json, amorphobia/siku, 1
+bucket/plakar.json, ScoopInstaller/Extras, 1
 bucket/plantuml.json, ScoopInstaller/Extras, 1
 bucket/playback.json, Calinou/scoop-games, 0
 bucket/playit.json, Calinou/scoop-games, 1
