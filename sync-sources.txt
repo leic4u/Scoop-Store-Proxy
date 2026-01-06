@@ -3845,6 +3845,7 @@ bucket/focus-writer.json, naderi/scoop-bucket, 0
 bucket/focus.json, ScoopInstaller/Extras, 1
 bucket/folder-marker.json, ScoopInstaller/Extras, 0
 bucket/folder-painter.json, ScoopInstaller/Extras, 0
+bucket/folder2iso-cli.json, chawyehsu/dorado, 0
 bucket/folderchangesview.json, ScoopInstaller/Nirsoft, 0
 bucket/foldersreport.json, kodybrown/scoop-nirsoft, 0
 bucket/foldertimeupdate.json, ScoopInstaller/Nirsoft, 0
