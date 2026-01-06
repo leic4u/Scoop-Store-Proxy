@@ -4316,7 +4316,7 @@ bucket/goland-rc.json, ScoopInstaller/Versions, 1
 bucket/goland.json, ScoopInstaller/Extras, 1
 bucket/golang.json, kiennq/scoop-misc, 0
 bucket/golangci-lint.json, ScoopInstaller/Main, 1
-bucket/goldendict-ng.json, hu3rror/scoop-muggle, 1
+bucket/goldendict-ng.json, cc713/ownscoop, 1
 bucket/goldendict.json, ScoopInstaller/Extras, 1
 bucket/golly.json, Calinou/scoop-games, 0
 bucket/gom-player-plus.json, mo-san/scoop-bucket, 0
