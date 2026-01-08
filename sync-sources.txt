@@ -2156,6 +2156,7 @@ bucket/blink1-tool.json, ScoopInstaller/Main, 1
 bucket/blink1control2.json, ScoopInstaller/Extras, 1
 bucket/blisk-portable.json, naderi/scoop-bucket, 0
 bucket/blisk.json, ScoopInstaller/Extras, 0
+bucket/blitz.json, Calinou/scoop-games, 0
 bucket/blobsaver.json, ScoopInstaller/Extras, 1
 bucket/blockbench.json, Calinou/scoop-games, 1
 bucket/blockthespot.json, TheRandomLabs/Scoop-Spotify, 1
@@ -2814,6 +2815,7 @@ bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskmark-shizuku-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskmark.json, ScoopInstaller/Extras, 0
+bucket/cs-demo-manager.json, Calinou/scoop-games, 1
 bucket/csauto.json, Calinou/scoop-games, 1
 bucket/cscope.json, ScoopInstaller/Main, 0
 bucket/cspoit.json, mo-san/scoop-bucket, 0
@@ -3288,6 +3290,7 @@ bucket/droppoint.json, DoveBoy/Apps, 1
 bucket/dry.json, aliesbelik/poldi, 1
 bucket/ds4windows-circumspector-pre.json, ScoopInstaller/Versions, 1
 bucket/ds4windows.json, ScoopInstaller/Extras, 1
+bucket/dsda-doom.json, Calinou/scoop-games, 1
 bucket/dshidmini-np.json, ScoopInstaller/Nonportable, 1
 bucket/dskwipe.json, rasa/scoops, 1
 bucket/dsq.json, aliesbelik/poldi, 1
@@ -8934,6 +8937,7 @@ bucket/stable-diffusion-webui.json, DoveBoy/Apps, 1
 bucket/stack.json, ScoopInstaller/Main, 1
 bucket/stairspeedtest-reborn.json, chawyehsu/dorado, 1
 bucket/standardnotes.json, ScoopInstaller/Extras, 1
+bucket/starrail-copilot.json, Calinou/scoop-games, 1
 bucket/starship-cvp.json, SayCV/scoop-cvp, 1
 bucket/starship.json, ScoopInstaller/Main, 1
 bucket/start.json, ygguorun/scoop-bucket, 0
@@ -10304,6 +10308,7 @@ bucket/wolcmd.json, rasa/scoops, 0
 bucket/wombat.json, aliesbelik/poldi, 1
 bucket/wonderpen.json, ScoopInstaller/Extras, 0
 bucket/woodpecker.json, ViCrack/scoop-bucket, 1
+bucket/woof.json, Calinou/scoop-games, 1
 bucket/word-regex-tool.json, ygguorun/scoop-bucket, 0
 bucket/wordle.json, brian6932/dank-scoop, 1
 bucket/wordmark.json, ScoopInstaller/Extras, 1
