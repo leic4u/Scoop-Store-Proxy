@@ -5362,6 +5362,7 @@ bucket/lean-cli.json, ScoopInstaller/Main, 1
 bucket/leanify.json, seumsc/scoop-seu, 1
 bucket/ledger-live.json, chawyehsu/dorado, 0
 bucket/ledger.json, iquiw/scoop-bucket, 1
+bucket/leenfetch.json, brian6932/dank-scoop, 1
 bucket/leet.json, ScoopInstaller/Extras, 1
 bucket/leeyes.json, mo-san/scoop-bucket, 0
 bucket/lefthook.json, ScoopInstaller/Main, 1
