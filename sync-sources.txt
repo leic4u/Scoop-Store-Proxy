@@ -2230,6 +2230,7 @@ bucket/brows.json, aliesbelik/poldi, 1
 bucket/browseraddonsview.json, ScoopInstaller/Nirsoft, 0
 bucket/browserautofillview.json, ScoopInstaller/Nirsoft, 0
 bucket/browserdownloadsview.json, ScoopInstaller/Nirsoft, 0
+bucket/browseros.json, ScoopInstaller/Extras, 1
 bucket/browserpass.json, iquiw/scoop-bucket, 1
 bucket/browsertools.json, ScoopInstaller/Nirsoft, 0
 bucket/browsh.json, chawyehsu/dorado, 1
@@ -7939,6 +7940,7 @@ bucket/quickinstaller.json, ScoopInstaller/Extras, 0
 bucket/quickjs.json, ScoopInstaller/Main, 0
 bucket/quicklook.json, ScoopInstaller/Extras, 1
 bucket/quicksetdns.json, ScoopInstaller/Nirsoft, 0
+bucket/quicksfv.json, ScoopInstaller/Extras, 0
 bucket/quicktextpaste.json, ScoopInstaller/Extras, 0
 bucket/quickviewer.json, ScoopInstaller/Extras, 1
 bucket/quiterss.json, ScoopInstaller/Extras, 0
