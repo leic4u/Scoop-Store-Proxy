@@ -5511,6 +5511,7 @@ bucket/linkandroid.json, DoveBoy/Apps, 1
 bucket/linkerd.json, ScoopInstaller/Extras, 1
 bucket/links.json, ScoopInstaller/Main, 0
 bucket/linkscope.json, SayCV/scoop-cvp, 1
+bucket/linpack-xtreme.json, brian6932/dank-scoop, 0
 bucket/linphone.json, ScoopInstaller/Extras, 0
 bucket/linqpad.json, ScoopInstaller/Extras, 0
 bucket/linqpad5.json, ScoopInstaller/Versions, 0
