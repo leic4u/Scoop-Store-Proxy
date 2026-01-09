@@ -2435,6 +2435,7 @@ bucket/chart-geany.json, ScoopInstaller/Extras, 0
 bucket/chat2db.json, ViCrack/scoop-bucket, 1
 bucket/chatall.json, ScoopInstaller/Extras, 1
 bucket/chatbox-ce.json, chawyehsu/dorado, 1
+bucket/chatboxai.json, ScoopInstaller/Extras, 0
 bucket/chatgpt.json, ScoopInstaller/Extras, 1
 bucket/chatterino-portable.json, brian6932/dank-scoop, 1
 bucket/chatterino.json, ScoopInstaller/Extras, 0
