@@ -1648,6 +1648,7 @@ bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
 bucket/altair.json, ScoopInstaller/Extras, 1
+bucket/altbacktick.json, ScoopInstaller/Extras, 1
 bucket/altdrag.json, ScoopInstaller/Extras, 1
 bucket/alternatestreamview.json, ScoopInstaller/Nirsoft, 0
 bucket/altools.json, ScoopInstaller/Extras, 0
@@ -9867,7 +9868,7 @@ bucket/vim.json, ScoopInstaller/Main, 1
 bucket/vimage.json, Deide/deide-bucket, 1
 bucket/vimtutor.json, ScoopInstaller/Main, 1
 bucket/vipsdisp.json, ScoopInstaller/Extras, 1
-bucket/virgo.json, chawyehsu/dorado, 1
+bucket/virgo.json, ScoopInstaller/Extras, 1
 bucket/virt-viewer.json, ScoopInstaller/Extras, 0
 bucket/virtualbox-extension.json, cc713/ownscoop, 0
 bucket/virtualbox-extpack.json, SayCV/scoop-cvp, 0
