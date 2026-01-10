@@ -3177,7 +3177,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -5075,7 +5075,7 @@ bucket/jumplistsview.json, ScoopInstaller/Nirsoft, 0
 bucket/junction.json, niheaven/scoop-sysinternals, 1
 bucket/just.json, ScoopInstaller/Main, 1
 bucket/justasplanned.json, beerpiss/scoop-bucket, 1
-bucket/justcolorpicker.json, naderi/scoop-bucket, 0
+bucket/justcolorpicker.json, chawyehsu/dorado, 0
 bucket/jvms.json, Weidows-projects/scoop-3rd, 1
 bucket/jwt-cli.json, ScoopInstaller/Main, 1
 bucket/jx.json, ScoopInstaller/Main, 1
