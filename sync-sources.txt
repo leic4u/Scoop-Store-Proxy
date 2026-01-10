@@ -2772,6 +2772,7 @@ bucket/cppcryptfsctl.json, ScoopInstaller/Main, 1
 bucket/cprocess.json, ScoopInstaller/Nirsoft, 0
 bucket/cpu-v.json, ScoopInstaller/Extras, 0
 bucket/cpu-z-arm.json, chawyehsu/dorado, 0
+bucket/cpu-z-arm64.json, ScoopInstaller/Extras, 0
 bucket/cpu-z-cn.json, cc713/ownscoop, 0
 bucket/cpu-z-zh-cn.json, amorphobia/siku, 0
 bucket/cpu-z-zh.json, aoisummer/scoop-bucket, 0
@@ -3832,7 +3833,7 @@ bucket/fluxctl.json, ScoopInstaller/Versions, 1
 bucket/flvextract.json, chawyehsu/dorado, 0
 bucket/flybird-downloader.json, DoveBoy/Apps, 1
 bucket/flyby11-Portable.json, ACooper81/scoop-apps, 1
-bucket/flycast.json, Calinou/scoop-games, 1
+bucket/flycast.json, borger/scoop-emulators, 1
 bucket/flyctl.json, ScoopInstaller/Main, 1
 bucket/flyoobe-Portable.json, ACooper81/scoop-apps, 1
 bucket/flyoobe-classic.json, DoveBoy/Apps, 1
@@ -6950,7 +6951,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Calinou/scoop-games, 1
@@ -8944,6 +8945,7 @@ bucket/ssr-native.json, kkzzhizhou/scoop-zapps, 1
 bucket/ssrr-windows.json, DoveBoy/Apps, 1
 bucket/stable-diffusion-cpp.json, chawyehsu/dorado, 1
 bucket/stable-diffusion-webui.json, DoveBoy/Apps, 1
+bucket/stack-wallet.json, ScoopInstaller/Extras, 1
 bucket/stack.json, ScoopInstaller/Main, 1
 bucket/stairspeedtest-reborn.json, chawyehsu/dorado, 1
 bucket/standardnotes.json, ScoopInstaller/Extras, 1
