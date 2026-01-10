@@ -2955,6 +2955,7 @@ bucket/dataspell.json, ScoopInstaller/Extras, 1
 bucket/datastation.json, batkiz/backit, 1
 bucket/datovka.json, ScoopInstaller/Extras, 0
 bucket/datree.json, ScoopInstaller/Main, 1
+bucket/dbeaver-cn.json, ivaquero/scoopet, 0
 bucket/dbeaver-ea.json, ScoopInstaller/Versions, 0
 bucket/dbeaver-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/dbeaver.json, ScoopInstaller/Extras, 0
@@ -4149,7 +4150,6 @@ bucket/git-branchless.json, ScoopInstaller/Main, 1
 bucket/git-bug.json, ScoopInstaller/Main, 1
 bucket/git-chglog.json, ScoopInstaller/Main, 1
 bucket/git-cliff.json, ScoopInstaller/Main, 1
-bucket/git-cn.json, ivaquero/scoopet, 0
 bucket/git-cola.json, ScoopInstaller/Extras, 1
 bucket/git-credential-gopass.json, chawyehsu/dorado, 1
 bucket/git-credential-manager.json, ScoopInstaller/Extras, 1
@@ -6041,6 +6041,7 @@ bucket/moderndeck.json, ScoopInstaller/Extras, 1
 bucket/modernflyouts.json, ScoopInstaller/Extras, 1
 bucket/mods.json, ScoopInstaller/Main, 1
 bucket/moekoemusic.json, DoveBoy/Apps, 1
+bucket/mogan-cn.json, ivaquero/scoopet, 0
 bucket/mold.json, ScoopInstaller/Main, 1
 bucket/molotov-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/monasans.json, KnotUntied/scoop-fonts, 1
