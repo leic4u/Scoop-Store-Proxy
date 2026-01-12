@@ -1,5 +1,5 @@
 {
-  "version": "0.12.5",
+  "version": "0.12.6",
   "description": "Versatile command-line toolkit for downloading audio, video, podcasts, pdf and more 多功能命令行下载工具，支持音频、视频、播客、 pdf等各种内容",
   "homepage": "https://vget.io/",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/guiyumin/vget/releases/download/v0.12.5/vget-windows-amd64.zip",
-      "hash": "d6d8dbb96b14b075793cba6f7fa5eb2df311d139f1bdfd7719f95dd909ebcba4"
+      "url": "https://ghgo.xyz/https://github.com/guiyumin/vget/releases/download/v0.12.6/vget-windows-amd64.zip",
+      "hash": "897287da3bfd636d238f0c78175852c019a876bc880580408230cfe4827da74b"
     }
   },
   "installer": {
