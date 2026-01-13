@@ -2308,7 +2308,7 @@ bucket/cake.json, ScoopInstaller/Main, 1
 bucket/calctus.json, DoveBoy/Apps, 1
 bucket/calibre-normal.json, ScoopInstaller/Extras, 0
 bucket/calibre-normal5.json, ScoopInstaller/Versions, 0
-bucket/calibre-np.json, ScoopInstaller/Nonportable, 1
+bucket/calibre-np.json, TheRandomLabs/scoop-nonportable, 1
 bucket/calibre.json, ScoopInstaller/Extras, 0
 bucket/calories.json, MCOfficer/scoop-bucket, 1
 bucket/cam350-122.json, SayCV/scoop-cvp, 1
