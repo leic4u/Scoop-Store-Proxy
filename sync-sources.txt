@@ -9917,6 +9917,7 @@ bucket/vmessping.json, AkinoKaede/maple, 1
 bucket/vmessspeed.json, AkinoKaede/maple, 1
 bucket/vmmap.json, mogeko/scoop-sysinternals, 0
 bucket/vmping.json, amorphobia/siku, 1
+bucket/vmr.json, ScoopInstaller/Main, 1
 bucket/vmware-autounlocker.json, naderi/scoop-bucket, 1
 bucket/vmware-horizon-client-np.json, ScoopInstaller/Nonportable, 0
 bucket/vmware-workstation-player-np.json, ScoopInstaller/Nonportable, 0
