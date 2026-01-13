@@ -6519,6 +6519,7 @@ bucket/nucleistudio.json, SayCV/scoop-cvp, 0
 bucket/nuget-package-explorer.json, ScoopInstaller/Extras, 0
 bucket/nuget.json, ScoopInstaller/Main, 0
 bucket/nuget3.json, ScoopInstaller/Versions, 0
+bucket/nugget-doom.json, Calinou/scoop-games, 1
 bucket/numbat.json, ScoopInstaller/Main, 1
 bucket/nuncabola.json, Calinou/scoop-games, 0
 bucket/nunit-console.json, ScoopInstaller/Main, 0
@@ -10431,7 +10432,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
-bucket/xenia.json, Calinou/scoop-games, 1
+bucket/xenia.json, borger/scoop-emulators, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
 bucket/xftp7p.json, kkzzhizhou/scoop-zapps, 1
