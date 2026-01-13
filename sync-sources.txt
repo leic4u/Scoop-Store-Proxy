@@ -10054,7 +10054,6 @@ bucket/webstorm.json, ScoopInstaller/Extras, 1
 bucket/webtorrent.json, ScoopInstaller/Extras, 1
 bucket/webvideocap.json, ScoopInstaller/Nirsoft, 0
 bucket/webview2.json, SayCV/scoop-cvp, 0
-bucket/wechat-backup.json, DoveBoy/Apps, 1
 bucket/wechat-beta.json, scoopcn/scoopcn, 0
 bucket/wechat-cvp.json, SayCV/scoop-cvp, 1
 bucket/wechat-devtools.json, scoopcn/scoopcn, 0
@@ -10067,7 +10066,6 @@ bucket/wechatdatabackup.json, ViCrack/scoop-bucket, 1
 bucket/wechatdevtools.json, chawyehsu/dorado, 0
 bucket/wechatdownload.json, DoveBoy/Apps, 1
 bucket/wechatexporter.json, amorphobia/siku, 1
-bucket/wechatmoments.json, DoveBoy/Apps, 1
 bucket/wechatrealfriends.json, DoveBoy/Apps, 1
 bucket/wechatvideosniffer.json, DoveBoy/Apps, 1
 bucket/wecom.json, ScoopInstaller/Extras, 0
