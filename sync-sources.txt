@@ -1060,7 +1060,7 @@ bucket/Rounded-Mplus.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Rounded-X-Mplus.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/RoundedTB-Portable.json, ACooper81/scoop-apps, 1
 bucket/RoyalTS-Portable.json, ACooper81/scoop-apps, 0
-bucket/Rubick.json, ViCrack/scoop-bucket, 1
+bucket/Rubick.json, amorphobia/siku, 1
 bucket/RuckZuck-Portable.json, ACooper81/scoop-apps, 1
 bucket/Rufus-Portable.json, ACooper81/scoop-apps, 1
 bucket/RunAsTICLI-Portable.json, ACooper81/scoop-apps, 1
@@ -5239,7 +5239,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -6954,7 +6954,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
