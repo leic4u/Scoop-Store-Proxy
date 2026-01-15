@@ -1946,7 +1946,7 @@ bucket/axure.json, chawyehsu/dorado, 0
 bucket/aya.json, akirco/aki-apps, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
 bucket/az-tui.json, aliesbelik/poldi, 1
-bucket/azahar.json, borger/scoop-emulators, 1
+bucket/azahar.json, Calinou/scoop-games, 1
 bucket/azcopy.json, ScoopInstaller/Main, 1
 bucket/azd.json, ScoopInstaller/Extras, 1
 bucket/aztfexport.json, ScoopInstaller/Main, 1
