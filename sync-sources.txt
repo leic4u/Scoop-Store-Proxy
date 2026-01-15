@@ -1946,7 +1946,7 @@ bucket/axure.json, chawyehsu/dorado, 0
 bucket/aya.json, akirco/aki-apps, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
 bucket/az-tui.json, aliesbelik/poldi, 1
-bucket/azahar.json, Calinou/scoop-games, 1
+bucket/azahar.json, borger/scoop-emulators, 1
 bucket/azcopy.json, ScoopInstaller/Main, 1
 bucket/azd.json, ScoopInstaller/Extras, 1
 bucket/aztfexport.json, ScoopInstaller/Main, 1
@@ -10432,7 +10432,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
-bucket/xenia.json, hermanjustnu/scoop-emulators, 1
+bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
 bucket/xftp7p.json, kkzzhizhou/scoop-zapps, 1
