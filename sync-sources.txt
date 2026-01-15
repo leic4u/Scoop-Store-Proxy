@@ -9487,6 +9487,7 @@ bucket/torpar.json, ScoopInstaller/Main, 1
 bucket/torrent-file-editor.json, ScoopInstaller/Extras, 1
 bucket/torrenttools.json, ScoopInstaller/Extras, 1
 bucket/tortoise-svn.json, naderi/scoop-bucket, 1
+bucket/tortoisegit-np.json, ScoopInstaller/Nonportable, 0
 bucket/tortoisegit.json, SayCV/scoop-cvp, 0
 bucket/tortoisehg.json, ScoopInstaller/Extras, 0
 bucket/tortoisemerge.json, ScoopInstaller/Extras, 0
