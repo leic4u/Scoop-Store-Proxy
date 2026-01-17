@@ -5863,7 +5863,7 @@ bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -9826,6 +9826,7 @@ bucket/vencord-installer.json, ScoopInstaller/Extras, 1
 bucket/ventoy.json, ScoopInstaller/Extras, 1
 bucket/veracrypt-legacy-np.json, aoisummer/scoop-bucket, 0
 bucket/veracrypt-np.json, aoisummer/scoop-bucket, 0
+bucket/verethragna.json, jfut/scoop-jfut, 0
 bucket/verilator.json, SayCV/scoop-cvp, 1
 bucket/verilog-format.json, SayCV/scoop-cvp, 1
 bucket/version-manager.json, abgox/abgo_bucket, 1
