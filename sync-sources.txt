@@ -6313,6 +6313,7 @@ bucket/neil.json, littleli/scoop-clojure, 1
 bucket/neko.json, ScoopInstaller/Main, 1
 bucket/nekomata.json, Deide/deide-bucket, 1
 bucket/nekoray.json, cc713/ownscoop, 1
+bucket/nelson-np.json, ScoopInstaller/Nonportable, 1
 bucket/neo-cowsay.json, ScoopInstaller/Main, 1
 bucket/neo4j-community.json, ygguorun/scoop-bucket, 0
 bucket/neo4jbrowser.json, scoopcn/scoopcn, 1
