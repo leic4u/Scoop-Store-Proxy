@@ -6703,7 +6703,7 @@ bucket/openboard.json, ScoopInstaller/Extras, 1
 bucket/opencc.json, SayCV/scoop-cvp, 0
 bucket/openclonk.json, Calinou/scoop-games, 0
 bucket/openclosedriveeject.json, ScoopInstaller/Extras, 0
-bucket/opencode.json, ScoopInstaller/Extras, 1
+bucket/opencode.json, ScoopInstaller/Main, 1
 bucket/opencomic.json, cc713/ownscoop, 1
 bucket/openconnect.json, ScoopInstaller/Main, 0
 bucket/opencv.json, ScoopInstaller/Main, 1
