@@ -5167,6 +5167,7 @@ bucket/keepassxc2.6.6.json, ScoopInstaller/Versions, 1
 bucket/keeperfx.json, brian6932/dank-scoop, 1
 bucket/keeweb.json, ScoopInstaller/Extras, 1
 bucket/kega-fusion.json, Calinou/scoop-games, 0
+bucket/kelivo.json, ScoopInstaller/Extras, 1
 bucket/keptn-cli.json, ScoopInstaller/Main, 1
 bucket/keyboard-chatter-blocker.json, ScoopInstaller/Extras, 1
 bucket/keyboardstateview.json, ScoopInstaller/Nirsoft, 0
@@ -6703,6 +6704,7 @@ bucket/openboard.json, ScoopInstaller/Extras, 1
 bucket/opencc.json, SayCV/scoop-cvp, 0
 bucket/openclonk.json, Calinou/scoop-games, 0
 bucket/openclosedriveeject.json, ScoopInstaller/Extras, 0
+bucket/opencode-desktop.json, ScoopInstaller/Extras, 1
 bucket/opencode.json, ScoopInstaller/Main, 1
 bucket/opencomic.json, cc713/ownscoop, 1
 bucket/openconnect.json, ScoopInstaller/Main, 0
