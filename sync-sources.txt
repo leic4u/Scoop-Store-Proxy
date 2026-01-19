@@ -8666,7 +8666,7 @@ bucket/shim.json, ScoopInstaller/Main, 1
 bucket/shimo.json, akirco/aki-apps, 0
 bucket/shinyproxy.json, ScoopInstaller/Main, 0
 bucket/shion.json, Weidows-projects/scoop-3rd, 1
-bucket/shipwright.json, Calinou/scoop-games, 1
+bucket/shipwright.json, borger/scoop-emulators, 1
 bucket/shman.json, ScoopInstaller/Nirsoft, 0
 bucket/shmnview.json, ScoopInstaller/Nirsoft, 0
 bucket/shortcutsman.json, kodybrown/scoop-nirsoft, 0
