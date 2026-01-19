@@ -2037,6 +2037,7 @@ bucket/bdinfo.json, amorphobia/siku, 0
 bucket/beads.json, cderv/r-bucket, 1
 bucket/beaker-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/beaker.json, ScoopInstaller/Extras, 1
+bucket/beans.json, cderv/r-bucket, 1
 bucket/beast.json, aliesbelik/poldi, 1
 bucket/beatdrop.json, ScoopInstaller/Extras, 1
 bucket/beautysearch.json, naderi/scoop-bucket, 1
@@ -10079,6 +10080,7 @@ bucket/wechatrealfriends.json, DoveBoy/Apps, 1
 bucket/wechatvideosniffer.json, DoveBoy/Apps, 1
 bucket/wecom.json, ScoopInstaller/Extras, 0
 bucket/weebp.json, ScoopInstaller/Extras, 1
+bucket/weflow.json, ViCrack/scoop-bucket, 1
 bucket/wegame.json, ivaquero/scoopet, 0
 bucket/wemod.json, Calinou/scoop-games, 0
 bucket/wepe.json, SayCV/scoop-cvp, 0
