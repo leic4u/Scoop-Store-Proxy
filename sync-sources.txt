@@ -4189,6 +4189,7 @@ bucket/gitalias.json, DoveBoy/Apps, 0
 bucket/gitbutler-nightly.json, ScoopInstaller/Versions, 0
 bucket/gitbutler.json, ScoopInstaller/Extras, 0
 bucket/gitea-beta.json, ScoopInstaller/Versions, 1
+bucket/gitea-runner.json, amorphobia/siku, 0
 bucket/gitea.json, ScoopInstaller/Main, 0
 bucket/gitextensions.json, ScoopInstaller/Extras, 1
 bucket/gitg.json, cc713/ownscoop, 0
