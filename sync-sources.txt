@@ -437,6 +437,7 @@ bucket/FileLocatorPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/FileMenuTools-Portable.json, ACooper81/scoop-apps, 0
 bucket/FileMenuTools.json, ViCrack/scoop-bucket, 0
 bucket/FileMonitor.json, ygguorun/scoop-bucket, 0
+bucket/FileTypesMan_Chinese.json, Weidows-projects/scoop-3rd, 1
 bucket/Files-Install.json, ACooper81/scoop-apps, 0
 bucket/FilesInspector-Install.json, ACooper81/scoop-apps, 0
 bucket/FilesInspector-Portable.json, ACooper81/scoop-apps, 0
@@ -3181,7 +3182,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -8666,7 +8667,7 @@ bucket/shim.json, ScoopInstaller/Main, 1
 bucket/shimo.json, akirco/aki-apps, 0
 bucket/shinyproxy.json, ScoopInstaller/Main, 0
 bucket/shion.json, Weidows-projects/scoop-3rd, 1
-bucket/shipwright.json, borger/scoop-emulators, 1
+bucket/shipwright.json, Calinou/scoop-games, 1
 bucket/shman.json, ScoopInstaller/Nirsoft, 0
 bucket/shmnview.json, ScoopInstaller/Nirsoft, 0
 bucket/shortcutsman.json, kodybrown/scoop-nirsoft, 0
