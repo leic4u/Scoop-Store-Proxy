@@ -5865,7 +5865,7 @@ bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -8247,6 +8247,7 @@ bucket/roamresearch.json, ScoopInstaller/Extras, 0
 bucket/robo3t.json, ScoopInstaller/Extras, 1
 bucket/robocopy-gui.json, ScoopInstaller/Extras, 1
 bucket/robomongo.json, ChinLong/scoop-customize, 0
+bucket/roborev.json, cderv/r-bucket, 1
 bucket/robotomono-variable.json, KnotUntied/scoop-fonts, 0
 bucket/rocketchat-client.json, ScoopInstaller/Extras, 1
 bucket/rocketchat-portapps.json, Velgus/Scoop-Portapps, 1
