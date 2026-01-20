@@ -1627,7 +1627,7 @@ bucket/alephone-marathon-trilogy.json, Calinou/scoop-games, 1
 bucket/algermusicplayer.json, DoveBoy/Apps, 1
 bucket/algernon.json, ScoopInstaller/Main, 1
 bucket/algol68g.json, ScoopInstaller/Main, 0
-bucket/ali.json, DoveBoy/Apps, 1
+bucket/ali.json, aliesbelik/poldi, 1
 bucket/alias-additions.json, ACooper81/scoop-apps, 1
 bucket/alien.json, ScoopInstaller/Extras, 1
 bucket/alipan.json, akirco/aki-apps, 1
