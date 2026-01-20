@@ -179,7 +179,7 @@ bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
+bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
@@ -952,7 +952,7 @@ bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/Pinokio-Portable.json, ACooper81/scoop-apps, 1
 bucket/PixBuilder.json, zhoujin7/tomato, 0
 bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
-bucket/PixPin.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/PixPin.json, ivaquero/scoopet, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixel-Code.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Pixeval.json, cc713/ownscoop, 1
@@ -3184,7 +3184,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -3446,7 +3446,6 @@ bucket/elixir.json, ScoopInstaller/Main, 0
 bucket/elm.json, ScoopInstaller/Main, 1
 bucket/elvish.json, ScoopInstaller/Main, 0
 bucket/emacs-k.json, kiennq/scoop-misc, 1
-bucket/emacs-kl.json, kiennq/scoop-misc, 1
 bucket/emacs-lsp-booster.json, kiennq/scoop-misc, 1
 bucket/emacs-tree-sitter-module-ucrt64.json, iquiw/scoop-bucket, 1
 bucket/emacs-tree-sitter-module.json, iquiw/scoop-bucket, 1
@@ -4692,6 +4691,7 @@ bucket/hyper-beta.json, ScoopInstaller/Versions, 1
 bucket/hyper.json, ScoopInstaller/Extras, 1
 bucket/hyperfine.json, ScoopInstaller/Main, 1
 bucket/hysteria.json, ScoopInstaller/Extras, 1
+bucket/hytale.json, Calinou/scoop-games, 1
 bucket/i2p-zero-gui.json, ScoopInstaller/Extras, 1
 bucket/i2p-zero.json, ScoopInstaller/Main, 1
 bucket/i2p.json, ScoopInstaller/Main, 0
@@ -10858,6 +10858,7 @@ scripts/harmonoid/install-harmonoid-associations.ps1, ScoopInstaller/Extras, 0
 scripts/harmonoid/install-harmonoid-context.ps1, ScoopInstaller/Extras, 0
 scripts/harmonoid/uninstall-harmonoid-associations.ps1, ScoopInstaller/Extras, 0
 scripts/harmonoid/uninstall-harmonoid-context.ps1, ScoopInstaller/Extras, 0
+scripts/hytale/default-folders.reg, Calinou/scoop-games, 0
 scripts/iar-ewarm/1.reg, SayCV/scoop-cvp, 0
 scripts/iar-ewarm/install-context.reg.templ, SayCV/scoop-cvp, 0
 scripts/iar-ewarm/uninstall-context.reg, SayCV/scoop-cvp, 0
