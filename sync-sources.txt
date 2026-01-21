@@ -472,7 +472,7 @@ bucket/Font-Awesome.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FontMod.json, ygguorun/scoop-bucket, 1
 bucket/ForceBindIPCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/FreeFileSync-Portable.json, ACooper81/scoop-apps, 0
-bucket/FreeFileSync.json, DoveBoy/Apps, 0
+bucket/FreeFileSync.json, cc713/ownscoop, 0
 bucket/FreeMove-Portable.json, ACooper81/scoop-apps, 1
 bucket/FreeSpaceWipe-Portable.json, ACooper81/scoop-apps, 0
 bucket/FreeTube-Portable.json, ACooper81/scoop-apps, 1
