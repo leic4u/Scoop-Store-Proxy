@@ -9909,7 +9909,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
@@ -10640,6 +10640,7 @@ bucket/yy-thunks.json, wzv5/ScoopBucket, 1
 bucket/yy.json, chawyehsu/dorado, 0
 bucket/z.json, ScoopInstaller/Extras, 0
 bucket/z.lua.json, ScoopInstaller/Main, 1
+bucket/z0scan.json, ViCrack/scoop-bucket, 1
 bucket/z26.json, hermanjustnu/scoop-emulators, 0
 bucket/z3.json, ScoopInstaller/Main, 1
 bucket/zabbix-agent.json, wzv5/ScoopBucket, 0
