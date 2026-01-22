@@ -2282,7 +2282,7 @@ bucket/buttercup.json, ScoopInstaller/Extras, 1
 bucket/butterflow-ui.json, ScoopInstaller/Extras, 1
 bucket/butterflow.json, ScoopInstaller/Main, 1
 bucket/butterfly.json, ScoopInstaller/Extras, 1
-bucket/buzz.json, DoveBoy/Apps, 1
+bucket/buzz.json, naderi/scoop-bucket, 1
 bucket/bw_add_sshkeys.json, Weidows-projects/scoop-3rd, 1
 bucket/byacc.json, ScoopInstaller/Main, 0
 bucket/byedpi.json, aliesbelik/poldi, 1
@@ -9216,6 +9216,7 @@ bucket/taskschedulerview.json, ScoopInstaller/Nirsoft, 0
 bucket/taskt.json, ScoopInstaller/Extras, 1
 bucket/tauon.json, ScoopInstaller/Extras, 1
 bucket/tautulli.json, amorphobia/siku, 1
+bucket/taws.json, aliesbelik/poldi, 1
 bucket/tb-Toolbox.json, Paxxs/Cluttered-bucket, 0
 bucket/tb-vol-scroll.json, ScoopInstaller/Extras, 1
 bucket/tbls.json, iquiw/scoop-bucket, 1
