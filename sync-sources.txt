@@ -1858,6 +1858,7 @@ bucket/atom.json, ScoopInstaller/Extras, 1
 bucket/atomicparsley.json, ScoopInstaller/Main, 1
 bucket/attr.json, rasa/scoops, 1
 bucket/attribute-changer.json, ScoopInstaller/Extras, 0
+bucket/atuin.json, ScoopInstaller/Main, 1
 bucket/audacious.json, ScoopInstaller/Extras, 0
 bucket/audacity-ffmpeg-plugin.json, naderi/scoop-bucket, 0
 bucket/audacity-lame-plugin.json, rasa/scoops, 0
@@ -9959,6 +9960,7 @@ bucket/volume2.json, ScoopInstaller/Extras, 1
 bucket/volumeid.json, niheaven/scoop-sysinternals, 1
 bucket/volumelock.json, wzv5/ScoopBucket, 1
 bucket/volumouse.json, ScoopInstaller/Nirsoft, 0
+bucket/vortex.json, Calinou/scoop-games, 1
 bucket/vortexdm.json, ScoopInstaller/Extras, 1
 bucket/vosviewer.json, ScoopInstaller/Extras, 0
 bucket/vott.json, ScoopInstaller/Extras, 1
