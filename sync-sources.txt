@@ -5400,6 +5400,7 @@ bucket/less-beta.json, ScoopInstaller/Versions, 1
 bucket/less-windows.json, batkiz/backit, 1
 bucket/less.json, ScoopInstaller/Main, 1
 bucket/lessmsi.json, ScoopInstaller/Main, 1
+bucket/letrecovery.json, DoveBoy/Apps, 1
 bucket/lettura.json, DoveBoy/Apps, 1
 bucket/lf.json, ScoopInstaller/Main, 1
 bucket/lf2.json, Calinou/scoop-games, 0
@@ -8676,6 +8677,7 @@ bucket/shimo.json, akirco/aki-apps, 0
 bucket/shinyproxy.json, ScoopInstaller/Main, 0
 bucket/shion.json, Weidows-projects/scoop-3rd, 1
 bucket/shipwright.json, Calinou/scoop-games, 1
+bucket/shiroexploit.json, ViCrack/scoop-bucket, 1
 bucket/shman.json, ScoopInstaller/Nirsoft, 0
 bucket/shmnview.json, ScoopInstaller/Nirsoft, 0
 bucket/shortcutsman.json, kodybrown/scoop-nirsoft, 0
@@ -10619,6 +10621,8 @@ bucket/yt-dlpCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/yt-spammer-purge.json, naderi/scoop-bucket, 1
 bucket/ytcast.json, ScoopInstaller/Main, 1
 bucket/ytdlp-interface.json, ScoopInstaller/Extras, 1
+bucket/ytdownloader-portable.json, DoveBoy/Apps, 1
+bucket/ytdownloader.json, DoveBoy/Apps, 1
 bucket/ytmdesktop.json, ScoopInstaller/Extras, 1
 bucket/ytmdl-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/ytsage.json, DoveBoy/Apps, 1
