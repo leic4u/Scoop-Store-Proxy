@@ -9,8 +9,8 @@ bucket/115.json, echoiron/echo-scoop, 0
 bucket/115chrome.json, echoiron/echo-scoop, 0
 bucket/11game-platform.json, SayCV/scoop-cvp, 0
 bucket/123pan.json, akirco/aki-apps, 1
-bucket/163MusicLyrics-lite.json, hu3rror/scoop-muggle, 1
-bucket/163MusicLyrics-pro.json, hu3rror/scoop-muggle, 1
+bucket/163MusicLyrics-lite-6.5.json, hu3rror/scoop-muggle, 1
+bucket/163MusicLyrics-pro-6.5.json, hu3rror/scoop-muggle, 1
 bucket/163MusicLyrics.json, ygguorun/scoop-bucket, 1
 bucket/1History.json, abgox/abgo_bucket, 1
 bucket/1Remote-Portable.json, ACooper81/scoop-apps, 1
@@ -1949,7 +1949,7 @@ bucket/axure.json, chawyehsu/dorado, 0
 bucket/aya.json, akirco/aki-apps, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
 bucket/az-tui.json, aliesbelik/poldi, 1
-bucket/azahar.json, borger/scoop-emulators, 1
+bucket/azahar.json, Calinou/scoop-games, 1
 bucket/azcopy.json, ScoopInstaller/Main, 1
 bucket/azd.json, ScoopInstaller/Extras, 1
 bucket/aztfexport.json, ScoopInstaller/Main, 1
