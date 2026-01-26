@@ -2531,6 +2531,7 @@ bucket/citra-nightly.json, hermanjustnu/scoop-emulators, 1
 bucket/citra.json, Deide/deide-bucket, 1
 bucket/citron.json, borger/scoop-emulators, 1
 bucket/civo.json, ScoopInstaller/Extras, 1
+bucket/ciyue.json, DoveBoy/Apps, 1
 bucket/ck-cli.json, aliesbelik/poldi, 1
 bucket/clamav.json, ScoopInstaller/Extras, 1
 bucket/clangd.json, ScoopInstaller/Main, 1
@@ -6972,7 +6973,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
