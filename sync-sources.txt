@@ -4665,6 +4665,7 @@ bucket/httpie-go.json, batkiz/backit, 1
 bucket/httpie-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/httping.json, ScoopInstaller/Main, 1
 bucket/httplab.json, aliesbelik/poldi, 1
+bucket/httpmonitor.json, aliesbelik/poldi, 1
 bucket/httpnetworksniffer.json, ScoopInstaller/Nirsoft, 0
 bucket/httprobe.json, aliesbelik/poldi, 1
 bucket/httpstat.json, ScoopInstaller/Main, 1
