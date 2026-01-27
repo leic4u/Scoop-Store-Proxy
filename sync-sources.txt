@@ -4257,7 +4257,7 @@ bucket/gn.json, ScoopInstaller/Versions, 0
 bucket/gnirehtet.json, ScoopInstaller/Main, 1
 bucket/gns3.json, DoveBoy/Apps, 1
 bucket/gnucash.json, ScoopInstaller/Extras, 1
-bucket/gnupg-np.json, chawyehsu/dorado, 0
+bucket/gnupg-np.json, DoveBoy/Apps, 0
 bucket/gnupg-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/gnupg.json, ScoopInstaller/Main, 0
 bucket/gnupg1.json, ScoopInstaller/Main, 0
@@ -7650,7 +7650,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppsspp-dev.json, borger/scoop-emulators, 0
-bucket/ppsspp.json, borger/scoop-emulators, 0
+bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -9609,6 +9609,7 @@ bucket/tuifeed.json, aliesbelik/poldi, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
+bucket/tunnelbear-np.json, ScoopInstaller/Nonportable, 0
 bucket/tup.json, ScoopInstaller/Main, 0
 bucket/turnedontimesview.json, ScoopInstaller/Nirsoft, 0
 bucket/tursi.json, jfut/scoop-jfut, 1
