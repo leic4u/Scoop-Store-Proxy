@@ -2523,6 +2523,8 @@ bucket/cider.json, beerpiss/scoop-bucket, 1
 bucket/cidr.json, aliesbelik/poldi, 1
 bucket/cinc-auditor.json, iquiw/scoop-bucket, 0
 bucket/cinebench.json, aoisummer/scoop-bucket, 0
+bucket/cinebench2024.json, aoisummer/scoop-bucket, 0
+bucket/cinebench23.json, aoisummer/scoop-bucket, 0
 bucket/cinny.json, ScoopInstaller/Extras, 1
 bucket/cinta-notes.json, naderi/scoop-bucket, 0
 bucket/circleci-cli.json, ScoopInstaller/Main, 1

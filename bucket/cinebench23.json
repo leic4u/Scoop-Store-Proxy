@@ -2,15 +2,15 @@
   "homepage": "https://www.maxon.net/en/cinebench",
   "description": "A real-world cross-platform test suite that evaluates your computer's hardware capabilities.",
   "license": "Freeware",
-  "version": "2026.1.0",
+  "version": "23.2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mx-app-blob-prod.maxon.net/mx-package-production/website/windows/maxon/cinebench/Cinebench2026_win_x86_64.zip",
-      "hash": "7b48438e8e9fb7cc440478d18e30d3b3549379269359dab7f5ea77b36ca4cab1",
+      "url": "https://installer.maxon.net/cinebench/CinebenchR23.zip",
+      "hash": "fff6d34b8f696de64a534fc9f0788ec1e9f1bda880a88aed92df8b96d1797c42",
       "shortcuts": [
         [
           "Cinebench.exe",
-          "Cinebench 2026"
+          "Cinebench R23"
         ]
       ]
     }
