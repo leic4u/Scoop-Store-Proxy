@@ -1993,6 +1993,7 @@ bucket/bandizip-classic.json, HUMORCE/nuke, 0
 bucket/bandizip.json, ScoopInstaller/Extras, 0
 bucket/bandizip6.json, ScoopInstaller/Versions, 0
 bucket/bandwhich.json, ScoopInstaller/Main, 1
+bucket/banjo-recompiled.json, Calinou/scoop-games, 1
 bucket/baregrep.json, ScoopInstaller/Extras, 0
 bucket/baretail.json, ScoopInstaller/Extras, 0
 bucket/bark-server-v2.json, amorphobia/siku, 1
@@ -3759,7 +3760,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -7663,6 +7664,7 @@ bucket/presenterm.json, ScoopInstaller/Main, 1
 bucket/presentmon.json, ScoopInstaller/Main, 1
 bucket/previousfilesrecovery.json, ScoopInstaller/Nirsoft, 0
 bucket/prime95.json, ScoopInstaller/Extras, 0
+bucket/primehack.json, Calinou/scoop-games, 1
 bucket/prince.json, ScoopInstaller/Main, 0
 bucket/prismlauncher-git.json, ScoopInstaller/Versions, 1
 bucket/prismlauncher-qt5.json, Calinou/scoop-games, 1
@@ -8976,6 +8978,7 @@ bucket/stack-wallet.json, ScoopInstaller/Extras, 1
 bucket/stack.json, ScoopInstaller/Main, 1
 bucket/stairspeedtest-reborn.json, chawyehsu/dorado, 1
 bucket/standardnotes.json, ScoopInstaller/Extras, 1
+bucket/starfox64-recompiled.json, Calinou/scoop-games, 1
 bucket/starrail-copilot.json, Calinou/scoop-games, 1
 bucket/starship-cvp.json, SayCV/scoop-cvp, 1
 bucket/starship.json, ScoopInstaller/Main, 1
