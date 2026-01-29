@@ -4369,7 +4369,7 @@ bucket/gopeed-portable.json, DoveBoy/Apps, 1
 bucket/gopeed-web.json, DoveBoy/Apps, 1
 bucket/gopeed.json, ScoopInstaller/Extras, 1
 bucket/gopher360.json, ScoopInstaller/Extras, 1
-bucket/gopher64.json, Calinou/scoop-games, 1
+bucket/gopher64.json, borger/scoop-emulators, 1
 bucket/gopls.json, iquiw/scoop-bucket, 1
 bucket/goproxy.json, kkzzhizhou/scoop-zapps, 1
 bucket/goread.json, batkiz/backit, 1
@@ -8888,7 +8888,7 @@ bucket/speedbump.json, aliesbelik/poldi, 1
 bucket/speedcrunch.json, ScoopInstaller/Extras, 0
 bucket/speedfan.json, ScoopInstaller/Extras, 0
 bucket/speedtest-cli.json, ScoopInstaller/Main, 0
-bucket/speedtest-go.json, aliesbelik/poldi, 1
+bucket/speedtest-go.json, ScoopInstaller/Main, 1
 bucket/speedtest.json, ScoopInstaller/Extras, 0
 bucket/speedy.json, ViCrack/scoop-bucket, 1
 bucket/speedyfox.json, ScoopInstaller/Extras, 0
