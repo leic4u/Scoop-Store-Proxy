@@ -1949,7 +1949,7 @@ bucket/axure.json, chawyehsu/dorado, 0
 bucket/aya.json, akirco/aki-apps, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
 bucket/az-tui.json, aliesbelik/poldi, 1
-bucket/azahar.json, Calinou/scoop-games, 1
+bucket/azahar.json, borger/scoop-emulators, 1
 bucket/azcopy.json, ScoopInstaller/Main, 1
 bucket/azd.json, ScoopInstaller/Extras, 1
 bucket/aztfexport.json, ScoopInstaller/Main, 1
@@ -4166,6 +4166,7 @@ bucket/git-cliff.json, ScoopInstaller/Main, 1
 bucket/git-cola.json, ScoopInstaller/Extras, 1
 bucket/git-credential-gopass.json, chawyehsu/dorado, 1
 bucket/git-credential-manager.json, ScoopInstaller/Extras, 1
+bucket/git-credential-oauth.json, ScoopInstaller/Main, 1
 bucket/git-crypt.json, ScoopInstaller/Main, 1
 bucket/git-extras.json, aliesbelik/poldi, 1
 bucket/git-filter-repo.json, ScoopInstaller/Main, 1
@@ -6977,7 +6978,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
