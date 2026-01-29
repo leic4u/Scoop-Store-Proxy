@@ -2718,6 +2718,7 @@ bucket/coodesker.json, echoiron/echo-scoop, 0
 bucket/cookiecutter.json, ScoopInstaller/Extras, 0
 bucket/coolermaster-masterplus.json, brian6932/dank-scoop, 0
 bucket/coolplayer.json, naderi/scoop-bucket, 0
+bucket/copilot-cli.json, ScoopInstaller/Main, 1
 bucket/coppeliasim.json, ScoopInstaller/Extras, 0
 bucket/copy-dialog-lunar-lander.json, ScoopInstaller/Extras, 1
 bucket/copy-excel-paste-markdown.json, SayCV/scoop-cvp, 1
