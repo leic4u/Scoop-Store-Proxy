@@ -5741,7 +5741,7 @@ bucket/makelnk.json, naderi/scoop-bucket, 1
 bucket/makemkv.json, ScoopInstaller/Extras, 0
 bucket/malware-patch.json, ivaquero/scoopet, 1
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
-bucket/mame.json, borger/scoop-emulators, 1
+bucket/mame.json, Calinou/scoop-games, 1
 bucket/mameui.json, Calinou/scoop-games, 0
 bucket/managewirelessnetworks.json, ScoopInstaller/Nirsoft, 0
 bucket/mancy.json, ScoopInstaller/Extras, 1
