@@ -2326,7 +2326,7 @@ bucket/camstudio.json, ScoopInstaller/Extras, 0
 bucket/camunda-modeler.json, ScoopInstaller/Extras, 1
 bucket/camunda-operate.json, ScoopInstaller/Main, 1
 bucket/camunda-operate1.3.json, ScoopInstaller/Versions, 1
-bucket/capcut.json, chawyehsu/dorado, 0
+bucket/capcut.json, naderi/scoop-bucket, 0
 bucket/capframex.json, ScoopInstaller/Extras, 1
 bucket/capnp.json, ScoopInstaller/Main, 0
 bucket/caprine-portapps.json, Velgus/Scoop-Portapps, 1
