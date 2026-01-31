@@ -2177,7 +2177,7 @@ bucket/bluelife-keyfreeze.json, ViCrack/scoop-bucket, 0
 bucket/bluescreen.json, mogeko/scoop-sysinternals, 0
 bucket/bluescreenview.json, ScoopInstaller/Nirsoft, 0
 bucket/bluestacks-hyperv-np.json, TheRandomLabs/scoop-nonportable, 0
-bucket/bluestacks-np.json, ScoopInstaller/Nonportable, 0
+bucket/bluestacks-np.json, ScoopInstaller/Nonportable, 1
 bucket/bluestacks4-hyperv-np.json, ScoopInstaller/Nonportable, 0
 bucket/bluestacks4-np.json, ScoopInstaller/Nonportable, 0
 bucket/blueteamtools.json, ViCrack/scoop-bucket, 1
@@ -3126,7 +3126,7 @@ bucket/dispatch.json, brian6932/dank-scoop, 1
 bucket/display-changer-ii.json, rasa/scoops, 0
 bucket/display-changer.json, rasa/scoops, 0
 bucket/displaycal.json, ScoopInstaller/Extras, 0
-bucket/ditto-np.json, ScoopInstaller/Nonportable, 0
+bucket/ditto-np.json, ScoopInstaller/Nonportable, 1
 bucket/ditto.json, ScoopInstaller/Extras, 1
 bucket/diun.json, ScoopInstaller/Main, 1
 bucket/divamodmanager.json, Calinou/scoop-games, 1
