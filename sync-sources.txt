@@ -4693,6 +4693,7 @@ bucket/hwinfo.json, ScoopInstaller/Extras, 0
 bucket/hwmonitor.json, ScoopInstaller/Extras, 0
 bucket/hwp-converter.json, ScoopInstaller/Extras, 0
 bucket/hxd.json, ScoopInstaller/Extras, 0
+bucket/hyacinth.json, ViCrack/scoop-bucket, 1
 bucket/hydrogen-music-portable.json, DoveBoy/Apps, 1
 bucket/hydrogen.json, ScoopInstaller/Extras, 1
 bucket/hydrus-network.json, ScoopInstaller/Extras, 1
