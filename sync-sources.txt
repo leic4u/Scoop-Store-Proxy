@@ -4615,7 +4615,7 @@ bucket/hlae.json, Calinou/scoop-games, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 1
-bucket/hmcl.json, seumsc/scoop-seu, 1
+bucket/hmcl.json, chawyehsu/dorado, 1
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
 bucket/hok.json, chawyehsu/dorado, 1
@@ -6366,7 +6366,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
