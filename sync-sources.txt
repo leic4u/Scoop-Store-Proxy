@@ -529,7 +529,7 @@ bucket/HBuilder.json, zhoujin7/tomato, 0
 bucket/HBuilderX-Alpha.json, zhoujin7/tomato, 0
 bucket/HBuilderX-Full-Alpha.json, zhoujin7/tomato, 0
 bucket/HBuilderX-Full.json, zhoujin7/tomato, 0
-bucket/HBuilderX.json, echoiron/echo-scoop, 0
+bucket/HBuilderX.json, ivaquero/scoopet, 0
 bucket/HDCleaner-Portable.json, ACooper81/scoop-apps, 0
 bucket/HDTunePro.json, kkzzhizhou/scoop-zapps, 1
 bucket/HWIDGEN.json, kkzzhizhou/scoop-zapps, 1
@@ -1613,7 +1613,7 @@ bucket/aidoku-cli.json, beerpiss/scoop-bucket, 1
 bucket/aigcpanel.json, ivaquero/scoopet, 1
 bucket/aimp.json, ScoopInstaller/Extras, 0
 bucket/ain.json, aliesbelik/poldi, 1
-bucket/ainiee.json, hu3rror/scoop-muggle, 1
+bucket/ainiee.json, ivaquero/scoopet, 1
 bucket/air.json, ScoopInstaller/Main, 1
 bucket/aircrack-ng.json, ScoopInstaller/Extras, 0
 bucket/airdroid.json, ScoopInstaller/Extras, 0
