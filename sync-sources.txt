@@ -4205,6 +4205,7 @@ bucket/gitg.json, cc713/ownscoop, 0
 bucket/github-beta.json, ScoopInstaller/Versions, 1
 bucket/github-hosts.json, DoveBoy/Apps, 1
 bucket/github-mcp-server.json, cderv/r-bucket, 1
+bucket/github-store.json, DoveBoy/Apps, 1
 bucket/github.json, ScoopInstaller/Extras, 1
 bucket/gitify.json, ScoopInstaller/Extras, 1
 bucket/gitignore.json, ScoopInstaller/Main, 1
