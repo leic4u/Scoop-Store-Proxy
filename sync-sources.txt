@@ -6045,7 +6045,6 @@ bucket/mmcompview.json, kodybrown/scoop-nirsoft, 0
 bucket/mmcsnapinsview.json, ScoopInstaller/Nirsoft, 0
 bucket/mmview.json, ScoopInstaller/Nirsoft, 0
 bucket/mo2.json, Calinou/scoop-games, 1
-bucket/moar.json, ScoopInstaller/Extras, 1
 bucket/mob.json, ScoopInstaller/Main, 1
 bucket/mobalivecd.json, ScoopInstaller/Extras, 0
 bucket/mobaxterm-professional.json, naderi/scoop-bucket, 0
