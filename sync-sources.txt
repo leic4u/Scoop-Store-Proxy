@@ -2969,6 +2969,7 @@ bucket/dataspell.json, ScoopInstaller/Extras, 1
 bucket/datastation.json, batkiz/backit, 1
 bucket/datovka.json, ScoopInstaller/Extras, 0
 bucket/datree.json, ScoopInstaller/Main, 1
+bucket/dawn.json, aliesbelik/poldi, 1
 bucket/dbeaver-cn.json, ivaquero/scoopet, 0
 bucket/dbeaver-ea.json, ScoopInstaller/Versions, 0
 bucket/dbeaver-portapps.json, Velgus/Scoop-Portapps, 1
@@ -6317,6 +6318,7 @@ bucket/navicat-premium-lite-cn.json, ivaquero/scoopet, 0
 bucket/navicat-premium-lite.json, seumsc/scoop-seu, 0
 bucket/navidrome-portable.json, DoveBoy/Apps, 1
 bucket/navidrome.json, ScoopInstaller/Main, 1
+bucket/nbping.json, aliesbelik/poldi, 1
 bucket/nbtexplorer.json, Calinou/scoop-games, 1
 bucket/ncftpclient.json, ScoopInstaller/Extras, 0
 bucket/ncmpc.json, ScoopInstaller/Extras, 0
