@@ -5178,7 +5178,7 @@ bucket/hs-flashtool.json, SayCV/scoop-cvp, 1
 bucket/hsqldb.json, zhoujin7/tomato, 0
 bucket/hterm.json, ScoopInstaller/Extras, 0
 bucket/html-comic.json, DoveBoy/Apps, 1
-bucket/html-to-markdown.json, dodorz/scoop, 1
+bucket/html-to-markdown.json, ScoopInstaller/Main, 1
 bucket/htmlastext.json, ScoopInstaller/Nirsoft, 0
 bucket/htmldocedit.json, ScoopInstaller/Nirsoft, 0
 bucket/htmlhelp.json, rasa/scoops, 0
