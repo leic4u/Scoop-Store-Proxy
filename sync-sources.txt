@@ -8135,6 +8135,7 @@ bucket/pngquant.json, ScoopInstaller/Main, 0
 bucket/pngyu.json, ScoopInstaller/Extras, 0
 bucket/pnpm-tab-completion.json, DoveBoy/Apps, 0
 bucket/pnpm.json, ScoopInstaller/Main, 1
+bucket/pocket-id.json, amorphobia/siku, 1
 bucket/pocketasterisk.json, ScoopInstaller/Nirsoft, 0
 bucket/pocketbase.json, ScoopInstaller/Main, 1
 bucket/pocketsphinx.json, ScoopInstaller/Extras, 0
@@ -8223,7 +8224,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
