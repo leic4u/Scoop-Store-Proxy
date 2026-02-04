@@ -6862,6 +6862,7 @@ bucket/nap.json, aliesbelik/poldi, 1
 bucket/naps2.json, ScoopInstaller/Extras, 1
 bucket/nasm.json, ScoopInstaller/Main, 0
 bucket/nat-type-tester.json, AkinoKaede/maple, 1
+bucket/natmap.json, ScoopInstaller/Main, 1
 bucket/natron.json, ScoopInstaller/Extras, 1
 bucket/nats-server.json, ScoopInstaller/Main, 1
 bucket/natscli.json, ScoopInstaller/Extras, 1
@@ -7543,7 +7544,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
