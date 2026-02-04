@@ -262,6 +262,7 @@ bucket/BrutalityExtractor.json, Weidows-projects/scoop-3rd, 1
 bucket/BuiltIn.json, dodorz/scoop, 0
 bucket/BulkCrapUninstaller-Portable.json, ACooper81/scoop-apps, 1
 bucket/BurntToast-PSModule.json, ACooper81/scoop-apps, 1
+bucket/BusyBox-Unicode.json, dodorz/scoop, 0
 bucket/ByPass.json, kkzzhizhou/scoop-zapps, 0
 bucket/BywaterBASIC.json, dodorz/scoop, 1
 bucket/CADReader.json, dodorz/scoop, 0
@@ -4106,6 +4107,7 @@ bucket/extreme-injector.json, HUMORCE/nuke, 1
 bucket/extremedumper.json, ViCrack/scoop-bucket, 1
 bucket/extremetuxracer.json, Calinou/scoop-games, 0
 bucket/exwrapper.json, aoisummer/scoop-bucket, 1
+bucket/eza-ls.json, dodorz/scoop, 1
 bucket/eza.json, ScoopInstaller/Main, 1
 bucket/ezshare.json, couleur-tweak-tips/utils, 1
 bucket/ezunlock.json, ScoopInstaller/Extras, 1
