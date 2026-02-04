@@ -10938,6 +10938,7 @@ bucket/wireshark3.json, ScoopInstaller/Versions, 0
 bucket/wise-disk-cleaner.json, naderi/scoop-bucket, 0
 bucket/wise-program-uninstaller.json, naderi/scoop-bucket, 0
 bucket/witchblast.json, Calinou/scoop-games, 1
+bucket/witr.json, ScoopInstaller/Main, 1
 bucket/witsy.json, hu3rror/scoop-muggle, 1
 bucket/wix.json, chawyehsu/dorado, 0
 bucket/wixtoolset.json, ScoopInstaller/Main, 0
