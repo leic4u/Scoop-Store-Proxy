@@ -3696,7 +3696,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4786,7 +4786,7 @@ bucket/gnupg1.json, ScoopInstaller/Main, 0
 bucket/gnuplot.json, ScoopInstaller/Main, 0
 bucket/gnutls.json, ScoopInstaller/Main, 0
 bucket/go-chromecast.json, ScoopInstaller/Extras, 1
-bucket/go-cn.json, akirco/aki-apps, 0
+bucket/go-cn.json, chawyehsu/dorado, 0
 bucket/go-containerregistry.json, ScoopInstaller/Main, 1
 bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
 bucket/go-drive.json, DoveBoy/Apps, 1
@@ -6143,6 +6143,7 @@ bucket/lmms.json, ScoopInstaller/Extras, 1
 bucket/lmstudio.json, dodorz/scoop, 0
 bucket/ln.json, ScoopInstaller/Main, 1
 bucket/lnCLI-Portable.json, ACooper81/scoop-apps, 0
+bucket/lnko.json, aliesbelik/poldi, 1
 bucket/loadeddllsview.json, ScoopInstaller/Nirsoft, 0
 bucket/loadmedia.json, rasa/scoops, 0
 bucket/loadorder.json, niheaven/scoop-sysinternals, 1
@@ -6925,7 +6926,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -10672,6 +10673,7 @@ bucket/webcookiessniffer.json, ScoopInstaller/Nirsoft, 0
 bucket/webcopy.json, ScoopInstaller/Extras, 0
 bucket/webcord.json, ScoopInstaller/Extras, 1
 bucket/webd.json, dodorz/scoop, 0
+bucket/webdav.json, amorphobia/siku, 1
 bucket/webex.json, ScoopInstaller/Extras, 0
 bucket/webgal-terre.json, Calinou/scoop-games, 1
 bucket/webhook.json, ScoopInstaller/Main, 1
