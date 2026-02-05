@@ -8777,7 +8777,7 @@ bucket/responsively.json, ScoopInstaller/Extras, 1
 bucket/rest-server.json, aoisummer/scoop-bucket, 1
 bucket/restart-explorer.json, ScoopInstaller/Extras, 0
 bucket/restartsrdev.json, rasa/scoops, 0
-bucket/resterm.json, aliesbelik/poldi, 1
+bucket/resterm.json, ScoopInstaller/Main, 1
 bucket/restexplorer.json, naderi/scoop-bucket, 0
 bucket/restfox.json, ScoopInstaller/Extras, 1
 bucket/restic-browser.json, ScoopInstaller/Extras, 1
@@ -9780,6 +9780,7 @@ bucket/t-clock.json, ScoopInstaller/Extras, 1
 bucket/tabby-portable.json, SayCV/scoop-cvp, 1
 bucket/tabby-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/tabby.json, ScoopInstaller/Extras, 1
+bucket/tabiew.json, ScoopInstaller/Main, 1
 bucket/tablacus-explorer.json, ScoopInstaller/Extras, 1
 bucket/tableau-desktop.json, SayCV/scoop-cvp, 0
 bucket/tableplus.json, ScoopInstaller/Extras, 0
