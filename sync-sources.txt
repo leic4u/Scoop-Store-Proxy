@@ -2877,6 +2877,7 @@ bucket/cataclysm-dda.json, Calinou/scoop-games, 1
 bucket/catalyst.json, ScoopInstaller/Extras, 1
 bucket/catbox.json, brian6932/dank-scoop, 1
 bucket/catsxp.json, naderi/scoop-bucket, 0
+bucket/cava.json, Deide/deide-bucket, 1
 bucket/cbmc.json, seumsc/scoop-seu, 1
 bucket/cbox-cvp.json, SayCV/scoop-cvp, 1
 bucket/cbxconverter.json, starise/Scoop-Confetti, 0
