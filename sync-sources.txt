@@ -2275,7 +2275,7 @@ bucket/aqua.json, ScoopInstaller/Main, 1
 bucket/aquasnap.json, starise/Scoop-Confetti, 0
 bucket/arc.json, ScoopInstaller/Main, 1
 bucket/arcadedb.json, ScoopInstaller/Extras, 1
-bucket/archi.json, ScoopInstaller/Extras, 1
+bucket/archi.json, ScoopInstaller/Extras, 0
 bucket/archisteamfarm-generic.json, seumsc/scoop-seu, 1
 bucket/archisteamfarm.json, ScoopInstaller/Extras, 1
 bucket/archive.is.json, chawyehsu/dorado, 1
@@ -2532,6 +2532,7 @@ bucket/bcut.json, akirco/aki-apps, 0
 bucket/bdInfo-cli.json, yuusakuri/scoop-bucket, 1
 bucket/bdinfo.json, amorphobia/siku, 0
 bucket/beads-rust.json, cderv/r-bucket, 1
+bucket/beads-task-issue-tracker.json, cderv/r-bucket, 1
 bucket/beads.json, cderv/r-bucket, 1
 bucket/beaker-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/beaker.json, ScoopInstaller/Extras, 1
@@ -6925,7 +6926,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, wzv5/ScoopBucket, 0
+bucket/neteasemusic.json, ivaquero/scoopet, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
