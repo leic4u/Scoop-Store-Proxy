@@ -10603,6 +10603,7 @@ bucket/vt-cli.json, ScoopInstaller/Main, 1
 bucket/vt-uploader.json, ScoopInstaller/Extras, 1
 bucket/vtfedit.json, ScoopInstaller/Extras, 0
 bucket/vtm.json, ScoopInstaller/Extras, 1
+bucket/vuetorrent.json, amorphobia/siku, 1
 bucket/vulkan.json, ScoopInstaller/Main, 1
 bucket/vultr.json, ScoopInstaller/Main, 1
 bucket/vuplayer.json, ScoopInstaller/Extras, 1
