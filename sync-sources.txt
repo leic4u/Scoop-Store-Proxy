@@ -3643,7 +3643,7 @@ bucket/djvulibre.json, ScoopInstaller/Main, 0
 bucket/dllexp.json, ScoopInstaller/Nirsoft, 0
 bucket/dllexportviewer.json, kodybrown/scoop-nirsoft, 0
 bucket/dlm.json, aliesbelik/poldi, 1
-bucket/dlss-swapper.json, hu3rror/scoop-muggle, 1
+bucket/dlss-swapper.json, ScoopInstaller/Extras, 1
 bucket/dm2.json, naderi/scoop-bucket, 1
 bucket/dmd.json, ScoopInstaller/Main, 0
 bucket/dmde.json, brian6932/dank-scoop, 0
