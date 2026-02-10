@@ -10,8 +10,7 @@
   "pre_install": [
     "Rename-Item \"$dir/exiftool\" exiftool.pl",
     "@\"",
-    "@echo off",
-    "perl.exe \"$dir/exiftool.pl\" %*",
+    "@perl.exe \"$dir/exiftool.pl\" %*",
     "\"@ > \"$dir/exiftool.cmd\""
   ],
   "bin": "exiftool.cmd",
