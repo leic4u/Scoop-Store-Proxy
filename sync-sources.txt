@@ -4089,6 +4089,7 @@ bucket/exif-pilot.json, naderi/scoop-bucket, 0
 bucket/exifcleaner.json, ScoopInstaller/Extras, 1
 bucket/exifdataview.json, ScoopInstaller/Nirsoft, 0
 bucket/exifglass.json, ScoopInstaller/Extras, 1
+bucket/exiftool-pl.json, brian6932/dank-scoop, 0
 bucket/exiftool.json, ScoopInstaller/Main, 0
 bucket/exiftoolgui.json, cc713/ownscoop, 0
 bucket/exiled-exchange-2.json, Calinou/scoop-games, 1
@@ -10987,6 +10988,7 @@ bucket/worksans-variable.json, KnotUntied/scoop-fonts, 1
 bucket/worksans.json, KnotUntied/scoop-fonts, 1
 bucket/workspacer.json, ScoopInstaller/Extras, 1
 bucket/workspaceutilities.json, ScoopInstaller/Extras, 0
+bucket/worktrunk.json, ScoopInstaller/Main, 1
 bucket/wormhole-william.json, ScoopInstaller/Main, 1
 bucket/worsttrace.json, ygguorun/scoop-bucket, 0
 bucket/wowup.json, Calinou/scoop-games, 1
