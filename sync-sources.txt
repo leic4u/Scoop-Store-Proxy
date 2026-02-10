@@ -5490,7 +5490,7 @@ bucket/itunes64-older-video-cards-np.json, beerpiss/scoop-bucket, 0
 bucket/ivan.json, Calinou/scoop-games, 1
 bucket/iverilog.json, ScoopInstaller/Main, 0
 bucket/ivpn-client-np.json, ScoopInstaller/Nonportable, 0
-bucket/iwck.json, DoveBoy/Apps, 1
+bucket/iwck.json, ScoopInstaller/Extras, 1
 bucket/jEdit.json, dodorz/scoop, 0
 bucket/ja-netfilter-modified.json, Weidows-projects/scoop-3rd, 1
 bucket/ja-netfilter.json, ChinLong/scoop-customize, 0
