@@ -10467,6 +10467,7 @@ bucket/vencord-installer.json, ScoopInstaller/Extras, 1
 bucket/ventoy.json, ScoopInstaller/Extras, 1
 bucket/veracrypt-legacy-np.json, aoisummer/scoop-bucket, 0
 bucket/veracrypt-np.json, aoisummer/scoop-bucket, 0
+bucket/verapdf-docker.json, cderv/r-bucket, 1
 bucket/verethragna.json, jfut/scoop-jfut, 0
 bucket/verilator.json, SayCV/scoop-cvp, 1
 bucket/verilog-format.json, SayCV/scoop-cvp, 1
