@@ -7595,6 +7595,7 @@ bucket/pdu.json, aliesbelik/poldi, 1
 bucket/pe-bear.json, ScoopInstaller/Extras, 1
 bucket/pe-sieve.json, ScoopInstaller/Main, 1
 bucket/peace-np.json, ScoopInstaller/Nonportable, 0
+bucket/pear-desktop.json, ScoopInstaller/Extras, 1
 bucket/peazip.json, ScoopInstaller/Extras, 1
 bucket/peco.json, ScoopInstaller/Main, 1
 bucket/peerblock.json, ScoopInstaller/Extras, 0
