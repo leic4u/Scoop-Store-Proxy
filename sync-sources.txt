@@ -210,7 +210,7 @@ bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/BASIC256.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
+bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -311,6 +311,8 @@ bucket/Chinese-Subtitle-Conversion-Tool.json, leic4u/Scoop-Store, 1
 bucket/Chocolatey-Portable.json, ACooper81/scoop-apps, 0
 bucket/Chocolatey.json, dodorz/scoop, 0
 bucket/Chord.json, dodorz/scoop, 1
+bucket/Cinebench-2024.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/Cinebench-2026.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/Cinebench-R15.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/Cinebench-R20.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/Cinebench-R23.json, AkariiinMKII/Scoop4kariiin, 1
@@ -9602,7 +9604,7 @@ bucket/steam-achievement-manager.json, Calinou/scoop-games, 1
 bucket/steam-art-manager.json, Calinou/scoop-games, 1
 bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
-bucket/steam-game-idler.json, Calinou/scoop-games, 1
+bucket/steam-game-idler.json, starise/Scoop-Gaming, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
 bucket/steam-rom-manager.json, Calinou/scoop-games, 1
