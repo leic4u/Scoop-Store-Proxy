@@ -3992,7 +3992,7 @@ bucket/encfs.json, naderi/scoop-bucket, 1
 bucket/encodegui-np.json, ScoopInstaller/Nonportable, 0
 bucket/encore.json, Weidows-projects/scoop-3rd, 0
 bucket/encryptedregview.json, ScoopInstaller/Nirsoft, 0
-bucket/encrypto.json, naderi/scoop-bucket, 0
+bucket/encrypto.json, dodorz/scoop, 0
 bucket/encryptpad.json, ScoopInstaller/Extras, 1
 bucket/endless-sky.json, Calinou/scoop-games, 1
 bucket/energystarx.json, DoveBoy/Apps, 1
@@ -4531,6 +4531,7 @@ bucket/fvm.json, ScoopInstaller/Extras, 1
 bucket/fvuln.json, ViCrack/scoop-bucket, 1
 bucket/fwup.json, ScoopInstaller/Extras, 1
 bucket/fx.json, ScoopInstaller/Main, 1
+bucket/fylepad.json, ScoopInstaller/Extras, 1
 bucket/fysty.json, ScoopInstaller/Extras, 1
 bucket/fzf.json, ScoopInstaller/Main, 1
 bucket/g-assist.json, ScoopInstaller/Extras, 1
@@ -4610,6 +4611,7 @@ bucket/gdidrop.json, Calinou/scoop-games, 1
 bucket/gdisk.json, ScoopInstaller/Main, 0
 bucket/gdiview.json, ScoopInstaller/Nirsoft, 0
 bucket/gdrive.json, ScoopInstaller/Main, 1
+bucket/gdscript-formatter.json, ScoopInstaller/Extras, 1
 bucket/gdsdecomp.json, Calinou/scoop-games, 1
 bucket/gdu.json, ScoopInstaller/Main, 1
 bucket/geany-plugins.json, ScoopInstaller/Extras, 0
@@ -5323,7 +5325,7 @@ bucket/imageglass.json, ScoopInstaller/Extras, 1
 bucket/imagemagick-ffmpeg.json, ScoopInstaller/Versions, 0
 bucket/imagemagick-lean.json, ScoopInstaller/Main, 1
 bucket/imagemagick.json, ScoopInstaller/Main, 1
-bucket/imagine.json, ScoopInstaller/Extras, 1
+bucket/imagine.json, ScoopInstaller/Extras, 0
 bucket/imazing-converter.json, amorphobia/siku, 0
 bucket/imazing.json, beerpiss/scoop-bucket, 0
 bucket/imdone.json, ScoopInstaller/Extras, 0
