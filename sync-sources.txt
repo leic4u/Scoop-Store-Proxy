@@ -3973,6 +3973,8 @@ bucket/emacs-tree-sitter-module.json, iquiw/scoop-bucket, 1
 bucket/emacs-x.json, kiennq/scoop-misc, 1
 bucket/emacs.json, ScoopInstaller/Extras, 0
 bucket/emacs27.2.json, ScoopInstaller/Versions, 0
+bucket/emacs30-tree-sitter-module-ucrt64.json, iquiw/scoop-bucket, 1
+bucket/emacs30-tree-sitter-module.json, iquiw/scoop-bucket, 1
 bucket/emax64-pdumper.json, ScoopInstaller/Extras, 1
 bucket/emax64.json, kiennq/scoop-misc, 1
 bucket/embarcadero-dev-cpp-no-compiler.json, batkiz/backit, 1
