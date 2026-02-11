@@ -8179,7 +8179,6 @@ bucket/polsedit.json, ScoopInstaller/Extras, 0
 bucket/polymc.json, Deide/deide-bucket, 1
 bucket/pomerium.json, MCOfficer/scoop-bucket, 1
 bucket/pomsky.json, ScoopInstaller/Main, 1
-bucket/popcorn-time.json, ScoopInstaller/Extras, 1
 bucket/popeye.json, ScoopInstaller/Main, 1
 bucket/poppler.json, ScoopInstaller/Main, 1
 bucket/poppler068.json, ScoopInstaller/Versions, 0
@@ -10539,7 +10538,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
