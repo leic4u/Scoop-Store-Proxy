@@ -4283,7 +4283,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -9606,7 +9606,7 @@ bucket/steam-achievement-manager.json, Calinou/scoop-games, 1
 bucket/steam-art-manager.json, Calinou/scoop-games, 1
 bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
-bucket/steam-game-idler.json, starise/Scoop-Gaming, 1
+bucket/steam-game-idler.json, Calinou/scoop-games, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
 bucket/steam-rom-manager.json, Calinou/scoop-games, 1
@@ -10539,7 +10539,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
