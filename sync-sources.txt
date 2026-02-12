@@ -1719,7 +1719,7 @@ bucket/TranslucentTB-Install.json, ACooper81/scoop-apps, 1
 bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
 bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
-bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
+bucket/TreeSize.json, DoveBoy/Apps, 0
 bucket/Trout.json, dodorz/scoop, 0
 bucket/TscanPlus.json, ViCrack/scoop-bucket, 1
 bucket/TuBaTool.json, kkzzhizhou/scoop-zapps, 0
