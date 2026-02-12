@@ -9939,6 +9939,7 @@ bucket/terminals.json, ScoopInstaller/Extras, 1
 bucket/terminus.json, akirco/aki-apps, 1
 bucket/termite.json, ScoopInstaller/Extras, 0
 bucket/termius.json, ScoopInstaller/Extras, 0
+bucket/termix.json, ViCrack/scoop-bucket, 1
 bucket/termscp.json, ScoopInstaller/Main, 1
 bucket/termshark.json, ScoopInstaller/Main, 1
 bucket/termsvg.json, brian6932/dank-scoop, 1
