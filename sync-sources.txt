@@ -1719,7 +1719,7 @@ bucket/TranslucentTB-Install.json, ACooper81/scoop-apps, 1
 bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
 bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
-bucket/TreeSize.json, DoveBoy/Apps, 0
+bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
 bucket/Trout.json, dodorz/scoop, 0
 bucket/TscanPlus.json, ViCrack/scoop-bucket, 1
 bucket/TuBaTool.json, kkzzhizhou/scoop-zapps, 0
@@ -5811,7 +5811,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, seumsc/scoop-seu, 0
+bucket/kook.json, chawyehsu/dorado, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -10542,7 +10542,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
