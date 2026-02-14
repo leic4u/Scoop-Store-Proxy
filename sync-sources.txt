@@ -373,6 +373,7 @@ bucket/Cousine-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Cousine-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CoverYourTracks.json, dodorz/scoop, 0
 bucket/Craft.json, dodorz/scoop, 0
+bucket/CraftAgents.json, dodorz/scoop, 0
 bucket/CrapFixer-Portable.json, ACooper81/scoop-apps, 1
 bucket/CreaWriter.json, dodorz/scoop, 0
 bucket/CryengineLauncher-Install.json, ACooper81/scoop-apps, 0
