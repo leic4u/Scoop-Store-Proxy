@@ -2712,7 +2712,7 @@ bucket/boot-clj.json, ScoopInstaller/Extras, 1
 bucket/bootleg.json, littleli/scoop-clojure, 1
 bucket/bootperformanceview.json, ScoopInstaller/Nirsoft, 0
 bucket/borderless-gaming-portapps.json, Velgus/Scoop-Portapps, 1
-bucket/borderless-gaming.json, starise/Scoop-Gaming, 1
+bucket/borderless-gaming.json, starise/Scoop-Gaming, 0
 bucket/boringproxy.json, ScoopInstaller/Main, 1
 bucket/bottom-nightly.json, ScoopInstaller/Versions, 1
 bucket/bottom.json, ScoopInstaller/Main, 1
