@@ -5318,6 +5318,7 @@ bucket/ifrextractor.json, seumsc/scoop-seu, 1
 bucket/igdm.json, ScoopInstaller/Extras, 1
 bucket/ignoreit.json, ScoopInstaller/Extras, 1
 bucket/igrep.json, ScoopInstaller/Main, 1
+bucket/ihateborders.json, starise/Scoop-Gaming, 1
 bucket/ijhttp.json, ScoopInstaller/Main, 0
 bucket/il2cppdumper.json, TheCjw/scoop-retools, 1
 bucket/ilmerge.json, ScoopInstaller/Extras, 0
