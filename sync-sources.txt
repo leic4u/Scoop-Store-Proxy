@@ -7525,6 +7525,7 @@ bucket/par2cmdline.json, ScoopInstaller/Main, 1
 bucket/parallels-client.json, amorphobia/siku, 0
 bucket/paraview.json, ScoopInstaller/Extras, 0
 bucket/pari-gp.json, ScoopInstaller/Extras, 0
+bucket/parlay.json, ScoopInstaller/Main, 1
 bucket/parsec-np.json, ScoopInstaller/Nonportable, 0
 bucket/parsec-vdd.json, Weidows-projects/scoop-3rd, 1
 bucket/parsec.json, ScoopInstaller/Extras, 0
