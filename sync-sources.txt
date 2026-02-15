@@ -5086,6 +5086,7 @@ bucket/haxe.json, ScoopInstaller/Main, 1
 bucket/hck.json, batkiz/backit, 1
 bucket/hcloud.json, ScoopInstaller/Main, 1
 bucket/hdcleaner.json, naderi/scoop-bucket, 0
+bucket/hdrtray.json, starise/Scoop-Confetti, 1
 bucket/hdtune.json, echoiron/echo-scoop, 0
 bucket/headlamp.json, ScoopInstaller/Extras, 1
 bucket/heapmemview.json, ScoopInstaller/Nirsoft, 0
@@ -5602,7 +5603,6 @@ bucket/joker.json, littleli/scoop-clojure, 1
 bucket/jom.json, ScoopInstaller/Main, 0
 bucket/joplin-pre.json, ScoopInstaller/Versions, 1
 bucket/joplin.json, ScoopInstaller/Extras, 1
-bucket/josm-generic.json, seumsc/scoop-seu, 1
 bucket/josm.json, ScoopInstaller/Extras, 0
 bucket/jot.json, dodorz/scoop, 1
 bucket/journey.json, kkzzhizhou/scoop-zapps, 1
