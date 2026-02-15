@@ -8294,7 +8294,7 @@ bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/project-graph.json, ScoopInstaller/Extras, 1
-bucket/project64-dev.json, borger/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom-lite.json, seumsc/scoop-seu, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
