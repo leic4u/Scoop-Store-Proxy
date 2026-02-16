@@ -3642,6 +3642,7 @@ bucket/divamodmanager.json, Calinou/scoop-games, 1
 bucket/dive.json, ScoopInstaller/Main, 1
 bucket/divoom-cli.json, ScoopInstaller/Extras, 1
 bucket/divoom-gateway.json, ScoopInstaller/Extras, 1
+bucket/diy-layout-creator.json, ScoopInstaller/Extras, 1
 bucket/djvulibre.json, ScoopInstaller/Main, 0
 bucket/dllexp.json, ScoopInstaller/Nirsoft, 0
 bucket/dllexportviewer.json, kodybrown/scoop-nirsoft, 0
