@@ -3324,16 +3324,16 @@ bucket/cryfs.json, naderi/scoop-bucket, 1
 bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
-bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskinfo-aoi-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
-bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-shizuku-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
-bucket/crystaldiskmark-shizuku-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskmark-shizuku-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskmark-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskmark.json, ScoopInstaller/Extras, 0
 bucket/cs-demo-manager.json, Calinou/scoop-games, 1
@@ -8306,6 +8306,7 @@ bucket/propertree.json, ScoopInstaller/Extras, 1
 bucket/propertysystemview.json, ScoopInstaller/Nirsoft, 0
 bucket/protectedstoragepassview.json, kodybrown/scoop-nirsoft, 0
 bucket/protege.json, ScoopInstaller/Extras, 1
+bucket/proto.json, seumsc/scoop-seu, 1
 bucket/protobuf.json, ScoopInstaller/Extras, 1
 bucket/protoc-gen-grpc-web.json, ScoopInstaller/Main, 1
 bucket/protoc.json, echoiron/echo-scoop, 1
@@ -10546,7 +10547,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
