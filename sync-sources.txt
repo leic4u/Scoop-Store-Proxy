@@ -4259,7 +4259,7 @@ bucket/filelight.json, ScoopInstaller/Extras, 0
 bucket/filelist.json, starise/Scoop-Confetti, 0
 bucket/fileoptimizer.json, ScoopInstaller/Extras, 0
 bucket/filepilot.json, brian6932/dank-scoop, 0
-bucket/files-np.json, ScoopInstaller/Nonportable, 0
+bucket/files-np.json, ScoopInstaller/Nonportable, 1
 bucket/filetypesman.json, ScoopInstaller/Nirsoft, 0
 bucket/filevoyager-portable.json, naderi/scoop-bucket, 0
 bucket/filezilla-server.json, ScoopInstaller/Extras, 0
