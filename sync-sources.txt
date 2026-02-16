@@ -1886,6 +1886,7 @@ bucket/WimTool.json, kkzzhizhou/scoop-zapps, 1
 bucket/Win11RCT-Portable.json, ACooper81/scoop-apps, 1
 bucket/Win32Spy.json, dodorz/scoop, 0
 bucket/WinAIOMakerProfessional-Portable.json, ACooper81/scoop-apps, 0
+bucket/WinBox-v4.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/WinContig-Portable.json, ACooper81/scoop-apps, 0
 bucket/WinDepends.json, dodorz/scoop, 1
 bucket/WinDynamicDesktop-Portable.json, ACooper81/scoop-apps, 1
@@ -6250,7 +6251,7 @@ bucket/luyten.json, TheCjw/scoop-retools, 1
 bucket/lwc.json, ScoopInstaller/Main, 1
 bucket/lwp.json, ScoopInstaller/Extras, 1
 bucket/lx-music-desktop-win7.json, DoveBoy/Apps, 1
-bucket/lx-music-desktop.json, hu3rror/scoop-muggle, 1
+bucket/lx-music-desktop.json, wzv5/ScoopBucket, 1
 bucket/lxc.json, ScoopInstaller/Main, 0
 bucket/lxmusic.json, chawyehsu/dorado, 1
 bucket/lxrunoffline.json, ScoopInstaller/Extras, 1
@@ -10036,7 +10037,7 @@ bucket/thunderbird-beta.json, naderi/scoop-bucket, 0
 bucket/thunderbird-de.json, naderi/scoop-bucket, 0
 bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird-fa.json, naderi/scoop-bucket, 0
-bucket/thunderbird-zh-cn.json, chawyehsu/dorado, 0
+bucket/thunderbird-zh-cn.json, cc713/ownscoop, 0
 bucket/thunderbird.ja.json, jfut/scoop-jfut, 0
 bucket/thunderbird.json, ScoopInstaller/Extras, 0
 bucket/ti-analogengineerscalculator.json, SayCV/scoop-cvp, 1
@@ -10548,7 +10549,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -10811,7 +10812,6 @@ bucket/winamp.json, naderi/scoop-bucket, 0
 bucket/winasar.json, ViCrack/scoop-bucket, 1
 bucket/winauth-portable.json, naderi/scoop-bucket, 1
 bucket/winauth.json, ScoopInstaller/Extras, 1
-bucket/winbox-beta.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/winbox.json, ScoopInstaller/Extras, 0
 bucket/winbox4.json, starise/Scoop-Confetti, 0
 bucket/winbtrfs-np.json, ScoopInstaller/Nonportable, 1
@@ -11456,6 +11456,7 @@ scripts/Scoop/install.ps1, ACooper81/scoop-apps, 1
 scripts/Scoop/installAsAdmin.ps1, ACooper81/scoop-apps, 0
 scripts/Scoop/postinstall.ps1, ACooper81/scoop-apps, 0
 scripts/Sdoog_Utils.ps1, leic4u/Scoop-Store, 0
+scripts/WinBox-v4/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/_deprecated/flutter-dev-setup.ps1, ScoopInstaller/Extras, 0
 scripts/adobereader/install-context.reg.templ, SayCV/scoop-cvp, 0
 scripts/adobereader/uninstall-context.reg, SayCV/scoop-cvp, 0
@@ -11723,7 +11724,6 @@ scripts/wezterm-nightly/install-context.reg, ScoopInstaller/Versions, 0
 scripts/wezterm-nightly/uninstall-context.reg, ScoopInstaller/Versions, 0
 scripts/wezterm/install-context.reg, ScoopInstaller/Extras, 0
 scripts/wezterm/uninstall-context.reg, ScoopInstaller/Extras, 0
-scripts/winbox-beta/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/windowgrid/WindowGrid.settings, naderi/scoop-bucket, 0
 scripts/windows-terminal-preview/install-context.reg, ScoopInstaller/Versions, 0
 scripts/windows-terminal-preview/uninstall-context.reg, ScoopInstaller/Versions, 0
