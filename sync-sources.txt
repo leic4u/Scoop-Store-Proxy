@@ -8254,7 +8254,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -10885,7 +10885,7 @@ bucket/winget-preview.json, ScoopInstaller/Versions, 1
 bucket/winget-ps.json, ScoopInstaller/Main, 0
 bucket/winget.json, ScoopInstaller/Main, 1
 bucket/wingetcreate.json, ScoopInstaller/Main, 1
-bucket/winhance.json, starise/Scoop-Confetti, 1
+bucket/winhance.json, DoveBoy/Apps, 1
 bucket/winipbroadcast.json, seumsc/scoop-seu, 1
 bucket/winjump.json, brian6932/dank-scoop, 1
 bucket/winlibs-mingw-llvm-msvcrt.json, chawyehsu/dorado, 1
