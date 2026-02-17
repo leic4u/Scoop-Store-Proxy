@@ -3328,7 +3328,7 @@ bucket/crystal.json, ScoopInstaller/Main, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
