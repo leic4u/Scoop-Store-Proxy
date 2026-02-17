@@ -9537,7 +9537,7 @@ bucket/spyder-lite.json, ScoopInstaller/Extras, 1
 bucket/spyder.json, ScoopInstaller/Extras, 1
 bucket/spystudio.json, 42wim/scoop-bucket, 0
 bucket/spytify.json, ScoopInstaller/Extras, 1
-bucket/sq.json, aliesbelik/poldi, 1
+bucket/sq.json, batkiz/backit, 1
 bucket/sql-server-management-studio-np.json, ScoopInstaller/Nonportable, 0
 bucket/sql-workbench-dev.json, ScoopInstaller/Versions, 0
 bucket/sql-workbench.json, ScoopInstaller/Extras, 0
