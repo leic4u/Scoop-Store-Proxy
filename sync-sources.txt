@@ -3703,7 +3703,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -5163,6 +5163,7 @@ bucket/hollows-hunter.json, ScoopInstaller/Main, 1
 bucket/homebank.json, ScoopInstaller/Extras, 0
 bucket/homedale.json, kkzzhizhou/scoop-zapps, 0
 bucket/honeyview.json, ScoopInstaller/Extras, 0
+bucket/hootvoice.json, jfut/scoop-jfut, 1
 bucket/hopp-cli.json, ScoopInstaller/Main, 1
 bucket/hoppscotch.json, ScoopInstaller/Extras, 1
 bucket/horcrux.json, ScoopInstaller/Extras, 1
@@ -9536,7 +9537,7 @@ bucket/spyder-lite.json, ScoopInstaller/Extras, 1
 bucket/spyder.json, ScoopInstaller/Extras, 1
 bucket/spystudio.json, 42wim/scoop-bucket, 0
 bucket/spytify.json, ScoopInstaller/Extras, 1
-bucket/sq.json, batkiz/backit, 1
+bucket/sq.json, aliesbelik/poldi, 1
 bucket/sql-server-management-studio-np.json, ScoopInstaller/Nonportable, 0
 bucket/sql-workbench-dev.json, ScoopInstaller/Versions, 0
 bucket/sql-workbench.json, ScoopInstaller/Extras, 0
