@@ -11100,7 +11100,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
-bucket/xenia.json, Calinou/scoop-games, 1
+bucket/xenia.json, borger/scoop-emulators, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
 bucket/xftp7p.json, kkzzhizhou/scoop-zapps, 1
