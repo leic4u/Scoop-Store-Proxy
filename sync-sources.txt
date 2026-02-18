@@ -4001,7 +4001,7 @@ bucket/encfs.json, naderi/scoop-bucket, 1
 bucket/encodegui-np.json, ScoopInstaller/Nonportable, 0
 bucket/encore.json, Weidows-projects/scoop-3rd, 0
 bucket/encryptedregview.json, ScoopInstaller/Nirsoft, 0
-bucket/encrypto.json, dodorz/scoop, 0
+bucket/encrypto.json, naderi/scoop-bucket, 0
 bucket/encryptpad.json, ScoopInstaller/Extras, 1
 bucket/endless-sky.json, Calinou/scoop-games, 1
 bucket/energystarx.json, DoveBoy/Apps, 1
