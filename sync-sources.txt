@@ -1720,7 +1720,7 @@ bucket/TranslucentTB-Install.json, ACooper81/scoop-apps, 1
 bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
 bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
-bucket/TreeSize.json, DoveBoy/Apps, 0
+bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
 bucket/Trout.json, dodorz/scoop, 0
 bucket/TscanPlus.json, ViCrack/scoop-bucket, 1
 bucket/TuBaTool.json, kkzzhizhou/scoop-zapps, 0
@@ -2368,6 +2368,7 @@ bucket/audiochecker.json, starise/Scoop-Confetti, 0
 bucket/audioswitcher.json, ScoopInstaller/Extras, 1
 bucket/audiotester.json, starise/Scoop-Confetti, 0
 bucket/audius.json, Weidows-projects/scoop-3rd, 0
+bucket/audiveris.json, ScoopInstaller/Extras, 1
 bucket/audmes.json, ScoopInstaller/Extras, 0
 bucket/augmentinel.json, Calinou/scoop-games, 0
 bucket/aurora-rgb.json, ScoopInstaller/Versions, 1
@@ -3334,7 +3335,7 @@ bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
-bucket/crystaldiskmark-shizuku-edition.json, DoveBoy/Apps, 0
+bucket/crystaldiskmark-shizuku-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskmark.json, ScoopInstaller/Extras, 0
 bucket/cs-demo-manager.json, Calinou/scoop-games, 1
@@ -6274,6 +6275,7 @@ bucket/m4acut.json, hu3rror/scoop-muggle, 1
 bucket/mRemoteNG-Portable.json, ACooper81/scoop-apps, 1
 bucket/mStream-Portable.json, ACooper81/scoop-apps, 1
 bucket/maa.json, Calinou/scoop-games, 1
+bucket/maaend.json, Calinou/scoop-games, 1
 bucket/macaddressview.json, ScoopInstaller/Nirsoft, 0
 bucket/macast-debug.json, ScoopInstaller/Extras, 1
 bucket/macast.json, ScoopInstaller/Extras, 1
@@ -8254,7 +8256,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -10115,6 +10117,8 @@ bucket/tokio-console.json, littleli/Scoop-littleli, 1
 bucket/tombi.json, ScoopInstaller/Main, 1
 bucket/tomboy-ng.json, ScoopInstaller/Extras, 1
 bucket/tomcat.json, ScoopInstaller/Extras, 0
+bucket/tomcat10.json, ScoopInstaller/Versions, 0
+bucket/tomcat11.json, ScoopInstaller/Versions, 0
 bucket/tomcat6.json, ScoopInstaller/Versions, 0
 bucket/tomcat7.json, ScoopInstaller/Versions, 0
 bucket/tomcat8.json, ScoopInstaller/Versions, 0
@@ -10580,6 +10584,7 @@ bucket/vmware-workstation-player-np.json, ScoopInstaller/Nonportable, 0
 bucket/vmware-ws-pro.json, SayCV/scoop-cvp, 0
 bucket/vncpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/vncviewer.json, ScoopInstaller/Extras, 0
+bucket/vnite.json, Calinou/scoop-games, 1
 bucket/vnote.json, ScoopInstaller/Extras, 1
 bucket/vocal-separate.json, DoveBoy/Apps, 1
 bucket/voice-pro.json, DoveBoy/Apps, 1
@@ -11100,7 +11105,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
-bucket/xenia.json, hermanjustnu/scoop-emulators, 1
+bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
 bucket/xftp7p.json, kkzzhizhou/scoop-zapps, 1
