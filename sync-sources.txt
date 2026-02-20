@@ -17,7 +17,7 @@ bucket/1History.json, abgox/abgo_bucket, 1
 bucket/1Remote-Portable.json, ACooper81/scoop-apps, 1
 bucket/1Remote.json, ViCrack/scoop-bucket, 1
 bucket/1by1-Portable.json, ACooper81/scoop-apps, 0
-bucket/1by1.json, naderi/scoop-bucket, 0
+bucket/1by1.json, dodorz/scoop, 0
 bucket/1password-cli.json, ScoopInstaller/Main, 0
 bucket/1password-cli1.json, ScoopInstaller/Versions, 0
 bucket/2345pic.json, echoiron/echo-scoop, 0
@@ -238,7 +238,7 @@ bucket/Bitwarden-Portable.json, ACooper81/scoop-apps, 1
 bucket/Biu.json, DoveBoy/Apps, 1
 bucket/BlackBird-Player.json, kkzzhizhou/scoop-zapps, 1
 bucket/Blender-Portable.json, ACooper81/scoop-apps, 0
-bucket/BlueJ-with-JDK.json, dodorz/scoop, 0
+bucket/BlueJ-with-JDK.json, dodorz/scoop, 1
 bucket/BlueLifeHostsEditor.json, kkzzhizhou/scoop-zapps, 1
 bucket/BlueStacks5-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/BomiPlayer.json, dodorz/scoop, 0
