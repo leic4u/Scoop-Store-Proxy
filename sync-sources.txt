@@ -17,7 +17,7 @@ bucket/1History.json, abgox/abgo_bucket, 1
 bucket/1Remote-Portable.json, ACooper81/scoop-apps, 1
 bucket/1Remote.json, ViCrack/scoop-bucket, 1
 bucket/1by1-Portable.json, ACooper81/scoop-apps, 0
-bucket/1by1.json, dodorz/scoop, 0
+bucket/1by1.json, naderi/scoop-bucket, 0
 bucket/1password-cli.json, ScoopInstaller/Main, 0
 bucket/1password-cli1.json, ScoopInstaller/Versions, 0
 bucket/2345pic.json, echoiron/echo-scoop, 0
@@ -5182,7 +5182,7 @@ bucket/hostsman-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hostsman.json, ScoopInstaller/Extras, 1
 bucket/hotkey-detective.json, ScoopInstaller/Extras, 1
 bucket/hotkey-resolution-changer.json, couleur-tweak-tips/utils, 0
-bucket/hotkeyp.json, naderi/scoop-bucket, 0
+bucket/hotkeyp.json, dodorz/scoop, 0
 bucket/hotkeyslist.json, ScoopInstaller/Nirsoft, 0
 bucket/houdoku.json, ScoopInstaller/Extras, 1
 bucket/hourglass-godot.json, ScoopInstaller/Extras, 0
