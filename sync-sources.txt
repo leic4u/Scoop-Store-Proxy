@@ -9148,6 +9148,7 @@ bucket/scoop-shim.json, ScoopInstaller/Main, 1
 bucket/scoop-tab-completion.json, DoveBoy/Apps, 0
 bucket/scoop-validator.json, ScoopInstaller/Main, 1
 bucket/scooper.json, ScoopInstaller/Extras, 1
+bucket/scooter.json, ScoopInstaller/Main, 1
 bucket/scopy.json, ScoopInstaller/Extras, 1
 bucket/scratch.json, ScoopInstaller/Extras, 0
 bucket/scrawler.json, ScoopInstaller/Extras, 1
