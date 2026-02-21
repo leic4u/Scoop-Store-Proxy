@@ -10987,6 +10987,7 @@ bucket/wizmouse.json, ScoopInstaller/Extras, 0
 bucket/wiztree.json, ScoopInstaller/Extras, 0
 bucket/wkhtmltopdf.json, ScoopInstaller/Main, 1
 bucket/wkhtmltox.json, dodorz/scoop, 1
+bucket/wlines.json, Deide/deide-bucket, 1
 bucket/wlx2explorer.json, naderi/scoop-bucket, 1
 bucket/wmpu-cli.json, hu3rror/scoop-muggle, 1
 bucket/wnetwatcher.json, ScoopInstaller/Nirsoft, 0
