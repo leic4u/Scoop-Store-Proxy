@@ -6287,6 +6287,7 @@ bucket/mado.json, aliesbelik/poldi, 1
 bucket/madpassext.json, ScoopInstaller/Nirsoft, 0
 bucket/madvr-test.json, seumsc/scoop-seu, 0
 bucket/madvr.json, ScoopInstaller/Extras, 0
+bucket/maestro.json, ScoopInstaller/Main, 1
 bucket/mage.json, ScoopInstaller/Main, 1
 bucket/magic-wormhole-rs.json, ScoopInstaller/Main, 1
 bucket/magic-wormhole.json, ScoopInstaller/Main, 1
