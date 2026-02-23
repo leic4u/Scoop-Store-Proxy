@@ -9596,6 +9596,7 @@ bucket/stable-diffusion-cpp.json, chawyehsu/dorado, 1
 bucket/stable-diffusion-webui.json, DoveBoy/Apps, 1
 bucket/stack-wallet.json, ScoopInstaller/Extras, 1
 bucket/stack.json, ScoopInstaller/Main, 1
+bucket/stackit.json, ScoopInstaller/Main, 1
 bucket/stairspeedtest-reborn.json, chawyehsu/dorado, 1
 bucket/standardnotes.json, ScoopInstaller/Extras, 1
 bucket/starfox64-recompiled.json, Calinou/scoop-games, 1
