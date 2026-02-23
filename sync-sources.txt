@@ -637,7 +637,7 @@ bucket/GPTCraft.json, dodorz/scoop, 1
 bucket/GPUShark.json, kkzzhizhou/scoop-zapps, 0
 bucket/GSpot.json, dodorz/scoop, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
-bucket/Game-Cheats-Manager.json, hu3rror/scoop-muggle, 1
+bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/Gammadyne-CLI.json, dodorz/scoop, 0
 bucket/Gapminder.json, dodorz/scoop, 0
