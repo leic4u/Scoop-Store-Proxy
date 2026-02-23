@@ -8104,6 +8104,7 @@ bucket/pijul.json, ScoopInstaller/Versions, 1
 bucket/pikapika.json, DoveBoy/Apps, 1
 bucket/pikatorrent.json, DoveBoy/Apps, 1
 bucket/pikpak.json, akirco/aki-apps, 0
+bucket/pincat.json, chawyehsu/dorado, 1
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineflash.json, ScoopInstaller/Extras, 1
 bucket/pinentry-w32-ncg.json, iquiw/scoop-bucket, 1
