@@ -2095,6 +2095,7 @@ bucket/agate.json, littleli/Scoop-littleli, 1
 bucket/agave-slashed.json, KnotUntied/scoop-fonts, 1
 bucket/agave.json, KnotUntied/scoop-fonts, 1
 bucket/age.json, ScoopInstaller/Extras, 1
+bucket/agentsview.json, cderv/r-bucket, 1
 bucket/aget-rs.json, amorphobia/siku, 1
 bucket/aget.json, dodorz/scoop, 1
 bucket/agg.json, ScoopInstaller/Main, 1
