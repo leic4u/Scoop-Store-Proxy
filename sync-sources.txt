@@ -4710,6 +4710,7 @@ bucket/git-interactive-rebase-tool.json, ScoopInstaller/Main, 1
 bucket/git-istage.json, ScoopInstaller/Main, 0
 bucket/git-lfs.json, ScoopInstaller/Main, 1
 bucket/git-machete.json, ScoopInstaller/Main, 0
+bucket/git-pkgs.json, ScoopInstaller/Main, 1
 bucket/git-quick-stats.json, ScoopInstaller/Main, 0
 bucket/git-repo-clean.json, ViCrack/scoop-bucket, 0
 bucket/git-sizer.json, ScoopInstaller/Main, 1
