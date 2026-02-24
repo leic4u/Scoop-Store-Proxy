@@ -3035,7 +3035,6 @@ bucket/circleci-cli.json, ScoopInstaller/Main, 1
 bucket/citra-canary.json, hermanjustnu/scoop-emulators, 1
 bucket/citra-nightly.json, hermanjustnu/scoop-emulators, 1
 bucket/citra.json, Deide/deide-bucket, 1
-bucket/citron.json, borger/scoop-emulators, 1
 bucket/civo.json, ScoopInstaller/Extras, 1
 bucket/ciyue.json, DoveBoy/Apps, 1
 bucket/cjoe-static.json, dodorz/scoop, 0
