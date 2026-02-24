@@ -4794,7 +4794,7 @@ bucket/gn.json, ScoopInstaller/Versions, 0
 bucket/gnirehtet.json, ScoopInstaller/Main, 1
 bucket/gns3.json, DoveBoy/Apps, 1
 bucket/gnucash.json, ScoopInstaller/Extras, 1
-bucket/gnupg-np.json, chawyehsu/dorado, 0
+bucket/gnupg-np.json, DoveBoy/Apps, 0
 bucket/gnupg-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/gnupg.json, ScoopInstaller/Main, 0
 bucket/gnupg1.json, ScoopInstaller/Main, 0
@@ -8273,6 +8273,7 @@ bucket/presentmon.json, ScoopInstaller/Main, 1
 bucket/previousfilesrecovery.json, ScoopInstaller/Nirsoft, 0
 bucket/prime95.json, ScoopInstaller/Extras, 0
 bucket/primehack.json, Calinou/scoop-games, 1
+bucket/primesieve.json, ScoopInstaller/Main, 1
 bucket/prince.json, ScoopInstaller/Main, 0
 bucket/prismlauncher-git.json, ScoopInstaller/Versions, 1
 bucket/prismlauncher-qt5.json, Calinou/scoop-games, 1
