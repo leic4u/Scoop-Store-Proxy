@@ -8335,6 +8335,7 @@ bucket/proxify.json, iquiw/scoop-bucket, 1
 bucket/proxifyre.json, seumsc/scoop-seu, 1
 bucket/proxsign.json, naderi/scoop-bucket, 0
 bucket/proxy-switch.json, jingyu9575/scoop-jingyu9575, 1
+bucket/proxybridge.json, ScoopInstaller/Extras, 1
 bucket/proxychains.json, ScoopInstaller/Main, 1
 bucket/proxypin.json, ScoopInstaller/Extras, 1
 bucket/prqlc.json, ScoopInstaller/Main, 1
