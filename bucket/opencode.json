@@ -1,12 +1,12 @@
 {
-  "version": "1.2.13",
+  "version": "1.2.14",
   "description": "The open source AI coding agent.",
   "homepage": "https://opencode.ai/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/anomalyco/opencode/releases/download/v1.2.13/opencode-windows-x64.zip",
-      "hash": "e47fafca02067961bd584b543bfb14c9118860767cbec5142a53ee4009b2e197"
+      "url": "https://ghgo.xyz/https://github.com/anomalyco/opencode/releases/download/v1.2.14/opencode-windows-x64.zip",
+      "hash": "1067fd22345923533432aa062382df44298695dde779c73dfd0de7c44892f880"
     }
   },
   "bin": "opencode.exe",
