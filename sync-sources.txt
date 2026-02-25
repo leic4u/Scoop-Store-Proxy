@@ -11268,7 +11268,6 @@ bucket/yosys.json, ScoopInstaller/Main, 0
 bucket/you-get.json, amorphobia/siku, 1
 bucket/youdaodict.json, ygguorun/scoop-bucket, 0
 bucket/youku-cvp.json, SayCV/scoop-cvp, 1
-bucket/youku.json, DoveBoy/Apps, 0
 bucket/yourav.json, amorphobia/siku, 1
 bucket/youtrack.json, ScoopInstaller/Extras, 0
 bucket/youtube-dl-animelover1984.json, yuusakuri/scoop-bucket, 1
