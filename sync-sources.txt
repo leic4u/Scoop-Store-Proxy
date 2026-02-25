@@ -637,7 +637,7 @@ bucket/GPTCraft.json, dodorz/scoop, 1
 bucket/GPUShark.json, kkzzhizhou/scoop-zapps, 0
 bucket/GSpot.json, dodorz/scoop, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
-bucket/Game-Cheats-Manager.json, hu3rror/scoop-muggle, 1
+bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/Gammadyne-CLI.json, dodorz/scoop, 0
 bucket/Gapminder.json, dodorz/scoop, 0
@@ -4795,7 +4795,7 @@ bucket/gn.json, ScoopInstaller/Versions, 0
 bucket/gnirehtet.json, ScoopInstaller/Main, 1
 bucket/gns3.json, DoveBoy/Apps, 1
 bucket/gnucash.json, ScoopInstaller/Extras, 1
-bucket/gnupg-np.json, DoveBoy/Apps, 0
+bucket/gnupg-np.json, chawyehsu/dorado, 0
 bucket/gnupg-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/gnupg.json, ScoopInstaller/Main, 0
 bucket/gnupg1.json, ScoopInstaller/Main, 0
@@ -5541,6 +5541,7 @@ bucket/jcli.json, ScoopInstaller/Main, 1
 bucket/jcpicker.json, ScoopInstaller/Extras, 0
 bucket/jd-cli.json, ScoopInstaller/Main, 0
 bucket/jd-cmd.json, TheCjw/scoop-retools, 1
+bucket/jd-gui-duo.json, ScoopInstaller/Extras, 1
 bucket/jd-gui.json, ScoopInstaller/Extras, 1
 bucket/jd.json, ScoopInstaller/Extras, 1
 bucket/jdownloader.json, ScoopInstaller/Versions, 0
@@ -10047,7 +10048,7 @@ bucket/thunderbird-beta.json, naderi/scoop-bucket, 0
 bucket/thunderbird-de.json, naderi/scoop-bucket, 0
 bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird-fa.json, naderi/scoop-bucket, 0
-bucket/thunderbird-zh-cn.json, cc713/ownscoop, 0
+bucket/thunderbird-zh-cn.json, chawyehsu/dorado, 0
 bucket/thunderbird.ja.json, jfut/scoop-jfut, 0
 bucket/thunderbird.json, ScoopInstaller/Extras, 0
 bucket/ti-analogengineerscalculator.json, SayCV/scoop-cvp, 1
