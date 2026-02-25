@@ -5762,6 +5762,7 @@ bucket/keypirinha-terminal-profiles.json, yuusakuri/scoop-bucket, 1
 bucket/keypirinha.json, ScoopInstaller/Extras, 1
 bucket/keyring-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/keystore-explorer.json, ScoopInstaller/Extras, 1
+bucket/keyviz-dart.json, brian6932/dank-scoop, 1
 bucket/keyviz.json, ScoopInstaller/Extras, 1
 bucket/kibana.json, ScoopInstaller/Extras, 0
 bucket/kicad-cn.json, ivaquero/scoopet, 1
