@@ -6650,6 +6650,7 @@ bucket/mods.json, ScoopInstaller/Main, 1
 bucket/moekoemusic.json, DoveBoy/Apps, 1
 bucket/mogan-cn.json, ivaquero/scoopet, 0
 bucket/mold.json, ScoopInstaller/Main, 1
+bucket/moldau.json, brian6932/dank-scoop, 1
 bucket/molotov-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/monasans.json, KnotUntied/scoop-fonts, 1
 bucket/monaspaceargon.json, KnotUntied/scoop-fonts, 0
