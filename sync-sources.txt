@@ -11356,6 +11356,7 @@ bucket/zeplin.json, ScoopInstaller/Extras, 0
 bucket/zeppelin.json, ScoopInstaller/Extras, 0
 bucket/zer0.json, brian6932/dank-scoop, 1
 bucket/zerobrane-studio.json, ScoopInstaller/Extras, 0
+bucket/zeroclaw.json, ScoopInstaller/Main, 1
 bucket/zeronet.json, ScoopInstaller/Extras, 1
 bucket/zerotier-np.json, ScoopInstaller/Nonportable, 0
 bucket/zettlr-nightly.json, ScoopInstaller/Versions, 0
