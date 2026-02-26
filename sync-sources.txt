@@ -4727,6 +4727,7 @@ bucket/git-who.json, batkiz/backit, 1
 bucket/git-with-openssh.json, ScoopInstaller/Main, 1
 bucket/git-without-openssh.json, ScoopInstaller/Versions, 1
 bucket/git-xargs.json, ScoopInstaller/Main, 1
+bucket/git-xet.json, ScoopInstaller/Main, 1
 bucket/git.json, ScoopInstaller/Main, 1
 bucket/git19.json, ScoopInstaller/Versions, 1
 bucket/gitahead.json, ScoopInstaller/Extras, 1
