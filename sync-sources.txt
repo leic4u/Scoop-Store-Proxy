@@ -1245,6 +1245,7 @@ bucket/PhotoFiltre7.json, zhoujin7/tomato, 0
 bucket/PhotoQt.json, cc713/ownscoop, 0
 bucket/PhotoZoomPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/PicaComic.json, hu3rror/scoop-muggle, 1
+bucket/PicoClaw.json, dodorz/scoop, 1
 bucket/PicoTorrent-Portable.json, ACooper81/scoop-apps, 1
 bucket/PingFang.json, ygguorun/scoop-bucket, 0
 bucket/PingFangHK.json, ygguorun/scoop-bucket, 0
@@ -3439,7 +3440,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, DoveBoy/Apps, 1
+bucket/dandanplay.json, aoisummer/scoop-bucket, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -6753,6 +6754,7 @@ bucket/mpvconfigurator.json, DoveBoy/Apps, 1
 bucket/mpxplay.json, ScoopInstaller/Main, 0
 bucket/mq-dbg.json, cderv/r-bucket, 1
 bucket/mq-lsp.json, cderv/r-bucket, 1
+bucket/mq-mcp.json, cderv/r-bucket, 1
 bucket/mq-tui.json, cderv/r-bucket, 1
 bucket/mq.json, cderv/r-bucket, 1
 bucket/mqcr.json, cderv/r-bucket, 1
@@ -8265,7 +8267,7 @@ bucket/powertool.json, HUMORCE/nuke, 1
 bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
