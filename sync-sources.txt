@@ -4243,7 +4243,7 @@ bucket/fiddler-classic-addon-sazdiff.json, HUMORCE/nuke, 0
 bucket/fiddler-classic.json, HUMORCE/nuke, 0
 bucket/fiddler-everywhere.json, seumsc/scoop-seu, 0
 bucket/fiddler.json, ScoopInstaller/Extras, 0
-bucket/fido.json, amorphobia/siku, 1
+bucket/fido.json, HUMORCE/nuke, 1
 bucket/figlet.json, ScoopInstaller/Main, 1
 bucket/figma.json, ScoopInstaller/Extras, 0
 bucket/figtree-variable.json, KnotUntied/scoop-fonts, 0
@@ -8356,6 +8356,7 @@ bucket/prusaslicer-pre.json, ScoopInstaller/Versions, 1
 bucket/prusaslicer.json, ScoopInstaller/Extras, 1
 bucket/ps-guicompletion.json, DoveBoy/Apps, 0
 bucket/ps3-system-software.json, Calinou/scoop-games, 0
+bucket/ps3decrs.json, Deide/deide-bucket, 1
 bucket/psake.json, ScoopInstaller/Main, 0
 bucket/pscalendar.json, DoveBoy/Apps, 0
 bucket/pscolor.json, ScoopInstaller/Extras, 1
