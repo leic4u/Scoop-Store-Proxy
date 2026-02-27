@@ -1757,6 +1757,7 @@ bucket/UELI-Portable.json, ACooper81/scoop-apps, 1
 bucket/UGetDownloadManager-Portable.json, ACooper81/scoop-apps, 0
 bucket/UGit.json, dodorz/scoop, 0
 bucket/UNetbootin-Portable.json, ACooper81/scoop-apps, 1
+bucket/URLProtocol.json, ygguorun/scoop-bucket, 1
 bucket/USBCopyer.json, dodorz/scoop, 1
 bucket/USBSafelyRemove.json, kkzzhizhou/scoop-zapps, 1
 bucket/UVOutliner.json, dodorz/scoop, 0
@@ -5947,7 +5948,7 @@ bucket/ldc.json, ScoopInstaller/Main, 1
 bucket/ldmdump.json, niheaven/scoop-sysinternals, 1
 bucket/ldplayer.json, ScoopInstaller/Extras, 0
 bucket/ldplayer9.json, cc713/ownscoop, 1
-bucket/leaf.json, kidonng/sushi, 1
+bucket/leaf.json, ScoopInstaller/Main, 1
 bucket/leagueakari.json, DoveBoy/Apps, 1
 bucket/leaguemono.json, KnotUntied/scoop-fonts, 1
 bucket/lealone.json, zhoujin7/tomato, 0
