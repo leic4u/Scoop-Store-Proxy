@@ -2114,7 +2114,7 @@ bucket/aidoku-cli.json, beerpiss/scoop-bucket, 1
 bucket/aigcpanel.json, ivaquero/scoopet, 1
 bucket/aimp.json, ScoopInstaller/Extras, 0
 bucket/ain.json, aliesbelik/poldi, 1
-bucket/ainiee.json, ivaquero/scoopet, 1
+bucket/ainiee.json, hu3rror/scoop-muggle, 1
 bucket/air.json, ScoopInstaller/Main, 1
 bucket/aircrack-ng.json, ScoopInstaller/Extras, 0
 bucket/airdroid.json, ScoopInstaller/Extras, 0
