@@ -2108,6 +2108,7 @@ bucket/ahoy.json, ScoopInstaller/Main, 1
 bucket/aichat.json, ScoopInstaller/Main, 1
 bucket/aictionary.json, DoveBoy/Apps, 1
 bucket/aida64.json, echoiron/echo-scoop, 0
+bucket/aida64business.json, ScoopInstaller/Extras, 0
 bucket/aida64extreme.json, ScoopInstaller/Extras, 0
 bucket/aider-desk.json, ScoopInstaller/Extras, 1
 bucket/aidoku-cli.json, beerpiss/scoop-bucket, 1
