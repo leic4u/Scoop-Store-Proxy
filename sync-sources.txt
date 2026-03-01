@@ -1385,7 +1385,7 @@ bucket/RightMenuMgr.json, kkzzhizhou/scoop-zapps, 1
 bucket/RimageGUI.json, dodorz/scoop, 1
 bucket/Rime.json, abgox/abgo_bucket, 1
 bucket/RipMe-Portable.json, ACooper81/scoop-apps, 1
-bucket/RisohEditor.json, dodorz/scoop, 1
+bucket/RisohEditor.json, HUMORCE/nuke, 1
 bucket/RmEDirCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/Roadkil-DiskImage.json, kkzzhizhou/scoop-zapps, 0
 bucket/RoboIntern-Portable.json, ACooper81/scoop-apps, 0
@@ -7585,7 +7585,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
