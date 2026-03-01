@@ -8309,6 +8309,7 @@ bucket/procs.json, ScoopInstaller/Main, 1
 bucket/procyon.json, ScoopInstaller/Main, 1
 bucket/productkeyscanner.json, ScoopInstaller/Nirsoft, 0
 bucket/produkey.json, ScoopInstaller/Nirsoft, 0
+bucket/profileasync.json, brian6932/dank-scoop, 0
 bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
