@@ -1318,6 +1318,7 @@ bucket/PythonStudio.json, dodorz/scoop, 0
 bucket/Q10.json, dodorz/scoop, 0
 bucket/QQBrowser.json, abgox/abgo_bucket, 1
 bucket/QR-Desktop.json, dodorz/scoop, 1
+bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
 bucket/Qoder.json, dodorz/scoop, 0
@@ -7584,7 +7585,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8420,7 +8421,6 @@ bucket/puppet-agent.json, ScoopInstaller/Main, 0
 bucket/puppet-bolt.json, ScoopInstaller/Main, 0
 bucket/pupsqlite.json, mo-san/scoop-bucket, 0
 bucket/pure-data.json, ScoopInstaller/Extras, 0
-bucket/pureref.json, ScoopInstaller/Extras, 1
 bucket/purescript.json, ScoopInstaller/Main, 1
 bucket/purewriter.json, DoveBoy/Apps, 1
 bucket/pushbullet.json, naderi/scoop-bucket, 0
@@ -8563,7 +8563,6 @@ bucket/qtemu.json, ScoopInstaller/Extras, 0
 bucket/qtifw.json, ScoopInstaller/Main, 0
 bucket/qtox.json, ScoopInstaller/Extras, 1
 bucket/qtpass.json, kidonng/sushi, 1
-bucket/qtranslate.json, ScoopInstaller/Extras, 0
 bucket/qtscrcpy.json, ScoopInstaller/Extras, 1
 bucket/qttabbar-beta.json, brian6932/dank-scoop, 0
 bucket/qttabbar-indiff-np.json, ScoopInstaller/Nonportable, 1
