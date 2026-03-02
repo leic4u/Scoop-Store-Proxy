@@ -8164,6 +8164,7 @@ bucket/plex-mpv-shim.json, ScoopInstaller/Extras, 1
 bucket/plex-player.json, ScoopInstaller/Extras, 0
 bucket/plex-server.json, ScoopInstaller/Main, 0
 bucket/plexamp.json, naderi/scoop-bucket, 0
+bucket/plezy.json, ScoopInstaller/Extras, 1
 bucket/plow.json, aliesbelik/poldi, 1
 bucket/pls.json, DoveBoy/Apps, 1
 bucket/plugdata.json, ScoopInstaller/Extras, 1
@@ -11348,6 +11349,7 @@ bucket/zeal.json, ScoopInstaller/Extras, 1
 bucket/zebar.json, ScoopInstaller/Extras, 1
 bucket/zecwallet-cli.json, littleli/Scoop-littleli, 1
 bucket/zecwallet-lite.json, littleli/Scoop-littleli, 1
+bucket/zed-cli.json, naderi/scoop-bucket, 1
 bucket/zed-nightly.json, ScoopInstaller/Versions, 1
 bucket/zed-opengl-nightly.json, ScoopInstaller/Versions, 1
 bucket/zed-opengl.json, ScoopInstaller/Extras, 1
