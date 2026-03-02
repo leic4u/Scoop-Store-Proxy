@@ -4097,6 +4097,7 @@ bucket/exeinfope.json, SayCV/scoop-cvp, 0
 bucket/exercism.json, ScoopInstaller/Main, 1
 bucket/exescope.json, echoiron/echo-scoop, 0
 bucket/exetype.json, rasa/scoops, 1
+bucket/exhyperv.json, ScoopInstaller/Extras, 1
 bucket/exif-pilot.json, naderi/scoop-bucket, 0
 bucket/exifcleaner.json, ScoopInstaller/Extras, 1
 bucket/exifdataview.json, ScoopInstaller/Nirsoft, 0
