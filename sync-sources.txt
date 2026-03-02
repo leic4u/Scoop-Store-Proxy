@@ -5432,6 +5432,7 @@ bucket/interactsh.json, ViCrack/scoop-bucket, 1
 bucket/interlink.json, ScoopInstaller/Extras, 0
 bucket/intermodal.json, ScoopInstaller/Main, 1
 bucket/invoke-build.json, ScoopInstaller/Main, 0
+bucket/inxunoffice.json, ygguorun/scoop-bucket, 0
 bucket/iobit-advanced-system-care-free.json, DoveBoy/Apps, 0
 bucket/iobit-software-updater.json, DoveBoy/Apps, 0
 bucket/iobit-system-information.json, DoveBoy/Apps, 0
