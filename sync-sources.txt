@@ -5462,7 +5462,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, KnotUntied/scoop-fonts, 1
+bucket/iosevka.json, iquiw/scoop-bucket, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
@@ -6643,6 +6643,7 @@ bucket/modboy.json, Calinou/scoop-games, 0
 bucket/modbreeze.json, Calinou/scoop-games, 1
 bucket/modd.json, ScoopInstaller/Main, 1
 bucket/model-b.json, hermanjustnu/scoop-emulators, 0
+bucket/models.json, ScoopInstaller/Extras, 1
 bucket/modelsim-se202004-win64.json, SayCV/scoop-cvp, 1
 bucket/modern7z.json, ScoopInstaller/Main, 0
 bucket/moderncsv.json, naderi/scoop-bucket, 0
