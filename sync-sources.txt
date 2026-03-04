@@ -11436,6 +11436,7 @@ bucket/zulu21-jdk.json, ScoopInstaller/Java, 0
 bucket/zulu21-jre.json, ScoopInstaller/Java, 0
 bucket/zulu22-jdk.json, ScoopInstaller/Java, 0
 bucket/zulu22-jre.json, ScoopInstaller/Java, 0
+bucket/zulu25-jdk.json, ScoopInstaller/Java, 0
 bucket/zulu7-jdk.json, ScoopInstaller/Java, 0
 bucket/zulu8-jdk.json, ScoopInstaller/Java, 0
 bucket/zulu8-jre.json, ScoopInstaller/Java, 0
