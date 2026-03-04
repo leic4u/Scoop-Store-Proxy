@@ -1385,7 +1385,7 @@ bucket/RightMenuMgr.json, kkzzhizhou/scoop-zapps, 1
 bucket/RimageGUI.json, dodorz/scoop, 1
 bucket/Rime.json, abgox/abgo_bucket, 1
 bucket/RipMe-Portable.json, ACooper81/scoop-apps, 1
-bucket/RisohEditor.json, HUMORCE/nuke, 1
+bucket/RisohEditor.json, dodorz/scoop, 1
 bucket/RmEDirCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/Roadkil-DiskImage.json, kkzzhizhou/scoop-zapps, 0
 bucket/RoboIntern-Portable.json, ACooper81/scoop-apps, 0
