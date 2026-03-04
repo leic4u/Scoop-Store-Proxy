@@ -6556,7 +6556,7 @@ bucket/milton.json, ScoopInstaller/Extras, 1
 bucket/mimeTeX.json, dodorz/scoop, 0
 bucket/min-portable.json, DoveBoy/Apps, 1
 bucket/min.json, ScoopInstaller/Extras, 1
-bucket/mindforger.json, ScoopInstaller/Extras, 0
+bucket/mindforger.json, ScoopInstaller/Extras, 1
 bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
