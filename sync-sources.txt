@@ -1726,7 +1726,7 @@ bucket/TranslucentTB-Install.json, ACooper81/scoop-apps, 1
 bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
 bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
-bucket/TreeSize.json, DoveBoy/Apps, 0
+bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
 bucket/Trout.json, dodorz/scoop, 0
 bucket/TscanPlus.json, ViCrack/scoop-bucket, 1
 bucket/TuBaTool.json, kkzzhizhou/scoop-zapps, 0
@@ -9039,7 +9039,7 @@ bucket/sakura.json, mo-san/scoop-bucket, 1
 bucket/salt.json, kidonng/sushi, 1
 bucket/sam-rewritten.json, starise/Scoop-Gaming, 1
 bucket/sam.json, ScoopInstaller/Extras, 1
-bucket/sameboy.json, hermanjustnu/scoop-emulators, 1
+bucket/sameboy.json, Calinou/scoop-games, 1
 bucket/saml2aws.json, ScoopInstaller/Main, 1
 bucket/sampler.json, ScoopInstaller/Main, 1
 bucket/samsung-magician-np.json, rasa/scoops, 0
