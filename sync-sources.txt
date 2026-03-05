@@ -5145,7 +5145,7 @@ bucket/hibit-system-information.json, ScoopInstaller/Extras, 0
 bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
 bucket/hibituninstaller.json, DoveBoy/Apps, 0
 bucket/hiccup-cli.json, littleli/scoop-clojure, 1
-bucket/hiddify-next.json, naderi/scoop-bucket, 1
+bucket/hiddify-next.json, DoveBoy/Apps, 1
 bucket/hiddify.json, ScoopInstaller/Extras, 1
 bucket/hide-from-uninstall-list.json, ViCrack/scoop-bucket, 0
 bucket/hideul.json, ScoopInstaller/Extras, 0
@@ -5160,7 +5160,7 @@ bucket/hlae.json, Calinou/scoop-games, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 1
-bucket/hmcl.json, chawyehsu/dorado, 1
+bucket/hmcl.json, seumsc/scoop-seu, 1
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
 bucket/hok.json, chawyehsu/dorado, 1
