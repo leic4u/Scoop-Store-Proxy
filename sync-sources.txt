@@ -2623,6 +2623,7 @@ bucket/bililive-tools.json, DoveBoy/Apps, 1
 bucket/bililiverecorder.json, chawyehsu/dorado, 1
 bucket/bilimini.json, amorphobia/siku, 1
 bucket/bilineo.json, DoveBoy/Apps, 1
+bucket/bilitools.json, ivaquero/scoopet, 1
 bucket/biliup-app.json, Weidows-projects/scoop-3rd, 1
 bucket/biliup-rs.json, DoveBoy/Apps, 1
 bucket/billy-frontier.json, Calinou/scoop-games, 1
@@ -9429,6 +9430,7 @@ bucket/smartzip.json, hu3rror/scoop-muggle, 1
 bucket/smiley-sans-dev.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/smiley-sans.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/smimesign.json, ScoopInstaller/Main, 1
+bucket/smoothcsv.json, ScoopInstaller/Extras, 1
 bucket/smoothie.json, couleur-tweak-tips/utils, 1
 bucket/smplayer-with-smtube.json, ScoopInstaller/Versions, 1
 bucket/smplayer.json, ScoopInstaller/Extras, 1
