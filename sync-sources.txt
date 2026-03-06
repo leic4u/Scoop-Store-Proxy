@@ -1332,7 +1332,7 @@ bucket/QuickCut.json, Weidows-projects/scoop-3rd, 1
 bucket/QuickHash.json, dodorz/scoop, 0
 bucket/QuickSwitch.json, ygguorun/scoop-bucket, 1
 bucket/Quicker-MSI.json, leic4u/Scoop-Store, 0
-bucket/Quicker.json, zhoujin7/tomato, 0
+bucket/Quicker.json, ivaquero/scoopet, 0
 bucket/Qute.json, dodorz/scoop, 0
 bucket/R-Studio.json, kkzzhizhou/scoop-zapps, 1
 bucket/RAMExpect.json, kkzzhizhou/scoop-zapps, 0
