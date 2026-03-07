@@ -4507,7 +4507,6 @@ bucket/freespacelogview.json, ScoopInstaller/Nirsoft, 0
 bucket/freetex.json, ivaquero/scoopet, 1
 bucket/freetube.json, ScoopInstaller/Extras, 1
 bucket/freeze.json, aliesbelik/poldi, 1
-bucket/freezer.json, starise/Scoop-Confetti, 0
 bucket/freezetostock.json, couleur-tweak-tips/utils, 1
 bucket/fresh-editor.json, littleli/Scoop-littleli, 1
 bucket/fresh.json, ScoopInstaller/Main, 1
@@ -5669,6 +5668,7 @@ bucket/jvms.json, Weidows-projects/scoop-3rd, 1
 bucket/jwt-cli.json, ScoopInstaller/Main, 1
 bucket/jx.json, ScoopInstaller/Main, 1
 bucket/jxl-winthumb.json, seumsc/scoop-seu, 1
+bucket/jxrlib.json, starise/Scoop-Confetti, 1
 bucket/jy-srt-tools.json, ygguorun/scoop-bucket, 1
 bucket/jyso.json, ViCrack/scoop-bucket, 1
 bucket/k-lite-codec-pack-basic-np.json, ScoopInstaller/Nonportable, 0
