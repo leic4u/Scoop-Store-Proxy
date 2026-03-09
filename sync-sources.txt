@@ -5898,6 +5898,7 @@ bucket/l4d2modmanager.json, Calinou/scoop-games, 0
 bucket/lab.json, ScoopInstaller/Main, 1
 bucket/labplot-nightly.json, ScoopInstaller/Versions, 0
 bucket/labplot.json, ScoopInstaller/Extras, 0
+bucket/ladybugdb.json, littleli/Scoop-littleli, 1
 bucket/lagrange.json, ScoopInstaller/Extras, 1
 bucket/laigter.json, ScoopInstaller/Extras, 1
 bucket/lambdahack.json, Calinou/scoop-games, 1
