@@ -6920,7 +6920,7 @@ bucket/navicat-premium-lite.json, seumsc/scoop-seu, 0
 bucket/navidrome-portable.json, DoveBoy/Apps, 1
 bucket/navidrome.json, ScoopInstaller/Main, 1
 bucket/nb.json, dodorz/scoop, 1
-bucket/nbping.json, aliesbelik/poldi, 1
+bucket/nbping.json, ScoopInstaller/Main, 1
 bucket/nbtexplorer.json, Calinou/scoop-games, 1
 bucket/ncftpclient.json, ScoopInstaller/Extras, 0
 bucket/ncmpc.json, ScoopInstaller/Extras, 0
