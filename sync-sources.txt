@@ -185,6 +185,7 @@ bucket/AurulentSansMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/AurulentSansMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/AurulentSansMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Authme-Portable.json, ACooper81/scoop-apps, 1
+bucket/AutoClaw.json, Weidows-projects/scoop-3rd, 0
 bucket/AutoDarkMode-Portable.json, ACooper81/scoop-apps, 1
 bucket/AutoDarkMode-UserInstall.json, ACooper81/scoop-apps, 1
 bucket/AutoDeleteFileOnPCWechat.json, kkzzhizhou/scoop-zapps, 1
@@ -8284,7 +8285,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppsspp-dev.json, Calinou/scoop-games, 0
-bucket/ppsspp.json, borger/scoop-emulators, 0
+bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
