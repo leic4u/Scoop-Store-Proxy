@@ -9767,7 +9767,7 @@ bucket/superslicer.json, ScoopInstaller/Extras, 1
 bucket/supersonic.json, ScoopInstaller/Extras, 1
 bucket/supertux.json, Calinou/scoop-games, 1
 bucket/supertuxkart.json, Calinou/scoop-games, 1
-bucket/surge.json, DoveBoy/Apps, 1
+bucket/surge.json, ScoopInstaller/Main, 1
 bucket/surrealdb.json, ScoopInstaller/Main, 0
 bucket/susplayer.json, beerpiss/scoop-bucket, 0
 bucket/suwayomi-jui.json, ScoopInstaller/Extras, 1
