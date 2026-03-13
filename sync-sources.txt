@@ -812,7 +812,6 @@ bucket/IrfaniewWithPlugins-Portable.json, ACooper81/scoop-apps, 0
 bucket/Irfanview-plugins.json, cc713/ownscoop, 0
 bucket/Iridium.json, dodorz/scoop, 0
 bucket/Iron.json, dodorz/scoop, 0
-bucket/IronClaw.json, dodorz/scoop, 1
 bucket/Ito.json, dodorz/scoop, 1
 bucket/JBMail.json, dodorz/scoop, 0
 bucket/JJDown.json, Paxxs/Cluttered-bucket, 0
@@ -5501,6 +5500,7 @@ bucket/irfanview-lean.json, ScoopInstaller/Extras, 0
 bucket/irfanview.ja.json, jfut/scoop-jfut, 0
 bucket/irfanview.json, ScoopInstaller/Extras, 0
 bucket/iris.json, ScoopInstaller/Extras, 1
+bucket/ironclaw.json, ScoopInstaller/Main, 1
 bucket/ironwail.json, Calinou/scoop-games, 1
 bucket/irreader.json, kkzzhizhou/scoop-zapps, 0
 bucket/irust.json, batkiz/backit, 1
