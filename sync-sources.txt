@@ -6976,7 +6976,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -9876,7 +9876,6 @@ bucket/tak.json, ScoopInstaller/Extras, 0
 bucket/tally-marks.json, amorphobia/siku, 1
 bucket/talosctl.json, ScoopInstaller/Main, 1
 bucket/tanka.json, aliesbelik/poldi, 1
-bucket/tanoshi.json, ScoopInstaller/Extras, 1
 bucket/taplo.json, ScoopInstaller/Main, 1
 bucket/tar.json, ScoopInstaller/Main, 0
 bucket/tartube.json, ScoopInstaller/Extras, 1
