@@ -1,36 +1,36 @@
 {
-  "version": "1.20.2-39-g962d62c466",
-  "description": "Sony PlayStation Portable (PSP) emulator. Development build",
+  "version": "1.20.2-17-g8baa31fdb5",
+  "description": "Sony PlayStation Portable (PSP) emulator",
   "homepage": "https://www.ppsspp.org",
   "license": "GPL-2.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://builds.ppsspp.org/builds/v1.20.2-39-g962d62c466/ppsspp_win_v1.20.2-39-g962d62c466.zip",
-      "hash": "651b84d0b481819e8c7c629cd53e15a848ee69dec1bab4726e572f6c45498ada",
+      "url": "https://builds.ppsspp.org/builds/v1.20.2-17-g8baa31fdb5/ppsspp_win_v1.20.2-17-g8baa31fdb5.zip",
+      "hash": "24bda594d869b2da2eab6ec3b1f1beaee21155d5d689b39e50b4553139db6cc0",
       "shortcuts": [
         [
           "PPSSPPWindows64.exe",
-          "PPSSPP (Development)"
+          "Sony PlayStation Portable [psp][ppsspp] (dev)"
         ]
       ]
     },
     "32bit": {
-      "url": "https://builds.ppsspp.org/builds/v1.20.2-39-g962d62c466/ppsspp_win_v1.20.2-39-g962d62c466.zip",
-      "hash": "651b84d0b481819e8c7c629cd53e15a848ee69dec1bab4726e572f6c45498ada",
+      "url": "https://builds.ppsspp.org/builds/v1.20.2-17-g8baa31fdb5/ppsspp_win_v1.20.2-17-g8baa31fdb5.zip",
+      "hash": "24bda594d869b2da2eab6ec3b1f1beaee21155d5d689b39e50b4553139db6cc0",
       "shortcuts": [
         [
           "PPSSPPWindows.exe",
-          "PPSSPP (Development)"
+          "Sony PlayStation Portable [psp][ppsspp] (dev)"
         ]
       ]
     },
     "arm64": {
-      "url": "https://builds.ppsspp.org/builds/v1.20.2-39-g962d62c466/PPSSPPWindowsARM64_v1.20.2-39-g962d62c466.zip",
-      "hash": "6bcd06897fc8be5a508e457d79b2aa426009b15dc6ab5d36e183dc6ce4f2f53c",
+      "url": "https://builds.ppsspp.org/builds/v1.20.2-17-g8baa31fdb5/PPSSPPWindowsARM64_v1.20.2-17-g8baa31fdb5.zip",
+      "hash": "e218fc31fa26e0e0832f28e785c54d4ec811821956a561d243c73736d3938ded",
       "shortcuts": [
         [
           "PPSSPPWindowsARM64.exe",
-          "PPSSPP (Development)"
+          "Sony PlayStation Portable [psp][ppsspp] (dev)"
         ]
       ]
     }
@@ -40,6 +40,17 @@
     "   New-item \"$persist_dir\" -ItemType Directory | Out-Null",
     "   New-item \"$persist_dir\\memstick\" -ItemType Directory | Out-Null",
     "}"
+  ],
+  "bin": [
+    [
+      "ppsspp.exe"
+    ]
+  ],
+  "shortcuts": [
+    [
+      "ppsspp.exe",
+      "Sony PlayStation Portable [psp][ppsspp]"
+    ]
   ],
   "persist": [
     "memstick",
