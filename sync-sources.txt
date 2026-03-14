@@ -9498,6 +9498,7 @@ bucket/soul.json, batkiz/backit, 1
 bucket/soulseekqt.json, ScoopInstaller/Extras, 0
 bucket/sound-keeper.json, amorphobia/siku, 0
 bucket/sound-of-sorting.json, beerpiss/scoop-bucket, 0
+bucket/soundkeeper.json, starise/Scoop-Confetti, 0
 bucket/soundnode.json, ScoopInstaller/Extras, 1
 bucket/soundswitch.json, ScoopInstaller/Extras, 1
 bucket/soundvolumecommandline.json, kodybrown/scoop-nirsoft, 0
