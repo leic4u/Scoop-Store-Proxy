@@ -69,7 +69,6 @@ bucket/7zip@16.04.json, renxia/scoop-bucket, 0
 bucket/7zip@19.00.json, renxia/scoop-bucket, 0
 bucket/7zip@21.03+zs.json, renxia/scoop-bucket, 1
 bucket/7ztm.json, ScoopInstaller/Extras, 0
-bucket/86box-manager.json, ScoopInstaller/Extras, 1
 bucket/86box-roms.json, ScoopInstaller/Extras, 1
 bucket/86box.json, ScoopInstaller/Extras, 1
 bucket/8bitdo-ultimate-software-v2.json, hu3rror/scoop-muggle, 0
@@ -3715,7 +3714,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -10458,6 +10457,7 @@ bucket/util-linux-ng.json, ScoopInstaller/Extras, 0
 bucket/utools-install.json, Weidows-projects/scoop-3rd, 0
 bucket/utorrent-portable.json, SayCV/scoop-cvp, 0
 bucket/utorrent.json, kkzzhizhou/scoop-zapps, 0
+bucket/utpm.json, ScoopInstaller/Extras, 1
 bucket/utvideo.json, couleur-tweak-tips/utils, 1
 bucket/uup-download-wizard-converter.json, hu3rror/scoop-muggle, 1
 bucket/uutils-coreutils-lean.json, ScoopInstaller/Main, 1
