@@ -8670,7 +8670,7 @@ bucket/rain.json, ScoopInstaller/Main, 1
 bucket/rainbow.json, ScoopInstaller/Main, 1
 bucket/raindrop.io.json, ScoopInstaller/Extras, 1
 bucket/raine.json, Calinou/scoop-games, 0
-bucket/rainfrog.json, aliesbelik/poldi, 1
+bucket/rainfrog.json, ScoopInstaller/Main, 1
 bucket/rainmeter.json, ScoopInstaller/Extras, 1
 bucket/rains.json, amorphobia/siku, 1
 bucket/rakshasa.json, ViCrack/scoop-bucket, 1
