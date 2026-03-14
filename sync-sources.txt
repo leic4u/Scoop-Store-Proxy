@@ -6503,7 +6503,6 @@ bucket/microsoft-edge-dev-np.json, ScoopInstaller/Nonportable, 0
 bucket/microsoft-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoft-lts-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoft-powerapps-cli.json, ScoopInstaller/Extras, 0
-bucket/microsoft-teams.json, ScoopInstaller/Extras, 0
 bucket/microsoft11-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoft16-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoft17-jdk.json, ScoopInstaller/Java, 0
