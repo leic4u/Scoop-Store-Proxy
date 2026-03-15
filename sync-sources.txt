@@ -8354,6 +8354,7 @@ bucket/proton-drive.json, ScoopInstaller/Extras, 0
 bucket/proton-launcher.json, kiennq/scoop-misc, 1
 bucket/proton-mail-export.json, ScoopInstaller/Extras, 1
 bucket/proton-mail.json, ScoopInstaller/Extras, 0
+bucket/proton-pass-cli.json, cderv/r-bucket, 0
 bucket/proton-pass.json, ScoopInstaller/Extras, 0
 bucket/protonmail-bridge.json, ScoopInstaller/Extras, 1
 bucket/protonvpn-np.json, ScoopInstaller/Nonportable, 0
