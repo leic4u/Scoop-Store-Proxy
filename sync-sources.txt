@@ -3714,7 +3714,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4817,6 +4817,7 @@ bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
 bucket/go-drive.json, DoveBoy/Apps, 1
 bucket/go-feature-flag.json, ScoopInstaller/Main, 1
 bucket/go-jsonnet.json, ScoopInstaller/Main, 1
+bucket/go-music-dl.json, DoveBoy/Apps, 1
 bucket/go-musicfox.json, DoveBoy/Apps, 1
 bucket/go-proxy-bingai.json, DoveBoy/Apps, 1
 bucket/go-size-analyzer.json, ScoopInstaller/Main, 1
@@ -9717,7 +9718,6 @@ bucket/struts2vulsscantools.json, ViCrack/scoop-bucket, 1
 bucket/sts.json, ScoopInstaller/Extras, 0
 bucket/sts396.json, ScoopInstaller/Versions, 0
 bucket/sttr.json, aliesbelik/poldi, 1
-bucket/study-xxqg-sjkhsl.json, DoveBoy/Apps, 1
 bucket/stunnel-beta.json, ScoopInstaller/Versions, 0
 bucket/stunnel.json, ScoopInstaller/Extras, 0
 bucket/stunnel549.json, ScoopInstaller/Versions, 0
