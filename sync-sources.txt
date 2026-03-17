@@ -10877,6 +10877,7 @@ bucket/winasar.json, ViCrack/scoop-bucket, 1
 bucket/winauth-portable.json, naderi/scoop-bucket, 1
 bucket/winauth.json, ScoopInstaller/Extras, 1
 bucket/winbox.json, ScoopInstaller/Extras, 0
+bucket/winbox3.json, ScoopInstaller/Versions, 0
 bucket/winbox4.json, starise/Scoop-Confetti, 0
 bucket/winbtrfs-np.json, ScoopInstaller/Nonportable, 1
 bucket/winbtrfs.json, brian6932/dank-scoop, 1
@@ -11388,6 +11389,7 @@ bucket/zed-cli.json, naderi/scoop-bucket, 1
 bucket/zed-nightly.json, ScoopInstaller/Versions, 1
 bucket/zed-opengl-nightly.json, ScoopInstaller/Versions, 1
 bucket/zed-opengl.json, ScoopInstaller/Extras, 1
+bucket/zed-pre.json, ScoopInstaller/Versions, 1
 bucket/zed.json, ScoopInstaller/Extras, 1
 bucket/zedis.json, ScoopInstaller/Extras, 1
 bucket/zeebe-modeler.json, ScoopInstaller/Extras, 1
