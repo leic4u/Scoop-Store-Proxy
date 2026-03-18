@@ -10852,7 +10852,7 @@ bucket/wiiscrubber.json, Calinou/scoop-games, 0
 bucket/wikidpad.json, naderi/scoop-bucket, 0
 bucket/wiliwili.json, ScoopInstaller/Extras, 1
 bucket/wilma.json, starise/Scoop-Confetti, 0
-bucket/wimlib.json, kkzzhizhou/scoop-zapps, 0
+bucket/wimlib.json, ScoopInstaller/Main, 0
 bucket/win-acme-plus.json, aoisummer/scoop-bucket, 1
 bucket/win-acme.json, ScoopInstaller/Main, 1
 bucket/win-aio.json, naderi/scoop-bucket, 0
