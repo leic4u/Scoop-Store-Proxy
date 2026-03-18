@@ -5401,7 +5401,7 @@ bucket/inkscape.json, ScoopInstaller/Extras, 0
 bucket/inkwell.json, ScoopInstaller/Extras, 1
 bucket/inky.json, ScoopInstaller/Extras, 1
 bucket/inno-script-studio.json, ScoopInstaller/Extras, 0
-bucket/inno-setup.json, ScoopInstaller/Extras, 0
+bucket/inno-setup.json, ScoopInstaller/Extras, 1
 bucket/innoextract.json, ScoopInstaller/Main, 0
 bucket/innosetup-np.json, ScoopInstaller/Nonportable, 0
 bucket/innosetup-portapps.json, Velgus/Scoop-Portapps, 1
