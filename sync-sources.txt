@@ -2497,6 +2497,7 @@ bucket/balabolka.json, ScoopInstaller/Extras, 0
 bucket/balena-cli.json, ScoopInstaller/Main, 1
 bucket/balenaEtcher-Portable.json, ACooper81/scoop-apps, 1
 bucket/balenaEtcher-UserInstall.json, ACooper81/scoop-apps, 1
+bucket/ballsheetogl.json, brian6932/dank-scoop, 1
 bucket/bamboo.json, chawyehsu/dorado, 1
 bucket/bambu-studio.json, ScoopInstaller/Extras, 1
 bucket/banana-cake-pop.json, ScoopInstaller/Extras, 0
