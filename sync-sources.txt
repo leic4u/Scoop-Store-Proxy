@@ -1111,6 +1111,7 @@ bucket/NetworkDriveControl-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/NexusFile.json, dodorz/scoop, 0
 bucket/NexusImage.json, dodorz/scoop, 0
 bucket/NilesoftShell-Portable.json, ACooper81/scoop-apps, 0
+bucket/Nimbalyst.json, dodorz/scoop, 1
 bucket/Niramit.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/NirsoftAdvancedRun-Portable.json, ACooper81/scoop-apps, 0
 bucket/NirsoftControlMyMonitor-Portable.json, ACooper81/scoop-apps, 0
