@@ -1804,6 +1804,7 @@ bucket/Unlocker-Portable.json, ACooper81/scoop-apps, 1
 bucket/UnrealCommander.json, dodorz/scoop, 1
 bucket/UnstoppableCopier.json, dodorz/scoop, 0
 bucket/UpNote.json, dodorz/scoop, 0
+bucket/UpSnap.json, dodorz/scoop, 1
 bucket/UpdateHub-Portable.json, ACooper81/scoop-apps, 1
 bucket/UpdateManagerForWindows-Portable.json, ACooper81/scoop-apps, 1
 bucket/Upscayl-Portable.json, ACooper81/scoop-apps, 1
@@ -1966,6 +1967,7 @@ bucket/WondershareUniconverter.json, Weidows-projects/scoop-3rd, 0
 bucket/WordGrinder.json, dodorz/scoop, 1
 bucket/WordTsar.json, dodorz/scoop, 0
 bucket/Wordster.json, dodorz/scoop, 0
+bucket/WorkBuddy.json, dodorz/scoop, 0
 bucket/WriteMonkey.json, dodorz/scoop, 0
 bucket/WriteMonkey3.json, dodorz/scoop, 0
 bucket/Writeathon.json, abgox/abgo_bucket, 0
@@ -8969,7 +8971,7 @@ bucket/rstudio11.json, ScoopInstaller/Versions, 0
 bucket/rsvg-convert-miyako.json, cderv/r-bucket, 1
 bucket/rsvg-convert.json, cderv/r-bucket, 0
 bucket/rtcwcoop.json, Calinou/scoop-games, 1
-bucket/rtk.json, cderv/r-bucket, 1
+bucket/rtk.json, ScoopInstaller/Main, 1
 bucket/rtlutility.json, ScoopInstaller/Extras, 0
 bucket/rtmpdump.json, ScoopInstaller/Main, 0
 bucket/rtmpdumphelper.json, ScoopInstaller/Nirsoft, 0
