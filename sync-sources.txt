@@ -3458,7 +3458,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, chawyehsu/dorado, 1
+bucket/dandanplay.json, DoveBoy/Apps, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -9608,6 +9608,7 @@ bucket/sqlc.json, aliesbelik/poldi, 1
 bucket/sqlcl.json, ScoopInstaller/Main, 0
 bucket/sqldef.json, ScoopInstaller/Main, 1
 bucket/sqldeveloper.json, ScoopInstaller/Extras, 0
+bucket/sqlite-dll.json, ScoopInstaller/Main, 0
 bucket/sqlite-gui-no-ciphers.json, dodorz/scoop, 1
 bucket/sqlite-gui.json, naderi/scoop-bucket, 1
 bucket/sqlite-x.json, dodorz/scoop, 1
