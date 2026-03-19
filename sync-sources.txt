@@ -2969,7 +2969,7 @@ bucket/chatterino.json, ScoopInstaller/Extras, 0
 bucket/chatterino7-portable.json, brian6932/dank-scoop, 1
 bucket/chatterino7.json, ScoopInstaller/Extras, 1
 bucket/chatty.json, ScoopInstaller/Extras, 1
-bucket/chatwise.json, chawyehsu/dorado, 1
+bucket/chatwise.json, dodorz/scoop, 1
 bucket/chdig.json, ScoopInstaller/Extras, 1
 bucket/cheat-engine.json, ScoopInstaller/Extras, 1
 bucket/cheat.json, ScoopInstaller/Main, 1
@@ -11372,6 +11372,7 @@ bucket/z.lua.json, ScoopInstaller/Main, 1
 bucket/z0scan.json, ViCrack/scoop-bucket, 1
 bucket/z26.json, hermanjustnu/scoop-emulators, 0
 bucket/z3.json, ScoopInstaller/Main, 1
+bucket/z_lua.json, dodorz/scoop, 1
 bucket/zabbix-agent.json, wzv5/ScoopBucket, 0
 bucket/zabbix-agent2.json, wzv5/ScoopBucket, 0
 bucket/zadig-np.json, ScoopInstaller/Nonportable, 1
