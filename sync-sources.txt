@@ -6403,6 +6403,7 @@ bucket/maxim-eesim.json, SayCV/scoop-cvp, 1
 bucket/maxima.json, ScoopInstaller/Extras, 0
 bucket/maxto.json, ScoopInstaller/Extras, 0
 bucket/maye.json, ViCrack/scoop-bucket, 1
+bucket/mayenano.json, ViCrack/scoop-bucket, 1
 bucket/mayo.json, ScoopInstaller/Extras, 1
 bucket/mc.json, ScoopInstaller/Extras, 1
 bucket/mcat.json, aliesbelik/poldi, 1
