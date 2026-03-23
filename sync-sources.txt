@@ -1260,7 +1260,7 @@ bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/Pinokio-Portable.json, ACooper81/scoop-apps, 1
 bucket/PixBuilder.json, zhoujin7/tomato, 0
 bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
-bucket/PixPin.json, ivaquero/scoopet, 0
+bucket/PixPin.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixel-Code.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Pixeval.json, cc713/ownscoop, 1
@@ -2664,6 +2664,7 @@ bucket/bitthief.json, yuusakuri/scoop-bucket, 1
 bucket/bittorrent-tracker-editor.json, ScoopInstaller/Extras, 1
 bucket/bitvise-ssh-client.json, SayCV/scoop-cvp, 1
 bucket/bitwarden-cli.json, ScoopInstaller/Main, 1
+bucket/bitwarden-secrets-manager-cli.json, ScoopInstaller/Main, 1
 bucket/bitwarden.json, ScoopInstaller/Extras, 1
 bucket/biu-portable.json, DoveBoy/Apps, 1
 bucket/biyi.json, akirco/aki-apps, 1
