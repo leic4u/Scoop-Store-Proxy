@@ -11414,6 +11414,7 @@ bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
 bucket/zelda-mm-ultraship.json, Deide/deide-bucket, 1
 bucket/zelda-oot-ultraship.json, Deide/deide-bucket, 1
 bucket/zelda64recomp.json, Calinou/scoop-games, 1
+bucket/zellij.json, ScoopInstaller/Main, 1
 bucket/zen-browser.json, ScoopInstaller/Extras, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
 bucket/zeplin.json, ScoopInstaller/Extras, 0
