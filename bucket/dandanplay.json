@@ -1,12 +1,15 @@
 {
+  "version": "17.1.1.323",
+  "description": "弹弹play播放器：全功能本地视频+弹幕播放器",
   "homepage": "https://www.dandanplay.com/",
-  "description": "A free to use bangumi player with danmaku support",
-  "version": "17.1.0.0",
-  "license": "Unknown",
+  "license": {
+    "identifier": "Apache-2.0 license",
+    "url": "https://github.com/kaedei/dandanplay#Apache-2.0-1-ov-file"
+  },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/kaedei/dandanplay/releases/download/windows-17.1.0.0/dandanplay-x64_17.1.0.zip",
-      "hash": "c57c7b51d917b839f8026485cf2f8b94373749ccec958c9128c3cddfd62bf55c"
+      "url": "https://ghgo.xyz/https://github.com/kaedei/dandanplay/releases/download/windows-17.1.1.323/dandanplay-x64_17.1.1.zip",
+      "hash": "422ee03b50599e95569e1e08a876fc1ec9efb0da001e9591233c0af41f0f15db"
     }
   },
   "extract_dir": "dandanplay-x64",
