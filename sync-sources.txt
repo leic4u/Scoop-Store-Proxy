@@ -2506,6 +2506,7 @@ bucket/ballsheetogl.json, brian6932/dank-scoop, 1
 bucket/bamboo.json, chawyehsu/dorado, 1
 bucket/bambu-studio.json, ScoopInstaller/Extras, 1
 bucket/banana-cake-pop.json, ScoopInstaller/Extras, 0
+bucket/bandcamp-downloader.json, ScoopInstaller/Extras, 1
 bucket/bandicam.json, echoiron/echo-scoop, 0
 bucket/bandizip-classic.json, HUMORCE/nuke, 0
 bucket/bandizip.json, ScoopInstaller/Extras, 0
@@ -7268,7 +7269,7 @@ bucket/officeins.json, ScoopInstaller/Nirsoft, 0
 bucket/officetool-dotnet.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetool.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetoolplus-with-runtime.json, DoveBoy/Apps, 1
-bucket/officetoolplus.json, akirco/aki-apps, 1
+bucket/officetoolplus.json, naderi/scoop-bucket, 1
 bucket/offlineinsiderenroll.json, ScoopInstaller/Main, 1
 bucket/offlineregistryfinder.json, ScoopInstaller/Nirsoft, 0
 bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
