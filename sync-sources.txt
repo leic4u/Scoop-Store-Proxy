@@ -1658,6 +1658,7 @@ bucket/TCC-RT.json, dodorz/scoop, 0
 bucket/TEDNPad.json, dodorz/scoop, 0
 bucket/TMSpeech.json, ygguorun/scoop-bucket, 1
 bucket/TTime.json, abgox/abgo_bucket, 1
+bucket/Tabbit.json, Weidows-projects/scoop-3rd, 0
 bucket/TablacusExplorer.json, dodorz/scoop, 1
 bucket/Tag.json, dodorz/scoop, 0
 bucket/TagUI.json, Weidows-projects/scoop-3rd, 1
