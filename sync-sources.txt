@@ -121,7 +121,7 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, dodorz/scoop, 1
+bucket/AionUi.json, renxia/scoop-bucket, 1
 bucket/AlephNote.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
 bucket/AliWangWang.json, SayCV/scoop-cvp, 1

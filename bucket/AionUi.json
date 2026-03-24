@@ -1,28 +1,16 @@
 {
-  "version": "1.8.33",
-  "description": "Free, local, open-source GUI app for LLMs �� Chat UI, Multi-agent, Multi-LLMs & apikey polling, Workspace, MCP, Remote WebUi Mode",
-  "homepage": "https://www.aionui.com/",
-  "license": "Apache-2.0",
+  "version": "1.9.0",
+  "description": "AionUi - AI-powered desktop application",
+  "homepage": "https://github.com/iOfficeAI/AionUi",
+  "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/iOfficeAI/AionUi/releases/download/v1.8.33/AionUi-1.8.33-win-x64.exe#/dl.7z",
-      "hash": "d5f293fd76a9440f4060ee5367899447e8657087fea69f19867fe4a4c6cd20a9",
-      "installer": {
-        "script": [
-          "Expand-7ZipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
-          "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$R0\"  -Force -Recurse"
-        ]
-      }
+      "url": "https://ghgo.xyz/https://github.com/iOfficeAI/AionUi/releases/download/v1.9.0/AionUi-1.9.0-win-x64.exe",
+      "hash": "d7b7ae17cf9950ab951348639f835994793368ba9c29c0035e0085788bbd15bc"
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/iOfficeAI/AionUi/releases/download/v1.8.33/AionUi-1.8.33-win-arm64.exe#/dl.7z",
-      "hash": "6e53bb5e45eed4e91a1581a309f3d1478465d0dc78cfa152c4271053875411e9",
-      "installer": {
-        "script": [
-          "Expand-7ZipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\" -Removal",
-          "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$R0\"  -Force -Recurse"
-        ]
-      }
+      "url": "https://ghgo.xyz/https://github.com/iOfficeAI/AionUi/releases/download/v1.9.0/AionUi-1.9.0-win-arm64.exe",
+      "hash": "bbb6112f83b4ef58673ff4fc0ba757b44114515f603e11b4bb50f89b7919fde4"
     }
   },
   "bin": "AionUi.exe",
@@ -38,10 +26,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghgo.xyz/https://github.com/iOfficeAI/AionUi/releases/download/v$version/AionUi-$version-win-x64.exe#/dl.7z"
+        "url": "https://ghgo.xyz/https://github.com/iOfficeAI/AionUi/releases/download/v$version/AionUi-$version-win-x64.exe"
       },
       "arm64": {
-        "url": "https://ghgo.xyz/https://github.com/iOfficeAI/AionUi/releases/download/v$version/AionUi-$version-win-arm64.exe#/dl.7z"
+        "url": "https://ghgo.xyz/https://github.com/iOfficeAI/AionUi/releases/download/v$version/AionUi-$version-win-arm64.exe"
       }
     }
   }
