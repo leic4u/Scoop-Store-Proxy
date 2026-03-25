@@ -2129,7 +2129,7 @@ bucket/aidoku-cli.json, beerpiss/scoop-bucket, 1
 bucket/aigcpanel.json, ivaquero/scoopet, 1
 bucket/aimp.json, ScoopInstaller/Extras, 0
 bucket/ain.json, aliesbelik/poldi, 1
-bucket/ainiee.json, ivaquero/scoopet, 1
+bucket/ainiee.json, hu3rror/scoop-muggle, 1
 bucket/air.json, ScoopInstaller/Main, 1
 bucket/aircrack-ng.json, ScoopInstaller/Extras, 0
 bucket/airdroid.json, ScoopInstaller/Extras, 0
@@ -3463,7 +3463,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, chawyehsu/dorado, 1
+bucket/dandanplay.json, DoveBoy/Apps, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -6435,6 +6435,7 @@ bucket/mdlt.json, MCOfficer/scoop-bucket, 1
 bucket/mdq.json, ScoopInstaller/Main, 1
 bucket/mdr.json, naderi/scoop-bucket, 1
 bucket/mdsilo.json, naderi/scoop-bucket, 1
+bucket/mdut-extend-release.json, ViCrack/scoop-bucket, 1
 bucket/mdut.json, ViCrack/scoop-bucket, 1
 bucket/mdview.json, naderi/scoop-bucket, 1
 bucket/media-downloader.json, ScoopInstaller/Extras, 1
