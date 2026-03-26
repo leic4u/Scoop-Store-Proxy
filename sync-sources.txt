@@ -1079,7 +1079,7 @@ bucket/Multrin-Portable.json, ACooper81/scoop-apps, 1
 bucket/MuseScore-Portable.json, ACooper81/scoop-apps, 1
 bucket/MusicBee-Portable.json, ACooper81/scoop-apps, 0
 bucket/MusicBrainzPicard-Portable.json, ACooper81/scoop-apps, 0
-bucket/MusicFreeDesktop.json, cc713/ownscoop, 1
+bucket/MusicFreeDesktop.json, DoveBoy/Apps, 1
 bucket/MusicLake.json, dodorz/scoop, 1
 bucket/MusicTag.json, hu3rror/scoop-muggle, 0
 bucket/MusicTools.json, SayCV/scoop-cvp, 1
@@ -3463,7 +3463,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, DoveBoy/Apps, 1
+bucket/dandanplay.json, chawyehsu/dorado, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -3729,7 +3729,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4315,7 +4315,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -6733,6 +6733,7 @@ bucket/mosdns.json, chawyehsu/dorado, 1
 bucket/mosh-client.json, ScoopInstaller/Main, 1
 bucket/mosquitto.json, ScoopInstaller/Main, 0
 bucket/motrix.json, ScoopInstaller/Extras, 1
+bucket/motrixnext.json, DoveBoy/Apps, 1
 bucket/moul.json, chawyehsu/dorado, 1
 bucket/mouse-monitor.json, brian6932/dank-scoop, 1
 bucket/mouse-tester-fork.json, couleur-tweak-tips/utils, 1
@@ -11367,6 +11368,7 @@ bucket/ytdownloader-portable.json, DoveBoy/Apps, 1
 bucket/ytdownloader.json, DoveBoy/Apps, 1
 bucket/ytmdesktop.json, ScoopInstaller/Extras, 1
 bucket/ytmdl-py.json, TheRandomLabs/Scoop-Python, 1
+bucket/ytplayer.json, DoveBoy/Apps, 1
 bucket/ytsage.json, DoveBoy/Apps, 1
 bucket/ytsubconverter.json, ScoopInstaller/Extras, 1
 bucket/ytt.json, ScoopInstaller/Main, 1
