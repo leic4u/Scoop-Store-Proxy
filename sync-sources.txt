@@ -5740,7 +5740,7 @@ bucket/katrain.json, Calinou/scoop-games, 1
 bucket/kavita.json, ScoopInstaller/Extras, 1
 bucket/kawaii-player.json, ScoopInstaller/Extras, 1
 bucket/kaxaml.json, Deide/deide-bucket, 1
-bucket/kazumi.json, wzv5/ScoopBucket, 1
+bucket/kazumi.json, DoveBoy/Apps, 1
 bucket/kbootopt.json, echoiron/echo-scoop, 0
 bucket/kcc.json, ScoopInstaller/Extras, 1
 bucket/kcleaner.json, echoiron/echo-scoop, 0
@@ -11526,7 +11526,7 @@ bucket/zvm.json, ScoopInstaller/Main, 1
 bucket/zxhn-f610gv9-crcv.json, SayCV/scoop-cvp, 1
 bucket/zyfun.json, cc713/ownscoop, 1
 bucket/zyperwinoptimize.json, DoveBoy/Apps, 1
-install.ps1, , 1
+install.ps1, , 0
 scripts/.deprecated/yy/yy-setup.ps1, HUMORCE/nuke, 0
 scripts/7-zip/install-context.reg, ScoopInstaller/Main, 0
 scripts/7-zip/uninstall-context.reg, ScoopInstaller/Main, 0
