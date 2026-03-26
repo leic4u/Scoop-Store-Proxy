@@ -2496,7 +2496,7 @@ bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
 bucket/baidu-net-disk.json, yuusakuri/scoop-bucket, 0
 bucket/baidudisk.json, akirco/aki-apps, 0
 bucket/baidunetdisk-cvp.json, SayCV/scoop-cvp, 1
-bucket/baidupcs-go.json, ivaquero/scoopet, 1
+bucket/baidupcs-go.json, hu3rror/scoop-muggle, 1
 bucket/baimiao-portable.json, SayCV/scoop-cvp, 0
 bucket/baka-mplayer.json, ScoopInstaller/Extras, 1
 bucket/baksmali.json, TheCjw/scoop-retools, 0
