@@ -9400,6 +9400,7 @@ bucket/silentcmd.json, ScoopInstaller/Extras, 1
 bucket/silex-desktop.json, ScoopInstaller/Extras, 1
 bucket/silicon.json, ScoopInstaller/Main, 1
 bucket/silk2mp3.json, ygguorun/scoop-bucket, 1
+bucket/silverbullet.json, ScoopInstaller/Main, 1
 bucket/similarimagefinder.json, naderi/scoop-bucket, 0
 bucket/simple-assembly-explorer.json, ScoopInstaller/Extras, 1
 bucket/simple-dnscrypt.json, ScoopInstaller/Extras, 1
