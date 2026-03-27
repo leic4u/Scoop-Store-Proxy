@@ -1033,6 +1033,7 @@ bucket/MicrosoftVisualStudioCommunity2019-Install.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftVisualStudioCommunity2022-Install.json, ACooper81/scoop-apps, 0
 bucket/MicrosoftYaHeiMono.json, everyx/scoop-bucket, 0
 bucket/Midori.json, dodorz/scoop, 1
+bucket/Mihomo-TUI.json, dodorz/scoop, 1
 bucket/Milkup.json, dodorz/scoop, 1
 bucket/MinEd.json, dodorz/scoop, 1
 bucket/Mindbox.json, dodorz/scoop, 0
@@ -8431,6 +8432,7 @@ bucket/psloglist.json, niheaven/scoop-sysinternals, 1
 bucket/psmodule-7Zip4Powershell.json, Weidows-projects/scoop-3rd, 0
 bucket/psmodule-GuiCompletion.json, Weidows-projects/scoop-3rd, 0
 bucket/psmodule-PowerShellAI.json, Weidows-projects/scoop-3rd, 0
+bucket/psmux.json, dodorz/scoop, 1
 bucket/pso2-tweaker.json, Calinou/scoop-games, 0
 bucket/pspad.json, ScoopInstaller/Extras, 0
 bucket/pspasswd.json, niheaven/scoop-sysinternals, 1
