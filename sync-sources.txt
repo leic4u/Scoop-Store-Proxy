@@ -8854,6 +8854,7 @@ bucket/res-downloader.json, DoveBoy/Apps, 1
 bucket/res-set.json, rasa/scoops, 1
 bucket/rescandevices.json, rasa/scoops, 0
 bucket/rescuetime.json, ScoopInstaller/Extras, 0
+bucket/reshade-addons.json, ScoopInstaller/Versions, 0
 bucket/reshade.json, ScoopInstaller/Extras, 0
 bucket/resharper-clt.json, ScoopInstaller/Main, 0
 bucket/resilio-sync-np.json, ScoopInstaller/Nonportable, 0
