@@ -8937,6 +8937,7 @@ bucket/rk-tools.json, SayCV/scoop-cvp, 1
 bucket/rke.json, ScoopInstaller/Main, 1
 bucket/rktools2k3.json, ScoopInstaller/Main, 1
 bucket/rmg.json, Calinou/scoop-games, 1
+bucket/rmx.json, ViCrack/scoop-bucket, 1
 bucket/rnote.json, ScoopInstaller/Extras, 1
 bucket/rnr.json, ScoopInstaller/Main, 1
 bucket/roadkil-disk-image.json, hu3rror/scoop-muggle, 0
@@ -9370,7 +9371,7 @@ bucket/shim.json, ScoopInstaller/Main, 1
 bucket/shimo.json, akirco/aki-apps, 0
 bucket/shinyproxy.json, ScoopInstaller/Main, 0
 bucket/shion.json, Weidows-projects/scoop-3rd, 1
-bucket/shipwright.json, borger/scoop-emulators, 1
+bucket/shipwright.json, Calinou/scoop-games, 1
 bucket/shiroexploit.json, ViCrack/scoop-bucket, 1
 bucket/shman.json, ScoopInstaller/Nirsoft, 0
 bucket/shmnview.json, ScoopInstaller/Nirsoft, 0
