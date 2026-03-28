@@ -1698,7 +1698,7 @@ bucket/Thunder.json, ygguorun/scoop-bucket, 0
 bucket/ThunderS.json, hu3rror/scoop-muggle, 0
 bucket/ThunderSpeed.json, kkzzhizhou/scoop-zapps, 1
 bucket/Thunderbird-CN.json, abgox/abgo_bucket, 0
-bucket/Thunderbird-Portable.json, ACooper81/scoop-apps, 0
+bucket/Thunderbird-Portable.json, naderi/scoop-bucket, 0
 bucket/TianRuoOCR.json, kkzzhizhou/scoop-zapps, 1
 bucket/Tickeys-Portable.json, ACooper81/scoop-apps, 0
 bucket/TidGi.json, dodorz/scoop, 1
@@ -3731,7 +3731,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -9240,7 +9240,7 @@ bucket/scribus-dev.json, ScoopInstaller/Versions, 0
 bucket/scribus.json, ScoopInstaller/Extras, 0
 bucket/scriptcs.json, ScoopInstaller/Main, 0
 bucket/scummvm-nightly.json, hermanjustnu/scoop-emulators, 0
-bucket/scummvm.json, Calinou/scoop-games, 0
+bucket/scummvm.json, hermanjustnu/scoop-emulators, 0
 bucket/sd-card-formatter.json, ScoopInstaller/Extras, 0
 bucket/sd.json, ScoopInstaller/Main, 1
 bucket/sdcc-snapshot-i586.json, HUMORCE/nuke, 0
