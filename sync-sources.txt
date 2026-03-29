@@ -5551,7 +5551,7 @@ bucket/jadx.json, ScoopInstaller/Extras, 1
 bucket/jameica.json, ScoopInstaller/Extras, 0
 bucket/jami.json, ScoopInstaller/Extras, 0
 bucket/jamovi.json, ScoopInstaller/Extras, 0
-bucket/jan.json, dodorz/scoop, 1
+bucket/jan.json, ScoopInstaller/Extras, 1
 bucket/janet.json, ScoopInstaller/Main, 1
 bucket/jaq.json, ScoopInstaller/Main, 1
 bucket/jar-analyzer.json, ViCrack/scoop-bucket, 1
@@ -6638,6 +6638,7 @@ bucket/minitool-partition-wizard-free.json, mo-san/scoop-bucket, 0
 bucket/minitool-partition-wizard.json, naderi/scoop-bucket, 0
 bucket/minutor.json, Calinou/scoop-games, 1
 bucket/mirc-portapps.json, Velgus/Scoop-Portapps, 1
+bucket/miro-pdf.json, ScoopInstaller/Extras, 1
 bucket/miru.json, ScoopInstaller/Extras, 1
 bucket/misaka-translator.json, seumsc/scoop-seu, 1
 bucket/misakatranslator.json, ivaquero/scoopet, 1
@@ -9102,7 +9103,7 @@ bucket/samsung-magician-np.json, rasa/scoops, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
+bucket/sandboxie-plus.json, DoveBoy/Apps, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1
