@@ -8646,6 +8646,7 @@ bucket/quickclipboard-portable.json, DoveBoy/Apps, 1
 bucket/quickclipboard.json, DoveBoy/Apps, 1
 bucket/quickcpu.json, ScoopInstaller/Extras, 0
 bucket/quickinstaller.json, ScoopInstaller/Extras, 0
+bucket/quickjs-ng.json, ScoopInstaller/Main, 1
 bucket/quickjs.json, ScoopInstaller/Main, 0
 bucket/quicklook.json, ScoopInstaller/Extras, 1
 bucket/quicksetdns.json, ScoopInstaller/Nirsoft, 0
