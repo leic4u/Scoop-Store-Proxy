@@ -4928,7 +4928,7 @@ bucket/googlechrome.json, ScoopInstaller/Extras, 0
 bucket/googleearthpro-cvp.json, SayCV/scoop-cvp, 1
 bucket/googler.json, dodorz/scoop, 1
 bucket/googletranslateipcheck.json, DoveBoy/Apps, 1
-bucket/goose-CLI.json, dodorz/scoop, 1
+bucket/goose-cli.json, ScoopInstaller/Main, 1
 bucket/goose.json, ScoopInstaller/Extras, 1
 bucket/gopass-jsonapi.json, ScoopInstaller/Main, 1
 bucket/gopass.json, ScoopInstaller/Main, 1
