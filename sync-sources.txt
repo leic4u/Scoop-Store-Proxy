@@ -1659,6 +1659,7 @@ bucket/TCC-RT.json, dodorz/scoop, 0
 bucket/TEDNPad.json, dodorz/scoop, 0
 bucket/TMSpeech.json, ygguorun/scoop-bucket, 1
 bucket/TTime.json, abgox/abgo_bucket, 1
+bucket/TUIOS-Web.json, dodorz/scoop, 1
 bucket/Tabbit.json, Weidows-projects/scoop-3rd, 0
 bucket/TablacusExplorer.json, dodorz/scoop, 1
 bucket/Tag.json, dodorz/scoop, 0
@@ -2161,7 +2162,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3731,7 +3732,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -7630,7 +7631,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9240,7 +9241,7 @@ bucket/scribus-dev.json, ScoopInstaller/Versions, 0
 bucket/scribus.json, ScoopInstaller/Extras, 0
 bucket/scriptcs.json, ScoopInstaller/Main, 0
 bucket/scummvm-nightly.json, hermanjustnu/scoop-emulators, 0
-bucket/scummvm.json, hermanjustnu/scoop-emulators, 0
+bucket/scummvm.json, Calinou/scoop-games, 0
 bucket/sd-card-formatter.json, ScoopInstaller/Extras, 0
 bucket/sd.json, ScoopInstaller/Main, 1
 bucket/sdcc-snapshot-i586.json, HUMORCE/nuke, 0
@@ -10317,7 +10318,6 @@ bucket/ttyd.json, ScoopInstaller/Main, 1
 bucket/ttyper.json, ScoopInstaller/Main, 1
 bucket/tuba-tool.json, ChinLong/scoop-customize, 0
 bucket/tuifeed.json, aliesbelik/poldi, 1
-bucket/tuios-web.json, dodorz/scoop, 1
 bucket/tuios.json, dodorz/scoop, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
