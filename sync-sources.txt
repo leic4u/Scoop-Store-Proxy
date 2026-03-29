@@ -616,7 +616,7 @@ bucket/ForceBindIPCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/FotoSketcher.json, dodorz/scoop, 0
 bucket/Frameless.json, dodorz/scoop, 0
 bucket/FreeFileSync-Portable.json, ACooper81/scoop-apps, 0
-bucket/FreeFileSync.json, cc713/ownscoop, 0
+bucket/FreeFileSync.json, DoveBoy/Apps, 0
 bucket/FreeMat.json, dodorz/scoop, 0
 bucket/FreeMove-Portable.json, ACooper81/scoop-apps, 1
 bucket/FreePic2Pdf.json, dodorz/scoop, 1
@@ -5492,7 +5492,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, KnotUntied/scoop-fonts, 1
+bucket/iosevka.json, iquiw/scoop-bucket, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
@@ -6666,6 +6666,7 @@ bucket/mls-software-openssh.json, ScoopInstaller/Main, 0
 bucket/mmcompview.json, kodybrown/scoop-nirsoft, 0
 bucket/mmcsnapinsview.json, ScoopInstaller/Nirsoft, 0
 bucket/mmview.json, ScoopInstaller/Nirsoft, 0
+bucket/mo.json, iquiw/scoop-bucket, 1
 bucket/mo2.json, Calinou/scoop-games, 1
 bucket/mob.json, ScoopInstaller/Main, 1
 bucket/mobalivecd.json, ScoopInstaller/Extras, 0
