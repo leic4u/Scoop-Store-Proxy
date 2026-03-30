@@ -1177,6 +1177,7 @@ bucket/Oasis-Portable.json, ACooper81/scoop-apps, 1
 bucket/Ocenaudio-Portable.json, ACooper81/scoop-apps, 0
 bucket/Oculante-Portable.json, ACooper81/scoop-apps, 1
 bucket/Office-Code-Pro.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/OfficeCLI.json, dodorz/scoop, 1
 bucket/OfficeToolPlus-Portable.json, ACooper81/scoop-apps, 1
 bucket/OfflineInsiderEnroll-Portable.json, ACooper81/scoop-apps, 1
 bucket/Oggdec.json, dodorz/scoop, 0
