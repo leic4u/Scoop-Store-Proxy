@@ -5563,7 +5563,7 @@ bucket/jasob.json, SayCV/scoop-cvp, 0
 bucket/jasper.json, ScoopInstaller/Extras, 1
 bucket/java-chains.json, ViCrack/scoop-bucket, 1
 bucket/java-echo-generator-release.json, ViCrack/scoop-bucket, 1
-bucket/java-editor.json, dodorz/scoop, 0
+bucket/java-editor.json, naderi/scoop-bucket, 0
 bucket/java-memshell-generator.json, ViCrack/scoop-bucket, 1
 bucket/javascriptanimatorexpress.json, kodybrown/scoop-nirsoft, 0
 bucket/jazz2-resurrection.json, Calinou/scoop-games, 1
