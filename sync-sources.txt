@@ -1397,7 +1397,7 @@ bucket/RightMenuMgr.json, kkzzhizhou/scoop-zapps, 1
 bucket/RimageGUI.json, dodorz/scoop, 1
 bucket/Rime.json, abgox/abgo_bucket, 1
 bucket/RipMe-Portable.json, ACooper81/scoop-apps, 1
-bucket/RisohEditor.json, dodorz/scoop, 1
+bucket/RisohEditor.json, HUMORCE/nuke, 1
 bucket/RmEDirCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/Roadkil-DiskImage.json, kkzzhizhou/scoop-zapps, 0
 bucket/RoboIntern-Portable.json, ACooper81/scoop-apps, 0
@@ -5714,7 +5714,7 @@ bucket/k3d.json, ScoopInstaller/Main, 1
 bucket/k3sup.json, ScoopInstaller/Main, 1
 bucket/k6.json, ScoopInstaller/Main, 1
 bucket/k9s.json, ScoopInstaller/Main, 1
-bucket/kaf-cli.json, batkiz/backit, 1
+bucket/kaf-cli.json, ygguorun/scoop-bucket, 1
 bucket/kaf-wifi.json, DoveBoy/Apps, 1
 bucket/kaf.json, ScoopInstaller/Main, 1
 bucket/kafka-exporter.json, ScoopInstaller/Main, 1
