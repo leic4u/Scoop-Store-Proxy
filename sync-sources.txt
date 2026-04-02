@@ -7167,6 +7167,7 @@ bucket/npm-tab-completion.json, DoveBoy/Apps, 0
 bucket/npp-cvp.json, SayCV/scoop-cvp, 1
 bucket/npp-xp.json, SayCV/scoop-cvp, 1
 bucket/nps-client.json, kkzzhizhou/scoop-zapps, 1
+bucket/nrfutil.json, ScoopInstaller/Main, 0
 bucket/nsis-np.json, ScoopInstaller/Nonportable, 0
 bucket/nsis.json, ScoopInstaller/Extras, 0
 bucket/nssm.json, ScoopInstaller/Main, 0
@@ -8351,6 +8352,7 @@ bucket/privacy.sexy.json, ScoopInstaller/Extras, 1
 bucket/privatezilla.json, ScoopInstaller/Extras, 1
 bucket/privoxy.json, ScoopInstaller/Extras, 0
 bucket/prm.json, ScoopInstaller/Main, 1
+bucket/probe-rs.json, ScoopInstaller/Main, 1
 bucket/procdump.json, niheaven/scoop-sysinternals, 1
 bucket/process-explorer.json, chawyehsu/dorado, 0
 bucket/process-governor.json, ScoopInstaller/Main, 1
