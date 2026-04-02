@@ -974,6 +974,7 @@ bucket/MarkLion.json, abgox/abgo_bucket, 0
 bucket/MarkdownPad.json, dodorz/scoop, 0
 bucket/MarkdownViewer.json, dodorz/scoop, 1
 bucket/Marker.json, dodorz/scoop, 1
+bucket/Markpad.json, dodorz/scoop, 1
 bucket/Marp-deprecated.json, dodorz/scoop, 1
 bucket/Martian-Mono-otf.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Martian-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -4320,7 +4321,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -7143,7 +7144,7 @@ bucket/noti.json, ScoopInstaller/Main, 1
 bucket/notify.json, ViCrack/scoop-bucket, 1
 bucket/notion-enhanced.json, ScoopInstaller/Extras, 1
 bucket/notion.json, ScoopInstaller/Extras, 0
-bucket/notmyfault.json, mo-san/scoop-bucket, 0
+bucket/notmyfault.json, mogeko/scoop-sysinternals, 0
 bucket/noto-fonts.json, rasa/scoops, 0
 bucket/noto-mono-font.json, rasa/scoops, 0
 bucket/noto-sans-font.json, rasa/scoops, 0
@@ -7215,7 +7216,6 @@ bucket/nvidia-display-driver-dch-with-3d-vision-np.json, ScoopInstaller/Nonporta
 bucket/nvidia-display-driver-np.json, ScoopInstaller/Nonportable, 0
 bucket/nvidia-display-driver-with-3d-vision-np.json, ScoopInstaller/Nonportable, 0
 bucket/nvidia-display-driver.json, starise/Scoop-Gaming, 0
-bucket/nvidia-geforce-experience.json, starise/Scoop-Gaming, 0
 bucket/nvidia-inspector.json, brian6932/dank-scoop, 0
 bucket/nvidia-physx-legacy.json, starise/Scoop-Gaming, 0
 bucket/nvidia-profile-inspector-beta.json, starise/Scoop-Gaming, 1
@@ -7637,7 +7637,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
