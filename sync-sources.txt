@@ -2408,6 +2408,7 @@ bucket/authme.json, ScoopInstaller/Extras, 1
 bucket/authpass.json, ScoopInstaller/Extras, 1
 bucket/auto-caption.json, Weidows-projects/scoop-3rd, 1
 bucket/auto-dark-mode-np.json, ScoopInstaller/Nonportable, 1
+bucket/auto-dark-mode.json, ScoopInstaller/Extras, 1
 bucket/auto-doc.json, ScoopInstaller/Main, 1
 bucket/auto-mode.json, brian6932/dank-scoop, 1
 bucket/auto-screenshot.json, ScoopInstaller/Extras, 1
@@ -7144,7 +7145,7 @@ bucket/notepadreplacer.json, couleur-tweak-tips/utils, 0
 bucket/notepads-np.json, ScoopInstaller/Nonportable, 1
 bucket/notepanda.json, ChungZH/peach, 1
 bucket/notesnook.json, ScoopInstaller/Extras, 1
-bucket/noti.json, ScoopInstaller/Main, 1
+bucket/noti.json, ScoopInstaller/Main, 0
 bucket/notify.json, ViCrack/scoop-bucket, 1
 bucket/notion-enhanced.json, ScoopInstaller/Extras, 1
 bucket/notion.json, ScoopInstaller/Extras, 0
