@@ -11287,7 +11287,7 @@ bucket/xplorer.json, ScoopInstaller/Extras, 1
 bucket/xplorer2lite.json, dodorz/scoop, 0
 bucket/xpoc.json, ViCrack/scoop-bucket, 1
 bucket/xprop.json, beerpiss/scoop-bucket, 0
-bucket/xq.json, batkiz/backit, 1
+bucket/xq.json, ScoopInstaller/Main, 1
 bucket/xray.json, ScoopInstaller/Main, 1
 bucket/xshell7p.json, kkzzhizhou/scoop-zapps, 1
 bucket/xshellplus.json, echoiron/echo-scoop, 0
