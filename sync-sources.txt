@@ -4479,6 +4479,7 @@ bucket/foobox-cn.json, cc713/ownscoop, 1
 bucket/fopnu.json, naderi/scoop-bucket, 0
 bucket/force.json, ScoopInstaller/Main, 1
 bucket/forcebindip.json, ScoopInstaller/Main, 0
+bucket/forgecode.json, starise/Scoop-Confetti, 1
 bucket/fork.json, ScoopInstaller/Extras, 1
 bucket/forkgram.json, ScoopInstaller/Extras, 1
 bucket/format-factory.json, akirco/aki-apps, 0
