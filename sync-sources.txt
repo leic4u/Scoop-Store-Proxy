@@ -2628,7 +2628,7 @@ bucket/biglybt-np.json, ScoopInstaller/Nonportable, 1
 bucket/bigrats.json, dodorz/scoop, 0
 bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
-bucket/bilibili-backup.json, DoveBoy/Apps, 1
+bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
 bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
@@ -3460,6 +3460,7 @@ bucket/cyberduck.json, ScoopInstaller/Extras, 0
 bucket/cygwin-cvp.json, SayCV/scoop-cvp, 1
 bucket/cygwin-libs-hentai.json, Weidows-projects/scoop-3rd, 0
 bucket/cygwin.json, ScoopInstaller/Main, 0
+bucket/cyme.json, ScoopInstaller/Main, 1
 bucket/cyrenemusic.json, DoveBoy/Apps, 1
 bucket/czkawka-gui.json, ScoopInstaller/Extras, 1
 bucket/czkawka.json, ScoopInstaller/Main, 1
@@ -4322,7 +4323,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -5098,6 +5099,7 @@ bucket/handle.json, niheaven/scoop-sysinternals, 1
 bucket/handlecountersview.json, ScoopInstaller/Nirsoft, 0
 bucket/handy.json, ScoopInstaller/Extras, 1
 bucket/haofang-platform.json, SayCV/scoop-cvp, 0
+bucket/hapi.json, ScoopInstaller/Main, 1
 bucket/harbour.json, littleli/Scoop-littleli, 0
 bucket/harfbuzz.json, ScoopInstaller/Main, 1
 bucket/harmonoid.json, ScoopInstaller/Extras, 1
@@ -5380,7 +5382,7 @@ bucket/imazing.json, beerpiss/scoop-bucket, 0
 bucket/imdone.json, ScoopInstaller/Extras, 0
 bucket/imewlconverter.json, chawyehsu/dorado, 1
 bucket/imfile-portable.json, DoveBoy/Apps, 1
-bucket/imfile.json, naderi/scoop-bucket, 1
+bucket/imfile.json, DoveBoy/Apps, 1
 bucket/imgbrd-grabber.json, cc713/ownscoop, 1
 bucket/imgburn.ja.json, jfut/scoop-jfut, 0
 bucket/imgburn.json, ScoopInstaller/Extras, 1
@@ -7017,7 +7019,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
