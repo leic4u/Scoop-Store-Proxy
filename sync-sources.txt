@@ -9543,6 +9543,7 @@ bucket/solidity.json, ScoopInstaller/Main, 1
 bucket/solvespace.json, ScoopInstaller/Extras, 1
 bucket/sometypemono.json, KnotUntied/scoop-fonts, 0
 bucket/sonar-scanner.json, ScoopInstaller/Main, 0
+bucket/sonar.json, ScoopInstaller/Main, 1
 bucket/sonarqube.json, ScoopInstaller/Main, 0
 bucket/sonarr.json, amorphobia/siku, 0
 bucket/sonic-pi.json, ScoopInstaller/Extras, 0
