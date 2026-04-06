@@ -7343,6 +7343,8 @@ bucket/oleviewdotnet.json, wzv5/ScoopBucket, 1
 bucket/olive-editor-nightly.json, ScoopInstaller/Versions, 0
 bucket/olive-editor.json, ScoopInstaller/Extras, 0
 bucket/ollama-full.json, ScoopInstaller/Extras, 1
+bucket/ollama-mlx.json, ScoopInstaller/Versions, 1
+bucket/ollama-rocm.json, ScoopInstaller/Versions, 1
 bucket/ollama-zip.json, iquiw/scoop-bucket, 1
 bucket/ollama.json, ScoopInstaller/Main, 1
 bucket/ollydbg.json, ScoopInstaller/Extras, 0
