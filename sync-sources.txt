@@ -8979,6 +8979,7 @@ bucket/rocketchat-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/rogue_mysql_server.json, ViCrack/scoop-bucket, 1
 bucket/rom-properties-np.json, ScoopInstaller/Nonportable, 1
 bucket/romsorter.json, Calinou/scoop-games, 1
+bucket/ropy.json, ScoopInstaller/Extras, 1
 bucket/roslynpad.json, ScoopInstaller/Extras, 1
 bucket/roswell.json, ScoopInstaller/Main, 1
 bucket/rotki.json, starise/Scoop-Confetti, 1
