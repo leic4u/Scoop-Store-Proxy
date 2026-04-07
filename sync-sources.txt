@@ -3223,7 +3223,7 @@ bucket/completion-predictor.json, akirco/aki-apps, 0
 bucket/completionpredictor.json, ScoopInstaller/Extras, 0
 bucket/composer.json, ScoopInstaller/Main, 0
 bucket/composer1.json, ScoopInstaller/Versions, 0
-bucket/compresso.json, DoveBoy/Apps, 1
+bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, iquiw/scoop-bucket, 1
 bucket/conan.json, ScoopInstaller/Main, 1
