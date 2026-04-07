@@ -2567,6 +2567,7 @@ bucket/bdInfo-cli.json, yuusakuri/scoop-bucket, 1
 bucket/bdinfo.json, amorphobia/siku, 0
 bucket/beads-rust.json, cderv/r-bucket, 1
 bucket/beads-task-issue-tracker.json, cderv/r-bucket, 1
+bucket/beads-viewer.json, cderv/r-bucket, 1
 bucket/beads.json, cderv/r-bucket, 1
 bucket/beaker-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/beaker.json, ScoopInstaller/Extras, 1
