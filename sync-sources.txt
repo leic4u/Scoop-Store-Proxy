@@ -4532,6 +4532,7 @@ bucket/freeorion.json, Calinou/scoop-games, 1
 bucket/freepascal.json, ScoopInstaller/Main, 0
 bucket/freeplane.json, ScoopInstaller/Extras, 0
 bucket/freerapid.json, ScoopInstaller/Extras, 1
+bucket/freerdp-nightly.json, ScoopInstaller/Versions, 1
 bucket/freerenamer.json, DoveBoy/Apps, 1
 bucket/freespacelogview.json, ScoopInstaller/Nirsoft, 0
 bucket/freetex.json, ivaquero/scoopet, 1
