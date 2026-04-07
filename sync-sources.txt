@@ -2801,7 +2801,7 @@ bucket/bulk-rename-command.json, ScoopInstaller/Main, 0
 bucket/bulk-rename-utility.json, ScoopInstaller/Extras, 0
 bucket/bulkfilechanger.json, ScoopInstaller/Nirsoft, 0
 bucket/bulletspassview.json, ScoopInstaller/Nirsoft, 0
-bucket/bun-canary.json, ScoopInstaller/Versions, 0
+bucket/bun-canary.json, ScoopInstaller/Versions, 1
 bucket/bun.json, ScoopInstaller/Main, 1
 bucket/bunbackup.json, jfut/scoop-jfut, 0
 bucket/bundletool.json, ScoopInstaller/Main, 1
@@ -8688,7 +8688,7 @@ bucket/qv2ray-plugin-trojan-go.json, kidonng/sushi, 1
 bucket/qv2ray-plugin-trojan.json, kidonng/sushi, 1
 bucket/qv2ray.json, ScoopInstaller/Extras, 1
 bucket/qview-jdp-nightly.json, brian6932/dank-scoop, 0
-bucket/qview-nightly.json, ScoopInstaller/Versions, 0
+bucket/qview-nightly.json, ScoopInstaller/Versions, 1
 bucket/qview.json, ScoopInstaller/Extras, 1
 bucket/qvm.json, cderv/r-bucket, 1
 bucket/r-devel.json, cderv/r-bucket, 0
