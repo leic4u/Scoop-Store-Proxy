@@ -4003,6 +4003,7 @@ bucket/element.json, ScoopInstaller/Extras, 0
 bucket/elevate.json, dodorz/scoop, 0
 bucket/elisa.json, ScoopInstaller/Extras, 0
 bucket/elite-log-agent.json, Deide/deide-bucket, 1
+bucket/elixir-ls.json, ScoopInstaller/Main, 1
 bucket/elixir.json, ScoopInstaller/Main, 0
 bucket/elm.json, ScoopInstaller/Main, 1
 bucket/elvish.json, ScoopInstaller/Main, 0
