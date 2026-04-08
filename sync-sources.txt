@@ -4262,6 +4262,7 @@ bucket/ffmpegfreeui.json, ivaquero/scoopet, 1
 bucket/ffprogress.json, couleur-tweak-tips/utils, 1
 bucket/ffqueue.json, ScoopInstaller/Extras, 0
 bucket/ffsend.json, ScoopInstaller/Main, 1
+bucket/ffstudio.json, ScoopInstaller/Extras, 1
 bucket/ffuf.json, ScoopInstaller/Main, 1
 bucket/fheroes2.json, Calinou/scoop-games, 1
 bucket/fiddler-classic-addon-anywhere.json, HUMORCE/nuke, 0
@@ -4398,7 +4399,7 @@ bucket/flowgorithm.json, ScoopInstaller/Extras, 0
 bucket/flowus.json, dodorz/scoop, 0
 bucket/fluent-m3u8.json, DoveBoy/Apps, 1
 bucket/fluent-reader.json, ScoopInstaller/Extras, 1
-bucket/fluent-search.json, ScoopInstaller/Extras, 0
+bucket/fluent-search.json, ScoopInstaller/Extras, 1
 bucket/fluent-terminal-np.json, ScoopInstaller/Nonportable, 1
 bucket/fluidsynth.json, ScoopInstaller/Extras, 1
 bucket/flut-renamer.json, DoveBoy/Apps, 1
@@ -5196,7 +5197,7 @@ bucket/hlae.json, Calinou/scoop-games, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 1
-bucket/hmcl.json, seumsc/scoop-seu, 1
+bucket/hmcl.json, Calinou/scoop-games, 1
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
 bucket/hok.json, chawyehsu/dorado, 1
@@ -9729,7 +9730,7 @@ bucket/steam-achievement-manager.json, Calinou/scoop-games, 1
 bucket/steam-art-manager.json, Calinou/scoop-games, 1
 bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
-bucket/steam-game-idler.json, starise/Scoop-Gaming, 1
+bucket/steam-game-idler.json, Calinou/scoop-games, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
 bucket/steam-rom-manager.json, Calinou/scoop-games, 1
@@ -10373,6 +10374,7 @@ bucket/twitchdownloader-cli.json, ScoopInstaller/Main, 1
 bucket/twitchdownloader.json, ScoopInstaller/Extras, 1
 bucket/twitchdropsminer.json, Calinou/scoop-games, 0
 bucket/twitchtest.json, ScoopInstaller/Extras, 0
+bucket/txikijs.json, ScoopInstaller/Main, 1
 bucket/txsso.json, SayCV/scoop-cvp, 0
 bucket/ty.json, ScoopInstaller/Main, 1
 bucket/typeeasy.json, echoiron/echo-scoop, 0
