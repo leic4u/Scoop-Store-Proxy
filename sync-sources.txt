@@ -211,7 +211,7 @@ bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/BASIC256.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -8390,7 +8390,7 @@ bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/project-graph.json, ScoopInstaller/Extras, 1
-bucket/project64-dev.json, Calinou/scoop-games, 0
+bucket/project64-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom-lite.json, seumsc/scoop-seu, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
@@ -9822,6 +9822,7 @@ bucket/sunshine-pre.json, ScoopInstaller/Versions, 1
 bucket/sunshine.json, ScoopInstaller/Extras, 1
 bucket/sunvox.json, chawyehsu/dorado, 0
 bucket/suo5.json, ViCrack/scoop-bucket, 1
+bucket/supabase-beta.json, ScoopInstaller/Versions, 1
 bucket/supabase.json, ScoopInstaller/Main, 1
 bucket/super-msconfig.json, naderi/scoop-bucket, 1
 bucket/super-productivity.json, ScoopInstaller/Extras, 1
