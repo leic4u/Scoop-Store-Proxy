@@ -134,6 +134,7 @@ bucket/AltAppInstaller-Portable.json, ACooper81/scoop-apps, 1
 bucket/AmazonGames-UserInstall.json, ACooper81/scoop-apps, 0
 bucket/AmazonMusic-UserInstall.json, ACooper81/scoop-apps, 0
 bucket/AngryIPScanner-Portable.json, ACooper81/scoop-apps, 1
+bucket/Anki-Install.json, ACooper81/scoop-apps, 1
 bucket/Anki-Portable.json, ACooper81/scoop-apps, 1
 bucket/AnonymousPro-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/AnonymousPro-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
