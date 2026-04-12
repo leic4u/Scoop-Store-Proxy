@@ -11513,6 +11513,7 @@ bucket/zotero.json, ScoopInstaller/Extras, 1
 bucket/zotero6.json, ScoopInstaller/Versions, 1
 bucket/zoxide.json, ScoopInstaller/Main, 1
 bucket/zrok.json, ScoopInstaller/Extras, 1
+bucket/zsh-patina.json, ScoopInstaller/Extras, 1
 bucket/zsharp.json, ScoopInstaller/Extras, 1
 bucket/zstd.json, ScoopInstaller/Main, 1
 bucket/ztasker.json, ViCrack/scoop-bucket, 0
