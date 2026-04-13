@@ -10626,6 +10626,7 @@ bucket/vhs.json, ScoopInstaller/Main, 1
 bucket/vi-mongo.json, aliesbelik/poldi, 1
 bucket/via.json, ScoopInstaller/Extras, 1
 bucket/vial.json, ScoopInstaller/Extras, 1
+bucket/vibing.json, ScoopInstaller/Extras, 1
 bucket/vibrance-gui.json, ScoopInstaller/Extras, 0
 bucket/vice-gtk3-snapshot.json, hermanjustnu/scoop-emulators, 1
 bucket/vice-gtk3.json, hermanjustnu/scoop-emulators, 0
