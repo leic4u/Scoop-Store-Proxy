@@ -10567,6 +10567,7 @@ bucket/v2rayn-rules-dat.json, everyx/scoop-bucket, 1
 bucket/v2rayn-selfcontained.json, ScoopInstaller/Versions, 1
 bucket/v2rayn.json, ScoopInstaller/Extras, 1
 bucket/vDosPlus.json, dodorz/scoop, 0
+bucket/vacuum.json, ScoopInstaller/Main, 1
 bucket/vagrant-manager.json, ScoopInstaller/Extras, 1
 bucket/vagrant.json, ScoopInstaller/Main, 0
 bucket/vale.json, ScoopInstaller/Main, 1
