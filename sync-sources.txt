@@ -121,7 +121,7 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, dodorz/scoop, 1
+bucket/AionUi.json, renxia/scoop-bucket, 1
 bucket/AlephNote.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
 bucket/AliWangWang.json, SayCV/scoop-cvp, 1
@@ -1979,7 +1979,6 @@ bucket/WordGrinder.json, dodorz/scoop, 1
 bucket/WordTsar.json, dodorz/scoop, 0
 bucket/Wordster.json, dodorz/scoop, 0
 bucket/WorkBuddy.json, dodorz/scoop, 0
-bucket/WriteMonkey.json, dodorz/scoop, 0
 bucket/WriteMonkey3.json, dodorz/scoop, 0
 bucket/Writeathon.json, abgox/abgo_bucket, 0
 bucket/WsaToolbox.json, kkzzhizhou/scoop-zapps, 0
@@ -11160,6 +11159,7 @@ bucket/wpsoffice.json, ScoopInstaller/Extras, 0
 bucket/wrangler.json, akirco/aki-apps, 1
 bucket/writage.json, SayCV/scoop-cvp, 0
 bucket/write.json, ScoopInstaller/Extras, 1
+bucket/writemonkey.json, dodorz/scoop, 0
 bucket/writer.json, KnotUntied/scoop-fonts, 0
 bucket/wsa-pacman.json, ScoopInstaller/Extras, 1
 bucket/wsa-toolbox.json, SayCV/scoop-cvp, 0
