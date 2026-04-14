@@ -538,7 +538,6 @@ bucket/ExcelCompare.json, dodorz/scoop, 1
 bucket/ExifPilot-Portable.json, ACooper81/scoop-apps, 0
 bucket/ExifPilot.json, dodorz/scoop, 0
 bucket/ExitWindows.json, dodorz/scoop, 0
-bucket/Exiv2.json, dodorz/scoop, 0
 bucket/ExplorerPatcher-Install.json, ACooper81/scoop-apps, 0
 bucket/ExplorerPatcher-np.json, dodorz/scoop, 1
 bucket/ExplorerXP.json, dodorz/scoop, 0
@@ -2685,6 +2684,7 @@ bucket/blacksreen-bat.json, hu3rror/scoop-muggle, 1
 bucket/blade-of-agony.json, Calinou/scoop-games, 0
 bucket/blast.json, aliesbelik/poldi, 1
 bucket/blat.json, ScoopInstaller/Main, 0
+bucket/bleachbit-beta.json, ScoopInstaller/Versions, 0
 bucket/bleachbit.json, ScoopInstaller/Extras, 0
 bucket/blender-benchmark-cli.json, ScoopInstaller/Extras, 0
 bucket/blender-cn.json, ivaquero/scoopet, 0
@@ -4141,6 +4141,7 @@ bucket/exiftool-pl.json, brian6932/dank-scoop, 0
 bucket/exiftool.json, ScoopInstaller/Main, 0
 bucket/exiftoolgui.json, cc713/ownscoop, 0
 bucket/exiled-exchange-2.json, Calinou/scoop-games, 1
+bucket/exiv2.json, naderi/scoop-bucket, 0
 bucket/experimental-clash.json, DoveBoy/Apps, 1
 bucket/explorer-suite.json, ScoopInstaller/Extras, 0
 bucket/explorerpatcher.json, DoveBoy/Apps, 1
