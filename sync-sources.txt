@@ -4407,6 +4407,7 @@ bucket/fluent-reader.json, ScoopInstaller/Extras, 1
 bucket/fluent-search-nightly.json, ScoopInstaller/Versions, 1
 bucket/fluent-search.json, ScoopInstaller/Extras, 1
 bucket/fluent-terminal-np.json, ScoopInstaller/Nonportable, 1
+bucket/fluenttaskscheduler.json, ScoopInstaller/Extras, 1
 bucket/fluidsynth.json, ScoopInstaller/Extras, 1
 bucket/flut-renamer.json, DoveBoy/Apps, 1
 bucket/flutter-cn.json, chawyehsu/dorado, 0
@@ -9494,6 +9495,7 @@ bucket/slam.json, HUMORCE/nuke, 1
 bucket/slang.json, ScoopInstaller/Main, 1
 bucket/sleek.json, ScoopInstaller/Extras, 1
 bucket/sleep-on-lan.json, AkariiinMKII/Scoop4kariiin, 1
+bucket/sleuthkit.json, ScoopInstaller/Main, 1
 bucket/slic3r.json, ScoopInstaller/Extras, 1
 bucket/slidershim.json, beerpiss/scoop-bucket, 1
 bucket/sliksvn.json, ScoopInstaller/Main, 0
