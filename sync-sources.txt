@@ -2762,6 +2762,7 @@ bucket/brave.json, ScoopInstaller/Extras, 1
 bucket/brave32.json, rasa/scoops, 1
 bucket/breitbandmessung.json, ScoopInstaller/Extras, 0
 bucket/brename.json, ScoopInstaller/Main, 1
+bucket/briar-beta.json, ScoopInstaller/Versions, 0
 bucket/briss.json, hu3rror/scoop-muggle, 0
 bucket/bront-dvsm.json, KnotUntied/scoop-fonts, 1
 bucket/bront-um.json, KnotUntied/scoop-fonts, 1
@@ -4700,6 +4701,7 @@ bucket/ghdl.json, ScoopInstaller/Main, 1
 bucket/ghidra-beta.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidra-nightly.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidra.json, ScoopInstaller/Extras, 1
+bucket/ghidra92.json, ScoopInstaller/Versions, 1
 bucket/ghidramod-nightly.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidramod.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghorg.json, ScoopInstaller/Main, 1
@@ -9601,9 +9603,9 @@ bucket/spacescape.json, ScoopInstaller/Extras, 0
 bucket/spacesniffer.json, ScoopInstaller/Extras, 0
 bucket/spaghettikart.json, borger/scoop-emulators, 1
 bucket/spark-hadoop3.json, ScoopInstaller/Versions, 0
-bucket/spark-scala2.13.json, ScoopInstaller/Versions, 0
 bucket/spark-without-hadoop.json, ScoopInstaller/Versions, 0
 bucket/spark.json, ScoopInstaller/Main, 0
+bucket/spark3-scala2.13.json, ScoopInstaller/Versions, 0
 bucket/spark33.json, ScoopInstaller/Versions, 0
 bucket/spdpd-assistant.json, chawyehsu/dorado, 0
 bucket/spdx-sbom-generator.json, ScoopInstaller/Main, 1
@@ -10280,7 +10282,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, chawyehsu/dorado, 0
+bucket/trae-cn.json, akirco/aki-apps, 1
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 1
 bucket/traefik1.json, ScoopInstaller/Versions, 1
