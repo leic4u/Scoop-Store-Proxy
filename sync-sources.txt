@@ -121,7 +121,7 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, renxia/scoop-bucket, 1
+bucket/AionUi.json, dodorz/scoop, 1
 bucket/AlephNote.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
 bucket/AliWangWang.json, SayCV/scoop-cvp, 1
@@ -1868,6 +1868,7 @@ bucket/VisualStudioCode-UserInstall.json, ACooper81/scoop-apps, 0
 bucket/Vivaldi-Portable.json, ACooper81/scoop-apps, 0
 bucket/VivaldiSnapshot-Portable.json, ACooper81/scoop-apps, 0
 bucket/VoiceCLI-Portable.json, ACooper81/scoop-apps, 0
+bucket/Voicebox.json, dodorz/scoop, 1
 bucket/Void.json, dodorz/scoop, 1
 bucket/VovStickyNotes.json, abgox/abgo_bucket, 0
 bucket/WACUP.json, dodorz/scoop, 0
@@ -2633,7 +2634,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
