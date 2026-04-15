@@ -1535,6 +1535,7 @@ bucket/SoftwareOKGetWindowText-Portable.json, ACooper81/scoop-apps, 0
 bucket/SoftwareOKPrintTestPageOK-Portable.json, ACooper81/scoop-apps, 0
 bucket/SogouPinyin-Portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/SogouWubi-Portable.json, kkzzhizhou/scoop-zapps, 1
+bucket/SoloMD.json, dodorz/scoop, 1
 bucket/Sonarr-Portable.json, ACooper81/scoop-apps, 0
 bucket/SophiApp-Portable.json, ACooper81/scoop-apps, 1
 bucket/SordumBackupStartMenuLayout-Portable.json, ACooper81/scoop-apps, 0
