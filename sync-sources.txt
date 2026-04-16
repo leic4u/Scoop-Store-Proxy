@@ -4041,7 +4041,7 @@ bucket/encfs.json, naderi/scoop-bucket, 1
 bucket/encodegui-np.json, ScoopInstaller/Nonportable, 0
 bucket/encore.json, Weidows-projects/scoop-3rd, 0
 bucket/encryptedregview.json, ScoopInstaller/Nirsoft, 0
-bucket/encrypto.json, naderi/scoop-bucket, 0
+bucket/encrypto.json, dodorz/scoop, 0
 bucket/encryptpad.json, ScoopInstaller/Extras, 1
 bucket/endless-sky.json, Calinou/scoop-games, 1
 bucket/energystarx.json, DoveBoy/Apps, 1
@@ -10975,6 +10975,7 @@ bucket/windirstat.json, ScoopInstaller/Extras, 1
 bucket/windjview.json, ScoopInstaller/Extras, 0
 bucket/window-switcher.json, ScoopInstaller/Extras, 1
 bucket/windowgrid.json, naderi/scoop-bucket, 1
+bucket/windows-11-context-menu-manager.json, naderi/scoop-bucket, 1
 bucket/windows-application-driver.json, ScoopInstaller/Main, 1
 bucket/windows-defender-control.json, Weidows-projects/scoop-3rd, 1
 bucket/windows-defender-remover.json, Weidows-projects/scoop-3rd, 1
@@ -11529,6 +11530,7 @@ bucket/zsh-patina.json, ScoopInstaller/Extras, 1
 bucket/zsharp.json, ScoopInstaller/Extras, 1
 bucket/zstd.json, ScoopInstaller/Main, 1
 bucket/ztasker.json, ViCrack/scoop-bucket, 0
+bucket/ztools.json, ViCrack/scoop-bucket, 1
 bucket/ztree-beta.json, rasa/scoops, 0
 bucket/ztree-zeta.json, rasa/scoops, 0
 bucket/ztree.json, rasa/scoops, 0
