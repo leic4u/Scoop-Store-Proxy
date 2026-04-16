@@ -8968,7 +8968,6 @@ bucket/rink.json, ScoopInstaller/Main, 1
 bucket/rio.json, ScoopInstaller/Extras, 1
 bucket/rip.json, ScoopInstaller/Main, 1
 bucket/ripcord.json, ScoopInstaller/Extras, 0
-bucket/ripgrep-all.json, dodorz/scoop, 1
 bucket/ripgrep.json, ScoopInstaller/Main, 1
 bucket/ripme.json, ScoopInstaller/Extras, 1
 bucket/rireq.json, iquiw/scoop-bucket, 1
