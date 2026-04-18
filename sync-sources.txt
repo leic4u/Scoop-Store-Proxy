@@ -6632,6 +6632,7 @@ bucket/minesweeper-arbiter.json, amorphobia/siku, 0
 bucket/mineways.json, chawyehsu/dorado, 0
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
 bucket/mingit.json, ScoopInstaller/Main, 1
+bucket/mingw-mstorsjo-llvm-msvcrt.json, ScoopInstaller/Main, 1
 bucket/mingw-mstorsjo-llvm-ucrt.json, ScoopInstaller/Main, 1
 bucket/mingw-msvcrt.json, ScoopInstaller/Versions, 1
 bucket/mingw-nuwen.json, ScoopInstaller/Main, 0
