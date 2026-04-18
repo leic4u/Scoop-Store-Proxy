@@ -9724,6 +9724,7 @@ bucket/stack.json, ScoopInstaller/Main, 1
 bucket/stackit.json, ScoopInstaller/Main, 1
 bucket/stairspeedtest-reborn.json, chawyehsu/dorado, 1
 bucket/standardnotes.json, ScoopInstaller/Extras, 1
+bucket/starfox-64-ultraship.json, Deide/deide-bucket, 1
 bucket/starfox64-recompiled.json, Calinou/scoop-games, 1
 bucket/starrail-copilot.json, Calinou/scoop-games, 1
 bucket/starship-cvp.json, SayCV/scoop-cvp, 1
@@ -9847,6 +9848,7 @@ bucket/superf4.json, ScoopInstaller/Extras, 1
 bucket/superfile.json, ScoopInstaller/Main, 1
 bucket/supergrate.json, hu3rror/scoop-muggle, 1
 bucket/superhtml.json, ScoopInstaller/Main, 1
+bucket/supermario-64-ultraship.json, Deide/deide-bucket, 1
 bucket/supermium.json, ScoopInstaller/Extras, 1
 bucket/supermodel.json, Calinou/scoop-games, 1
 bucket/superpowers-app.json, ScoopInstaller/Extras, 1
