@@ -2142,6 +2142,7 @@ bucket/airdroid.json, ScoopInstaller/Extras, 0
 bucket/akelpad.json, ScoopInstaller/Extras, 0
 bucket/akochan-reviewer.json, ygguorun/scoop-bucket, 1
 bucket/aks-engine.json, ScoopInstaller/Main, 1
+bucket/alacritty-graphics.json, Deide/deide-bucket, 1
 bucket/alacritty-portable.json, naderi/scoop-bucket, 1
 bucket/alacritty.json, ScoopInstaller/Extras, 1
 bucket/alass.json, ScoopInstaller/Main, 1
