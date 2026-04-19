@@ -6749,6 +6749,7 @@ bucket/mongood.json, ChungZH/peach, 1
 bucket/mongosh.json, ScoopInstaller/Extras, 0
 bucket/monit-portable.json, DoveBoy/Apps, 1
 bucket/monitor-switcher.json, starise/Scoop-Confetti, 0
+bucket/monitorian.json, aoisummer/scoop-bucket, 1
 bucket/monitorinfoview.json, ScoopInstaller/Nirsoft, 0
 bucket/monitorprofileswitcher.json, ScoopInstaller/Extras, 0
 bucket/mono.json, ScoopInstaller/Main, 0
