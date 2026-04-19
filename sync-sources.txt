@@ -1510,7 +1510,6 @@ bucket/SimpleMindMap.json, abgox/abgo_bucket, 1
 bucket/Simplewall-Portable.json, ACooper81/scoop-apps, 1
 bucket/SimplyListenMusic.json, abgox/abgo_bucket, 0
 bucket/Skills-Hub.json, dodorz/scoop, 1
-bucket/Skylark.json, echoiron/echo-scoop, 1
 bucket/SleepCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/SlimPDF.json, dodorz/scoop, 0
 bucket/SlimPDFReader-Portable.json, ACooper81/scoop-apps, 0
@@ -7008,6 +7007,7 @@ bucket/nefcon.json, ScoopInstaller/Extras, 1
 bucket/nehm.json, MCOfficer/scoop-bucket, 1
 bucket/neil.json, littleli/scoop-clojure, 1
 bucket/neko.json, ScoopInstaller/Main, 1
+bucket/nekobox.json, ScoopInstaller/Extras, 1
 bucket/nekomata.json, Deide/deide-bucket, 1
 bucket/nekoray.json, cc713/ownscoop, 1
 bucket/nelson-np.json, ScoopInstaller/Nonportable, 1
@@ -9486,6 +9486,7 @@ bucket/skaffold.json, ScoopInstaller/Extras, 1
 bucket/skim.json, ScoopInstaller/Main, 1
 bucket/skm.json, MCOfficer/scoop-bucket, 1
 bucket/skyemu.json, Calinou/scoop-games, 1
+bucket/skylark.json, ScoopInstaller/Extras, 1
 bucket/skype-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/skypecontactsview.json, ScoopInstaller/Nirsoft, 0
 bucket/skypelogview.json, ScoopInstaller/Nirsoft, 0
