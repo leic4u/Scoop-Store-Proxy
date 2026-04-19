@@ -6657,6 +6657,7 @@ bucket/miniconda3.json, ScoopInstaller/Extras, 0
 bucket/miniflux.json, dodorz/scoop, 1
 bucket/miniforge-cn.json, ivaquero/scoopet, 0
 bucket/miniforge.json, chawyehsu/dorado, 1
+bucket/miniforge3.json, ScoopInstaller/Extras, 1
 bucket/minify-js.json, brian6932/dank-scoop, 0
 bucket/minify.json, ScoopInstaller/Main, 1
 bucket/minikube.json, ScoopInstaller/Main, 0
