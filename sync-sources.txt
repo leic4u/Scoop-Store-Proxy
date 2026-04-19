@@ -17,7 +17,7 @@ bucket/1History.json, abgox/abgo_bucket, 1
 bucket/1Remote-Portable.json, ACooper81/scoop-apps, 1
 bucket/1Remote.json, ViCrack/scoop-bucket, 1
 bucket/1by1-Portable.json, ACooper81/scoop-apps, 0
-bucket/1by1.json, naderi/scoop-bucket, 0
+bucket/1by1.json, dodorz/scoop, 0
 bucket/1password-cli.json, ScoopInstaller/Main, 0
 bucket/1password-cli1.json, ScoopInstaller/Versions, 0
 bucket/2345pic.json, echoiron/echo-scoop, 0
@@ -5514,7 +5514,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, iquiw/scoop-bucket, 1
+bucket/iosevka.json, KnotUntied/scoop-fonts, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
