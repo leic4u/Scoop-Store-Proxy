@@ -1533,7 +1533,6 @@ bucket/SoftwareOKGetWindowText-Portable.json, ACooper81/scoop-apps, 0
 bucket/SoftwareOKPrintTestPageOK-Portable.json, ACooper81/scoop-apps, 0
 bucket/SogouPinyin-Portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/SogouWubi-Portable.json, kkzzhizhou/scoop-zapps, 1
-bucket/SoloMD.json, dodorz/scoop, 1
 bucket/Sonarr-Portable.json, ACooper81/scoop-apps, 0
 bucket/SophiApp-Portable.json, ACooper81/scoop-apps, 1
 bucket/SordumBackupStartMenuLayout-Portable.json, ACooper81/scoop-apps, 0
@@ -5146,7 +5145,7 @@ bucket/heapmemview.json, ScoopInstaller/Nirsoft, 0
 bucket/heavyload.json, starise/Scoop-Confetti, 0
 bucket/hedge-mod-manager.json, Calinou/scoop-games, 1
 bucket/hedgewars.json, Calinou/scoop-games, 0
-bucket/heidisql.json, ScoopInstaller/Extras, 0
+bucket/heidisql.json, ScoopInstaller/Extras, 1
 bucket/hekasoft-backup-restore.json, ScoopInstaller/Extras, 0
 bucket/helium-pre.json, ScoopInstaller/Versions, 1
 bucket/helium.json, ScoopInstaller/Extras, 1
@@ -5481,7 +5480,7 @@ bucket/inxunoffice.json, ygguorun/scoop-bucket, 0
 bucket/iobit-advanced-system-care-free.json, DoveBoy/Apps, 0
 bucket/iobit-software-updater.json, DoveBoy/Apps, 0
 bucket/iobit-system-information.json, DoveBoy/Apps, 0
-bucket/iobit-undelete.json, chawyehsu/dorado, 0
+bucket/iobit-undelete.json, DoveBoy/Apps, 0
 bucket/iobit-uninstaller.json, DoveBoy/Apps, 0
 bucket/iobit-unlocker.json, chawyehsu/dorado, 0
 bucket/iobitdriverbooster.json, echoiron/echo-scoop, 0
@@ -9568,6 +9567,7 @@ bucket/sokoban.json, Calinou/scoop-games, 1
 bucket/solana.json, chawyehsu/dorado, 1
 bucket/soldat.json, Deide/deide-bucket, 1
 bucket/solidity.json, ScoopInstaller/Main, 1
+bucket/solomd.json, ScoopInstaller/Extras, 1
 bucket/solvespace.json, ScoopInstaller/Extras, 1
 bucket/sometypemono.json, KnotUntied/scoop-fonts, 0
 bucket/sonar-scanner.json, ScoopInstaller/Main, 0
