@@ -5481,7 +5481,7 @@ bucket/inxunoffice.json, ygguorun/scoop-bucket, 0
 bucket/iobit-advanced-system-care-free.json, DoveBoy/Apps, 0
 bucket/iobit-software-updater.json, DoveBoy/Apps, 0
 bucket/iobit-system-information.json, DoveBoy/Apps, 0
-bucket/iobit-undelete.json, DoveBoy/Apps, 0
+bucket/iobit-undelete.json, chawyehsu/dorado, 0
 bucket/iobit-uninstaller.json, DoveBoy/Apps, 0
 bucket/iobit-unlocker.json, chawyehsu/dorado, 0
 bucket/iobitdriverbooster.json, echoiron/echo-scoop, 0
@@ -7043,7 +7043,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -11255,6 +11255,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
+bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
