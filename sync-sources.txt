@@ -2668,6 +2668,7 @@ bucket/bison.json, ScoopInstaller/Main, 0
 bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
+bucket/bitmagnet.json, ScoopInstaller/Main, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitsmanager.json, ScoopInstaller/Extras, 1
 bucket/bitthief.json, yuusakuri/scoop-bucket, 1
@@ -5481,7 +5482,7 @@ bucket/inxunoffice.json, ygguorun/scoop-bucket, 0
 bucket/iobit-advanced-system-care-free.json, DoveBoy/Apps, 0
 bucket/iobit-software-updater.json, DoveBoy/Apps, 0
 bucket/iobit-system-information.json, DoveBoy/Apps, 0
-bucket/iobit-undelete.json, DoveBoy/Apps, 0
+bucket/iobit-undelete.json, chawyehsu/dorado, 0
 bucket/iobit-uninstaller.json, DoveBoy/Apps, 0
 bucket/iobit-unlocker.json, chawyehsu/dorado, 0
 bucket/iobitdriverbooster.json, echoiron/echo-scoop, 0
