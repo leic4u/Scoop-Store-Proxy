@@ -5481,7 +5481,7 @@ bucket/inxunoffice.json, ygguorun/scoop-bucket, 0
 bucket/iobit-advanced-system-care-free.json, DoveBoy/Apps, 0
 bucket/iobit-software-updater.json, DoveBoy/Apps, 0
 bucket/iobit-system-information.json, DoveBoy/Apps, 0
-bucket/iobit-undelete.json, chawyehsu/dorado, 0
+bucket/iobit-undelete.json, DoveBoy/Apps, 0
 bucket/iobit-uninstaller.json, DoveBoy/Apps, 0
 bucket/iobit-unlocker.json, chawyehsu/dorado, 0
 bucket/iobitdriverbooster.json, echoiron/echo-scoop, 0
