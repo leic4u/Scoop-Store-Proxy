@@ -4169,6 +4169,7 @@ bucket/f2.json, ScoopInstaller/Main, 1
 bucket/f3d.json, ScoopInstaller/Extras, 1
 bucket/faas-cli.json, ScoopInstaller/Main, 1
 bucket/fab.json, ViCrack/scoop-bucket, 0
+bucket/fabric-ai.json, ScoopInstaller/Main, 1
 bucket/fadetop.json, ScoopInstaller/Extras, 1
 bucket/fairfax-sm.json, KnotUntied/scoop-fonts, 0
 bucket/fairfax.json, KnotUntied/scoop-fonts, 0
@@ -5480,7 +5481,7 @@ bucket/inxunoffice.json, ygguorun/scoop-bucket, 0
 bucket/iobit-advanced-system-care-free.json, DoveBoy/Apps, 0
 bucket/iobit-software-updater.json, DoveBoy/Apps, 0
 bucket/iobit-system-information.json, DoveBoy/Apps, 0
-bucket/iobit-undelete.json, DoveBoy/Apps, 0
+bucket/iobit-undelete.json, chawyehsu/dorado, 0
 bucket/iobit-uninstaller.json, DoveBoy/Apps, 0
 bucket/iobit-unlocker.json, chawyehsu/dorado, 0
 bucket/iobitdriverbooster.json, echoiron/echo-scoop, 0
