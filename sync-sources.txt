@@ -10066,6 +10066,8 @@ bucket/temurin24-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin24-jre.json, ScoopInstaller/Java, 1
 bucket/temurin25-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin25-jre.json, ScoopInstaller/Java, 1
+bucket/temurin26-jdk.json, ScoopInstaller/Java, 1
+bucket/temurin26-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin8-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jdk.json, ScoopInstaller/Java, 1
@@ -11596,6 +11598,8 @@ bucket/zulufx21-jdk.json, ScoopInstaller/Java, 0
 bucket/zulufx21-jre.json, ScoopInstaller/Java, 0
 bucket/zulufx22-jdk.json, ScoopInstaller/Java, 0
 bucket/zulufx22-jre.json, ScoopInstaller/Java, 0
+bucket/zulufx25-jdk.json, ScoopInstaller/Java, 0
+bucket/zulufx25-jre.json, ScoopInstaller/Java, 0
 bucket/zulufx8-jdk.json, ScoopInstaller/Java, 0
 bucket/zulufx8-jre.json, ScoopInstaller/Java, 0
 bucket/zulumc.json, ScoopInstaller/Java, 0
