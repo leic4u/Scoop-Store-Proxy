@@ -2298,7 +2298,7 @@ bucket/appreadwritecounter.json, ScoopInstaller/Nirsoft, 0
 bucket/appresourcesusageview.json, ScoopInstaller/Nirsoft, 0
 bucket/apprhyme.json, DoveBoy/Apps, 1
 bucket/aptakube.json, ScoopInstaller/Extras, 1
-bucket/aptos-cli.json, HUMORCE/nuke, 1
+bucket/aptos-cli.json, ScoopInstaller/Main, 1
 bucket/aqtinstall.json, ScoopInstaller/Main, 1
 bucket/aqua.json, ScoopInstaller/Main, 1
 bucket/aquasnap.json, starise/Scoop-Confetti, 0
