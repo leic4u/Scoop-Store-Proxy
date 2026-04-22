@@ -4963,6 +4963,7 @@ bucket/gopls.json, iquiw/scoop-bucket, 1
 bucket/goproxy.json, kkzzhizhou/scoop-zapps, 1
 bucket/goread.json, batkiz/backit, 1
 bucket/goreleaser.json, ScoopInstaller/Main, 1
+bucket/goreman.json, ScoopInstaller/Main, 1
 bucket/goreplay.json, aliesbelik/poldi, 1
 bucket/gosec.json, ScoopInstaller/Main, 1
 bucket/goshs.json, ScoopInstaller/Extras, 1
@@ -7045,7 +7046,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -11525,7 +11526,7 @@ bucket/zipinstaller.json, kodybrown/scoop-nirsoft, 0
 bucket/zipkin-dependencies.json, zhoujin7/tomato, 1
 bucket/zipkin.json, zhoujin7/tomato, 1
 bucket/zizmor.json, iquiw/scoop-bucket, 1
-bucket/zk.json, dodorz/scoop, 1
+bucket/zk.json, ScoopInstaller/Main, 1
 bucket/zlib.json, ScoopInstaller/Extras, 1
 bucket/zlibrary.json, hu3rror/scoop-muggle, 0
 bucket/zlocation.json, ScoopInstaller/Extras, 0
