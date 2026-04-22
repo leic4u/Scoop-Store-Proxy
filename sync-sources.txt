@@ -587,7 +587,7 @@ bucket/FiraMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FiraMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FireAlpaca.json, dodorz/scoop, 0
 bucket/Firefox-Install.json, ACooper81/scoop-apps, 0
-bucket/Firefox-Portable.json, ACooper81/scoop-apps, 0
+bucket/Firefox-Portable.json, naderi/scoop-bucket, 0
 bucket/FirefoxBeta-Portable.json, ACooper81/scoop-apps, 0
 bucket/FirefoxDeveloper-Portable.json, ACooper81/scoop-apps, 0
 bucket/FirefoxNightly-Portable.json, ACooper81/scoop-apps, 0
@@ -1700,7 +1700,7 @@ bucket/Thunder.json, ygguorun/scoop-bucket, 0
 bucket/ThunderS.json, hu3rror/scoop-muggle, 0
 bucket/ThunderSpeed.json, kkzzhizhou/scoop-zapps, 1
 bucket/Thunderbird-CN.json, abgox/abgo_bucket, 0
-bucket/Thunderbird-Portable.json, ACooper81/scoop-apps, 0
+bucket/Thunderbird-Portable.json, naderi/scoop-bucket, 0
 bucket/TianRuoOCR.json, kkzzhizhou/scoop-zapps, 1
 bucket/Tickeys-Portable.json, ACooper81/scoop-apps, 0
 bucket/TidGi.json, dodorz/scoop, 1
@@ -2244,7 +2244,7 @@ bucket/anx-reader.json, ScoopInstaller/Extras, 1
 bucket/anxreader-portable.json, DoveBoy/Apps, 1
 bucket/anxreader.json, DoveBoy/Apps, 1
 bucket/any-code.json, ScoopInstaller/Extras, 1
-bucket/any-listen-desktop-win7.json, DoveBoy/Apps, 1
+bucket/any-listen-desktop-legacy.json, DoveBoy/Apps, 1
 bucket/any-listen-desktop.json, DoveBoy/Apps, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
