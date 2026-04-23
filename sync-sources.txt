@@ -1887,7 +1887,7 @@ bucket/Waterfox-Portable.json, ACooper81/scoop-apps, 0
 bucket/WazuhAgent-Install.json, ACooper81/scoop-apps, 0
 bucket/WeChat-Portable.json, Paxxs/Cluttered-bucket, 0
 bucket/WebCatalog-Portable.json, ACooper81/scoop-apps, 0
-bucket/WechatWork.json, chawyehsu/dorado, 0
+bucket/WechatWork.json, kkzzhizhou/scoop-zapps, 1
 bucket/WeekToDo.json, abgox/abgo_bucket, 1
 bucket/Wenquanyi-Microhei.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Wenquanyi-Zenhei.json, matthewjberger/scoop-nerd-fonts, 0
@@ -3475,7 +3475,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, chawyehsu/dorado, 1
+bucket/dandanplay.json, DoveBoy/Apps, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -3743,7 +3743,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4920,7 +4920,7 @@ bucket/goland-rc.json, ScoopInstaller/Versions, 1
 bucket/goland.json, ScoopInstaller/Extras, 1
 bucket/golang.json, kiennq/scoop-misc, 0
 bucket/golangci-lint.json, ScoopInstaller/Main, 1
-bucket/goldendict-ng.json, hu3rror/scoop-muggle, 1
+bucket/goldendict-ng.json, cc713/ownscoop, 1
 bucket/goldendict.json, ScoopInstaller/Extras, 1
 bucket/golly.json, Calinou/scoop-games, 0
 bucket/gom-player-plus.json, mo-san/scoop-bucket, 0
@@ -6588,12 +6588,18 @@ bucket/migrated/gut.json, aliesbelik/poldi, 1
 bucket/migrated/hopp-cli.json, aliesbelik/poldi, 1
 bucket/migrated/jaq.json, aliesbelik/poldi, 1
 bucket/migrated/jc.json, aliesbelik/poldi, 1
+bucket/migrated/jnv.json, aliesbelik/poldi, 1
 bucket/migrated/jo.json, aliesbelik/poldi, 1
+bucket/migrated/karing.json, aliesbelik/poldi, 1
 bucket/migrated/lazysql.json, aliesbelik/poldi, 1
+bucket/migrated/lazyssh.json, aliesbelik/poldi, 1
 bucket/migrated/mqtt-cli.json, aliesbelik/poldi, 1
+bucket/migrated/nbping.json, aliesbelik/poldi, 1
 bucket/migrated/octosql.json, aliesbelik/poldi, 1
 bucket/migrated/oha.json, aliesbelik/poldi, 1
 bucket/migrated/ov.json, aliesbelik/poldi, 1
+bucket/migrated/rainfrog.json, aliesbelik/poldi, 1
+bucket/migrated/resterm.json, aliesbelik/poldi, 1
 bucket/migrated/restfox.json, aliesbelik/poldi, 1
 bucket/migrated/riff.json, aliesbelik/poldi, 1
 bucket/migrated/sshs.json, aliesbelik/poldi, 1
@@ -10330,6 +10336,7 @@ bucket/trdsql.json, aliesbelik/poldi, 1
 bucket/trdsqlCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/tre-command.json, ScoopInstaller/Main, 1
 bucket/tre.json, MCOfficer/scoop-bucket, 1
+bucket/tredis.json, aliesbelik/poldi, 1
 bucket/tree-sitter.json, ScoopInstaller/Main, 1
 bucket/tree.json, cderv/r-bucket, 0
 bucket/treeline.json, amorphobia/siku, 1
