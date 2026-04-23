@@ -2749,6 +2749,7 @@ bucket/bootleg.json, littleli/scoop-clojure, 1
 bucket/bootperformanceview.json, ScoopInstaller/Nirsoft, 0
 bucket/borderless-gaming-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/borderless-gaming.json, starise/Scoop-Gaming, 0
+bucket/borderless-toggle.json, starise/Scoop-Confetti, 1
 bucket/boringproxy.json, ScoopInstaller/Main, 1
 bucket/bottom-nightly.json, ScoopInstaller/Versions, 1
 bucket/bottom.json, ScoopInstaller/Main, 1
@@ -4829,6 +4830,7 @@ bucket/glow.json, ScoopInstaller/Main, 1
 bucket/glslang-nightly.json, ScoopInstaller/Versions, 1
 bucket/glslang.json, ScoopInstaller/Main, 1
 bucket/glslviewer.json, ScoopInstaller/Main, 1
+bucket/gltfpack.json, ScoopInstaller/Main, 1
 bucket/gluon-openjfx-jmods-ea.json, ScoopInstaller/Java, 0
 bucket/gluon-openjfx-jmods.json, ScoopInstaller/Java, 0
 bucket/gluon-openjfx-monocle-sdk-ea.json, ScoopInstaller/Java, 0
@@ -5994,6 +5996,7 @@ bucket/lazpaint.json, ScoopInstaller/Extras, 1
 bucket/lazy-posh-git.json, ScoopInstaller/Extras, 1
 bucket/lazydocker.json, ScoopInstaller/Main, 1
 bucket/lazygit.json, ScoopInstaller/Extras, 1
+bucket/lazyjira.json, aliesbelik/poldi, 1
 bucket/lazysql.json, ScoopInstaller/Extras, 1
 bucket/lazyssh.json, ScoopInstaller/Main, 1
 bucket/lazyworktree.json, aliesbelik/poldi, 1
