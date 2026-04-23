@@ -1864,6 +1864,7 @@ bucket/VisualStudioCode-Portable.json, ACooper81/scoop-apps, 1
 bucket/VisualStudioCode-UserInstall.json, ACooper81/scoop-apps, 0
 bucket/Vivaldi-Portable.json, ACooper81/scoop-apps, 0
 bucket/VivaldiSnapshot-Portable.json, ACooper81/scoop-apps, 0
+bucket/VocoType.json, dodorz/scoop, 1
 bucket/VoiceCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/Voicebox.json, dodorz/scoop, 1
 bucket/Void.json, dodorz/scoop, 1
@@ -3743,7 +3744,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -5170,7 +5171,7 @@ bucket/hercules.json, littleli/Scoop-littleli, 1
 bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
 bucket/hetty.json, aliesbelik/poldi, 1
-bucket/heu-kms-activator.json, ivaquero/scoopet, 1
+bucket/heu-kms-activator.json, DoveBoy/Apps, 1
 bucket/hex-editor-neo.json, ScoopInstaller/Extras, 0
 bucket/hex2dec.json, niheaven/scoop-sysinternals, 1
 bucket/hexchat.json, ScoopInstaller/Extras, 1
@@ -7052,7 +7053,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
