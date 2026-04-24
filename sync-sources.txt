@@ -2018,7 +2018,7 @@ bucket/Yudit.json, dodorz/scoop, 0
 bucket/Yumi-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiExFAT-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiUefi-Portable.json, ACooper81/scoop-apps, 0
-bucket/Z-Code.json, dodorz/scoop, 0
+bucket/ZCode.json, dodorz/scoop, 0
 bucket/ZGrapher.json, dodorz/scoop, 0
 bucket/ZMeter-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZY-Player.json, kkzzhizhou/scoop-zapps, 1
