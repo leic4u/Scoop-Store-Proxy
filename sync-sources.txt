@@ -368,6 +368,7 @@ bucket/Coodesker-Portable.json, ACooper81/scoop-apps, 0
 bucket/CoolPDFReader.json, dodorz/scoop, 0
 bucket/Copies.json, kkzzhizhou/scoop-zapps, 1
 bucket/CopyHandler.json, dodorz/scoop, 0
+bucket/CopySpeak.json, dodorz/scoop, 1
 bucket/CorelDraw.json, kkzzhizhou/scoop-zapps, 1
 bucket/CorelVideoStudio.json, kkzzhizhou/scoop-zapps, 1
 bucket/Cousine-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -858,6 +859,7 @@ bucket/Kemono-scraper.json, Weidows-projects/scoop-3rd, 1
 bucket/Ketarin-Portable.json, ACooper81/scoop-apps, 0
 bucket/Ketarin.json, dodorz/scoop, 0
 bucket/KeySound.json, Weidows-projects/scoop-3rd, 1
+bucket/KeyTone.json, dodorz/scoop, 1
 bucket/KeybMap64.json, Paxxs/Cluttered-bucket, 0
 bucket/Keybase.json, dodorz/scoop, 0
 bucket/KeymouseGo.json, cc713/ownscoop, 1
