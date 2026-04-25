@@ -3479,7 +3479,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, chawyehsu/dorado, 1
+bucket/dandanplay.json, DoveBoy/Apps, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -6170,7 +6170,7 @@ bucket/liname.json, mo-san/scoop-bucket, 0
 bucket/ling.json, ViCrack/scoop-bucket, 1
 bucket/lingoes.json, naderi/scoop-bucket, 0
 bucket/link-plus.json, AkariiinMKII/Scoop4kariiin, 1
-bucket/link-shell-extension-np.json, jingyu9575/scoop-jingyu9575, 0
+bucket/link-shell-extension-np.json, ScoopInstaller/Nonportable, 0
 bucket/link-shell-extension.json, starise/Scoop-Confetti, 0
 bucket/linkandroid.json, DoveBoy/Apps, 1
 bucket/linkerd.json, ScoopInstaller/Extras, 1
