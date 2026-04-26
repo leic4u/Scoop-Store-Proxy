@@ -10388,6 +10388,7 @@ bucket/ttfname3.json, ygguorun/scoop-bucket, 0
 bucket/ttime-portable.json, DoveBoy/Apps, 1
 bucket/ttplayer.json, chawyehsu/dorado, 0
 bucket/tts-voice-wizard.json, ScoopInstaller/Extras, 1
+bucket/tts-vue-next.json, ivaquero/scoopet, 1
 bucket/tts-vue.json, abgox/abgo_bucket, 1
 bucket/ttyd.json, ScoopInstaller/Main, 1
 bucket/ttyper.json, ScoopInstaller/Main, 1
