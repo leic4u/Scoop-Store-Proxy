@@ -3747,7 +3747,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4338,7 +4338,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -8201,6 +8201,7 @@ bucket/phraze.json, aliesbelik/poldi, 1
 bucket/phyrox-developer-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/phyrox-esr-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/phyrox-portapps.json, Velgus/Scoop-Portapps, 1
+bucket/pi-coding-agent.json, ScoopInstaller/Main, 1
 bucket/pia-desktop.json, ScoopInstaller/Extras, 0
 bucket/pianobar.json, ScoopInstaller/Extras, 1
 bucket/pic2meme.json, ygguorun/scoop-bucket, 1
@@ -9848,6 +9849,7 @@ bucket/sublime-text-3.json, amorphobia/siku, 0
 bucket/sublime-text-4.json, naderi/scoop-bucket, 1
 bucket/sublime-text.json, ScoopInstaller/Extras, 0
 bucket/sublinkpro.json, ViCrack/scoop-bucket, 1
+bucket/subloader.json, naderi/scoop-bucket, 1
 bucket/subrenamer.json, ivaquero/scoopet, 1
 bucket/subsync.json, ScoopInstaller/Extras, 1
 bucket/subtitle-ass-shifter.json, DoveBoy/Apps, 1
