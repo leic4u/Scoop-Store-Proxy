@@ -3003,7 +3003,7 @@ bucket/cherry-studio.json, ScoopInstaller/Extras, 1
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi-modify-manager.json, cderv/r-bucket, 1
 bucket/chezmoi.json, ScoopInstaller/Main, 1
-bucket/chezscheme.json, chawyehsu/dorado, 1
+bucket/chezscheme.json, ScoopInstaller/Main, 1
 bucket/chfs-gui.json, chawyehsu/dorado, 0
 bucket/chfs-tab-completion.json, DoveBoy/Apps, 0
 bucket/chfs.json, abgox/abgo_bucket, 0
@@ -11800,6 +11800,8 @@ scripts/nvda/add-startup.reg, ScoopInstaller/Extras, 0
 scripts/nvda/remove-startup.reg, ScoopInstaller/Extras, 0
 scripts/oraclejre8/install-jre.reg, SayCV/scoop-cvp, 0
 scripts/oraclejre8/uninstall-jre.reg, SayCV/scoop-cvp, 0
+scripts/pdfgear/install-associations.reg, ScoopInstaller/Extras, 0
+scripts/pdfgear/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/phoenix-protector/register-ilmerge-path.reg, ScoopInstaller/Extras, 0
 scripts/phoenix-protector/unregister-ilmerge-path.reg, ScoopInstaller/Extras, 0
 scripts/picotorrent/install-associations.reg, ScoopInstaller/Extras, 0
