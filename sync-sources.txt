@@ -2168,7 +2168,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -8892,6 +8892,7 @@ bucket/regula.json, ScoopInstaller/Main, 1
 bucket/rehash.json, rasa/scoops, 0
 bucket/rehex.json, ScoopInstaller/Extras, 1
 bucket/reicon.json, ScoopInstaller/Extras, 0
+bucket/reinstall.json, DoveBoy/Apps, 1
 bucket/reko.json, TheCjw/scoop-retools, 1
 bucket/reloaded-ii.json, Calinou/scoop-games, 1
 bucket/remnant-overseer.json, brian6932/dank-scoop, 1
@@ -11096,6 +11097,8 @@ bucket/winpython38cod.json, ScoopInstaller/Versions, 0
 bucket/winpython38ps2.json, ScoopInstaller/Versions, 0
 bucket/winrar-de.json, naderi/scoop-bucket, 0
 bucket/winrar-ja.json, yuusakuri/scoop-bucket, 0
+bucket/winrar-keygen-cli.json, DoveBoy/Apps, 1
+bucket/winrar-keygen-gui.json, DoveBoy/Apps, 1
 bucket/winrar-np.json, ScoopInstaller/Nonportable, 0
 bucket/winrar-sc.json, ZvonimirSun/scoop-iszy, 0
 bucket/winrar-zh-cn.json, amorphobia/siku, 0
