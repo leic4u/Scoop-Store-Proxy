@@ -8948,6 +8948,7 @@ bucket/restish.json, ScoopInstaller/Extras, 1
 bucket/resto.json, aliesbelik/poldi, 1
 bucket/resvg.json, ScoopInstaller/Main, 1
 bucket/resxtranslator.json, seumsc/scoop-seu, 1
+bucket/retain-pdf.json, ivaquero/scoopet, 1
 bucket/retdec.json, ScoopInstaller/Main, 1
 bucket/rethinkdb.json, ScoopInstaller/Main, 0
 bucket/retrieval-based-voice-conversion-webui.json, DoveBoy/Apps, 1
@@ -10788,7 +10789,6 @@ bucket/vscode-insiders.json, ScoopInstaller/Versions, 1
 bucket/vscode-it.json, starise/Scoop-Confetti, 1
 bucket/vscode-portable32.json, SayCV/scoop-cvp, 1
 bucket/vscode-portapps.json, Velgus/Scoop-Portapps, 1
-bucket/vscode-win7.json, ivaquero/scoopet, 1
 bucket/vscode-x.json, kiennq/scoop-misc, 1
 bucket/vscode.json, ScoopInstaller/Extras, 1
 bucket/vscodium-it.json, starise/Scoop-Confetti, 1
