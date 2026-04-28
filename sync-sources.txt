@@ -8707,6 +8707,7 @@ bucket/qucs-s.json, ScoopInstaller/Extras, 1
 bucket/query-json.json, aliesbelik/poldi, 1
 bucket/querydacl.json, brian6932/dank-scoop, 0
 bucket/questdb.json, ScoopInstaller/Main, 1
+bucket/quick-any2ico.json, naderi/scoop-bucket, 0
 bucket/quick-lint-js.json, ScoopInstaller/Main, 0
 bucket/quick-picture-viewer.json, ScoopInstaller/Extras, 1
 bucket/quickbib.json, ivaquero/scoopet, 1
