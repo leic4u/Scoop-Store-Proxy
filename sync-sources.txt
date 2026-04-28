@@ -1391,6 +1391,7 @@ bucket/ResilioSync.json, kkzzhizhou/scoop-zapps, 0
 bucket/Resizer-Portable.json, ACooper81/scoop-apps, 0
 bucket/Reso.json, ygguorun/scoop-bucket, 0
 bucket/ResophNotes.json, dodorz/scoop, 0
+bucket/RetainPDF.json, dodorz/scoop, 1
 bucket/RevoUninstaller-Portable.json, ACooper81/scoop-apps, 0
 bucket/RevoUninstallerFree.json, dodorz/scoop, 0
 bucket/RidNacs-Portable.json, ACooper81/scoop-apps, 0
@@ -1890,7 +1891,7 @@ bucket/Waterfox-Portable.json, ACooper81/scoop-apps, 0
 bucket/WazuhAgent-Install.json, ACooper81/scoop-apps, 0
 bucket/WeChat-Portable.json, Paxxs/Cluttered-bucket, 0
 bucket/WebCatalog-Portable.json, ACooper81/scoop-apps, 0
-bucket/WechatWork.json, chawyehsu/dorado, 0
+bucket/WechatWork.json, kkzzhizhou/scoop-zapps, 1
 bucket/WeekToDo.json, abgox/abgo_bucket, 1
 bucket/Wenquanyi-Microhei.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Wenquanyi-Zenhei.json, matthewjberger/scoop-nerd-fonts, 0
@@ -7693,7 +7694,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -11106,8 +11107,6 @@ bucket/winpython38cod.json, ScoopInstaller/Versions, 0
 bucket/winpython38ps2.json, ScoopInstaller/Versions, 0
 bucket/winrar-de.json, naderi/scoop-bucket, 0
 bucket/winrar-ja.json, yuusakuri/scoop-bucket, 0
-bucket/winrar-keygen-cli.json, DoveBoy/Apps, 1
-bucket/winrar-keygen-gui.json, DoveBoy/Apps, 1
 bucket/winrar-np.json, ScoopInstaller/Nonportable, 0
 bucket/winrar-sc.json, ZvonimirSun/scoop-iszy, 0
 bucket/winrar-zh-cn.json, amorphobia/siku, 0
