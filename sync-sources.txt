@@ -3533,6 +3533,7 @@ bucket/dbgl.json, ScoopInstaller/Extras, 0
 bucket/dblab.json, aliesbelik/poldi, 1
 bucket/dbmate.json, ScoopInstaller/Main, 1
 bucket/dbvis.json, ScoopInstaller/Extras, 0
+bucket/dbx.json, ViCrack/scoop-bucket, 1
 bucket/dbxcli.json, ScoopInstaller/Extras, 1
 bucket/dcmtk.json, ScoopInstaller/Main, 0
 bucket/dcv.json, aliesbelik/poldi, 1
