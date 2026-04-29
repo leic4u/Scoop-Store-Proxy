@@ -2936,6 +2936,7 @@ bucket/ccache.json, ScoopInstaller/Main, 1
 bucket/ccat.json, ScoopInstaller/Main, 1
 bucket/ccenhancer.json, naderi/scoop-bucket, 0
 bucket/ccextractor.json, ScoopInstaller/Extras, 1
+bucket/ccg-gateway.json, ScoopInstaller/Extras, 1
 bucket/ccl.json, ScoopInstaller/Main, 1
 bucket/ccleaner.json, ScoopInstaller/Extras, 0
 bucket/ccstopper.json, brian6932/dank-scoop, 0
