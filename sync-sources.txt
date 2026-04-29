@@ -2061,6 +2061,7 @@ bucket/ack.json, ScoopInstaller/Main, 0
 bucket/acm.json, ScoopInstaller/Nirsoft, 0
 bucket/acmekit.json, echoiron/echo-scoop, 0
 bucket/acmesharp.json, ScoopInstaller/Main, 0
+bucket/acorn.json, ScoopInstaller/Extras, 0
 bucket/acrylic-dns-proxy.json, naderi/scoop-bucket, 0
 bucket/act.json, ScoopInstaller/Main, 1
 bucket/actionlint.json, ScoopInstaller/Main, 1
@@ -7397,6 +7398,7 @@ bucket/ollama-mlx.json, ScoopInstaller/Versions, 1
 bucket/ollama-rocm.json, ScoopInstaller/Versions, 1
 bucket/ollama.json, ScoopInstaller/Main, 1
 bucket/ollydbg.json, ScoopInstaller/Extras, 0
+bucket/ols-dev.json, ScoopInstaller/Versions, 1
 bucket/ols-nightly.json, ScoopInstaller/Versions, 1
 bucket/omegat.json, ScoopInstaller/Extras, 0
 bucket/omenmon.json, ScoopInstaller/Extras, 1
@@ -10422,7 +10424,7 @@ bucket/turnedontimesview.json, ScoopInstaller/Nirsoft, 0
 bucket/tursi.json, jfut/scoop-jfut, 1
 bucket/turtl.json, ScoopInstaller/Extras, 1
 bucket/tusk.json, ScoopInstaller/Extras, 1
-bucket/tutanota.json, ScoopInstaller/Extras, 0
+bucket/tutanota.json, ScoopInstaller/Extras, 1
 bucket/tuxguitar.json, ScoopInstaller/Extras, 0
 bucket/tuya.json, akirco/aki-apps, 0
 bucket/tweakpower.json, dodorz/scoop, 0
