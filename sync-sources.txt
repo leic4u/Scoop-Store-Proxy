@@ -6241,6 +6241,7 @@ bucket/llama.cpp-sycl.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-vulkan.json, ScoopInstaller/Versions, 1
 bucket/llamafile.json, chawyehsu/dorado, 1
 bucket/llmfit.json, ScoopInstaller/Main, 1
+bucket/llrt-beta.json, ScoopInstaller/Versions, 1
 bucket/lltskb.json, seumsc/scoop-seu, 0
 bucket/llvm-arm64.json, ScoopInstaller/Main, 1
 bucket/llvm-cvp.json, SayCV/scoop-cvp, 1
@@ -7477,6 +7478,7 @@ bucket/openjdk22.json, ScoopInstaller/Java, 0
 bucket/openjdk23.json, ScoopInstaller/Java, 0
 bucket/openjdk24.json, ScoopInstaller/Java, 0
 bucket/openjdk25.json, ScoopInstaller/Java, 0
+bucket/openjdk26.json, ScoopInstaller/Java, 0
 bucket/openjdk7-unofficial.json, ScoopInstaller/Java, 0
 bucket/openjdk8-redhat-jre.json, ScoopInstaller/Java, 1
 bucket/openjdk8-redhat.json, ScoopInstaller/Java, 1
