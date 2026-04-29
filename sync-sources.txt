@@ -2169,7 +2169,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3484,7 +3484,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, DoveBoy/Apps, 1
+bucket/dandanplay.json, chawyehsu/dorado, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -8268,7 +8268,7 @@ bucket/pkg2zip.json, Deide/deide-bucket, 1
 bucket/pkgx.json, dodorz/scoop, 1
 bucket/pkhex.json, Calinou/scoop-games, 0
 bucket/pkl-cli.json, ScoopInstaller/Main, 1
-bucket/plain-craft-launcher.json, amorphobia/siku, 1
+bucket/plain-craft-launcher.json, chawyehsu/dorado, 0
 bucket/plakar.json, ScoopInstaller/Extras, 1
 bucket/plantuml.json, ScoopInstaller/Extras, 1
 bucket/playback.json, Calinou/scoop-games, 0
