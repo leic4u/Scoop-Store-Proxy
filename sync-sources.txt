@@ -1738,7 +1738,7 @@ bucket/TranslucentTB-Install.json, ACooper81/scoop-apps, 1
 bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
 bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
-bucket/TreeSize.json, DoveBoy/Apps, 0
+bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
 bucket/Trout.json, dodorz/scoop, 0
 bucket/TscanPlus.json, ViCrack/scoop-bucket, 1
 bucket/TuBaTool.json, kkzzhizhou/scoop-zapps, 0
@@ -5897,7 +5897,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -8268,7 +8268,7 @@ bucket/pkg2zip.json, Deide/deide-bucket, 1
 bucket/pkgx.json, dodorz/scoop, 1
 bucket/pkhex.json, Calinou/scoop-games, 0
 bucket/pkl-cli.json, ScoopInstaller/Main, 1
-bucket/plain-craft-launcher.json, chawyehsu/dorado, 0
+bucket/plain-craft-launcher.json, amorphobia/siku, 1
 bucket/plakar.json, ScoopInstaller/Extras, 1
 bucket/plantuml.json, ScoopInstaller/Extras, 1
 bucket/playback.json, Calinou/scoop-games, 0
