@@ -9576,6 +9576,7 @@ bucket/smt-mod-compendium.json, Deide/deide-bucket, 1
 bucket/smtprelay.json, iquiw/scoop-bucket, 1
 bucket/smuxi.json, ScoopInstaller/Extras, 0
 bucket/snaketail.json, ScoopInstaller/Extras, 1
+bucket/snapmaker-orcaslicer.json, ScoopInstaller/Extras, 1
 bucket/snappy-driver-installer-origin.json, ScoopInstaller/Extras, 0
 bucket/snapraid.json, ScoopInstaller/Main, 1
 bucket/snaptimer.json, ScoopInstaller/Extras, 0
