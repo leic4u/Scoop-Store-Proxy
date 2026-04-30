@@ -4663,6 +4663,7 @@ bucket/gcc-aarch64-none-elf.json, ScoopInstaller/Extras, 0
 bucket/gcc-aarch64-none-linux-gnu.json, ScoopInstaller/Extras, 0
 bucket/gcc-arm-none-eabi-2.json, SayCV/scoop-cvp, 0
 bucket/gcc-arm-none-eabi.json, ScoopInstaller/Extras, 0
+bucket/gcc-arm-none-eabi10.3.json, ScoopInstaller/Versions, 0
 bucket/gcc-arm-none-linux-gnueabihf.json, ScoopInstaller/Extras, 0
 bucket/gcc-mcore-elf.json, SayCV/scoop-cvp, 0
 bucket/gcc-mingw64-hostcc-mcore-unknown-elf.json, SayCV/scoop-cvp, 1
@@ -6147,6 +6148,8 @@ bucket/libjpeg-turbo.json, ScoopInstaller/Main, 1
 bucket/libjxl.json, ScoopInstaller/Main, 1
 bucket/libraw.json, HUMORCE/nuke, 0
 bucket/librecad.json, ScoopInstaller/Extras, 1
+bucket/librehardwaremonitor-dotnet10-nightly.json, ScoopInstaller/Versions, 0
+bucket/librehardwaremonitor-nightly.json, ScoopInstaller/Versions, 0
 bucket/librehardwaremonitor.json, ScoopInstaller/Extras, 1
 bucket/libreoffice-cn.json, ivaquero/scoopet, 0
 bucket/libreoffice-pre.json, ScoopInstaller/Versions, 0
