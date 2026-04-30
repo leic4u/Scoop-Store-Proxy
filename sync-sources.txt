@@ -6149,6 +6149,7 @@ bucket/libjxl.json, ScoopInstaller/Main, 1
 bucket/libraw.json, HUMORCE/nuke, 0
 bucket/librecad.json, ScoopInstaller/Extras, 1
 bucket/librehardwaremonitor-dotnet10-nightly.json, ScoopInstaller/Versions, 0
+bucket/librehardwaremonitor-dotnet10.json, ScoopInstaller/Versions, 1
 bucket/librehardwaremonitor-nightly.json, ScoopInstaller/Versions, 0
 bucket/librehardwaremonitor.json, ScoopInstaller/Extras, 1
 bucket/libreoffice-cn.json, ivaquero/scoopet, 0
@@ -7757,6 +7758,7 @@ bucket/perfetto.json, ScoopInstaller/Main, 1
 bucket/perfview.json, ScoopInstaller/Extras, 1
 bucket/perl-pdl.json, ScoopInstaller/Versions, 1
 bucket/perl.json, ScoopInstaller/Main, 1
+bucket/perry.json, ScoopInstaller/Main, 1
 bucket/persepolis.json, ScoopInstaller/Extras, 1
 bucket/personal-scripts.json, brian6932/dank-scoop, 0
 bucket/pester.json, ScoopInstaller/Main, 0
