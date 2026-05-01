@@ -890,7 +890,7 @@ bucket/LGPO-Portable.json, ACooper81/scoop-apps, 0
 bucket/LLFTOOL.json, kkzzhizhou/scoop-zapps, 1
 bucket/LLVM-MinGW-UCRT.json, dodorz/scoop, 1
 bucket/LMStudio-Portable.json, ACooper81/scoop-apps, 0
-bucket/LX-Music.json, cc713/ownscoop, 1
+bucket/LX-Music.json, ivaquero/scoopet, 1
 bucket/LXGW-Bright-GB.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LXGW-Bright-TC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LXGW-Bright.json, matthewjberger/scoop-nerd-fonts, 1
@@ -5613,6 +5613,7 @@ bucket/jc.json, ScoopInstaller/Main, 1
 bucket/jcf-pascal-format.json, Deide/deide-bucket, 1
 bucket/jclasslib.json, NyaMisty/scoop_bucket_misty, 1
 bucket/jcli.json, ScoopInstaller/Main, 1
+bucket/jcode.json, ScoopInstaller/Main, 1
 bucket/jcpicker.json, ScoopInstaller/Extras, 0
 bucket/jd-cli.json, ScoopInstaller/Main, 0
 bucket/jd-cmd.json, TheCjw/scoop-retools, 1
@@ -11870,6 +11871,10 @@ scripts/saturn-pcbtoolkit/install-pcbtoolkit.reg, SayCV/scoop-cvp, 0
 scripts/saturn-pcbtoolkit/uninstall-pcbtoolkit.reg, SayCV/scoop-cvp, 0
 scripts/saturn/install.reg, ScoopInstaller/Extras, 0
 scripts/saturn/uninstall.reg, ScoopInstaller/Extras, 0
+scripts/seelen-ui/install-associations.reg, ScoopInstaller/Extras, 0
+scripts/seelen-ui/register-url-handler.reg, ScoopInstaller/Extras, 0
+scripts/seelen-ui/uninstall-associations.reg, ScoopInstaller/Extras, 0
+scripts/seelen-ui/unregister-url-handler.reg, ScoopInstaller/Extras, 0
 scripts/sentinel-dashboard.ps1, zhoujin7/tomato, 0
 scripts/simple-dnscrypt/simple-dnscrypt.ps1, rasa/scoops, 0
 scripts/sleep-on-lan/install-service.ps1, AkariiinMKII/Scoop4kariiin, 0
