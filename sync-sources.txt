@@ -3648,6 +3648,7 @@ bucket/digital.json, ScoopInstaller/Extras, 1
 bucket/dijo.json, aliesbelik/poldi, 1
 bucket/dim.json, akirco/aki-apps, 1
 bucket/dingtalk-gov.json, scoopcn/scoopcn, 0
+bucket/dingtalk-workspace-cli.json, ScoopInstaller/Main, 1
 bucket/dingtalk.json, scoopcn/scoopcn, 0
 bucket/dino-rss.json, batkiz/backit, 1
 bucket/dioxus.json, ScoopInstaller/Main, 1
@@ -4956,6 +4957,7 @@ bucket/google-japanese-input-np.json, ScoopInstaller/Nonportable, 0
 bucket/google-java-format.json, ScoopInstaller/Extras, 1
 bucket/google-spicetify.json, TheRandomLabs/Scoop-Spotify, 1
 bucket/google-usb-driver.json, brian6932/dank-scoop, 0
+bucket/google-workspace-cli.json, ScoopInstaller/Main, 1
 bucket/googlechrome-beta.json, ScoopInstaller/Versions, 0
 bucket/googlechrome-canary.json, ScoopInstaller/Versions, 0
 bucket/googlechrome-dev.json, ScoopInstaller/Versions, 0
@@ -9846,7 +9848,7 @@ bucket/streamwriter.json, ScoopInstaller/Extras, 0
 bucket/stremio.json, ScoopInstaller/Extras, 1
 bucket/stretchly.json, ScoopInstaller/Extras, 1
 bucket/strings.json, niheaven/scoop-sysinternals, 1
-bucket/stripe-cli.json, jingyu9575/scoop-jingyu9575, 1
+bucket/stripe-cli.json, ScoopInstaller/Main, 1
 bucket/strokes-plus.json, naderi/scoop-bucket, 0
 bucket/strokesplus.json, ScoopInstaller/Extras, 0
 bucket/strokesplus.net.json, ScoopInstaller/Extras, 0
