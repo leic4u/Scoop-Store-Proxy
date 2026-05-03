@@ -144,9 +144,9 @@ bucket/AntiTwin.json, dodorz/scoop, 0
 bucket/Anuphan.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/AnyBurn-Portable.json, ACooper81/scoop-apps, 0
 bucket/AnyTXT.json, cc713/ownscoop, 0
-bucket/AnyTXTSearcher-OCR-np.json, dodorz/scoop, 0
-bucket/AnyTXTSearcher-np.json, dodorz/scoop, 0
-bucket/AnyTXTSearcher.json, dodorz/scoop, 0
+bucket/AnytxtSearcher-OCR-np.json, dodorz/scoop, 0
+bucket/AnytxtSearcher-np.json, dodorz/scoop, 0
+bucket/AnytxtSearcher.json, dodorz/scoop, 0
 bucket/ApkMessenger.json, kkzzhizhou/scoop-zapps, 1
 bucket/AppBuster-Portable.json, ACooper81/scoop-apps, 0
 bucket/AppFlowy-Portable.json, ACooper81/scoop-apps, 1
@@ -7712,7 +7712,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
