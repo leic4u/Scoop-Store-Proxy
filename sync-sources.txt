@@ -10618,7 +10618,6 @@ bucket/utorrent.json, kkzzhizhou/scoop-zapps, 0
 bucket/utpm.json, ScoopInstaller/Extras, 1
 bucket/utvideo.json, couleur-tweak-tips/utils, 1
 bucket/uup-download-wizard-converter.json, hu3rror/scoop-muggle, 1
-bucket/uuremote.json, ivaquero/scoopet, 0
 bucket/uutils-coreutils-lean.json, ScoopInstaller/Main, 1
 bucket/uutils-coreutils.json, ScoopInstaller/Main, 1
 bucket/uutils-findutils.json, ScoopInstaller/Main, 1
