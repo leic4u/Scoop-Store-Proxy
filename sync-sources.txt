@@ -2062,6 +2062,7 @@ bucket/acm.json, ScoopInstaller/Nirsoft, 0
 bucket/acmekit.json, echoiron/echo-scoop, 0
 bucket/acmesharp.json, ScoopInstaller/Main, 0
 bucket/acorn.json, ScoopInstaller/Extras, 0
+bucket/acr-cli.json, ScoopInstaller/Main, 1
 bucket/acrylic-dns-proxy.json, naderi/scoop-bucket, 0
 bucket/act.json, ScoopInstaller/Main, 1
 bucket/actionlint.json, ScoopInstaller/Main, 1
@@ -8298,7 +8299,7 @@ bucket/plex-player.json, ScoopInstaller/Extras, 0
 bucket/plex-server.json, ScoopInstaller/Main, 0
 bucket/plexamp.json, naderi/scoop-bucket, 0
 bucket/plezy.json, ScoopInstaller/Extras, 1
-bucket/plow.json, aliesbelik/poldi, 1
+bucket/plow.json, ScoopInstaller/Main, 1
 bucket/pls.json, DoveBoy/Apps, 1
 bucket/plugdata.json, ScoopInstaller/Extras, 1
 bucket/plugin-manager-OBS.json, Weidows-projects/scoop-3rd, 1
