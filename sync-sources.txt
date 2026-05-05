@@ -2159,6 +2159,7 @@ bucket/ali.json, DoveBoy/Apps, 1
 bucket/alias-additions.json, ACooper81/scoop-apps, 1
 bucket/alien.json, ScoopInstaller/Extras, 1
 bucket/alipan.json, akirco/aki-apps, 1
+bucket/alire.json, ScoopInstaller/Main, 1
 bucket/alist.json, ScoopInstaller/Main, 1
 bucket/alisthelper-portable.json, DoveBoy/Apps, 1
 bucket/aliworkbench.json, SayCV/scoop-cvp, 1
@@ -6314,6 +6315,7 @@ bucket/love6.json, ScoopInstaller/Versions, 1
 bucket/love7.json, ScoopInstaller/Versions, 1
 bucket/love8.json, ScoopInstaller/Versions, 1
 bucket/love9.json, ScoopInstaller/Versions, 1
+bucket/lpac.json, ScoopInstaller/Main, 1
 bucket/lrcget.json, ScoopInstaller/Extras, 1
 bucket/lrzsz.json, ScoopInstaller/Main, 1
 bucket/ls-interactive.json, amorphobia/siku, 1
@@ -6631,6 +6633,7 @@ bucket/migrated/nbping.json, aliesbelik/poldi, 1
 bucket/migrated/octosql.json, aliesbelik/poldi, 1
 bucket/migrated/oha.json, aliesbelik/poldi, 1
 bucket/migrated/ov.json, aliesbelik/poldi, 1
+bucket/migrated/plow.json, aliesbelik/poldi, 1
 bucket/migrated/rainfrog.json, aliesbelik/poldi, 1
 bucket/migrated/resterm.json, aliesbelik/poldi, 1
 bucket/migrated/restfox.json, aliesbelik/poldi, 1
@@ -11779,6 +11782,8 @@ scripts/lattice-diamond311/install-context.reg.templ, SayCV/scoop-cvp, 0
 scripts/lattice-diamond311/scripts_lattice_diamond.cmd.templ, SayCV/scoop-cvp, 0
 scripts/lattice-diamond311/scripts_lattice_diamond_console.cmd.templ, SayCV/scoop-cvp, 0
 scripts/lattice-diamond311/uninstall-context.reg, SayCV/scoop-cvp, 0
+scripts/lazarus/install-associations.reg, ScoopInstaller/Extras, 0
+scripts/lazarus/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/lceda-pro/install-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/lceda-pro/uninstall-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/ldmnq9/install.bat, cc713/ownscoop, 0
