@@ -4677,6 +4677,7 @@ bucket/gcc.json, ScoopInstaller/Main, 0
 bucket/gcc4.8.5.json, MCOfficer/scoop-bucket, 0
 bucket/gcc45.json, ScoopInstaller/Versions, 0
 bucket/gcfscape.json, ScoopInstaller/Extras, 0
+bucket/gchecksum.json, aliesbelik/poldi, 1
 bucket/gcloud.json, ScoopInstaller/Extras, 0
 bucket/gda.json, ViCrack/scoop-bucket, 1
 bucket/gdb.json, ScoopInstaller/Main, 0
@@ -6639,6 +6640,7 @@ bucket/migrated/rainfrog.json, aliesbelik/poldi, 1
 bucket/migrated/resterm.json, aliesbelik/poldi, 1
 bucket/migrated/restfox.json, aliesbelik/poldi, 1
 bucket/migrated/riff.json, aliesbelik/poldi, 1
+bucket/migrated/sqlc.json, aliesbelik/poldi, 1
 bucket/migrated/sshs.json, aliesbelik/poldi, 1
 bucket/migrated/superfile.json, aliesbelik/poldi, 1
 bucket/migrated/tailspin.json, aliesbelik/poldi, 1
@@ -8439,7 +8441,7 @@ bucket/privoxy.json, ScoopInstaller/Extras, 0
 bucket/prm.json, ScoopInstaller/Main, 1
 bucket/probe-rs.json, ScoopInstaller/Main, 1
 bucket/procdump.json, niheaven/scoop-sysinternals, 1
-bucket/process-explorer.json, chawyehsu/dorado, 0
+bucket/process-explorer.json, niheaven/scoop-sysinternals, 1
 bucket/process-governor.json, ScoopInstaller/Main, 1
 bucket/process-monitor.json, chawyehsu/dorado, 0
 bucket/processactivityview.json, ScoopInstaller/Nirsoft, 0
