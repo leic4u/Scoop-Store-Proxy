@@ -1269,7 +1269,7 @@ bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
 bucket/PixPin.json, ivaquero/scoopet, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixel-Code.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Pixeval.json, cc713/ownscoop, 1
+bucket/Pixeval.json, DoveBoy/Apps, 1
 bucket/Playnite-Portable.json, ACooper81/scoop-apps, 1
 bucket/PlexForWindows-Portable.json, ACooper81/scoop-apps, 0
 bucket/PlexMediaPlayer-Portable.json, ACooper81/scoop-apps, 0
@@ -6419,7 +6419,7 @@ bucket/makelnk.json, naderi/scoop-bucket, 1
 bucket/makemkv.json, ScoopInstaller/Extras, 0
 bucket/malware-patch.json, ivaquero/scoopet, 1
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
-bucket/mame.json, Calinou/scoop-games, 1
+bucket/mame.json, DoveBoy/Apps, 1
 bucket/mameui.json, Calinou/scoop-games, 0
 bucket/managewirelessnetworks.json, ScoopInstaller/Nirsoft, 0
 bucket/mancy.json, ScoopInstaller/Extras, 1
@@ -8356,6 +8356,7 @@ bucket/portal.json, ScoopInstaller/Main, 1
 bucket/portfolio-performance.json, ScoopInstaller/Extras, 1
 bucket/portmaster-np.json, ScoopInstaller/Nonportable, 1
 bucket/portmon.json, niheaven/scoop-sysinternals, 1
+bucket/portqry.json, ScoopInstaller/Main, 0
 bucket/portwarden.json, ScoopInstaller/Main, 1
 bucket/posh-cargo.json, amorphobia/siku, 1
 bucket/posh-cd.json, amorphobia/siku, 1
@@ -9739,7 +9740,7 @@ bucket/sq.json, batkiz/backit, 1
 bucket/sql-server-management-studio-np.json, ScoopInstaller/Nonportable, 0
 bucket/sql-workbench-dev.json, ScoopInstaller/Versions, 0
 bucket/sql-workbench.json, ScoopInstaller/Extras, 0
-bucket/sqlc.json, aliesbelik/poldi, 1
+bucket/sqlc.json, ScoopInstaller/Main, 1
 bucket/sqlcl.json, ScoopInstaller/Main, 0
 bucket/sqldef.json, ScoopInstaller/Main, 1
 bucket/sqldeveloper.json, ScoopInstaller/Extras, 0
@@ -10516,7 +10517,7 @@ bucket/ultraedit.json, SayCV/scoop-cvp, 1
 bucket/ultraiso.json, ScoopInstaller/Extras, 0
 bucket/ultramarinviewer.json, naderi/scoop-bucket, 0
 bucket/ultraplusmanager.json, Calinou/scoop-games, 0
-bucket/ultrasearch.json, starise/Scoop-Confetti, 0
+bucket/ultrasearch.json, dodorz/scoop, 0
 bucket/ultravnc.json, ScoopInstaller/Extras, 0
 bucket/umaviewer.json, aoisummer/scoop-bucket, 1
 bucket/umbrello.json, ScoopInstaller/Extras, 0
