@@ -9,7 +9,7 @@
       "hash": "e8c91603379de39f62d8f0701534cd8735bf48ef2fabf4838fc0de3024e76c20"
     }
   },
-  "extract_dir": "OpenSearcher",
+  "innosetup": true,
   "shortcuts": [
     [
       "OpenSearcher.exe",

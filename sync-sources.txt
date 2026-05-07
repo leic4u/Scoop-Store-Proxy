@@ -1584,7 +1584,7 @@ bucket/SpaceMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/SpaceMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/SpacedeskDriver.json, kkzzhizhou/scoop-zapps, 1
 bucket/SpacedeskViewer.json, kkzzhizhou/scoop-zapps, 1
-bucket/Spacedrive.json, abgox/abgo_bucket, 1
+bucket/Spacedrive.json, DoveBoy/Apps, 1
 bucket/Spark-Mail.json, leic4u/Scoop-Store, 0
 bucket/SpeQ.json, dodorz/scoop, 0
 bucket/Speccy-Portable.json, ACooper81/scoop-apps, 0
@@ -7109,7 +7109,6 @@ bucket/nettraffic.json, ScoopInstaller/Extras, 0
 bucket/netvpn-lc.json, ZvonimirSun/scoop-iszy, 0
 bucket/network-monitor-np.json, jingyu9575/scoop-jingyu9575, 0
 bucket/network-profile-name-changer.json, ScoopInstaller/Extras, 0
-bucket/network-proxy-flutter.json, DoveBoy/Apps, 1
 bucket/networkconnectlog.json, ScoopInstaller/Nirsoft, 0
 bucket/networkcounterswatch.json, ScoopInstaller/Nirsoft, 0
 bucket/networkinterfacesview.json, ScoopInstaller/Nirsoft, 0
@@ -8775,7 +8774,6 @@ bucket/r2modman.json, Calinou/scoop-games, 1
 bucket/r36.json, ScoopInstaller/Versions, 0
 bucket/r3dfox.json, ScoopInstaller/Extras, 1
 bucket/r3nzskin.json, DoveBoy/Apps, 1
-bucket/r3play.json, DoveBoy/Apps, 1
 bucket/r3playx.json, DoveBoy/Apps, 1
 bucket/r41.json, ScoopInstaller/Versions, 0
 bucket/r42.json, ScoopInstaller/Versions, 0
