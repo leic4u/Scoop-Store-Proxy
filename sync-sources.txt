@@ -5910,7 +5910,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -7030,7 +7030,7 @@ bucket/natmap.json, ScoopInstaller/Main, 1
 bucket/natron.json, ScoopInstaller/Extras, 1
 bucket/nats-server.json, ScoopInstaller/Main, 1
 bucket/natscli.json, ScoopInstaller/Extras, 1
-bucket/nattypetester.json, DoveBoy/Apps, 1
+bucket/nattypetester.json, wzv5/ScoopBucket, 1
 bucket/natural-docs.json, ScoopInstaller/Extras, 0
 bucket/navi.json, ScoopInstaller/Main, 1
 bucket/navicat-premium-lite-cn.json, ivaquero/scoopet, 0
@@ -8459,7 +8459,7 @@ bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/project-graph.json, ScoopInstaller/Extras, 1
-bucket/project64-dev.json, Calinou/scoop-games, 0
+bucket/project64-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom-lite.json, seumsc/scoop-seu, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
