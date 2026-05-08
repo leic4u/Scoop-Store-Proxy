@@ -5198,6 +5198,7 @@ bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
 bucket/hetty.json, aliesbelik/poldi, 1
 bucket/heu-kms-activator.json, ivaquero/scoopet, 1
+bucket/hevi.json, aliesbelik/poldi, 0
 bucket/hex-editor-neo.json, ScoopInstaller/Extras, 0
 bucket/hex2dec.json, niheaven/scoop-sysinternals, 1
 bucket/hexchat.json, ScoopInstaller/Extras, 1
@@ -6633,6 +6634,7 @@ bucket/migrated/jo.json, aliesbelik/poldi, 1
 bucket/migrated/karing.json, aliesbelik/poldi, 1
 bucket/migrated/lazysql.json, aliesbelik/poldi, 1
 bucket/migrated/lazyssh.json, aliesbelik/poldi, 1
+bucket/migrated/mcat.json, aliesbelik/poldi, 1
 bucket/migrated/mqtt-cli.json, aliesbelik/poldi, 1
 bucket/migrated/nbping.json, aliesbelik/poldi, 1
 bucket/migrated/octosql.json, aliesbelik/poldi, 1
