@@ -2981,6 +2981,7 @@ bucket/cfsec.json, ScoopInstaller/Main, 1
 bucket/cfspeedtest.json, aliesbelik/poldi, 1
 bucket/cfssl.json, ScoopInstaller/Extras, 1
 bucket/chafa.json, ScoopInstaller/Main, 0
+bucket/chainctl.json, ScoopInstaller/Main, 0
 bucket/championify.json, ScoopInstaller/Extras, 1
 bucket/change-key.json, mo-san/scoop-bucket, 0
 bucket/changie.json, aliesbelik/poldi, 1
