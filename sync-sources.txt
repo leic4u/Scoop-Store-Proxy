@@ -933,6 +933,7 @@ bucket/LinkEase.json, ygguorun/scoop-bucket, 0
 bucket/LinkShellExtension-Install.json, ACooper81/scoop-apps, 0
 bucket/Lively-Wallpaper.json, Weidows-projects/scoop-3rd, 1
 bucket/LivelyWallpaper-Portable.json, ACooper81/scoop-apps, 1
+bucket/LobeHub.json, dodorz/scoop, 0
 bucket/LockHunter-Portable.json, ACooper81/scoop-apps, 0
 bucket/LogiOptionsPlus-Install.json, ACooper81/scoop-apps, 0
 bucket/LogitechOptions-Install.json, ACooper81/scoop-apps, 0
@@ -4834,6 +4835,7 @@ bucket/glab.json, ScoopInstaller/Main, 0
 bucket/glary-utilities.json, ScoopInstaller/Extras, 0
 bucket/glasswire-lite-np.json, ScoopInstaller/Nonportable, 0
 bucket/glasswire-np.json, ScoopInstaller/Nonportable, 0
+bucket/glazepkg.json, ScoopInstaller/Main, 1
 bucket/glazewm-np.json, ScoopInstaller/Nonportable, 1
 bucket/glazewm.json, ScoopInstaller/Extras, 1
 bucket/gleam.json, ScoopInstaller/Main, 1
@@ -6480,7 +6482,7 @@ bucket/maye.json, ViCrack/scoop-bucket, 1
 bucket/mayenano.json, ViCrack/scoop-bucket, 1
 bucket/mayo.json, ScoopInstaller/Extras, 1
 bucket/mc.json, ScoopInstaller/Extras, 1
-bucket/mcat.json, aliesbelik/poldi, 1
+bucket/mcat.json, ScoopInstaller/Main, 1
 bucket/mcedit.json, chawyehsu/dorado, 1
 bucket/mcedit2.json, Calinou/scoop-games, 1
 bucket/mcfly.json, ScoopInstaller/Main, 1
