@@ -2173,7 +2173,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -4231,7 +4231,7 @@ bucket/fastglacier.json, ScoopInstaller/Extras, 0
 bucket/fastresolver.json, ScoopInstaller/Nirsoft, 0
 bucket/fasttracker2-clone.json, chawyehsu/dorado, 0
 bucket/fat32format-gui.json, ScoopInstaller/Extras, 0
-bucket/fat32format.json, ScoopInstaller/Main, 1
+bucket/fat32format.json, akirco/aki-apps, 1
 bucket/fatty.json, ScoopInstaller/Extras, 1
 bucket/fav.json, Weidows-projects/scoop-3rd, 1
 bucket/faview.json, ScoopInstaller/Nirsoft, 0
@@ -5804,7 +5804,7 @@ bucket/kbootopt.json, echoiron/echo-scoop, 0
 bucket/kcc.json, ScoopInstaller/Extras, 1
 bucket/kcleaner.json, echoiron/echo-scoop, 0
 bucket/kcli.json, aliesbelik/poldi, 1
-bucket/kcptun.json, ScoopInstaller/Main, 1
+bucket/kcptun.json, jingyu9575/scoop-jingyu9575, 1
 bucket/kd.json, dodorz/scoop, 1
 bucket/kdash.json, aliesbelik/poldi, 1
 bucket/kde-mover-sizer.json, mo-san/scoop-bucket, 0
