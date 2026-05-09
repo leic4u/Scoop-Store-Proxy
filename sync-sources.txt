@@ -7114,6 +7114,7 @@ bucket/netsetman.json, naderi/scoop-bucket, 0
 bucket/netsurf.json, littleli/Scoop-littleli, 0
 bucket/nettraffic.json, ScoopInstaller/Extras, 0
 bucket/netvpn-lc.json, ZvonimirSun/scoop-iszy, 0
+bucket/netwatch.json, ScoopInstaller/Main, 1
 bucket/network-monitor-np.json, jingyu9575/scoop-jingyu9575, 0
 bucket/network-profile-name-changer.json, ScoopInstaller/Extras, 0
 bucket/networkconnectlog.json, ScoopInstaller/Nirsoft, 0
