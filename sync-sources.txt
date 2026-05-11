@@ -267,6 +267,7 @@ bucket/BusyBox-Unicode.json, dodorz/scoop, 0
 bucket/ByPass.json, kkzzhizhou/scoop-zapps, 0
 bucket/BywaterBASIC.json, dodorz/scoop, 1
 bucket/CADReader.json, dodorz/scoop, 0
+bucket/CC-Switch-CLI.json, dodorz/scoop, 1
 bucket/CCAssit.json, dodorz/scoop, 0
 bucket/CCleaner-Portable.json, ACooper81/scoop-apps, 0
 bucket/CCleaner540.json, zhoujin7/tomato, 0
@@ -3812,6 +3813,7 @@ bucket/dotnet8-sdk.json, ScoopInstaller/Versions, 0
 bucket/dotnet9-sdk.json, ScoopInstaller/Versions, 0
 bucket/dotnetresourcesextract.json, ScoopInstaller/Nirsoft, 0
 bucket/dotnetversionlister.json, brian6932/dank-scoop, 0
+bucket/dotslash.json, ScoopInstaller/Main, 1
 bucket/dotter.json, ScoopInstaller/Main, 1
 bucket/dottorrent-gui.json, ScoopInstaller/Extras, 1
 bucket/dottrace-api.json, ScoopInstaller/Main, 0
@@ -8623,6 +8625,7 @@ bucket/pympress.json, ScoopInstaller/Extras, 1
 bucket/pyoxidizer.json, ScoopInstaller/Main, 1
 bucket/pypy2.json, ScoopInstaller/Main, 0
 bucket/pypy3.json, ScoopInstaller/Main, 0
+bucket/pyrefly.json, ScoopInstaller/Main, 1
 bucket/pytest-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/python-alpha.json, ScoopInstaller/Versions, 1
 bucket/python-beta.json, ScoopInstaller/Versions, 1
