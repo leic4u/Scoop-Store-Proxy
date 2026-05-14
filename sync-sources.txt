@@ -733,6 +733,7 @@ bucket/HitomiDownloader.json, dodorz/scoop, 1
 bucket/HoeKey.json, dodorz/scoop, 0
 bucket/HostsMan-Portable.json, ACooper81/scoop-apps, 1
 bucket/HostsMgrCLI-Portable.json, ACooper81/scoop-apps, 1
+bucket/HotkeyDetective.json, dodorz/scoop, 1
 bucket/HueSync-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/HueSync-Portable.json, ACooper81/scoop-apps, 0
 bucket/Hydrogen-Music.json, DoveBoy/Apps, 1
@@ -2228,7 +2229,7 @@ bucket/anime4k-glsl.json, brian6932/dank-scoop, 1
 bucket/anime4kcpp-cli.json, seumsc/scoop-seu, 1
 bucket/animeko-alpha.json, hu3rror/scoop-muggle, 1
 bucket/animeko-pre.json, DoveBoy/Apps, 1
-bucket/animeko.json, batkiz/backit, 0
+bucket/animeko.json, Weidows-projects/scoop-3rd, 1
 bucket/anki-np.json, ScoopInstaller/Nonportable, 1
 bucket/anki-with-sync.json, kkzzhizhou/scoop-zapps, 1
 bucket/anki.json, ScoopInstaller/Extras, 1
@@ -9836,7 +9837,7 @@ bucket/steam-achievement-manager.json, Calinou/scoop-games, 1
 bucket/steam-art-manager.json, Calinou/scoop-games, 1
 bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
-bucket/steam-game-idler.json, Calinou/scoop-games, 1
+bucket/steam-game-idler.json, starise/Scoop-Gaming, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
 bucket/steam-rom-manager.json, Calinou/scoop-games, 1
