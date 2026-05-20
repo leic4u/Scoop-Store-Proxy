@@ -1345,6 +1345,7 @@ bucket/QuickBMS.json, dodorz/scoop, 0
 bucket/QuickCPU-Portable.json, ACooper81/scoop-apps, 0
 bucket/QuickCut.json, Weidows-projects/scoop-3rd, 1
 bucket/QuickHash.json, dodorz/scoop, 0
+bucket/QuickSwitch-JoyHak.json, ygguorun/scoop-bucket, 1
 bucket/QuickSwitch.json, ygguorun/scoop-bucket, 1
 bucket/Quicker-MSI.json, leic4u/Scoop-Store, 0
 bucket/Quicker.json, ivaquero/scoopet, 0
@@ -6592,7 +6593,7 @@ bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -9528,6 +9529,7 @@ bucket/shutup10.json, ScoopInstaller/Extras, 0
 bucket/sidebar-diagnostics.json, ScoopInstaller/Extras, 1
 bucket/sidekick-browser.json, ScoopInstaller/Extras, 0
 bucket/sift.json, ScoopInstaller/Main, 0
+bucket/sig.json, ScoopInstaller/Main, 1
 bucket/sigcheck.json, niheaven/scoop-sysinternals, 1
 bucket/sigil.json, ScoopInstaller/Extras, 1
 bucket/signal-cli.json, ScoopInstaller/Main, 1
@@ -10598,6 +10600,7 @@ bucket/universal-ctags.json, ScoopInstaller/Extras, 1
 bucket/universal-extractor-2.json, jingyu9575/scoop-jingyu9575, 1
 bucket/universal-gcode-sender.json, ScoopInstaller/Extras, 1
 bucket/universal-mediacreationtool.json, ScoopInstaller/Extras, 0
+bucket/universal-video-downloader.json, DoveBoy/Apps, 1
 bucket/universal-viewer-free.json, naderi/scoop-bucket, 0
 bucket/universal-viewer-pro.json, naderi/scoop-bucket, 0
 bucket/universal-watermark-disabler.json, hu3rror/scoop-muggle, 0
