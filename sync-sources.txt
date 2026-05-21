@@ -2180,7 +2180,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3993,7 +3993,7 @@ bucket/ecopaste.json, DoveBoy/Apps, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden.json, Deide/deide-bucket, 0
+bucket/eden.json, borger/scoop-emulators, 1
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-TTS-record.json, dodorz/scoop, 0
 bucket/edge-portable-beta.json, naderi/scoop-bucket, 0
@@ -11612,6 +11612,7 @@ bucket/zeebe.json, ScoopInstaller/Main, 1
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
 bucket/zelda-mm-ultraship.json, Deide/deide-bucket, 1
 bucket/zelda-oot-ultraship.json, Deide/deide-bucket, 1
+bucket/zelda-tp-dusklight.json, Deide/deide-bucket, 1
 bucket/zelda64recomp.json, Calinou/scoop-games, 1
 bucket/zellij.json, ScoopInstaller/Main, 1
 bucket/zen-browser.json, ScoopInstaller/Extras, 1
