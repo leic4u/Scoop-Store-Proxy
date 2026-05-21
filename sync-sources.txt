@@ -979,6 +979,7 @@ bucket/MarkdownPad.json, dodorz/scoop, 0
 bucket/MarkdownViewer.json, dodorz/scoop, 1
 bucket/Marker.json, dodorz/scoop, 1
 bucket/Markpad.json, dodorz/scoop, 1
+bucket/Markra.json, dodorz/scoop, 1
 bucket/Marp-deprecated.json, dodorz/scoop, 1
 bucket/Martian-Mono-otf.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Martian-Mono.json, matthewjberger/scoop-nerd-fonts, 1
