@@ -2828,6 +2828,7 @@ bucket/bulkfilechanger.json, ScoopInstaller/Nirsoft, 0
 bucket/bulletspassview.json, ScoopInstaller/Nirsoft, 0
 bucket/bun-canary.json, ScoopInstaller/Versions, 1
 bucket/bun.json, ScoopInstaller/Main, 1
+bucket/bun1.3.json, ScoopInstaller/Versions, 1
 bucket/bunbackup.json, jfut/scoop-jfut, 0
 bucket/bundletool.json, ScoopInstaller/Main, 1
 bucket/burp-suite-community-np.json, ScoopInstaller/Nonportable, 0
@@ -6845,6 +6846,7 @@ bucket/mosdns-cn.json, chawyehsu/dorado, 1
 bucket/mosdns.json, chawyehsu/dorado, 1
 bucket/mosh-client.json, ScoopInstaller/Main, 1
 bucket/mosquitto.json, ScoopInstaller/Main, 0
+bucket/motrix-next.json, ScoopInstaller/Extras, 1
 bucket/motrix.json, ScoopInstaller/Extras, 1
 bucket/motrixnext.json, DoveBoy/Apps, 1
 bucket/moul.json, chawyehsu/dorado, 1
@@ -7118,7 +7120,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
