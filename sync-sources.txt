@@ -7702,6 +7702,7 @@ bucket/panasonic-capsel.json, SayCV/scoop-cvp, 0
 bucket/pandoc-crossref.json, ScoopInstaller/Main, 1
 bucket/pandoc-templates.json, brian6932/dank-scoop, 0
 bucket/pandoc.json, ScoopInstaller/Main, 1
+bucket/pandoralauncher.json, Calinou/scoop-games, 1
 bucket/pandownload.json, kidonng/sushi, 1
 bucket/pansy.json, DoveBoy/Apps, 1
 bucket/panwriter.json, ScoopInstaller/Extras, 1
