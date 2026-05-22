@@ -2181,7 +2181,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -6293,7 +6293,7 @@ bucket/llvm-x.json, kiennq/scoop-misc, 1
 bucket/llvm.json, ScoopInstaller/Main, 1
 bucket/lmgrep.json, littleli/scoop-clojure, 1
 bucket/lmms.json, ScoopInstaller/Extras, 1
-bucket/lmstudio.json, dodorz/scoop, 0
+bucket/lmstudio.json, ScoopInstaller/Extras, 0
 bucket/ln.json, ScoopInstaller/Main, 1
 bucket/lnCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/lnav.json, ScoopInstaller/Main, 1
