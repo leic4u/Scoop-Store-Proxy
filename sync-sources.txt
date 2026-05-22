@@ -212,7 +212,7 @@ bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/BASIC256.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -1339,7 +1339,7 @@ bucket/QR-Desktop.json, dodorz/scoop, 1
 bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
-bucket/Qoder.json, dodorz/scoop, 0
+bucket/Qoder.json, akirco/aki-apps, 0
 bucket/QoderCN.json, dodorz/scoop, 0
 bucket/QoderWork.json, dodorz/scoop, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
@@ -11154,7 +11154,7 @@ bucket/winget-preview.json, ScoopInstaller/Versions, 1
 bucket/winget-ps.json, ScoopInstaller/Main, 0
 bucket/winget.json, ScoopInstaller/Main, 1
 bucket/wingetcreate.json, ScoopInstaller/Main, 1
-bucket/winhance.json, starise/Scoop-Confetti, 1
+bucket/winhance.json, DoveBoy/Apps, 1
 bucket/winipbroadcast.json, seumsc/scoop-seu, 1
 bucket/winjump.json, brian6932/dank-scoop, 1
 bucket/winlibs-mingw-llvm-msvcrt.json, chawyehsu/dorado, 1
@@ -11298,6 +11298,7 @@ bucket/writage.json, SayCV/scoop-cvp, 0
 bucket/write.json, ScoopInstaller/Extras, 1
 bucket/writemonkey.json, dodorz/scoop, 0
 bucket/writer.json, KnotUntied/scoop-fonts, 0
+bucket/wrkflw.json, aliesbelik/poldi, 1
 bucket/wsa-pacman.json, ScoopInstaller/Extras, 1
 bucket/wsa-toolbox.json, SayCV/scoop-cvp, 0
 bucket/wsc.json, akirco/aki-apps, 1
