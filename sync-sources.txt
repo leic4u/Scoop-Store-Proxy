@@ -2567,7 +2567,7 @@ bucket/batteryinfoview.json, ScoopInstaller/Nirsoft, 0
 bucket/batterymode-portable.json, DoveBoy/Apps, 1
 bucket/batterymode.json, DoveBoy/Apps, 1
 bucket/battlenet.json, Calinou/scoop-games, 0
-bucket/baulk.json, chawyehsu/dorado, 1
+bucket/baulk.json, dodorz/scoop, 1
 bucket/bazel-buildtools.json, ScoopInstaller/Main, 1
 bucket/bazel.json, ScoopInstaller/Main, 1
 bucket/bazelisk.json, ScoopInstaller/Main, 1
@@ -3659,7 +3659,7 @@ bucket/diff-pdf.json, ScoopInstaller/Extras, 1
 bucket/diff-so-fancy.json, ScoopInstaller/Main, 1
 bucket/diffinity.json, ScoopInstaller/Extras, 0
 bucket/diffmerge.json, ScoopInstaller/Extras, 0
-bucket/diffnav.json, dodorz/scoop, 1
+bucket/diffnav.json, ScoopInstaller/Main, 1
 bucket/diffpdf.json, ScoopInstaller/Extras, 0
 bucket/diffsitter.json, ScoopInstaller/Main, 1
 bucket/difftastic.json, ScoopInstaller/Main, 1
@@ -5251,7 +5251,7 @@ bucket/himalaya.json, ScoopInstaller/Main, 1
 bucket/hitt.json, aliesbelik/poldi, 1
 bucket/hjson.json, ScoopInstaller/Main, 1
 bucket/hkbtest.json, HUMORCE/nuke, 1
-bucket/hl.json, aliesbelik/poldi, 1
+bucket/hl.json, ScoopInstaller/Main, 1
 bucket/hlae.json, Calinou/scoop-games, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hloader.json, aliesbelik/poldi, 1
@@ -8496,7 +8496,7 @@ bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/project-graph.json, ScoopInstaller/Extras, 1
-bucket/project64-dev.json, borger/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom-lite.json, seumsc/scoop-seu, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
