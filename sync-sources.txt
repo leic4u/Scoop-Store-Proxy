@@ -4348,6 +4348,7 @@ bucket/filelist.json, starise/Scoop-Confetti, 0
 bucket/fileoptimizer.json, ScoopInstaller/Extras, 0
 bucket/filepilot.json, brian6932/dank-scoop, 0
 bucket/files-np.json, ScoopInstaller/Nonportable, 1
+bucket/files-preview-np.json, ScoopInstaller/Nonportable, 1
 bucket/filetypesman.json, ScoopInstaller/Nirsoft, 0
 bucket/filevoyager-portable.json, naderi/scoop-bucket, 0
 bucket/filezilla-server.json, ScoopInstaller/Extras, 0
@@ -5568,7 +5569,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, iquiw/scoop-bucket, 1
+bucket/iosevka.json, KnotUntied/scoop-fonts, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
