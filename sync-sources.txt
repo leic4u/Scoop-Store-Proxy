@@ -3229,6 +3229,7 @@ bucket/codescan.json, ViCrack/scoop-bucket, 1
 bucket/codesnap.json, ScoopInstaller/Extras, 1
 bucket/codespell-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/codetrack.json, ScoopInstaller/Extras, 0
+bucket/codewhale.json, ScoopInstaller/Main, 1
 bucket/codex.json, ScoopInstaller/Main, 1
 bucket/codexbar.json, starise/Scoop-Confetti, 1
 bucket/coilcraft-filterdesigner.json, SayCV/scoop-cvp, 0
@@ -6530,6 +6531,7 @@ bucket/mdict.json, amorphobia/siku, 0
 bucket/mdk533.json, SayCV/scoop-cvp, 1
 bucket/mdloader.json, ScoopInstaller/Extras, 1
 bucket/mdlt.json, MCOfficer/scoop-bucket, 1
+bucket/mdnsview.json, ScoopInstaller/Nirsoft, 0
 bucket/mdq.json, ScoopInstaller/Main, 1
 bucket/mdr.json, naderi/scoop-bucket, 1
 bucket/mdsilo.json, naderi/scoop-bucket, 1
