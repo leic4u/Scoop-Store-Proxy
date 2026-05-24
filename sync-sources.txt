@@ -8874,6 +8874,7 @@ bucket/rawrite32.json, iquiw/scoop-bucket, 0
 bucket/rawtherapee.json, ScoopInstaller/Extras, 1
 bucket/raylib-mingw.json, ScoopInstaller/Extras, 1
 bucket/raylib.json, ScoopInstaller/Extras, 1
+bucket/raylink.json, akirco/aki-apps, 0
 bucket/rayman-control-panel.json, Calinou/scoop-games, 1
 bucket/raze.json, Calinou/scoop-games, 1
 bucket/rbdoom-3-bfg.json, Calinou/scoop-games, 1
