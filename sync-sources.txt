@@ -2130,6 +2130,7 @@ bucket/agate.json, littleli/Scoop-littleli, 1
 bucket/agave-slashed.json, KnotUntied/scoop-fonts, 1
 bucket/agave.json, KnotUntied/scoop-fonts, 1
 bucket/age.json, ScoopInstaller/Extras, 1
+bucket/agent-browser.json, ScoopInstaller/Main, 1
 bucket/agentsview-desktop.json, cderv/r-bucket, 1
 bucket/agentsview.json, cderv/r-bucket, 1
 bucket/aget-rs.json, amorphobia/siku, 1
@@ -2172,7 +2173,6 @@ bucket/alire.json, ScoopInstaller/Main, 1
 bucket/alist.json, ScoopInstaller/Main, 1
 bucket/alisthelper-portable.json, DoveBoy/Apps, 1
 bucket/aliworkbench.json, SayCV/scoop-cvp, 1
-bucket/alixby.json, echoiron/echo-scoop, 1
 bucket/aliyun.json, ScoopInstaller/Main, 1
 bucket/aliyunDrive.json, chawyehsu/dorado, 0
 bucket/aliyundrive-webdav.json, ScoopInstaller/Main, 1
@@ -2181,7 +2181,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2775,6 +2775,7 @@ bucket/bottom.json, ScoopInstaller/Main, 1
 bucket/boundary.json, ScoopInstaller/Main, 0
 bucket/boxcutter.json, dodorz/scoop, 0
 bucket/boxes.json, ScoopInstaller/Main, 1
+bucket/boxplayer.json, echoiron/echo-scoop, 1
 bucket/bpgconv.json, ScoopInstaller/Extras, 1
 bucket/brackets.json, ScoopInstaller/Extras, 1
 bucket/brave-beta.json, ScoopInstaller/Versions, 1
@@ -3222,6 +3223,7 @@ bucket/code-minimap.json, ScoopInstaller/Extras, 1
 bucket/codeblocks-mingw.json, ScoopInstaller/Extras, 0
 bucket/codeblocks-portable.json, naderi/scoop-bucket, 0
 bucket/codeblocks.json, ScoopInstaller/Extras, 0
+bucket/codegraph.json, ScoopInstaller/Main, 1
 bucket/codeowners-validator.json, ScoopInstaller/Main, 1
 bucket/codeql.json, ScoopInstaller/Main, 1
 bucket/coder.json, ScoopInstaller/Main, 1
@@ -3488,7 +3490,6 @@ bucket/cutemarked.json, naderi/scoop-bucket, 0
 bucket/cutter.json, ScoopInstaller/Extras, 1
 bucket/cv4pve-pepper.json, ScoopInstaller/Extras, 1
 bucket/cvs.json, ScoopInstaller/Main, 0
-bucket/cwrsync.json, ScoopInstaller/Main, 1
 bucket/cwtch.json, naderi/scoop-bucket, 0
 bucket/cxbx-reloaded.json, Calinou/scoop-games, 1
 bucket/cyanrip.json, ScoopInstaller/Extras, 1
@@ -5252,6 +5253,7 @@ bucket/highs.json, ScoopInstaller/Main, 1
 bucket/himalaya.json, ScoopInstaller/Main, 1
 bucket/hitt.json, aliesbelik/poldi, 1
 bucket/hjson.json, ScoopInstaller/Main, 1
+bucket/hk.json, ScoopInstaller/Main, 1
 bucket/hkbtest.json, HUMORCE/nuke, 1
 bucket/hl.json, ScoopInstaller/Main, 1
 bucket/hlae.json, Calinou/scoop-games, 1
@@ -5570,7 +5572,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, KnotUntied/scoop-fonts, 1
+bucket/iosevka.json, iquiw/scoop-bucket, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
