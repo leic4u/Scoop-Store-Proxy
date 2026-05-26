@@ -1191,6 +1191,7 @@ bucket/OfficeToolPlus-Portable.json, ACooper81/scoop-apps, 1
 bucket/OfflineInsiderEnroll-Portable.json, ACooper81/scoop-apps, 1
 bucket/Oggdec.json, dodorz/scoop, 0
 bucket/Oggenc.json, dodorz/scoop, 0
+bucket/OhMyPPT.json, dodorz/scoop, 1
 bucket/Open-Sans.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/OpenBoard-Portable.json, ACooper81/scoop-apps, 1
 bucket/OpenCC.json, SayCV/scoop-cvp, 0
@@ -2652,7 +2653,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
