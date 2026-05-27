@@ -530,7 +530,6 @@ bucket/EnvyUpdate-Portable.json, ACooper81/scoop-apps, 1
 bucket/EpicGamesLauncher-Install.json, ACooper81/scoop-apps, 0
 bucket/EpicGamesLauncher-Portable.json, ACooper81/scoop-apps, 0
 bucket/Eraser5-Portable.json, ACooper81/scoop-apps, 0
-bucket/Eros-FE.json, batkiz/backit, 1
 bucket/EventLogViewer-Portable.json, ACooper81/scoop-apps, 0
 bucket/EvilPlayer.json, dodorz/scoop, 0
 bucket/ExMplayer.json, dodorz/scoop, 0
@@ -979,7 +978,6 @@ bucket/MarkdownPad.json, dodorz/scoop, 0
 bucket/MarkdownViewer.json, dodorz/scoop, 1
 bucket/Marker.json, dodorz/scoop, 1
 bucket/Markpad.json, dodorz/scoop, 1
-bucket/Markra.json, dodorz/scoop, 1
 bucket/Marp-deprecated.json, dodorz/scoop, 1
 bucket/Martian-Mono-otf.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Martian-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -1079,6 +1077,7 @@ bucket/Mononoki-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Moo0VideoConverter-Portable.json, ACooper81/scoop-apps, 0
 bucket/Moonlight-Portable.json, ACooper81/scoop-apps, 1
 bucket/Moraya.json, dodorz/scoop, 1
+bucket/MouseClickTool.json, Weidows-projects/scoop-3rd, 1
 bucket/MouseInc.json, Weidows-projects/scoop-3rd, 0
 bucket/MouseWithoutBorders-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/MstyStudio.json, dodorz/scoop, 0
@@ -1373,6 +1372,7 @@ bucket/Raptor.json, abgox/abgo_bucket, 1
 bucket/Rare-Portable.json, ACooper81/scoop-apps, 1
 bucket/RavenReader.json, dodorz/scoop, 0
 bucket/ReClass.NET.json, TheCjw/scoop-retools, 1
+bucket/ReasonixDesktop.json, dodorz/scoop, 1
 bucket/Recursive-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Recursive-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Recursive-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3234,6 +3234,7 @@ bucket/codesnap.json, ScoopInstaller/Extras, 1
 bucket/codespell-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/codetrack.json, ScoopInstaller/Extras, 0
 bucket/codewhale.json, ScoopInstaller/Main, 1
+bucket/codex-tools.json, batkiz/backit, 1
 bucket/codex.json, ScoopInstaller/Main, 1
 bucket/codexbar.json, starise/Scoop-Confetti, 1
 bucket/coilcraft-filterdesigner.json, SayCV/scoop-cvp, 0
@@ -3265,7 +3266,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, dodorz/scoop, 1
+bucket/con-terminal.json, batkiz/backit, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
 bucket/concourse-fly.json, ScoopInstaller/Main, 1
@@ -5331,6 +5332,7 @@ bucket/hubotsans.json, KnotUntied/scoop-fonts, 1
 bucket/hugin.json, mo-san/scoop-bucket, 0
 bucket/hugo-extended.json, ScoopInstaller/Main, 1
 bucket/hugo.json, ScoopInstaller/Main, 1
+bucket/hulak.json, aliesbelik/poldi, 1
 bucket/humanlog.json, aliesbelik/poldi, 1
 bucket/hummingbird.json, abgox/abgo_bucket, 1
 bucket/hunspell.json, iquiw/scoop-bucket, 1
@@ -6484,6 +6486,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -8599,7 +8602,7 @@ bucket/pswinutil.json, yuusakuri/scoop-bucket, 1
 bucket/pt.json, ScoopInstaller/Main, 1
 bucket/ptags.json, ScoopInstaller/Main, 1
 bucket/pterm.json, ScoopInstaller/Extras, 0
-bucket/ptex-ng.json, batkiz/backit, 1
+bucket/ptex-ng.json, dodorz/scoop, 0
 bucket/ptmono.json, KnotUntied/scoop-fonts, 0
 bucket/ptr.json, naderi/scoop-bucket, 1
 bucket/ptsans-expert.json, KnotUntied/scoop-fonts, 0
@@ -8914,6 +8917,7 @@ bucket/reality.json, ViCrack/scoop-bucket, 1
 bucket/realm.json, ScoopInstaller/Main, 1
 bucket/reaper.json, ScoopInstaller/Extras, 0
 bucket/rebar3.json, ScoopInstaller/Main, 1
+bucket/rebased.json, batkiz/backit, 1
 bucket/rebuild-shell-icon-cache.json, ViCrack/scoop-bucket, 0
 bucket/recaf.json, TheCjw/scoop-retools, 1
 bucket/recaps.json, ScoopInstaller/Extras, 1
@@ -10481,6 +10485,7 @@ bucket/trunk.json, ScoopInstaller/Main, 1
 bucket/trzsz.json, ScoopInstaller/Main, 1
 bucket/tsftool.json, hu3rror/scoop-muggle, 0
 bucket/tsip.json, ScoopInstaller/Extras, 1
+bucket/tslt.json, dodorz/scoop, 1
 bucket/tsmuxer.json, ScoopInstaller/Extras, 1
 bucket/tssh.json, ScoopInstaller/Main, 1
 bucket/tsshd.json, ScoopInstaller/Extras, 1
