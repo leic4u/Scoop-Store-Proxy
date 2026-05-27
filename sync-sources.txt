@@ -2182,7 +2182,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2236,7 +2236,7 @@ bucket/anime4k-glsl.json, brian6932/dank-scoop, 1
 bucket/anime4kcpp-cli.json, seumsc/scoop-seu, 1
 bucket/animeko-alpha.json, hu3rror/scoop-muggle, 1
 bucket/animeko-pre.json, DoveBoy/Apps, 1
-bucket/animeko.json, batkiz/backit, 0
+bucket/animeko.json, Weidows-projects/scoop-3rd, 1
 bucket/anki-np.json, ScoopInstaller/Nonportable, 1
 bucket/anki-with-sync.json, kkzzhizhou/scoop-zapps, 1
 bucket/anki.json, ScoopInstaller/Extras, 1
@@ -2653,7 +2653,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -10300,7 +10300,7 @@ bucket/thunderbird-beta.json, naderi/scoop-bucket, 0
 bucket/thunderbird-de.json, naderi/scoop-bucket, 0
 bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird-fa.json, naderi/scoop-bucket, 0
-bucket/thunderbird-zh-cn.json, cc713/ownscoop, 0
+bucket/thunderbird-zh-cn.json, chawyehsu/dorado, 0
 bucket/thunderbird.ja.json, jfut/scoop-jfut, 0
 bucket/thunderbird.json, ScoopInstaller/Extras, 0
 bucket/ti-analogengineerscalculator.json, SayCV/scoop-cvp, 1
