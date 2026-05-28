@@ -4382,7 +4382,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -6456,7 +6456,7 @@ bucket/make.json, ScoopInstaller/Main, 0
 bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makelnk.json, naderi/scoop-bucket, 1
 bucket/makemkv.json, ScoopInstaller/Extras, 0
-bucket/malware-patch.json, ivaquero/scoopet, 1
+bucket/malware-patch.json, DoveBoy/Apps, 1
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
 bucket/mame.json, DoveBoy/Apps, 1
 bucket/mameui.json, Calinou/scoop-games, 0
@@ -7583,7 +7583,7 @@ bucket/openshift-origin-client.json, ScoopInstaller/Main, 1
 bucket/openshot.json, ScoopInstaller/Extras, 1
 bucket/opensoldat.json, Deide/deide-bucket, 1
 bucket/openspades.json, Calinou/scoop-games, 1
-bucket/openspeedy.json, Calinou/scoop-games, 1
+bucket/openspeedy.json, DoveBoy/Apps, 1
 bucket/openssh.json, ScoopInstaller/Main, 1
 bucket/openssl-light.json, ScoopInstaller/Main, 1
 bucket/openssl-lts-light.json, ScoopInstaller/Main, 1
