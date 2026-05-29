@@ -212,7 +212,7 @@ bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/BASIC256.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -5800,7 +5800,7 @@ bucket/k3d.json, ScoopInstaller/Main, 1
 bucket/k3sup.json, ScoopInstaller/Main, 1
 bucket/k6.json, ScoopInstaller/Main, 1
 bucket/k9s.json, ScoopInstaller/Main, 1
-bucket/kaf-cli.json, DoveBoy/Apps, 1
+bucket/kaf-cli.json, batkiz/backit, 1
 bucket/kaf-wifi.json, DoveBoy/Apps, 1
 bucket/kaf.json, ScoopInstaller/Main, 1
 bucket/kafka-exporter.json, ScoopInstaller/Main, 1
@@ -6287,6 +6287,8 @@ bucket/llama.cpp-cu124-dll.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu124.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu131-dll.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu131.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-cu133-dll.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-cu133.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-hip-gfx1030.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-hip-gfx1100.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-hip-gfx1101.json, ScoopInstaller/Versions, 1
@@ -7138,7 +7140,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
