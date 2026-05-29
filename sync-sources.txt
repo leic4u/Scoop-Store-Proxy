@@ -6297,7 +6297,7 @@ bucket/llama.cpp-hip-radeon.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-opencl.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-sycl.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-vulkan.json, ScoopInstaller/Versions, 1
-bucket/llamafile.json, chawyehsu/dorado, 1
+bucket/llamafile.json, dodorz/scoop, 1
 bucket/llmfit.json, ScoopInstaller/Main, 1
 bucket/llrt-beta.json, ScoopInstaller/Versions, 1
 bucket/lltskb.json, seumsc/scoop-seu, 0
