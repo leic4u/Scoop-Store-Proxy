@@ -452,6 +452,7 @@ bucket/DisplayDriverUninstaller-Portable.json, ACooper81/scoop-apps, 0
 bucket/Dissenter.json, dodorz/scoop, 1
 bucket/Dnest.json, abgox/abgo_bucket, 1
 bucket/DnsTools.json, Weidows-projects/scoop-3rd, 1
+bucket/DoRun.json, dodorz/scoop, 1
 bucket/DocBox.json, hu3rror/scoop-muggle, 0
 bucket/DocFetcher.json, dodorz/scoop, 0
 bucket/DocFormat.json, dodorz/scoop, 1
