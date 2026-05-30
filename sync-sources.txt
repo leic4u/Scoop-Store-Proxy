@@ -2332,7 +2332,7 @@ bucket/arduino-cli.json, ScoopInstaller/Main, 1
 bucket/arduino-ide-rc.json, ScoopInstaller/Versions, 1
 bucket/arduino.json, ScoopInstaller/Extras, 0
 bucket/arduino18.json, ScoopInstaller/Versions, 0
-bucket/ares.json, borger/scoop-emulators, 1
+bucket/ares.json, Calinou/scoop-games, 1
 bucket/arf.json, cderv/r-bucket, 1
 bucket/argo.json, ScoopInstaller/Main, 1
 bucket/argocd-autopilot.json, ScoopInstaller/Main, 1
@@ -8885,6 +8885,7 @@ bucket/rascal.json, seumsc/scoop-seu, 1
 bucket/raspberry-pi-imager.json, ScoopInstaller/Extras, 1
 bucket/rathole.json, ScoopInstaller/Main, 1
 bucket/ratiomaster.json, ScoopInstaller/Extras, 1
+bucket/ratty.json, ScoopInstaller/Extras, 1
 bucket/raven-reader.json, ScoopInstaller/Extras, 1
 bucket/ravendb.json, ScoopInstaller/Main, 0
 bucket/rawcap-old.json, beerpiss/scoop-bucket, 0
