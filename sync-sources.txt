@@ -2183,7 +2183,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2332,7 +2332,7 @@ bucket/arduino-cli.json, ScoopInstaller/Main, 1
 bucket/arduino-ide-rc.json, ScoopInstaller/Versions, 1
 bucket/arduino.json, ScoopInstaller/Extras, 0
 bucket/arduino18.json, ScoopInstaller/Versions, 0
-bucket/ares.json, Calinou/scoop-games, 1
+bucket/ares.json, borger/scoop-emulators, 1
 bucket/arf.json, cderv/r-bucket, 1
 bucket/argo.json, ScoopInstaller/Main, 1
 bucket/argocd-autopilot.json, ScoopInstaller/Main, 1
