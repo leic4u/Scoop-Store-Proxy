@@ -1092,6 +1092,7 @@ bucket/MusicLake.json, dodorz/scoop, 1
 bucket/MusicTag.json, hu3rror/scoop-muggle, 0
 bucket/MusicTools.json, SayCV/scoop-cvp, 1
 bucket/MutoMark.json, dodorz/scoop, 0
+bucket/MyBuddy.json, dodorz/scoop, 1
 bucket/MyDockFinder.json, Weidows-projects/scoop-3rd, 1
 bucket/MyHash.json, dodorz/scoop, 0
 bucket/MyJoy.json, Weidows-projects/scoop-3rd, 0
@@ -2746,7 +2747,7 @@ bucket/bluetoothview.json, ScoopInstaller/Nirsoft, 0
 bucket/blur.json, couleur-tweak-tips/utils, 1
 bucket/blush.json, ScoopInstaller/Extras, 1
 bucket/bob-wallet.json, chawyehsu/dorado, 1
-bucket/bob.json, akirco/aki-apps, 1
+bucket/bob.json, ScoopInstaller/Main, 1
 bucket/bochs.json, ScoopInstaller/Main, 0
 bucket/boilr.json, ScoopInstaller/Extras, 1
 bucket/boilsoft-video-joiner.json, SayCV/scoop-cvp, 0
@@ -6491,7 +6492,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
