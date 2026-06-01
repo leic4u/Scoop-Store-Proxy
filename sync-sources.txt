@@ -1872,6 +1872,7 @@ bucket/VirtualBox-Install.json, ACooper81/scoop-apps, 0
 bucket/VirtualBoxGuestAdditions-Install.json, ACooper81/scoop-apps, 0
 bucket/VirtualBoxWithExtensionPack-Install.json, ACooper81/scoop-apps, 0
 bucket/VirtualDesktop.json, Weidows-projects/scoop-3rd, 1
+bucket/VirtualDesktopSwitcher.json, Weidows-projects/scoop-3rd, 1
 bucket/Virtualgo.json, dodorz/scoop, 1
 bucket/VisualSVN-Cli.json, dodorz/scoop, 0
 bucket/VisualStudioCode-Install.json, ACooper81/scoop-apps, 0
@@ -4385,7 +4386,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -5416,7 +5417,6 @@ bucket/idea-rc.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate-eap.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate-latest.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate-rc.json, ScoopInstaller/Versions, 1
-bucket/idea-ultimate.json, ScoopInstaller/Extras, 1
 bucket/idea.json, ScoopInstaller/Extras, 1
 bucket/identme.json, ScoopInstaller/Extras, 1
 bucket/idlemaster-extended.json, Calinou/scoop-games, 1
@@ -6071,7 +6071,7 @@ bucket/lazyssh.json, ScoopInstaller/Main, 1
 bucket/lazyworktree.json, aliesbelik/poldi, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
 bucket/lbry.json, ScoopInstaller/Extras, 1
-bucket/lceda-pro.json, chawyehsu/dorado, 0
+bucket/lceda-pro.json, ivaquero/scoopet, 0
 bucket/lceda.json, ivaquero/scoopet, 0
 bucket/lcow.json, ScoopInstaller/Versions, 1
 bucket/ldap-admin.json, ScoopInstaller/Extras, 0
@@ -6464,7 +6464,6 @@ bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makelnk.json, naderi/scoop-bucket, 1
 bucket/makemkv.json, ScoopInstaller/Extras, 0
 bucket/malware-patch.json, DoveBoy/Apps, 1
-bucket/mambaforge.json, ScoopInstaller/Extras, 1
 bucket/mame.json, DoveBoy/Apps, 1
 bucket/mameui.json, Calinou/scoop-games, 0
 bucket/managewirelessnetworks.json, ScoopInstaller/Nirsoft, 0
@@ -6493,7 +6492,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -7507,7 +7506,6 @@ bucket/open-shell-np.json, ScoopInstaller/Nonportable, 1
 bucket/open-tv.json, ScoopInstaller/Extras, 1
 bucket/open-video-downloader.json, hu3rror/scoop-muggle, 1
 bucket/open-xrechnung-toolbox.json, naderi/scoop-bucket, 1
-bucket/openai-translator.json, ScoopInstaller/Extras, 1
 bucket/openallegroparser.json, SayCV/scoop-cvp, 1
 bucket/openapi-generator-cli.json, ScoopInstaller/Main, 0
 bucket/openarena.json, Calinou/scoop-games, 0
@@ -8657,7 +8655,6 @@ bucket/pycharm-eap.json, ScoopInstaller/Versions, 1
 bucket/pycharm-latest.json, ScoopInstaller/Versions, 1
 bucket/pycharm-professional-eap.json, ScoopInstaller/Versions, 1
 bucket/pycharm-professional-rc.json, ScoopInstaller/Versions, 1
-bucket/pycharm-professional.json, ScoopInstaller/Extras, 1
 bucket/pycharm-rc.json, ScoopInstaller/Versions, 1
 bucket/pycharm.json, ScoopInstaller/Extras, 1
 bucket/pychess.json, Calinou/scoop-games, 1
@@ -11574,7 +11571,6 @@ bucket/youtube-dl.json, ScoopInstaller/Main, 1
 bucket/youtube-dlc.json, ScoopInstaller/Versions, 1
 bucket/youtube-downloader-hd.json, naderi/scoop-bucket, 0
 bucket/youtube-local.json, naderi/scoop-bucket, 1
-bucket/youtube-music.json, ScoopInstaller/Extras, 1
 bucket/youtubedownloader.json, ScoopInstaller/Extras, 1
 bucket/yq.json, ScoopInstaller/Main, 1
 bucket/yquake2-ref-vk.json, Calinou/scoop-games, 1
