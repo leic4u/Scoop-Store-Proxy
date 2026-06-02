@@ -2819,6 +2819,7 @@ bucket/btop-lhm.json, ScoopInstaller/Main, 1
 bucket/btop.json, ScoopInstaller/Main, 1
 bucket/btyacc.json, ScoopInstaller/Main, 0
 bucket/buck.json, ScoopInstaller/Main, 0
+bucket/buck2-pre.json, ScoopInstaller/Versions, 1
 bucket/buckets.json, ScoopInstaller/Extras, 1
 bucket/buf.json, ScoopInstaller/Main, 1
 bucket/buffalo.json, ScoopInstaller/Main, 1
