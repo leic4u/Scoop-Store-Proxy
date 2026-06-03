@@ -2827,7 +2827,7 @@ bucket/bugdom-2.json, Calinou/scoop-games, 1
 bucket/bugdom.json, Calinou/scoop-games, 1
 bucket/bugn.json, ScoopInstaller/Extras, 1
 bucket/buildcache.json, ScoopInstaller/Extras, 0
-bucket/buildkit.json, batkiz/backit, 1
+bucket/buildkit.json, ScoopInstaller/Main, 1
 bucket/bulk-crap-uninstaller.json, ScoopInstaller/Extras, 1
 bucket/bulk-extractor.json, brian6932/dank-scoop, 1
 bucket/bulk-rename-command.json, ScoopInstaller/Main, 0
@@ -3218,6 +3218,7 @@ bucket/cmder.json, ScoopInstaller/Main, 1
 bucket/cmdow.json, ScoopInstaller/Extras, 1
 bucket/cmwtat-digital-edition.json, DoveBoy/Apps, 1
 bucket/cnc-ddraw.json, Calinou/scoop-games, 1
+bucket/cni-plugins.json, ScoopInstaller/Main, 1
 bucket/cnkiexpress.json, ivaquero/scoopet, 0
 bucket/cnping.json, ScoopInstaller/Extras, 1
 bucket/cobalt.json, ScoopInstaller/Main, 1
@@ -4388,7 +4389,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -9972,6 +9973,7 @@ bucket/sudachi.json, Calinou/scoop-games, 1
 bucket/sudo-jingyu9575.json, jingyu9575/scoop-jingyu9575, 1
 bucket/sudo.json, ScoopInstaller/Main, 1
 bucket/sumatrapdf-installer.json, ScoopInstaller/Versions, 0
+bucket/sumatrapdf-pre.json, ScoopInstaller/Versions, 0
 bucket/sumatrapdf.json, ScoopInstaller/Extras, 0
 bucket/sunlogin.json, scoopcn/scoopcn, 0
 bucket/sunloginclient-desktop.json, SayCV/scoop-cvp, 0
