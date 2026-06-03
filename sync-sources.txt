@@ -1341,7 +1341,7 @@ bucket/QR-Desktop.json, dodorz/scoop, 1
 bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
-bucket/Qoder.json, dodorz/scoop, 0
+bucket/Qoder.json, akirco/aki-apps, 0
 bucket/QoderCN.json, dodorz/scoop, 0
 bucket/QoderWork.json, dodorz/scoop, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
@@ -10229,6 +10229,7 @@ bucket/terminus.json, akirco/aki-apps, 1
 bucket/termite.json, ScoopInstaller/Extras, 0
 bucket/termius.json, ScoopInstaller/Extras, 0
 bucket/termix.json, ViCrack/scoop-bucket, 1
+bucket/termora.json, aliesbelik/poldi, 1
 bucket/termscp.json, ScoopInstaller/Main, 1
 bucket/termshark.json, ScoopInstaller/Main, 1
 bucket/termsvg.json, brian6932/dank-scoop, 1
