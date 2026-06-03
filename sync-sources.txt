@@ -1341,7 +1341,7 @@ bucket/QR-Desktop.json, dodorz/scoop, 1
 bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
-bucket/Qoder.json, akirco/aki-apps, 0
+bucket/Qoder.json, dodorz/scoop, 0
 bucket/QoderCN.json, dodorz/scoop, 0
 bucket/QoderWork.json, dodorz/scoop, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
@@ -2185,7 +2185,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2656,7 +2656,7 @@ bucket/bili-cli-rs.json, DoveBoy/Apps, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -4909,7 +4909,7 @@ bucket/gnupg1.json, ScoopInstaller/Main, 0
 bucket/gnuplot.json, ScoopInstaller/Main, 0
 bucket/gnutls.json, ScoopInstaller/Main, 0
 bucket/go-chromecast.json, ScoopInstaller/Extras, 1
-bucket/go-cn.json, akirco/aki-apps, 0
+bucket/go-cn.json, chawyehsu/dorado, 0
 bucket/go-containerregistry.json, ScoopInstaller/Main, 1
 bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
 bucket/go-drive.json, DoveBoy/Apps, 1
@@ -6301,7 +6301,7 @@ bucket/llama.cpp-hip-radeon.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-opencl.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-sycl.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-vulkan.json, ScoopInstaller/Versions, 1
-bucket/llamafile.json, dodorz/scoop, 1
+bucket/llamafile.json, chawyehsu/dorado, 1
 bucket/llmfit.json, ScoopInstaller/Main, 1
 bucket/llrt-beta.json, ScoopInstaller/Versions, 1
 bucket/lltskb.json, seumsc/scoop-seu, 0
