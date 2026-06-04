@@ -7213,6 +7213,7 @@ bucket/nimbleset.json, ScoopInstaller/Extras, 0
 bucket/nimbletext.json, ScoopInstaller/Extras, 0
 bucket/ninja-kitware.json, ScoopInstaller/Main, 1
 bucket/ninja.json, ScoopInstaller/Main, 1
+bucket/nip4.json, ScoopInstaller/Extras, 1
 bucket/nircmd.json, ScoopInstaller/Main, 0
 bucket/nirext.json, ScoopInstaller/Nirsoft, 0
 bucket/nirlauncher.json, ScoopInstaller/Extras, 0
