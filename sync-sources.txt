@@ -6074,7 +6074,7 @@ bucket/lazyssh.json, ScoopInstaller/Main, 1
 bucket/lazyworktree.json, aliesbelik/poldi, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
 bucket/lbry.json, ScoopInstaller/Extras, 1
-bucket/lceda-pro.json, chawyehsu/dorado, 0
+bucket/lceda-pro.json, ivaquero/scoopet, 0
 bucket/lceda.json, ivaquero/scoopet, 0
 bucket/lcow.json, ScoopInstaller/Versions, 1
 bucket/ldap-admin.json, ScoopInstaller/Extras, 0
