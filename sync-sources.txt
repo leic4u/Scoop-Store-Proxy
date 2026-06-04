@@ -3179,6 +3179,7 @@ bucket/clipboard-online.json, hu3rror/scoop-muggle, 1
 bucket/clipboard.json, ScoopInstaller/Main, 1
 bucket/clipboardic.json, ScoopInstaller/Nirsoft, 0
 bucket/clipgrab.json, starise/Scoop-Confetti, 0
+bucket/cliproxyapi.json, ScoopInstaller/Main, 1
 bucket/clipx.json, naderi/scoop-bucket, 0
 bucket/clj-deps.json, littleli/scoop-clojure, 1
 bucket/clj-kondo.json, littleli/scoop-clojure, 1
@@ -5443,6 +5444,7 @@ bucket/igdm.json, ScoopInstaller/Extras, 1
 bucket/ignoreit.json, ScoopInstaller/Extras, 1
 bucket/igrep.json, ScoopInstaller/Main, 1
 bucket/ihateborders.json, starise/Scoop-Gaming, 1
+bucket/iii.json, ScoopInstaller/Main, 1
 bucket/ijhttp.json, ScoopInstaller/Main, 0
 bucket/il2cppdumper.json, TheCjw/scoop-retools, 1
 bucket/ilmerge.json, ScoopInstaller/Extras, 0
