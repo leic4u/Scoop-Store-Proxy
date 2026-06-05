@@ -1275,7 +1275,7 @@ bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/Pinokio-Portable.json, ACooper81/scoop-apps, 1
 bucket/PixBuilder.json, zhoujin7/tomato, 0
 bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
-bucket/PixPin.json, dodorz/scoop, 0
+bucket/PixPin.json, ygguorun/scoop-bucket, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixel-Code.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Pixeval.json, DoveBoy/Apps, 1
@@ -6710,10 +6710,12 @@ bucket/migrated/tcping.json, aliesbelik/poldi, 0
 bucket/migrated/termscp.json, aliesbelik/poldi, 1
 bucket/migrated/tf-summarize.json, aliesbelik/poldi, 1
 bucket/migrated/tlrc.json, aliesbelik/poldi, 1
+bucket/migrated/trdsql.json, aliesbelik/poldi, 1
 bucket/migrated/ttdl.json, aliesbelik/poldi, 1
 bucket/migrated/vegeta.json, aliesbelik/poldi, 1
 bucket/migrated/wait4x.json, aliesbelik/poldi, 1
 bucket/migrated/walk.json, aliesbelik/poldi, 1
+bucket/migrated/websocat.json, aliesbelik/poldi, 1
 bucket/migrated/yamlfmt.json, aliesbelik/poldi, 1
 bucket/mihome-token.json, amorphobia/siku, 1
 bucket/mihomo-compatible.json, DoveBoy/Apps, 1
@@ -10090,6 +10092,7 @@ bucket/systeminformer-nightly.json, ScoopInstaller/Versions, 1
 bucket/systeminformer.json, ScoopInstaller/Extras, 1
 bucket/systools.json, ScoopInstaller/Nirsoft, 0
 bucket/t-clock.json, ScoopInstaller/Extras, 1
+bucket/t-req.json, aliesbelik/poldi, 1
 bucket/tabby-agent-cuda.json, ScoopInstaller/Versions, 1
 bucket/tabby-agent-vulkan.json, ScoopInstaller/Versions, 1
 bucket/tabby-agent.json, ScoopInstaller/Main, 1
