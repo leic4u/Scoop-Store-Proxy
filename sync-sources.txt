@@ -3686,7 +3686,7 @@ bucket/dijo.json, aliesbelik/poldi, 1
 bucket/dim.json, akirco/aki-apps, 1
 bucket/dingtalk-gov.json, scoopcn/scoopcn, 0
 bucket/dingtalk-workspace-cli.json, ScoopInstaller/Main, 1
-bucket/dingtalk.json, scoopcn/scoopcn, 0
+bucket/dingtalk.json, ivaquero/scoopet, 0
 bucket/dino-rss.json, batkiz/backit, 1
 bucket/dioxus.json, ScoopInstaller/Main, 1
 bucket/directory-compare.json, naderi/scoop-bucket, 0
@@ -5234,6 +5234,7 @@ bucket/helmify.json, aliesbelik/poldi, 1
 bucket/helmsman.json, chawyehsu/dorado, 1
 bucket/hemmelig.json, ScoopInstaller/Extras, 1
 bucket/hercules.json, littleli/Scoop-littleli, 1
+bucket/hermes-desktop-portable.json, Weidows-projects/scoop-3rd, 1
 bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
 bucket/hetty.json, aliesbelik/poldi, 1
@@ -9286,7 +9287,7 @@ bucket/samsung-magician-np.json, rasa/scoops, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, DoveBoy/Apps, 1
+bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1

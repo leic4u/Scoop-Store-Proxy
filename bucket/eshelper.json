@@ -1,14 +1,12 @@
 {
-  "version": "2024-10-25",
+  "version": "2026-05-07",
   "description": "权威的西语词典软件 西语学习者必备的工具",
   "homepage": "https://www.eudic.net/v4/es/app/eshelper",
   "license": "Freeware",
   "architecture": {
     "64bit": {
-      "url": "https://www.francochinois.com/download/ehsetup.zip?v=2024-10-25"
-    },
-    "32bit": {
-      "url": "https://www.francochinois.com/download/ehsetup_win32.zip?v=2026"
+      "url": "https://www.francochinois.com/download/ehsetup.zip",
+      "hash": "126cea04b713092fa7ec96c28e9c346e83cc085d097df83645529fb6e146fc48"
     }
   },
   "installer": {
@@ -30,10 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://www.francochinois.com/download/ehsetup.zip?v=$version"
-      },
-      "32bit": {
-        "url": "https://www.francochinois.com/download/ehsetup_win32.zip?v=$matchHead"
+        "url": "https://www.francochinois.com/download/ehsetup.zip"
       }
     }
   }

@@ -1,14 +1,12 @@
 {
-  "version": "2024-10-25",
+  "version": "2026-05-07",
   "description": "权威的法语词典软件 法语学习者必备的工具",
   "homepage": "https://www.eudic.net/v4/fr/app/frhelper",
   "license": "Freeware",
   "architecture": {
     "64bit": {
-      "url": "https://www.francochinois.com/download/fhsetup.zip?v=2024-10-25"
-    },
-    "32bit": {
-      "url": "https://www.francochinois.com/download/fhsetup_win32.zip?v=2026"
+      "url": "https://www.francochinois.com/download/fhsetup.zip",
+      "hash": "0bfa95709afd683400e9940e6f73afcb655affa08384a18c082b55dfa6f6b195"
     }
   },
   "installer": {
@@ -30,10 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://www.francochinois.com/download/fhsetup.zip?v=$version"
-      },
-      "32bit": {
-        "url": "https://www.francochinois.com/download/fhsetup_win32.zip?v=$matchHead"
+        "url": "https://www.francochinois.com/download/fhsetup.zip"
       }
     }
   }
