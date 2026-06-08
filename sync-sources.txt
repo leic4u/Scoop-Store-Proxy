@@ -1384,6 +1384,7 @@ bucket/Reg2Nsis.json, kkzzhizhou/scoop-zapps, 1
 bucket/RegConvert.json, kkzzhizhou/scoop-zapps, 0
 bucket/RegConverter.json, ViCrack/scoop-bucket, 0
 bucket/RegCool-Portable.json, ACooper81/scoop-apps, 0
+bucket/Regester.json, dodorz/scoop, 0
 bucket/RegexMatchTracer.json, ygguorun/scoop-bucket, 0
 bucket/Regina.json, dodorz/scoop, 0
 bucket/RegistryWorkshop-zh-cn.json, dodorz/scoop, 0
@@ -1993,7 +1994,6 @@ bucket/WondershareUniconverter.json, Weidows-projects/scoop-3rd, 0
 bucket/WordGrinder.json, dodorz/scoop, 1
 bucket/WordTsar.json, dodorz/scoop, 0
 bucket/Wordster.json, dodorz/scoop, 0
-bucket/WorkBuddy.json, dodorz/scoop, 0
 bucket/WriteMonkey3.json, dodorz/scoop, 0
 bucket/Writeathon.json, abgox/abgo_bucket, 0
 bucket/WsaToolbox.json, kkzzhizhou/scoop-zapps, 0
@@ -4149,7 +4149,7 @@ bucket/ethr.json, ScoopInstaller/Main, 1
 bucket/etl2pcapng.json, ScoopInstaller/Main, 1
 bucket/etlas.json, ScoopInstaller/Extras, 0
 bucket/etterna.json, Calinou/scoop-games, 1
-bucket/eudic.json, naderi/scoop-bucket, 0
+bucket/eudic.json, ivaquero/scoopet, 0
 bucket/euler.json, ScoopInstaller/Extras, 0
 bucket/eva.json, ScoopInstaller/Main, 1
 bucket/evans.json, ScoopInstaller/Main, 1
@@ -8931,7 +8931,7 @@ bucket/rdiff-backup.json, ScoopInstaller/Main, 1
 bucket/rdpv.json, ScoopInstaller/Nirsoft, 0
 bucket/reachable.json, MCOfficer/scoop-bucket, 1
 bucket/react-native-debugger.json, ScoopInstaller/Extras, 1
-bucket/reader.json, ivaquero/scoopet, 1
+bucket/reader.json, DoveBoy/Apps, 1
 bucket/readest.json, ScoopInstaller/Extras, 1
 bucket/real-esrgan.json, chawyehsu/dorado, 1
 bucket/real.json, ScoopInstaller/Extras, 1
@@ -8987,7 +8987,6 @@ bucket/regdelta.json, rasa/scoops, 1
 bucket/regdllview.json, ScoopInstaller/Nirsoft, 0
 bucket/regeditor.json, ScoopInstaller/Extras, 0
 bucket/regedix.json, ScoopInstaller/Extras, 0
-bucket/regester.json, ivaquero/scoopet, 0
 bucket/regex-tool.json, wzv5/ScoopBucket, 1
 bucket/regexp.json, ScoopInstaller/Extras, 1
 bucket/regfileexport.json, ScoopInstaller/Nirsoft, 0
@@ -11324,6 +11323,7 @@ bucket/woof.json, Calinou/scoop-games, 1
 bucket/word-regex-tool.json, ygguorun/scoop-bucket, 0
 bucket/wordle.json, brian6932/dank-scoop, 1
 bucket/wordmark.json, ScoopInstaller/Extras, 1
+bucket/workbuddy.json, ivaquero/scoopet, 0
 bucket/workman-np.json, ScoopInstaller/Nonportable, 0
 bucket/workman-p-np.json, ScoopInstaller/Nonportable, 0
 bucket/workman-p-uk-np.json, ScoopInstaller/Nonportable, 0
