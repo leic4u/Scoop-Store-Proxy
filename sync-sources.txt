@@ -6605,6 +6605,7 @@ bucket/memory-checker.json, brian6932/dank-scoop, 1
 bucket/memreduct.json, ScoopInstaller/Extras, 1
 bucket/memshellparty.json, ViCrack/scoop-bucket, 1
 bucket/memtest-vulkan.json, starise/Scoop-Confetti, 1
+bucket/memtui.json, aliesbelik/poldi, 1
 bucket/mendeley.json, ScoopInstaller/Extras, 0
 bucket/meow.json, ScoopInstaller/Extras, 1
 bucket/mercurial.json, ScoopInstaller/Main, 0
