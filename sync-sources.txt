@@ -212,7 +212,7 @@ bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/BASIC256.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
+bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -3109,7 +3109,6 @@ bucket/ck-cli.json, aliesbelik/poldi, 1
 bucket/clamav.json, ScoopInstaller/Extras, 1
 bucket/clangd.json, ScoopInstaller/Main, 1
 bucket/clash-dashboard.json, everyx/scoop-bucket, 1
-bucket/clash-for-flutter.json, DoveBoy/Apps, 1
 bucket/clash-for-windows.json, amorphobia/siku, 0
 bucket/clash-mi.json, ivaquero/scoopet, 1
 bucket/clash-mini.json, DoveBoy/Apps, 1
@@ -4393,7 +4392,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -7159,7 +7158,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -9622,6 +9621,7 @@ bucket/simutrans.json, Calinou/scoop-games, 0
 bucket/sing-box-beta.json, DoveBoy/Apps, 1
 bucket/sing-box-pre.json, hu3rror/scoop-muggle, 1
 bucket/sing-box.json, ScoopInstaller/Main, 1
+bucket/singcast.json, DoveBoy/Apps, 1
 bucket/single-file-cli.json, ScoopInstaller/Extras, 1
 bucket/single-file.json, dodorz/scoop, 1
 bucket/sioyek-preview.json, brian6932/dank-scoop, 1
