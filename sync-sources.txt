@@ -4765,6 +4765,7 @@ bucket/gh.json, ScoopInstaller/Main, 1
 bucket/ghc96.json, iquiw/scoop-bucket, 0
 bucket/ghcup.json, ScoopInstaller/Main, 1
 bucket/ghdl.json, ScoopInstaller/Main, 1
+bucket/ghgrab.json, aliesbelik/poldi, 1
 bucket/ghidra-beta.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidra-nightly.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidra.json, ScoopInstaller/Extras, 1
