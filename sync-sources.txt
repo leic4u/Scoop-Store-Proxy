@@ -3963,6 +3963,7 @@ bucket/dyad.json, ScoopInstaller/Extras, 1
 bucket/dyff.json, ScoopInstaller/Main, 1
 bucket/dynamorio.json, ScoopInstaller/Main, 1
 bucket/dysk.json, brian6932/dank-scoop, 0
+bucket/dz6.json, ScoopInstaller/Extras, 1
 bucket/dzsalauncher.json, brian6932/dank-scoop, 0
 bucket/eSpeak.json, dodorz/scoop, 0
 bucket/eac.json, ScoopInstaller/Extras, 0
