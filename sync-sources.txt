@@ -302,7 +302,7 @@ bucket/CefDetector.json, ygguorun/scoop-bucket, 1
 bucket/CefDetectorX.json, Weidows-projects/scoop-3rd, 1
 bucket/CenterTaskbar-Portable.json, ACooper81/scoop-apps, 1
 bucket/Chakra-Petch.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/Charles.json, chawyehsu/dorado, 0
+bucket/Charles.json, DoveBoy/Apps, 0
 bucket/Charm.json, batkiz/backit, 1
 bucket/Charmonman.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/ChatALL-Portable.json, ACooper81/scoop-apps, 1
@@ -8885,7 +8885,7 @@ bucket/rad.json, ViCrack/scoop-bucket, 1
 bucket/radare2.json, ScoopInstaller/Main, 1
 bucket/radarr.json, ScoopInstaller/Extras, 1
 bucket/raddebugger-alpha.json, ScoopInstaller/Versions, 1
-bucket/raddebugger.json, chawyehsu/dorado, 1
+bucket/raddebugger.json, brian6932/dank-scoop, 1
 bucket/radius.json, ScoopInstaller/Main, 1
 bucket/rage.json, ScoopInstaller/Main, 1
 bucket/ragel.json, ScoopInstaller/Extras, 0
