@@ -558,6 +558,7 @@ bucket/FantasqueSansMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FantasqueSansMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FantasqueSansMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FastCSViewer.json, dodorz/scoop, 0
+bucket/FastClaw.json, dodorz/scoop, 1
 bucket/FastCopy-M.json, Paxxs/Cluttered-bucket, 1
 bucket/FastGithub.json, abgox/abgo_bucket, 0
 bucket/Feep.json, dodorz/scoop, 1
@@ -1851,6 +1852,7 @@ bucket/VSubst.json, dodorz/scoop, 0
 bucket/Vagrant-Portable.json, ACooper81/scoop-apps, 0
 bucket/VagrantManager-Portable.json, ACooper81/scoop-apps, 1
 bucket/VbsToExe.json, kkzzhizhou/scoop-zapps, 1
+bucket/Velotype.json, dodorz/scoop, 1
 bucket/VenetaViewer.json, dodorz/scoop, 0
 bucket/Ventoy-Portable.json, ACooper81/scoop-apps, 1
 bucket/Venue11Remap.json, kkzzhizhou/scoop-zapps, 1
@@ -4073,6 +4075,7 @@ bucket/elm.json, ScoopInstaller/Main, 1
 bucket/elvish.json, ScoopInstaller/Main, 0
 bucket/emacs-k.json, kiennq/scoop-misc, 1
 bucket/emacs-lsp-booster.json, kiennq/scoop-misc, 1
+bucket/emacs-pretest.json, iquiw/scoop-bucket, 0
 bucket/emacs-tree-sitter-module-ucrt64.json, iquiw/scoop-bucket, 1
 bucket/emacs-tree-sitter-module.json, iquiw/scoop-bucket, 1
 bucket/emacs-x.json, kiennq/scoop-misc, 1
@@ -6048,7 +6051,7 @@ bucket/lambdahack.json, Calinou/scoop-games, 1
 bucket/lame.json, ScoopInstaller/Main, 0
 bucket/lamexp-qaac.json, ScoopInstaller/Versions, 0
 bucket/lamexp.json, ScoopInstaller/Extras, 0
-bucket/lan-mouse.json, Weidows-projects/scoop-3rd, 1
+bucket/lan-mouse.json, DoveBoy/Apps, 1
 bucket/landrop.json, ScoopInstaller/Extras, 1
 bucket/languagetool-java.json, ScoopInstaller/Extras, 0
 bucket/languagetool.json, ScoopInstaller/Extras, 0
@@ -7652,6 +7655,7 @@ bucket/opera.json, ScoopInstaller/Extras, 0
 bucket/operacacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/operapassview.json, ScoopInstaller/Nirsoft, 0
 bucket/optimizer.json, ScoopInstaller/Extras, 1
+bucket/optimizerduck.json, DoveBoy/Apps, 1
 bucket/optipng.json, ScoopInstaller/Main, 0
 bucket/opus-tools.json, ScoopInstaller/Main, 0
 bucket/oq.json, aliesbelik/poldi, 1
