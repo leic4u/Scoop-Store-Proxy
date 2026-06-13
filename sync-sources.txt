@@ -4361,7 +4361,7 @@ bucket/file.json, ScoopInstaller/Main, 1
 bucket/fileaccesserrorview.json, ScoopInstaller/Nirsoft, 0
 bucket/fileactivitywatch.json, ScoopInstaller/Nirsoft, 0
 bucket/filebot.json, ScoopInstaller/Extras, 0
-bucket/filebrowser.json, amorphobia/siku, 1
+bucket/filebrowser.json, aliesbelik/poldi, 1
 bucket/filecode-checker.json, mo-san/scoop-bucket, 0
 bucket/fileconverter.json, DoveBoy/Apps, 1
 bucket/filelight-nightly.json, ScoopInstaller/Versions, 0
