@@ -2621,6 +2621,7 @@ bucket/beeper.json, ScoopInstaller/Extras, 0
 bucket/beeref.json, ScoopInstaller/Extras, 1
 bucket/behinder.json, ViCrack/scoop-bucket, 1
 bucket/belautils.json, chawyehsu/dorado, 1
+bucket/bencher.json, ScoopInstaller/Main, 1
 bucket/bencode-editor.json, ScoopInstaller/Extras, 0
 bucket/bento4.json, ScoopInstaller/Main, 0
 bucket/bepass.json, aliesbelik/poldi, 1
@@ -4318,6 +4319,7 @@ bucket/ff-logs-uploader.json, Calinou/scoop-games, 1
 bucket/ff-password-exporter.json, jingyu9575/scoop-jingyu9575, 1
 bucket/ffb.json, rasa/scoops, 0
 bucket/ffdec.json, ScoopInstaller/Extras, 1
+bucket/fff.json, ScoopInstaller/Main, 1
 bucket/ffftp.json, jfut/scoop-jfut, 1
 bucket/ffmpeg-batch.json, ScoopInstaller/Extras, 1
 bucket/ffmpeg-essentials.json, ScoopInstaller/Main, 1
@@ -6320,7 +6322,7 @@ bucket/llama.cpp-hip-radeon.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-opencl.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-sycl.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-vulkan.json, ScoopInstaller/Versions, 1
-bucket/llamafile.json, chawyehsu/dorado, 1
+bucket/llamafile.json, ScoopInstaller/Main, 1
 bucket/llmfit.json, ScoopInstaller/Main, 1
 bucket/llrt-beta.json, ScoopInstaller/Versions, 1
 bucket/lltskb.json, seumsc/scoop-seu, 0
@@ -8939,6 +8941,7 @@ bucket/rbtray.json, ScoopInstaller/Extras, 1
 bucket/rbxfpsunlocker.json, Calinou/scoop-games, 1
 bucket/rcc.json, ScoopInstaller/Main, 0
 bucket/rcedit.json, ScoopInstaller/Main, 1
+bucket/rclip.json, ScoopInstaller/Main, 1
 bucket/rclone-beta.json, ScoopInstaller/Versions, 0
 bucket/rclone-browser.json, ScoopInstaller/Extras, 1
 bucket/rclone-manager.json, ScoopInstaller/Extras, 1
