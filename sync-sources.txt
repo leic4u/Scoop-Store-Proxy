@@ -6516,7 +6516,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -9137,7 +9137,7 @@ bucket/rizin.json, ScoopInstaller/Main, 1
 bucket/rk-tools.json, SayCV/scoop-cvp, 1
 bucket/rke.json, ScoopInstaller/Main, 1
 bucket/rktools2k3.json, ScoopInstaller/Main, 1
-bucket/rmg.json, Calinou/scoop-games, 1
+bucket/rmg.json, borger/scoop-emulators, 1
 bucket/rmx.json, ViCrack/scoop-bucket, 1
 bucket/rnote.json, ScoopInstaller/Extras, 1
 bucket/rnr.json, ScoopInstaller/Main, 1
@@ -9308,7 +9308,7 @@ bucket/samsung-magician-np.json, rasa/scoops, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
+bucket/sandboxie-plus.json, DoveBoy/Apps, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1
