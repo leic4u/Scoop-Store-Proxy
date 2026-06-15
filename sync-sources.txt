@@ -2188,7 +2188,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3674,6 +3674,7 @@ bucket/dhcplogview.json, ScoopInstaller/Nirsoft, 0
 bucket/dia.json, ScoopInstaller/Extras, 0
 bucket/diagram-designer.json, ScoopInstaller/Extras, 0
 bucket/dialupass.json, ScoopInstaller/Nirsoft, 0
+bucket/dibo.json, aliesbelik/poldi, 1
 bucket/didder.json, ScoopInstaller/Extras, 1
 bucket/die.json, SayCV/scoop-cvp, 1
 bucket/diff-pdf.json, ScoopInstaller/Extras, 1
@@ -8537,6 +8538,7 @@ bucket/privoxy.json, ScoopInstaller/Extras, 0
 bucket/prm.json, ScoopInstaller/Main, 1
 bucket/probe-rs.json, ScoopInstaller/Main, 1
 bucket/procdump.json, niheaven/scoop-sysinternals, 1
+bucket/process-compose.json, ScoopInstaller/Extras, 1
 bucket/process-explorer.json, chawyehsu/dorado, 0
 bucket/process-governor.json, ScoopInstaller/Main, 1
 bucket/process-monitor.json, chawyehsu/dorado, 0
