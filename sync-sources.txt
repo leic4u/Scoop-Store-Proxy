@@ -122,7 +122,7 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, dodorz/scoop, 1
+bucket/AionUi.json, renxia/scoop-bucket, 1
 bucket/AlephNote.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
 bucket/AliWangWang.json, SayCV/scoop-cvp, 1
@@ -6519,7 +6519,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
