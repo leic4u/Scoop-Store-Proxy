@@ -389,6 +389,7 @@ bucket/CuteHttpFileServerGUI-Portable.json, ACooper81/scoop-apps, 0
 bucket/CutyCapt.json, dodorz/scoop, 0
 bucket/CyLog.json, dodorz/scoop, 0
 bucket/CyberShredder.json, dodorz/scoop, 0
+bucket/CzkawkaGUI.json, dodorz/scoop, 1
 bucket/D2Coding-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/D2Coding-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/D2Coding-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -6517,7 +6518,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -8742,6 +8743,7 @@ bucket/pyzo.json, ScoopInstaller/Extras, 1
 bucket/q-dir.json, ScoopInstaller/Extras, 0
 bucket/q-dns.json, ScoopInstaller/Main, 1
 bucket/q.json, ScoopInstaller/Main, 1
+bucket/q2.json, cderv/r-bucket, 1
 bucket/q2pro.json, Calinou/scoop-games, 0
 bucket/qBittorrent-Install.json, ACooper81/scoop-apps, 0
 bucket/qBittorrent-Portable.json, ACooper81/scoop-apps, 0
@@ -10560,6 +10562,7 @@ bucket/tts-vue.json, abgox/abgo_bucket, 1
 bucket/ttyd.json, ScoopInstaller/Main, 1
 bucket/ttyper.json, ScoopInstaller/Main, 1
 bucket/tuba-tool.json, ChinLong/scoop-customize, 0
+bucket/tuicr.json, ScoopInstaller/Main, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
 bucket/tuios.json, dodorz/scoop, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
