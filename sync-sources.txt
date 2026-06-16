@@ -5493,6 +5493,7 @@ bucket/imgburn.json, ScoopInstaller/Extras, 1
 bucket/imgcat.json, batkiz/backit, 1
 bucket/imgcatr.json, dodorz/scoop, 1
 bucket/imgdiff.json, dodorz/scoop, 1
+bucket/imgdrive.json, aoisummer/scoop-bucket, 0
 bucket/imhex.json, ScoopInstaller/Extras, 1
 bucket/immuadmin.json, littleli/Scoop-littleli, 1
 bucket/immuclient.json, littleli/Scoop-littleli, 1
@@ -5980,7 +5981,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -6520,7 +6521,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
