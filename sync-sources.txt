@@ -2212,6 +2212,7 @@ bucket/amidst.json, Calinou/scoop-games, 1
 bucket/ammonite.json, ScoopInstaller/Main, 1
 bucket/amp-font-viewer.json, naderi/scoop-bucket, 0
 bucket/amp-winoff.json, ScoopInstaller/Extras, 0
+bucket/amule.json, ScoopInstaller/Extras, 1
 bucket/amulet-map-editor.json, Calinou/scoop-games, 1
 bucket/amulet.json, ScoopInstaller/Main, 1
 bucket/anaconda2.json, ScoopInstaller/Versions, 0
