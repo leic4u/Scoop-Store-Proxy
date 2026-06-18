@@ -6523,7 +6523,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -8786,6 +8786,7 @@ bucket/qmk-toolbox.json, ScoopInstaller/Extras, 1
 bucket/qmmp.json, littleli/Scoop-littleli, 0
 bucket/qmplay2.json, ScoopInstaller/Extras, 1
 bucket/qnapi.json, ScoopInstaller/Extras, 1
+bucket/qoderwork-cn.json, ivaquero/scoopet, 0
 bucket/qownnotes.json, ScoopInstaller/Extras, 1
 bucket/qpdf.json, ScoopInstaller/Main, 1
 bucket/qq-dreamcast.json, ZvonimirSun/scoop-iszy, 1
