@@ -9657,6 +9657,7 @@ bucket/single-file.json, dodorz/scoop, 1
 bucket/sioyek-preview.json, brian6932/dank-scoop, 1
 bucket/sioyek.json, ScoopInstaller/Extras, 1
 bucket/sirikali.json, ScoopInstaller/Extras, 1
+bucket/siril.json, ScoopInstaller/Extras, 0
 bucket/siteshoter.json, ScoopInstaller/Nirsoft, 0
 bucket/sixcells.json, Calinou/scoop-games, 1
 bucket/siyuan-ce.json, ViCrack/scoop-bucket, 1
