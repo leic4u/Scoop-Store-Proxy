@@ -2038,7 +2038,6 @@ bucket/Yudit.json, dodorz/scoop, 0
 bucket/Yumi-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiExFAT-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiUefi-Portable.json, ACooper81/scoop-apps, 0
-bucket/ZCode.json, dodorz/scoop, 0
 bucket/ZGrapher.json, dodorz/scoop, 0
 bucket/ZMeter-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZY-Player.json, kkzzhizhou/scoop-zapps, 1
@@ -2514,7 +2513,7 @@ bucket/azure-iot-explorer.json, ScoopInstaller/Extras, 1
 bucket/azure-kubelogin.json, ScoopInstaller/Main, 1
 bucket/azure-ps.json, ScoopInstaller/Main, 1
 bucket/azuredatastudio-insiders.json, ScoopInstaller/Versions, 0
-bucket/azuredatastudio.json, ScoopInstaller/Extras, 0
+bucket/azuredatastudio.json, ScoopInstaller/Extras, 1
 bucket/azurestorageexplorer.json, ScoopInstaller/Extras, 1
 bucket/b-em.json, hermanjustnu/scoop-emulators, 0
 bucket/b0pass.json, DoveBoy/Apps, 1
@@ -3509,6 +3508,7 @@ bucket/customizeie.json, kodybrown/scoop-nirsoft, 0
 bucket/cutemarked.json, naderi/scoop-bucket, 0
 bucket/cutter.json, ScoopInstaller/Extras, 1
 bucket/cv4pve-pepper.json, ScoopInstaller/Extras, 1
+bucket/cvc5.json, ScoopInstaller/Main, 1
 bucket/cvs.json, ScoopInstaller/Main, 0
 bucket/cwtch.json, naderi/scoop-bucket, 0
 bucket/cxbx-reloaded.json, Calinou/scoop-games, 1
@@ -6524,7 +6524,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -11688,6 +11688,7 @@ bucket/zaproxy.json, ScoopInstaller/Extras, 1
 bucket/zazu.json, naderi/scoop-bucket, 1
 bucket/zcashd.json, littleli/Scoop-littleli, 1
 bucket/zclient.json, SayCV/scoop-cvp, 0
+bucket/zcode.json, ScoopInstaller/Extras, 0
 bucket/zdbsp.json, Calinou/scoop-games, 0
 bucket/zdl.json, Calinou/scoop-games, 1
 bucket/zeal.json, ScoopInstaller/Extras, 1
