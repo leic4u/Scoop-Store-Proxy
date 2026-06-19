@@ -4865,7 +4865,6 @@ bucket/gitg.json, cc713/ownscoop, 0
 bucket/github-beta.json, ScoopInstaller/Versions, 1
 bucket/github-hosts.json, DoveBoy/Apps, 1
 bucket/github-mcp-server.json, cderv/r-bucket, 1
-bucket/github-store.json, DoveBoy/Apps, 1
 bucket/github.json, ScoopInstaller/Extras, 1
 bucket/gitify.json, ScoopInstaller/Extras, 1
 bucket/gitignore.json, ScoopInstaller/Main, 1
@@ -5974,6 +5973,7 @@ bucket/komac.json, ScoopInstaller/Extras, 1
 bucket/komelia.json, aoisummer/scoop-bucket, 1
 bucket/komf.json, ScoopInstaller/Extras, 1
 bucket/komga.json, ScoopInstaller/Extras, 1
+bucket/komi-store.json, DoveBoy/Apps, 1
 bucket/komokana.json, ScoopInstaller/Extras, 1
 bucket/komorebi-nightly.json, ScoopInstaller/Versions, 1
 bucket/komorebi-tray.json, starise/Scoop-Confetti, 1
@@ -6524,7 +6524,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
