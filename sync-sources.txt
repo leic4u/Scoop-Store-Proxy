@@ -2772,6 +2772,7 @@ bucket/boom.json, naderi/scoop-bucket, 0
 bucket/boomerang.json, TheCjw/scoop-retools, 1
 bucket/boost-msvc142.json, ScoopInstaller/Versions, 0
 bucket/boost.json, ScoopInstaller/Main, 0
+bucket/boosterx.json, ScoopInstaller/Extras, 0
 bucket/boostnote-local.json, ScoopInstaller/Extras, 1
 bucket/boostnote.json, ScoopInstaller/Extras, 1
 bucket/boot-clj.json, ScoopInstaller/Extras, 1
@@ -6117,6 +6118,7 @@ bucket/leagueakari.json, DoveBoy/Apps, 1
 bucket/leaguemono.json, KnotUntied/scoop-fonts, 1
 bucket/lealone.json, zhoujin7/tomato, 0
 bucket/lean-cli.json, ScoopInstaller/Main, 1
+bucket/lean-ctx.json, ScoopInstaller/Main, 1
 bucket/leanify.json, seumsc/scoop-seu, 1
 bucket/ledger-live.json, chawyehsu/dorado, 0
 bucket/ledger.json, iquiw/scoop-bucket, 1
@@ -6525,7 +6527,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
