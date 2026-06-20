@@ -2139,7 +2139,7 @@ bucket/agave.json, KnotUntied/scoop-fonts, 1
 bucket/age.json, ScoopInstaller/Extras, 1
 bucket/agent-browser.json, ScoopInstaller/Main, 1
 bucket/agentsview-desktop.json, cderv/r-bucket, 1
-bucket/agentsview.json, cderv/r-bucket, 1
+bucket/agentsview.json, ScoopInstaller/Main, 1
 bucket/aget-rs.json, amorphobia/siku, 1
 bucket/aget.json, dodorz/scoop, 1
 bucket/agg.json, ScoopInstaller/Main, 1
@@ -3253,6 +3253,7 @@ bucket/codex-monitor.json, ScoopInstaller/Extras, 1
 bucket/codex-tools.json, batkiz/backit, 1
 bucket/codex.json, ScoopInstaller/Main, 1
 bucket/codexbar.json, starise/Scoop-Confetti, 1
+bucket/codiff.json, ScoopInstaller/Extras, 1
 bucket/coilcraft-filterdesigner.json, SayCV/scoop-cvp, 0
 bucket/coinomi.json, naderi/scoop-bucket, 0
 bucket/cointop.json, MCOfficer/scoop-bucket, 1
@@ -6812,6 +6813,7 @@ bucket/minitool-partition-wizard.json, naderi/scoop-bucket, 0
 bucket/minutor.json, Calinou/scoop-games, 1
 bucket/mirc-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/miro-pdf.json, ScoopInstaller/Extras, 1
+bucket/miru-portable.json, DoveBoy/Apps, 1
 bucket/miru.json, beerpiss/scoop-bucket, 1
 bucket/misaka-translator.json, seumsc/scoop-seu, 1
 bucket/misakatranslator.json, ivaquero/scoopet, 1
@@ -7773,6 +7775,7 @@ bucket/pandoc-templates.json, brian6932/dank-scoop, 0
 bucket/pandoc.json, ScoopInstaller/Main, 1
 bucket/pandoralauncher.json, Calinou/scoop-games, 1
 bucket/pandownload.json, kidonng/sushi, 1
+bucket/pano-scrobbler.json, DoveBoy/Apps, 1
 bucket/pansy.json, DoveBoy/Apps, 1
 bucket/panwriter.json, ScoopInstaller/Extras, 1
 bucket/paperang.json, AkinoKaede/maple, 0
@@ -8363,6 +8366,10 @@ bucket/pijul.json, ScoopInstaller/Versions, 1
 bucket/pikapika.json, DoveBoy/Apps, 1
 bucket/pikatorrent.json, DoveBoy/Apps, 1
 bucket/pikpak.json, akirco/aki-apps, 0
+bucket/pilinara-portable.json, DoveBoy/Apps, 1
+bucket/pilinara.json, DoveBoy/Apps, 1
+bucket/piliplus-portable.json, DoveBoy/Apps, 1
+bucket/piliplus.json, DoveBoy/Apps, 1
 bucket/pincat.json, chawyehsu/dorado, 1
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineflash.json, ScoopInstaller/Extras, 1
@@ -8786,6 +8793,7 @@ bucket/qimgv.json, ScoopInstaller/Extras, 1
 bucket/qkeymapper-qt5.json, DoveBoy/Apps, 1
 bucket/qkeymapper-qt6.json, DoveBoy/Apps, 1
 bucket/qm-py.json, couleur-tweak-tips/utils, 1
+bucket/qmc-decoder.json, DoveBoy/Apps, 1
 bucket/qmk-toolbox.json, ScoopInstaller/Extras, 1
 bucket/qmmp.json, littleli/Scoop-littleli, 0
 bucket/qmplay2.json, ScoopInstaller/Extras, 1
@@ -10438,6 +10446,7 @@ bucket/tldr.json, ScoopInstaller/Main, 1
 bucket/tlrc.json, ScoopInstaller/Main, 1
 bucket/tls_proxy.json, ViCrack/scoop-bucket, 1
 bucket/tlsx.json, aliesbelik/poldi, 1
+bucket/tmall-miao.json, DoveBoy/Apps, 1
 bucket/tmaze.json, Calinou/scoop-games, 1
 bucket/tockler.json, chawyehsu/dorado, 1
 bucket/todesk.json, amorphobia/siku, 0
@@ -11484,6 +11493,7 @@ bucket/xiaoji.json, echoiron/echo-scoop, 0
 bucket/xiaowan.json, echoiron/echo-scoop, 0
 bucket/xidel.json, ScoopInstaller/Main, 1
 bucket/xigua-video.json, SayCV/scoop-cvp, 0
+bucket/ximalaya-downloader.json, DoveBoy/Apps, 1
 bucket/xion-audio-player.json, naderi/scoop-bucket, 0
 bucket/xiuxiu.json, echoiron/echo-scoop, 0
 bucket/xivlauncher.json, Calinou/scoop-games, 1
