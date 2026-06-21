@@ -10596,6 +10596,7 @@ bucket/tursi.json, jfut/scoop-jfut, 1
 bucket/turtl.json, ScoopInstaller/Extras, 1
 bucket/tusk.json, ScoopInstaller/Extras, 1
 bucket/tutanota.json, ScoopInstaller/Extras, 1
+bucket/tuxedo.json, ScoopInstaller/Main, 1
 bucket/tuxguitar.json, ScoopInstaller/Extras, 0
 bucket/tuya.json, akirco/aki-apps, 0
 bucket/tweakpower.json, dodorz/scoop, 0
