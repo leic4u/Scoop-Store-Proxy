@@ -5490,7 +5490,7 @@ bucket/imazing.json, beerpiss/scoop-bucket, 0
 bucket/imdone.json, ScoopInstaller/Extras, 0
 bucket/imewlconverter.json, hu3rror/scoop-muggle, 1
 bucket/imfile-portable.json, DoveBoy/Apps, 1
-bucket/imfile.json, DoveBoy/Apps, 1
+bucket/imfile.json, naderi/scoop-bucket, 1
 bucket/imgbrd-grabber.json, cc713/ownscoop, 1
 bucket/imgburn.ja.json, jfut/scoop-jfut, 0
 bucket/imgburn.json, ScoopInstaller/Extras, 1
