@@ -4857,6 +4857,7 @@ bucket/git.json, ScoopInstaller/Main, 1
 bucket/git19.json, ScoopInstaller/Versions, 1
 bucket/gitahead.json, ScoopInstaller/Extras, 1
 bucket/gitalias.json, DoveBoy/Apps, 0
+bucket/gitas.json, ScoopInstaller/Extras, 1
 bucket/gitbutler-nightly.json, ScoopInstaller/Versions, 0
 bucket/gitbutler.json, ScoopInstaller/Extras, 0
 bucket/gitea-beta.json, ScoopInstaller/Versions, 1
