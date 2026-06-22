@@ -2188,7 +2188,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -5849,6 +5849,8 @@ bucket/kail.json, aliesbelik/poldi, 1
 bucket/kakaotalk.json, ScoopInstaller/Extras, 0
 bucket/kalk.json, ScoopInstaller/Main, 1
 bucket/kalker.json, ScoopInstaller/Main, 1
+bucket/kamusic-portable.json, DoveBoy/Apps, 1
+bucket/kamusic.json, DoveBoy/Apps, 0
 bucket/kanata-cmd.json, ScoopInstaller/Extras, 1
 bucket/kanata.json, ScoopInstaller/Extras, 1
 bucket/kando-portable.json, DoveBoy/Apps, 1
@@ -6516,6 +6518,7 @@ bucket/manictime.json, ScoopInstaller/Extras, 0
 bucket/manifold-viewer.json, ScoopInstaller/Extras, 0
 bucket/manifold.json, ScoopInstaller/Extras, 0
 bucket/manpages-zh.json, dodorz/scoop, 1
+bucket/mapcidr.json, aliesbelik/poldi, 1
 bucket/mapdownload.json, DoveBoy/Apps, 1
 bucket/maple-file.json, DoveBoy/Apps, 1
 bucket/maple.json, ScoopInstaller/Extras, 1
@@ -8400,7 +8403,7 @@ bucket/pixieditor.json, ScoopInstaller/Extras, 1
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
 bucket/pixiv-omina.json, batkiz/backit, 1
-bucket/pixivbiu.json, hu3rror/scoop-muggle, 1
+bucket/pixivbiu.json, DoveBoy/Apps, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
