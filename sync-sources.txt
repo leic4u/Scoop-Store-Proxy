@@ -2040,6 +2040,7 @@ bucket/YumiExFAT-Portable.json, ACooper81/scoop-apps, 0
 bucket/YumiUefi-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZGrapher.json, dodorz/scoop, 0
 bucket/ZMeter-Portable.json, ACooper81/scoop-apps, 0
+bucket/ZQFS.json, dodorz/scoop, 1
 bucket/ZY-Player.json, kkzzhizhou/scoop-zapps, 1
 bucket/ZYPlayer.json, DoveBoy/Apps, 1
 bucket/Zback.json, dodorz/scoop, 0
@@ -5228,6 +5229,7 @@ bucket/haxe.json, ScoopInstaller/Main, 1
 bucket/hck.json, batkiz/backit, 1
 bucket/hcloud.json, ScoopInstaller/Main, 1
 bucket/hdcleaner.json, naderi/scoop-bucket, 0
+bucket/hdiffpatch.json, ScoopInstaller/Main, 1
 bucket/hdrtray.json, starise/Scoop-Confetti, 1
 bucket/hdtune.json, echoiron/echo-scoop, 0
 bucket/headlamp.json, ScoopInstaller/Extras, 1
@@ -7836,7 +7838,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
