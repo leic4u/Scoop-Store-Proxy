@@ -5058,6 +5058,7 @@ bucket/gossl.json, aliesbelik/poldi, 1
 bucket/gossm.json, ScoopInstaller/Main, 1
 bucket/gost.json, wzv5/ScoopBucket, 1
 bucket/gostv3.json, NyaMisty/scoop_bucket_misty, 1
+bucket/gosuki.json, ScoopInstaller/Main, 1
 bucket/got.json, aliesbelik/poldi, 1
 bucket/gotify-cli.json, ScoopInstaller/Main, 1
 bucket/gotify-server.json, ScoopInstaller/Main, 1
@@ -5992,7 +5993,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
