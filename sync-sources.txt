@@ -888,6 +888,7 @@ bucket/Krita-Portable.json, ACooper81/scoop-apps, 0
 bucket/Krub.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/KryptorGUI.json, brian6932/dank-scoop, 1
 bucket/KuGouMusic.json, abgox/abgo_bucket, 0
+bucket/Kun.json, dodorz/scoop, 0
 bucket/LDDC.json, batkiz/backit, 1
 bucket/LDPlayer-Portable.json, ACooper81/scoop-apps, 0
 bucket/LDWin-Portable.json, ACooper81/scoop-apps, 1
@@ -6339,6 +6340,8 @@ bucket/llama.cpp-cpu.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu117.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu124-dll.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu124.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-cu13-dll.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-cu13.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu131-dll.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu131.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu133-dll.json, ScoopInstaller/Versions, 1
@@ -6545,7 +6548,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -7205,7 +7208,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
