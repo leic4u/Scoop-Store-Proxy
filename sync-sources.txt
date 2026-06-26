@@ -2193,7 +2193,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2888,7 +2888,7 @@ bucket/caesium.json, ViCrack/scoop-bucket, 1
 bucket/caffeinated.json, naderi/scoop-bucket, 0
 bucket/caffeine.json, ScoopInstaller/Extras, 0
 bucket/cairo-desktop.json, ScoopInstaller/Extras, 1
-bucket/cajviewer.json, ivaquero/scoopet, 0
+bucket/cajviewer.json, dodorz/scoop, 0
 bucket/cake-wallet.json, ScoopInstaller/Extras, 1
 bucket/cake.json, ScoopInstaller/Main, 1
 bucket/calctus.json, DoveBoy/Apps, 1
@@ -5479,6 +5479,7 @@ bucket/ifrextractor.json, seumsc/scoop-seu, 1
 bucket/igdm.json, ScoopInstaller/Extras, 1
 bucket/ignoreit.json, ScoopInstaller/Extras, 1
 bucket/igrep.json, ScoopInstaller/Main, 1
+bucket/igv.json, ScoopInstaller/Extras, 0
 bucket/ihateborders.json, starise/Scoop-Gaming, 1
 bucket/iii.json, ScoopInstaller/Main, 1
 bucket/ijhttp.json, ScoopInstaller/Main, 0
@@ -9206,7 +9207,7 @@ bucket/roughgrep.json, ScoopInstaller/Extras, 1
 bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
