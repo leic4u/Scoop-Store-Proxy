@@ -2734,6 +2734,7 @@ bucket/blink1control2.json, ScoopInstaller/Extras, 1
 bucket/blisk-portable.json, naderi/scoop-bucket, 0
 bucket/blisk.json, ScoopInstaller/Extras, 0
 bucket/blitz.json, Calinou/scoop-games, 0
+bucket/bloatynosy.json, ScoopInstaller/Extras, 1
 bucket/blobsaver.json, ScoopInstaller/Extras, 1
 bucket/blockbench.json, Calinou/scoop-games, 1
 bucket/blockthespot.json, DoveBoy/Apps, 1
@@ -5763,6 +5764,7 @@ bucket/jmcomic-downloader.json, DoveBoy/Apps, 1
 bucket/jmeter-pm.json, ScoopInstaller/Extras, 0
 bucket/jmeter.json, ScoopInstaller/Extras, 0
 bucket/jmkvpropedit.json, ScoopInstaller/Extras, 1
+bucket/jmstoolbox.json, ScoopInstaller/Extras, 1
 bucket/jmxterm.json, ScoopInstaller/Main, 1
 bucket/jndinjector.json, ViCrack/scoop-bucket, 1
 bucket/jnv.json, ScoopInstaller/Main, 1
@@ -9207,7 +9209,7 @@ bucket/roughgrep.json, ScoopInstaller/Extras, 1
 bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
