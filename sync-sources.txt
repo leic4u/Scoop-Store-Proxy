@@ -2333,6 +2333,8 @@ bucket/aqtinstall.json, ScoopInstaller/Main, 1
 bucket/aqua.json, ScoopInstaller/Main, 1
 bucket/aquasnap.json, starise/Scoop-Confetti, 0
 bucket/arc.json, ScoopInstaller/Main, 1
+bucket/arcade-manager-console.json, Calinou/scoop-games, 1
+bucket/arcade-manager.json, Calinou/scoop-games, 1
 bucket/arcadedb.json, ScoopInstaller/Extras, 1
 bucket/archi.json, ScoopInstaller/Extras, 1
 bucket/archisteamfarm-generic.json, seumsc/scoop-seu, 1
