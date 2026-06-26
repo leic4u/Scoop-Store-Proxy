@@ -565,7 +565,7 @@ bucket/FastCopy-M.json, Paxxs/Cluttered-bucket, 1
 bucket/FastGithub.json, abgox/abgo_bucket, 0
 bucket/Feep.json, dodorz/scoop, 1
 bucket/FeiQ.json, dodorz/scoop, 0
-bucket/FeiShu.json, chawyehsu/dorado, 0
+bucket/FeiShu.json, scoopcn/scoopcn, 0
 bucket/FerdiumNightly-Portable.json, ACooper81/scoop-apps, 1
 bucket/Fido-PSScript.json, ACooper81/scoop-apps, 1
 bucket/FileCentipede.json, leic4u/Scoop-Store, 1
@@ -5150,6 +5150,7 @@ bucket/griddycode.json, Weidows-projects/scoop-3rd, 1
 bucket/gridea.json, ScoopInstaller/Extras, 1
 bucket/gridplayer.json, ScoopInstaller/Extras, 1
 bucket/grip-py.json, TheRandomLabs/Scoop-Python, 1
+bucket/grok-cli.json, ScoopInstaller/Main, 0
 bucket/gron.json, ScoopInstaller/Main, 1
 bucket/groovy.json, ScoopInstaller/Main, 0
 bucket/groovyserv.json, ScoopInstaller/Main, 0
@@ -5735,7 +5736,7 @@ bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, akirco/aki-apps, 0
+bucket/jianyingpro.json, chawyehsu/dorado, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
 bucket/jijidown.json, amorphobia/siku, 0
@@ -7209,7 +7210,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
