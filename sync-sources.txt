@@ -3398,6 +3398,7 @@ bucket/cpustres.json, niheaven/scoop-sysinternals, 1
 bucket/cpuz-cn.json, ViCrack/scoop-bucket, 0
 bucket/cq.json, ScoopInstaller/Main, 1
 bucket/cracklock.json, SayCV/scoop-cvp, 0
+bucket/craft-agents.json, batkiz/backit, 1
 bucket/crafty-controller.json, Calinou/scoop-games, 0
 bucket/cranko.json, batkiz/backit, 1
 bucket/crapfixer.json, naderi/scoop-bucket, 1
@@ -5315,7 +5316,7 @@ bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hloader.json, aliesbelik/poldi, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 1
-bucket/hmcl.json, seumsc/scoop-seu, 1
+bucket/hmcl.json, Calinou/scoop-games, 1
 bucket/hme-fuxi.json, SayCV/scoop-cvp, 0
 bucket/hmm.json, aliesbelik/poldi, 1
 bucket/hok.json, chawyehsu/dorado, 1
@@ -8372,6 +8373,7 @@ bucket/phyrox-developer-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/phyrox-esr-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/phyrox-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/pi-coding-agent.json, ScoopInstaller/Main, 1
+bucket/pi-desktop.json, batkiz/backit, 1
 bucket/pia-desktop.json, ScoopInstaller/Extras, 0
 bucket/pianobar.json, ScoopInstaller/Extras, 1
 bucket/pic2meme.json, ygguorun/scoop-bucket, 1
