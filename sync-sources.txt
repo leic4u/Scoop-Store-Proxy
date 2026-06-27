@@ -4928,6 +4928,7 @@ bucket/gluon-openjfx-sdk.json, ScoopInstaller/Java, 0
 bucket/gluttonyFLIF.json, ygguorun/scoop-bucket, 0
 bucket/gluttonyPNG.json, ygguorun/scoop-bucket, 0
 bucket/gmic-cli.json, ScoopInstaller/Main, 0
+bucket/gmic-qt.json, ScoopInstaller/Extras, 0
 bucket/gmkvextractgui.json, ScoopInstaller/Extras, 0
 bucket/gmsh.json, chawyehsu/dorado, 0
 bucket/gn.json, ScoopInstaller/Versions, 0
@@ -4973,6 +4974,7 @@ bucket/gobench.json, aliesbelik/poldi, 1
 bucket/gobuster.json, ScoopInstaller/Main, 1
 bucket/gocannon.json, aliesbelik/poldi, 1
 bucket/gocker.json, aliesbelik/poldi, 1
+bucket/goclashz.json, hu3rror/scoop-muggle, 1
 bucket/godap.json, aliesbelik/poldi, 1
 bucket/godmode.json, DoveBoy/Apps, 1
 bucket/godot-alpha.json, ScoopInstaller/Versions, 0
@@ -5382,7 +5384,7 @@ bucket/hugo.json, ScoopInstaller/Main, 1
 bucket/hulak.json, aliesbelik/poldi, 1
 bucket/humanlog.json, aliesbelik/poldi, 1
 bucket/hummingbird.json, abgox/abgo_bucket, 1
-bucket/hunk.json, aliesbelik/poldi, 1
+bucket/hunk.json, ScoopInstaller/Main, 1
 bucket/hunspell.json, iquiw/scoop-bucket, 1
 bucket/hunt-and-peck.json, ScoopInstaller/Extras, 1
 bucket/hunterpie.json, Deide/deide-bucket, 1
@@ -7292,6 +7294,7 @@ bucket/nk2view.json, ScoopInstaller/Nirsoft, 0
 bucket/nmap-portable.json, akirco/aki-apps, 0
 bucket/nmap.json, ScoopInstaller/Main, 0
 bucket/nmkoder.json, ScoopInstaller/Extras, 1
+bucket/no-mistakes.json, ScoopInstaller/Main, 1
 bucket/no-steam-webhelper.json, brian6932/dank-scoop, 1
 bucket/node-compiler.json, ScoopInstaller/Extras, 1
 bucket/nodejs-bin.json, wzv5/ScoopBucket, 1
@@ -9774,6 +9777,7 @@ bucket/snipaste-beta.json, ScoopInstaller/Versions, 0
 bucket/snipaste.json, ScoopInstaller/Extras, 0
 bucket/sniproxy.json, DoveBoy/Apps, 1
 bucket/snoop.json, ScoopInstaller/Extras, 1
+bucket/snoretoast.json, ScoopInstaller/Extras, 0
 bucket/snova-asioCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/so-novel-beta.json, DoveBoy/Apps, 1
 bucket/so-novel.json, DoveBoy/Apps, 1
