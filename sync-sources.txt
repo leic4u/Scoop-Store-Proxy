@@ -6969,6 +6969,7 @@ bucket/mpc-hc-fork.json, ScoopInstaller/Extras, 1
 bucket/mpc-hc-portable.json, naderi/scoop-bucket, 1
 bucket/mpc-hc.json, ScoopInstaller/Extras, 1
 bucket/mpc-qt.json, ScoopInstaller/Extras, 1
+bucket/mpc-video-renderer.json, seumsc/scoop-seu, 1
 bucket/mpc.json, ScoopInstaller/Extras, 0
 bucket/mpd.json, ScoopInstaller/Main, 0
 bucket/mpg123-dynamic.json, dodorz/scoop, 0
@@ -7705,6 +7706,7 @@ bucket/operapassview.json, ScoopInstaller/Nirsoft, 0
 bucket/optimizer.json, ScoopInstaller/Extras, 1
 bucket/optimizerduck.json, DoveBoy/Apps, 1
 bucket/optipng.json, ScoopInstaller/Main, 0
+bucket/optiscaler-client.json, seumsc/scoop-seu, 1
 bucket/opus-tools.json, ScoopInstaller/Main, 0
 bucket/oq.json, aliesbelik/poldi, 1
 bucket/oracle-instant-client-odbc.json, ScoopInstaller/Main, 0
@@ -10409,7 +10411,6 @@ bucket/thrift.json, ScoopInstaller/Main, 0
 bucket/throne.json, ScoopInstaller/Extras, 1
 bucket/throttlestop.json, ScoopInstaller/Extras, 0
 bucket/ths-desktop.json, SayCV/scoop-cvp, 0
-bucket/thumbfast-fork.json, brian6932/dank-scoop, 0
 bucket/thumbfast.json, brian6932/dank-scoop, 0
 bucket/thunder-https.json, DoveBoy/Apps, 1
 bucket/thunderbird-beta-de.json, naderi/scoop-bucket, 0
