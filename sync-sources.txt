@@ -9018,6 +9018,7 @@ bucket/realesrgan-ncnn-vulkan.json, ScoopInstaller/Main, 1
 bucket/reality.json, ViCrack/scoop-bucket, 1
 bucket/realm.json, ScoopInstaller/Main, 1
 bucket/reaper.json, ScoopInstaller/Extras, 0
+bucket/reasonix-desktop.json, ScoopInstaller/Extras, 1
 bucket/reasonix.json, ScoopInstaller/Main, 1
 bucket/rebar3.json, ScoopInstaller/Main, 1
 bucket/rebased.json, batkiz/backit, 1
