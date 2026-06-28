@@ -7861,7 +7861,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9018,6 +9018,7 @@ bucket/realesrgan-ncnn-vulkan.json, ScoopInstaller/Main, 1
 bucket/reality.json, ViCrack/scoop-bucket, 1
 bucket/realm.json, ScoopInstaller/Main, 1
 bucket/reaper.json, ScoopInstaller/Extras, 0
+bucket/reasonix.json, ScoopInstaller/Main, 1
 bucket/rebar3.json, ScoopInstaller/Main, 1
 bucket/rebased.json, batkiz/backit, 1
 bucket/rebuild-shell-icon-cache.json, ViCrack/scoop-bucket, 0
