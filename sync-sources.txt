@@ -2194,7 +2194,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -5633,7 +5633,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, KnotUntied/scoop-fonts, 1
+bucket/iosevka.json, iquiw/scoop-bucket, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
@@ -7861,7 +7861,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8481,8 +8481,7 @@ bucket/podman.json, ScoopInstaller/Main, 1
 bucket/poedit-oss-unofficial.json, jingyu9575/scoop-jingyu9575, 1
 bucket/poedit.json, ScoopInstaller/Extras, 0
 bucket/poetry.json, ScoopInstaller/Main, 0
-bucket/poi-nightly.json, Darkatse/Scoop-KanColle, 0
-bucket/poi-np.json, Darkatse/Scoop-KanColle, 0
+bucket/poi-np.json, Darkatse/Scoop-KanColle, 1
 bucket/poi.json, aoisummer/scoop-bucket, 1
 bucket/pointofix-lang.json, SayCV/scoop-cvp, 0
 bucket/pointofix.json, SayCV/scoop-cvp, 0
@@ -9321,7 +9320,7 @@ bucket/rustup-msvc-np.json, chawyehsu/dorado, 1
 bucket/rustup-msvc.json, ScoopInstaller/Main, 0
 bucket/rustup-np.json, chawyehsu/dorado, 1
 bucket/rustup.json, ScoopInstaller/Main, 0
-bucket/rusty-twinkle-tray.json, brian6932/dank-scoop, 0
+bucket/rusty-twinkle-tray.json, brian6932/dank-scoop, 1
 bucket/rv.json, ScoopInstaller/Main, 1
 bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
