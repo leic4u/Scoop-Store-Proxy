@@ -212,7 +212,7 @@ bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/BASIC256.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -2009,6 +2009,7 @@ bucket/WubiLex.json, kkzzhizhou/scoop-zapps, 0
 bucket/XAMPP-Portable.json, ACooper81/scoop-apps, 0
 bucket/XBYDriver.json, abgox/abgo_bucket, 1
 bucket/XDown.json, leic4u/Scoop-Store, 0
+bucket/XHS-Downloader.json, Weidows-projects/scoop-3rd, 1
 bucket/XJad.json, zhoujin7/tomato, 0
 bucket/XMind2020.json, dodorz/scoop, 0
 bucket/XPShutdown.json, dodorz/scoop, 0
@@ -3708,7 +3709,7 @@ bucket/dijo.json, aliesbelik/poldi, 1
 bucket/dim.json, akirco/aki-apps, 1
 bucket/dingtalk-gov.json, scoopcn/scoopcn, 0
 bucket/dingtalk-workspace-cli.json, ScoopInstaller/Main, 1
-bucket/dingtalk.json, ivaquero/scoopet, 0
+bucket/dingtalk.json, scoopcn/scoopcn, 0
 bucket/dino-rss.json, batkiz/backit, 1
 bucket/dioxus.json, ScoopInstaller/Main, 1
 bucket/directory-compare.json, naderi/scoop-bucket, 0
@@ -7220,7 +7221,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -11525,7 +11526,6 @@ bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
 bucket/xftp7p.json, kkzzhizhou/scoop-zapps, 1
 bucket/xh.json, ScoopInstaller/Main, 1
-bucket/xhs-downloader.json, DoveBoy/Apps, 1
 bucket/xiadown-portable.json, DoveBoy/Apps, 1
 bucket/xiadown.json, DoveBoy/Apps, 1
 bucket/xiaochao.json, DoveBoy/Apps, 1
