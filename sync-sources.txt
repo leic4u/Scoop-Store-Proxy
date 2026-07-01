@@ -2747,7 +2747,7 @@ bucket/blockthespot.json, DoveBoy/Apps, 1
 bucket/bloomrpc.json, batkiz/backit, 1
 bucket/bloop.json, ScoopInstaller/Extras, 1
 bucket/bloxstrap.json, Calinou/scoop-games, 1
-bucket/bluej.json, naderi/scoop-bucket, 1
+bucket/bluej.json, dodorz/scoop, 1
 bucket/bluelife-host-editor.json, ViCrack/scoop-bucket, 0
 bucket/bluelife-keyfreeze.json, ViCrack/scoop-bucket, 0
 bucket/bluescreen.json, mogeko/scoop-sysinternals, 0
@@ -8827,6 +8827,8 @@ bucket/qemu-img.json, hu3rror/scoop-muggle, 0
 bucket/qemu.json, ScoopInstaller/Main, 0
 bucket/qflipper.json, ScoopInstaller/Extras, 0
 bucket/qft.json, brian6932/dank-scoop, 1
+bucket/qgis-ltr-server.json, seumsc/scoop-seu, 0
+bucket/qgis-server.json, seumsc/scoop-seu, 0
 bucket/qgis.json, chawyehsu/dorado, 0
 bucket/qgroundcontrol.json, ScoopInstaller/Extras, 1
 bucket/qilin.json, naderi/scoop-bucket, 1
