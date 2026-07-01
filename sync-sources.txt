@@ -2841,7 +2841,6 @@ bucket/bttf.json, ScoopInstaller/Main, 1
 bucket/btyacc.json, ScoopInstaller/Main, 0
 bucket/buck.json, ScoopInstaller/Main, 0
 bucket/buck2-pre.json, ScoopInstaller/Versions, 1
-bucket/bucket/clash-nyanpasu-nightly.json, hu3rror/scoop-muggle, 1
 bucket/buckets.json, ScoopInstaller/Extras, 1
 bucket/buf.json, ScoopInstaller/Main, 1
 bucket/buffalo.json, ScoopInstaller/Main, 1
@@ -3134,6 +3133,7 @@ bucket/clash-dashboard.json, everyx/scoop-bucket, 1
 bucket/clash-for-windows.json, amorphobia/siku, 0
 bucket/clash-mi.json, ivaquero/scoopet, 1
 bucket/clash-mini.json, DoveBoy/Apps, 1
+bucket/clash-nyanpasu-nightly.json, hu3rror/scoop-muggle, 1
 bucket/clash-nyanpasu-portable.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 1
 bucket/clash-party-portable.json, DoveBoy/Apps, 1
@@ -6365,6 +6365,7 @@ bucket/llama.cpp-cu133-dll.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu133.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-hip-radeon.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-opencl.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-openvino.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-sycl.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-vulkan.json, ScoopInstaller/Versions, 1
 bucket/llamafile.json, ScoopInstaller/Main, 1
@@ -9856,6 +9857,7 @@ bucket/spark-without-hadoop.json, ScoopInstaller/Versions, 0
 bucket/spark.json, ScoopInstaller/Main, 0
 bucket/spark3-scala2.13.json, ScoopInstaller/Versions, 0
 bucket/spark33.json, ScoopInstaller/Versions, 0
+bucket/sparkle.json, hu3rror/scoop-muggle, 1
 bucket/spdpd-assistant.json, chawyehsu/dorado, 0
 bucket/spdx-sbom-generator.json, ScoopInstaller/Main, 1
 bucket/speak.json, dodorz/scoop, 0
@@ -10427,7 +10429,7 @@ bucket/thunderbird-beta.json, naderi/scoop-bucket, 0
 bucket/thunderbird-de.json, naderi/scoop-bucket, 0
 bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird-fa.json, naderi/scoop-bucket, 0
-bucket/thunderbird-zh-cn.json, chawyehsu/dorado, 0
+bucket/thunderbird-zh-cn.json, cc713/ownscoop, 0
 bucket/thunderbird.ja.json, jfut/scoop-jfut, 0
 bucket/thunderbird.json, ScoopInstaller/Extras, 0
 bucket/ti-analogengineerscalculator.json, SayCV/scoop-cvp, 1
