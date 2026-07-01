@@ -2747,7 +2747,7 @@ bucket/blockthespot.json, DoveBoy/Apps, 1
 bucket/bloomrpc.json, batkiz/backit, 1
 bucket/bloop.json, ScoopInstaller/Extras, 1
 bucket/bloxstrap.json, Calinou/scoop-games, 1
-bucket/bluej.json, dodorz/scoop, 1
+bucket/bluej.json, naderi/scoop-bucket, 1
 bucket/bluelife-host-editor.json, ViCrack/scoop-bucket, 0
 bucket/bluelife-keyfreeze.json, ViCrack/scoop-bucket, 0
 bucket/bluescreen.json, mogeko/scoop-sysinternals, 0
@@ -6127,6 +6127,7 @@ bucket/lavape.json, ScoopInstaller/Extras, 0
 bucket/laverna.json, MCOfficer/scoop-bucket, 1
 bucket/lavfilters-np.json, ScoopInstaller/Nonportable, 1
 bucket/lavfilters.json, ZvonimirSun/scoop-iszy, 1
+bucket/layerx.json, aliesbelik/poldi, 1
 bucket/lazarus.json, ScoopInstaller/Extras, 0
 bucket/lazpaint.json, ScoopInstaller/Extras, 1
 bucket/lazy-posh-git.json, ScoopInstaller/Extras, 1
@@ -11152,7 +11153,7 @@ bucket/wechatvideosniffer.json, DoveBoy/Apps, 1
 bucket/wecom.json, ScoopInstaller/Extras, 0
 bucket/weebp.json, ScoopInstaller/Extras, 1
 bucket/weflow.json, ViCrack/scoop-bucket, 1
-bucket/wegame.json, akirco/aki-apps, 0
+bucket/wegame.json, ivaquero/scoopet, 0
 bucket/wemod.json, Calinou/scoop-games, 0
 bucket/wepe.json, SayCV/scoop-cvp, 0
 bucket/werf-v2.json, aliesbelik/poldi, 0
