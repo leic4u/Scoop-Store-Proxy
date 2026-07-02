@@ -3069,6 +3069,7 @@ bucket/chmac.json, ViCrack/scoop-bucket, 1
 bucket/choco.json, Weidows-projects/scoop-3rd, 1
 bucket/choeazycopy.json, ScoopInstaller/Extras, 1
 bucket/choice.json, ygguorun/scoop-bucket, 0
+bucket/choose.json, ScoopInstaller/Main, 1
 bucket/chp.json, jingyu9575/scoop-jingyu9575, 0
 bucket/chr.json, batkiz/backit, 1
 bucket/chrlauncher.json, ScoopInstaller/Extras, 1
@@ -4795,7 +4796,7 @@ bucket/gh.json, ScoopInstaller/Main, 1
 bucket/ghc96.json, iquiw/scoop-bucket, 0
 bucket/ghcup.json, ScoopInstaller/Main, 1
 bucket/ghdl.json, ScoopInstaller/Main, 1
-bucket/ghgrab.json, aliesbelik/poldi, 1
+bucket/ghgrab.json, ScoopInstaller/Main, 1
 bucket/ghidra-beta.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidra-nightly.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidra.json, ScoopInstaller/Extras, 1
@@ -6521,6 +6522,7 @@ bucket/magic-wormhole-rs.json, ScoopInstaller/Main, 1
 bucket/magic-wormhole.json, ScoopInstaller/Main, 1
 bucket/magicavoxel.json, ScoopInstaller/Extras, 1
 bucket/magicsplat-tcl-tk.json, amorphobia/siku, 0
+bucket/magika.json, ScoopInstaller/Main, 1
 bucket/magnetW.json, kkzzhizhou/scoop-zapps, 1
 bucket/magpie.json, ScoopInstaller/Extras, 1
 bucket/mahjong-helper.json, ygguorun/scoop-bucket, 1
@@ -6567,7 +6569,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -10667,6 +10669,7 @@ bucket/txikijs.json, ScoopInstaller/Main, 1
 bucket/txsso.json, SayCV/scoop-cvp, 0
 bucket/ty.json, ScoopInstaller/Main, 1
 bucket/typeeasy.json, echoiron/echo-scoop, 0
+bucket/typespec.json, ScoopInstaller/Main, 0
 bucket/typioca.json, ScoopInstaller/Main, 1
 bucket/typora-dev.json, ScoopInstaller/Versions, 0
 bucket/typora-plugin.json, DoveBoy/Apps, 1
