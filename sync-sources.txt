@@ -1488,7 +1488,7 @@ bucket/Scratch-Install.json, ACooper81/scoop-apps, 0
 bucket/Scratch-Portable.json, ACooper81/scoop-apps, 0
 bucket/ScratchJr.json, dodorz/scoop, 1
 bucket/Screego.json, abgox/abgo_bucket, 1
-bucket/ScreenCapture.json, dodorz/scoop, 1
+bucket/ScreenCapture.json, DoveBoy/Apps, 1
 bucket/ScreenRuler.json, Paxxs/Cluttered-bucket, 0
 bucket/ScreenToGif-Portable.json, ACooper81/scoop-apps, 1
 bucket/Screenink.json, dodorz/scoop, 0
@@ -5515,7 +5515,7 @@ bucket/imazing.json, beerpiss/scoop-bucket, 0
 bucket/imdone.json, ScoopInstaller/Extras, 0
 bucket/imewlconverter.json, hu3rror/scoop-muggle, 1
 bucket/imfile-portable.json, DoveBoy/Apps, 1
-bucket/imfile.json, naderi/scoop-bucket, 1
+bucket/imfile.json, DoveBoy/Apps, 1
 bucket/imgbrd-grabber.json, cc713/ownscoop, 1
 bucket/imgburn.ja.json, jfut/scoop-jfut, 0
 bucket/imgburn.json, ScoopInstaller/Extras, 1
@@ -10000,7 +10000,7 @@ bucket/steam-achievement-manager.json, Calinou/scoop-games, 1
 bucket/steam-art-manager.json, Calinou/scoop-games, 1
 bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
-bucket/steam-game-idler.json, Calinou/scoop-games, 1
+bucket/steam-game-idler.json, starise/Scoop-Gaming, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
 bucket/steam-rom-manager.json, Calinou/scoop-games, 1
