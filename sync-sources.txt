@@ -4943,7 +4943,7 @@ bucket/gn.json, ScoopInstaller/Versions, 0
 bucket/gnirehtet.json, ScoopInstaller/Main, 1
 bucket/gns3.json, DoveBoy/Apps, 1
 bucket/gnucash.json, ScoopInstaller/Extras, 1
-bucket/gnupg-np.json, chawyehsu/dorado, 0
+bucket/gnupg-np.json, DoveBoy/Apps, 0
 bucket/gnupg-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/gnupg.json, ScoopInstaller/Main, 0
 bucket/gnupg1.json, ScoopInstaller/Main, 0
@@ -6750,6 +6750,7 @@ bucket/migrated/eget.json, aliesbelik/poldi, 1
 bucket/migrated/flamelens.json, aliesbelik/poldi, 1
 bucket/migrated/focus.json, aliesbelik/poldi, 1
 bucket/migrated/fresh.json, aliesbelik/poldi, 1
+bucket/migrated/ghgrab.json, aliesbelik/poldi, 1
 bucket/migrated/ghz.json, aliesbelik/poldi, 1
 bucket/migrated/gotop.json, aliesbelik/poldi, 1
 bucket/migrated/gut.json, aliesbelik/poldi, 1
@@ -7941,6 +7942,8 @@ bucket/pfsextractor.json, seumsc/scoop-seu, 1
 bucket/pgadmin4-np.json, ScoopInstaller/Nonportable, 0
 bucket/pget.json, ScoopInstaller/Main, 1
 bucket/pgmig.json, littleli/scoop-clojure, 1
+bucket/pgroll.json, ScoopInstaller/Main, 1
+bucket/pgstream.json, ScoopInstaller/Main, 1
 bucket/pgweb.json, aliesbelik/poldi, 1
 bucket/phantomjs.json, ScoopInstaller/Main, 0
 bucket/phantomjs19.json, ScoopInstaller/Versions, 0
@@ -11517,6 +11520,7 @@ bucket/xampp.json, ScoopInstaller/Extras, 0
 bucket/xampp74.json, ScoopInstaller/Versions, 0
 bucket/xan.json, ScoopInstaller/Extras, 1
 bucket/xasm.json, littleli/Scoop-littleli, 1
+bucket/xata.json, ScoopInstaller/Main, 0
 bucket/xb1cbi.json, ScoopInstaller/Extras, 1
 bucket/xc.json, ScoopInstaller/Extras, 1
 bucket/xca.json, ScoopInstaller/Extras, 1
