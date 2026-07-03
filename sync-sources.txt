@@ -5338,6 +5338,7 @@ bucket/hopp-cli.json, ScoopInstaller/Main, 1
 bucket/hoppscotch.json, ScoopInstaller/Extras, 1
 bucket/horcrux.json, ScoopInstaller/Extras, 1
 bucket/horizon-eda.json, ScoopInstaller/Extras, 1
+bucket/horsemd.json, DoveBoy/Apps, 1
 bucket/host-editor.json, ScoopInstaller/Extras, 0
 bucket/hostctl.json, ScoopInstaller/Main, 1
 bucket/hostednetworkstarter.json, ScoopInstaller/Nirsoft, 0
@@ -6570,7 +6571,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -6698,7 +6699,7 @@ bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
-bucket/mgba-dev.json, borger/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
