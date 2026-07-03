@@ -1191,6 +1191,7 @@ bucket/OandOShutUp10-Portable.json, ACooper81/scoop-apps, 0
 bucket/Oasis-Portable.json, ACooper81/scoop-apps, 1
 bucket/Oatmeal.json, dodorz/scoop, 1
 bucket/Ocenaudio-Portable.json, ACooper81/scoop-apps, 0
+bucket/Octodo.json, dodorz/scoop, 1
 bucket/Oculante-Portable.json, ACooper81/scoop-apps, 1
 bucket/Office-Code-Pro.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/OfficeCLI.json, dodorz/scoop, 1
@@ -6571,7 +6572,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -7234,7 +7235,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
