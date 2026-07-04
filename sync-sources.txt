@@ -5586,6 +5586,7 @@ bucket/installedappview.json, ScoopInstaller/Nirsoft, 0
 bucket/installedcodec.json, ScoopInstaller/Nirsoft, 0
 bucket/installeddriverslist.json, ScoopInstaller/Nirsoft, 0
 bucket/installedpackagesview.json, ScoopInstaller/Nirsoft, 0
+bucket/installerclean.json, ScoopInstaller/Extras, 1
 bucket/instaloader.json, akirco/aki-apps, 1
 bucket/instant-eyedropper.json, ScoopInstaller/Extras, 0
 bucket/integerscaler.json, ScoopInstaller/Extras, 0
