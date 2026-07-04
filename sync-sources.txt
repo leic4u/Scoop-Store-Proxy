@@ -6857,6 +6857,7 @@ bucket/miniforge3.json, ScoopInstaller/Extras, 1
 bucket/minify-js.json, brian6932/dank-scoop, 0
 bucket/minify.json, ScoopInstaller/Main, 1
 bucket/minikube.json, ScoopInstaller/Main, 0
+bucket/minilpa.json, ScoopInstaller/Extras, 1
 bucket/minio-client.json, ScoopInstaller/Main, 0
 bucket/minio.json, ScoopInstaller/Main, 0
 bucket/miniserve.json, ScoopInstaller/Main, 1
@@ -7802,7 +7803,7 @@ bucket/ov.json, ScoopInstaller/Main, 1
 bucket/overture.json, wzv5/ScoopBucket, 1
 bucket/ovhcloud-cli.json, cderv/r-bucket, 1
 bucket/owncloud.json, ScoopInstaller/Extras, 0
-bucket/oxideterm.json, ViCrack/scoop-bucket, 1
+bucket/oxideterm.json, dodorz/scoop, 1
 bucket/oxipng.json, ScoopInstaller/Main, 1
 bucket/oxker.json, aliesbelik/poldi, 1
 bucket/oxlint.json, ScoopInstaller/Main, 1
@@ -7888,7 +7889,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -10068,6 +10069,7 @@ bucket/stremio.json, ScoopInstaller/Extras, 1
 bucket/stretchly.json, ScoopInstaller/Extras, 1
 bucket/strings.json, niheaven/scoop-sysinternals, 1
 bucket/stripe-cli.json, ScoopInstaller/Main, 1
+bucket/strix.json, ScoopInstaller/Main, 1
 bucket/strokes-plus.json, naderi/scoop-bucket, 0
 bucket/strokesplus.json, ScoopInstaller/Extras, 0
 bucket/strokesplus.net.json, ScoopInstaller/Extras, 0
