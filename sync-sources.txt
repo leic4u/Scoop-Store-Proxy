@@ -3959,7 +3959,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -6891,6 +6891,7 @@ bucket/mkvtoolnix.json, ScoopInstaller/Extras, 0
 bucket/mls-software-openssh.json, ScoopInstaller/Main, 0
 bucket/mmcompview.json, kodybrown/scoop-nirsoft, 0
 bucket/mmcsnapinsview.json, ScoopInstaller/Nirsoft, 0
+bucket/mmdr.json, ScoopInstaller/Main, 1
 bucket/mmview.json, ScoopInstaller/Nirsoft, 0
 bucket/mo.json, iquiw/scoop-bucket, 1
 bucket/mo2.json, Calinou/scoop-games, 1
@@ -11378,6 +11379,7 @@ bucket/winsnap.json, kkzzhizhou/scoop-zapps, 0
 bucket/winsockservicesview.json, ScoopInstaller/Nirsoft, 0
 bucket/winspy.json, ScoopInstaller/Extras, 0
 bucket/winsshterm.json, ScoopInstaller/Extras, 1
+bucket/winsw-mihomo-service.json, hu3rror/scoop-muggle, 1
 bucket/winsw-pre.json, ScoopInstaller/Versions, 1
 bucket/winsw.json, ScoopInstaller/Main, 1
 bucket/wintogo.json, kkzzhizhou/scoop-zapps, 1
