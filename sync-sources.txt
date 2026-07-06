@@ -6711,7 +6711,7 @@ bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -11487,6 +11487,7 @@ bucket/wsa-pacman.json, ScoopInstaller/Extras, 1
 bucket/wsa-toolbox.json, SayCV/scoop-cvp, 0
 bucket/wsc.json, akirco/aki-apps, 1
 bucket/wsl-centos9.json, KNOXDEV/wsl, 1
+bucket/wsl-dashboard.json, ScoopInstaller/Extras, 1
 bucket/wsl-debian.json, KNOXDEV/wsl, 0
 bucket/wsl-distrod.json, ScoopInstaller/Extras, 1
 bucket/wsl-fedora-arm.json, KNOXDEV/wsl, 1
@@ -11503,6 +11504,7 @@ bucket/wsl-ubuntu1804-arm.json, KNOXDEV/wsl, 0
 bucket/wsl-ubuntu1804.json, KNOXDEV/wsl, 0
 bucket/wsl-ubuntu2004.json, KNOXDEV/wsl, 0
 bucket/wsl-ubuntu2204.json, KNOXDEV/wsl, 0
+bucket/wsl-ui.json, ScoopInstaller/Extras, 1
 bucket/wsl2-distro-manager.json, ScoopInstaller/Extras, 1
 bucket/wsl2-ssh-pageant.json, AkinoKaede/maple, 1
 bucket/wslgit.json, ScoopInstaller/Extras, 1
