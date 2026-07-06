@@ -1540,6 +1540,7 @@ bucket/SmallBASIC.json, dodorz/scoop, 1
 bucket/SmartSystemMenu-Portable.json, ACooper81/scoop-apps, 1
 bucket/SmartTaskbar-Portable.json, ACooper81/scoop-apps, 1
 bucket/Snap.Hutao.json, Weidows-projects/scoop-3rd, 1
+bucket/SnapPaddleOCR.json, dodorz/scoop, 1
 bucket/SnappyDriverInstallerOrigin-Portable.json, ACooper81/scoop-apps, 0
 bucket/Snaptext.json, dodorz/scoop, 0
 bucket/Snipaste-Portable.json, ACooper81/scoop-apps, 0
@@ -3749,7 +3750,7 @@ bucket/diskgeniusCN.json, cc713/ownscoop, 0
 bucket/diskmon.json, niheaven/scoop-sysinternals, 1
 bucket/disksmartview.json, ScoopInstaller/Nirsoft, 0
 bucket/diskspd.json, ScoopInstaller/Extras, 1
-bucket/diskus.json, aliesbelik/poldi, 1
+bucket/diskus.json, ScoopInstaller/Extras, 1
 bucket/diskusage.json, aliesbelik/poldi, 1
 bucket/diskview.json, niheaven/scoop-sysinternals, 1
 bucket/dismplusplus.json, ScoopInstaller/Extras, 1
@@ -6710,7 +6711,7 @@ bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -7247,7 +7248,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
