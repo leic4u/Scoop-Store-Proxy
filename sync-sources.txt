@@ -122,7 +122,7 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, dodorz/scoop, 1
+bucket/AionUi.json, renxia/scoop-bucket, 1
 bucket/AlephNote.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
 bucket/AliWangWang.json, SayCV/scoop-cvp, 1
@@ -6062,6 +6062,7 @@ bucket/ktlint.json, ScoopInstaller/Main, 1
 bucket/ktor-cli.json, aliesbelik/poldi, 1
 bucket/ktunnel.json, ScoopInstaller/Main, 1
 bucket/ktx-software.json, ScoopInstaller/Main, 1
+bucket/ku.json, aliesbelik/poldi, 1
 bucket/kube-linter.json, ScoopInstaller/Main, 1
 bucket/kubeadm.json, ScoopInstaller/Main, 0
 bucket/kubebox.json, ScoopInstaller/Extras, 1
@@ -10028,7 +10029,7 @@ bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
 bucket/steam-game-idler.json, Calinou/scoop-games, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
-bucket/steam-rom-manager.json, hermanjustnu/scoop-emulators, 1
+bucket/steam-rom-manager.json, borger/scoop-emulators, 1
 bucket/steam.json, ScoopInstaller/Versions, 0
 bucket/steamchina.json, SayCV/scoop-cvp, 0
 bucket/steamcmd.json, ScoopInstaller/Extras, 0
