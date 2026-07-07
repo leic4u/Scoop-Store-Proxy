@@ -7628,6 +7628,7 @@ bucket/openark.json, ScoopInstaller/Extras, 0
 bucket/openbbterminal-pre.json, DoveBoy/Apps, 1
 bucket/openbbterminal.json, DoveBoy/Apps, 1
 bucket/openboard.json, ScoopInstaller/Extras, 1
+bucket/openchamber.json, batkiz/backit, 1
 bucket/openclonk.json, Calinou/scoop-games, 0
 bucket/openclosedriveeject.json, ScoopInstaller/Extras, 0
 bucket/opencode-desktop.json, ScoopInstaller/Extras, 1
