@@ -2811,6 +2811,7 @@ bucket/boxes.json, ScoopInstaller/Main, 1
 bucket/boxplayer.json, echoiron/echo-scoop, 1
 bucket/bpgconv.json, ScoopInstaller/Extras, 1
 bucket/brackets.json, ScoopInstaller/Extras, 1
+bucket/braid-viewer.json, cderv/r-bucket, 1
 bucket/braid.json, cderv/r-bucket, 1
 bucket/brave-beta.json, ScoopInstaller/Versions, 1
 bucket/brave-nightly.json, ScoopInstaller/Versions, 1
@@ -4960,7 +4961,7 @@ bucket/gnupg1.json, ScoopInstaller/Main, 0
 bucket/gnuplot.json, ScoopInstaller/Main, 0
 bucket/gnutls.json, ScoopInstaller/Main, 0
 bucket/go-chromecast.json, ScoopInstaller/Extras, 1
-bucket/go-cn.json, chawyehsu/dorado, 0
+bucket/go-cn.json, akirco/aki-apps, 0
 bucket/go-containerregistry.json, ScoopInstaller/Main, 1
 bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
 bucket/go-drive.json, DoveBoy/Apps, 1
