@@ -3232,7 +3232,7 @@ bucket/cloudcompare-alpha.json, ScoopInstaller/Versions, 0
 bucket/cloudcompare.json, ScoopInstaller/Extras, 0
 bucket/cloudflare-speedtest.json, chawyehsu/dorado, 1
 bucket/cloudflared.json, ScoopInstaller/Main, 1
-bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 0
+bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 1
 bucket/cloudlens.json, aliesbelik/poldi, 1
 bucket/cloudmusic-green.json, hu3rror/scoop-muggle, 0
 bucket/cloudreve-beta.json, DoveBoy/Apps, 1
@@ -3891,6 +3891,7 @@ bucket/double-finder.json, amorphobia/siku, 0
 bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/doukutsu-rs.json, Calinou/scoop-games, 1
+bucket/douyin-downloader.json, DoveBoy/Apps, 1
 bucket/douyin-ide.json, chawyehsu/dorado, 0
 bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
 bucket/douyu.json, DoveBoy/Apps, 0
@@ -10717,6 +10718,7 @@ bucket/typstyle.json, ScoopInstaller/Main, 1
 bucket/uTools.json, chawyehsu/dorado, 0
 bucket/uabea.json, Calinou/scoop-games, 1
 bucket/uad-ng.json, ScoopInstaller/Extras, 1
+bucket/uad.json, DoveBoy/Apps, 1
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 1
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
 bucket/ubports-installer.json, ScoopInstaller/Extras, 1
