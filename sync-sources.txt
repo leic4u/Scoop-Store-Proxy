@@ -3793,6 +3793,7 @@ bucket/dnsbench.json, rasa/scoops, 0
 bucket/dnschooser.json, everyx/scoop-bucket, 0
 bucket/dnscrypt-proxy.json, ScoopInstaller/Main, 1
 bucket/dnsdataview.json, ScoopInstaller/Nirsoft, 0
+bucket/dnsglobe.json, ScoopInstaller/Main, 1
 bucket/dnsjumper.json, ScoopInstaller/Extras, 0
 bucket/dnslookup.json, ScoopInstaller/Main, 1
 bucket/dnslookupview.json, ScoopInstaller/Nirsoft, 0
@@ -6590,7 +6591,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
