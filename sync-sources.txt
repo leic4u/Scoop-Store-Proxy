@@ -2202,7 +2202,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3556,7 +3556,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, aoisummer/scoop-bucket, 1
+bucket/dandanplay.json, chawyehsu/dorado, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -6826,6 +6826,7 @@ bucket/miktex.json, ScoopInstaller/Main, 0
 bucket/mikumikudance.json, mo-san/scoop-bucket, 0
 bucket/milkytracker.json, ScoopInstaller/Extras, 1
 bucket/mill.json, ScoopInstaller/Main, 0
+bucket/millennium-installer.json, Calinou/scoop-games, 1
 bucket/miller.json, ScoopInstaller/Main, 1
 bucket/milton.json, ScoopInstaller/Extras, 1
 bucket/mimeTeX.json, dodorz/scoop, 0
@@ -11934,7 +11935,7 @@ bucket/zvm.json, ScoopInstaller/Main, 1
 bucket/zxhn-f610gv9-crcv.json, SayCV/scoop-cvp, 1
 bucket/zyfun.json, cc713/ownscoop, 1
 bucket/zyperwinoptimize.json, DoveBoy/Apps, 1
-install.ps1, , 0
+install.ps1, , 1
 scripts/.deprecated/yy/yy-setup.ps1, HUMORCE/nuke, 0
 scripts/7-zip/install-context.reg, ScoopInstaller/Main, 0
 scripts/7-zip/uninstall-context.reg, ScoopInstaller/Main, 0
