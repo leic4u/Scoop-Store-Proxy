@@ -1195,7 +1195,6 @@ bucket/Ocenaudio-Portable.json, ACooper81/scoop-apps, 0
 bucket/Octodo.json, dodorz/scoop, 1
 bucket/Oculante-Portable.json, ACooper81/scoop-apps, 1
 bucket/Office-Code-Pro.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/OfficeCLI.json, dodorz/scoop, 1
 bucket/OfficeToolPlus-Portable.json, ACooper81/scoop-apps, 1
 bucket/OfflineInsiderEnroll-Portable.json, ACooper81/scoop-apps, 1
 bucket/Oggdec.json, dodorz/scoop, 0
@@ -1349,7 +1348,7 @@ bucket/QR-Desktop.json, dodorz/scoop, 1
 bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
-bucket/Qoder.json, dodorz/scoop, 0
+bucket/Qoder.json, akirco/aki-apps, 0
 bucket/QoderCN.json, dodorz/scoop, 0
 bucket/QoderWork.json, dodorz/scoop, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
@@ -5917,7 +5916,7 @@ bucket/katrain.json, Calinou/scoop-games, 1
 bucket/kavita.json, ScoopInstaller/Extras, 1
 bucket/kawaii-player.json, ScoopInstaller/Extras, 1
 bucket/kaxaml.json, Deide/deide-bucket, 1
-bucket/kazumi.json, wzv5/ScoopBucket, 1
+bucket/kazumi.json, DoveBoy/Apps, 1
 bucket/kbootopt.json, echoiron/echo-scoop, 0
 bucket/kcc.json, ScoopInstaller/Extras, 1
 bucket/kcleaner.json, echoiron/echo-scoop, 0
@@ -7535,6 +7534,7 @@ bucket/office-tool-plus-with-runtime.json, batkiz/backit, 1
 bucket/office-tool-plus.json, ScoopInstaller/Extras, 1
 bucket/office-tool.json, ZvonimirSun/scoop-iszy, 0
 bucket/officebox.json, ZvonimirSun/scoop-iszy, 0
+bucket/officecli.json, ScoopInstaller/Main, 1
 bucket/officecodepro-d.json, KnotUntied/scoop-fonts, 0
 bucket/officecodepro.json, KnotUntied/scoop-fonts, 0
 bucket/officeins.json, ScoopInstaller/Nirsoft, 0
