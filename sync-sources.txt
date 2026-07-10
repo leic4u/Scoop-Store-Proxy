@@ -3192,6 +3192,7 @@ bucket/clib.json, dodorz/scoop, 1
 bucket/clibor.json, mo-san/scoop-bucket, 0
 bucket/clickrun.json, DoveBoy/Apps, 1
 bucket/clima.json, brian6932/dank-scoop, 0
+bucket/climp.json, aliesbelik/poldi, 1
 bucket/clingo.json, ScoopInstaller/Extras, 1
 bucket/clink-completions.json, ScoopInstaller/Main, 1
 bucket/clink-cvp.json, SayCV/scoop-cvp, 1
@@ -7741,6 +7742,7 @@ bucket/openvpn-win10-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/openvpn-win7-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/openvpn.json, ScoopInstaller/Extras, 0
 bucket/openwebstart.json, naderi/scoop-bucket, 1
+bucket/openwhispr.json, ScoopInstaller/Extras, 1
 bucket/openwithplusplus.json, ScoopInstaller/Extras, 1
 bucket/openwithview.json, ScoopInstaller/Nirsoft, 0
 bucket/openwork.json, ScoopInstaller/Extras, 1
@@ -11849,6 +11851,7 @@ bucket/zigup.json, ScoopInstaller/Main, 1
 bucket/zim.json, ScoopInstaller/Extras, 0
 bucket/zip-beta.json, ScoopInstaller/Versions, 0
 bucket/zip.json, ScoopInstaller/Main, 1
+bucket/zipdetails-pl.json, brian6932/dank-scoop, 1
 bucket/zipideo.json, DoveBoy/Apps, 1
 bucket/zipinst.json, ScoopInstaller/Nirsoft, 0
 bucket/zipinstaller.json, kodybrown/scoop-nirsoft, 0
