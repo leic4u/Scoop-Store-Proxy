@@ -297,7 +297,6 @@ bucket/CascadiaMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CascadiaMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CascadiaMono.json, KnotUntied/scoop-fonts, 1
 bucket/CascadiaMonoPL.json, everyx/scoop-bucket, 1
-bucket/Catime.json, ygguorun/scoop-bucket, 1
 bucket/CefDetector.json, ygguorun/scoop-bucket, 1
 bucket/CefDetectorX.json, Weidows-projects/scoop-3rd, 1
 bucket/CenterTaskbar-Portable.json, ACooper81/scoop-apps, 1
@@ -2922,6 +2921,8 @@ bucket/camstudio.json, ScoopInstaller/Extras, 0
 bucket/camunda-modeler.json, ScoopInstaller/Extras, 1
 bucket/camunda-operate.json, ScoopInstaller/Main, 1
 bucket/camunda-operate1.3.json, ScoopInstaller/Versions, 1
+bucket/cangjie-lts.json, ScoopInstaller/Main, 0
+bucket/cangjie.json, ScoopInstaller/Main, 0
 bucket/capcut.json, naderi/scoop-bucket, 0
 bucket/capframex.json, ScoopInstaller/Extras, 1
 bucket/capnp.json, ScoopInstaller/Main, 0
@@ -2976,6 +2977,7 @@ bucket/cataclysm-dda-tiles.json, Calinou/scoop-games, 1
 bucket/cataclysm-dda.json, Calinou/scoop-games, 1
 bucket/catalyst.json, ScoopInstaller/Extras, 1
 bucket/catbox.json, brian6932/dank-scoop, 1
+bucket/catime.json, ScoopInstaller/Extras, 1
 bucket/catsxp.json, naderi/scoop-bucket, 0
 bucket/cava.json, Deide/deide-bucket, 1
 bucket/cbmc.json, seumsc/scoop-seu, 1
