@@ -3250,6 +3250,7 @@ bucket/cmder-full.json, ScoopInstaller/Main, 1
 bucket/cmder-powerline-prompt.json, naderi/scoop-bucket, 1
 bucket/cmder.json, ScoopInstaller/Main, 1
 bucket/cmdow.json, ScoopInstaller/Extras, 1
+bucket/cmkr.json, ScoopInstaller/Main, 1
 bucket/cmwtat-digital-edition.json, DoveBoy/Apps, 1
 bucket/cnc-ddraw.json, Calinou/scoop-games, 1
 bucket/cni-plugins.json, ScoopInstaller/Main, 1
