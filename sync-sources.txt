@@ -2208,6 +2208,8 @@ bucket/altair.json, ScoopInstaller/Extras, 1
 bucket/altbacktick.json, ScoopInstaller/Extras, 1
 bucket/altdrag.json, ScoopInstaller/Extras, 1
 bucket/alternatestreamview.json, ScoopInstaller/Nirsoft, 0
+bucket/altersend-portable.json, DoveBoy/Apps, 1
+bucket/altersend.json, DoveBoy/Apps, 1
 bucket/altools.json, ScoopInstaller/Extras, 0
 bucket/altsendme.json, ScoopInstaller/Extras, 1
 bucket/altserver.json, chawyehsu/dorado, 0
@@ -9428,7 +9430,7 @@ bucket/samsung-magician-np.json, rasa/scoops, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, DoveBoy/Apps, 1
+bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1
@@ -12086,6 +12088,8 @@ scripts/mdk533/uninstall-context.reg, SayCV/scoop-cvp, 0
 scripts/microchip-filterlab/install-filterlab.reg.templ, SayCV/scoop-cvp, 0
 scripts/microchip-filterlab/uninstall-filterlab.reg, SayCV/scoop-cvp, 0
 scripts/migrate-python-packages.ps1, TheRandomLabs/Scoop-Python, 0
+scripts/mihomo-helper.ps1, hu3rror/scoop-muggle, 0
+scripts/mihomo-shawl-setup.ps1, hu3rror/scoop-muggle, 0
 scripts/modelsim-se202004-win64/install-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/modelsim-se202004-win64/scripts_modelsim.cmd.tpl, SayCV/scoop-cvp, 0
 scripts/modelsim-se202004-win64/uninstall-context.reg.tpl, SayCV/scoop-cvp, 0
