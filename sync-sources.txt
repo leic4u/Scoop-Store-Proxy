@@ -3262,7 +3262,7 @@ bucket/cnkiexpress.json, ivaquero/scoopet, 0
 bucket/cnping.json, ScoopInstaller/Extras, 1
 bucket/cobalt.json, ScoopInstaller/Main, 1
 bucket/coca.json, seumsc/scoop-seu, 0
-bucket/cockpit-tools.json, ivaquero/scoopet, 1
+bucket/cockpit-tools.json, ScoopInstaller/Extras, 1
 bucket/cockroachdb.json, ScoopInstaller/Main, 0
 bucket/coco.json, DoveBoy/Apps, 1
 bucket/cocogitto.json, ScoopInstaller/Main, 1
@@ -11959,6 +11959,8 @@ scripts/AppsUtils.psm1, ivaquero/scoopet, 0
 scripts/BaiduNetdisk/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/ClashforWindows/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/DisplayCal-SchTasks.ps1, starise/Scoop-Confetti, 0
+scripts/DoradoHelper.ps1, hu3rror/scoop-muggle, 0
+scripts/DoradoRemount.ps1, hu3rror/scoop-muggle, 0
 scripts/DoradoUtils.psm1, chawyehsu/dorado, 0
 scripts/Install-Font.ps1, batkiz/backit, 0
 scripts/InstallAllInstallApps.ps1, ACooper81/scoop-apps, 0
