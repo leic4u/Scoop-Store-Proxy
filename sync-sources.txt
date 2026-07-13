@@ -4928,7 +4928,7 @@ bucket/gitu.json, ScoopInstaller/Extras, 1
 bucket/gitui.json, ScoopInstaller/Main, 1
 bucket/gitup-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/gitversion-beta.json, ScoopInstaller/Versions, 0
-bucket/gitversion.json, ScoopInstaller/Main, 0
+bucket/gitversion.json, ScoopInstaller/Main, 1
 bucket/gk.json, ScoopInstaller/Main, 1
 bucket/glab.json, ScoopInstaller/Main, 0
 bucket/glary-utilities.json, ScoopInstaller/Extras, 0
@@ -11960,7 +11960,6 @@ scripts/BaiduNetdisk/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/ClashforWindows/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/DisplayCal-SchTasks.ps1, starise/Scoop-Confetti, 0
 scripts/DoradoUtils.psm1, chawyehsu/dorado, 0
-scripts/Get-LatestGitHubActionLog.ps1, hu3rror/scoop-muggle, 0
 scripts/Install-Font.ps1, batkiz/backit, 0
 scripts/InstallAllInstallApps.ps1, ACooper81/scoop-apps, 0
 scripts/InstallAllPortableApps.ps1, ACooper81/scoop-apps, 0
