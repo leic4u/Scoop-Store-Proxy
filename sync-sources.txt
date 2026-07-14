@@ -4740,6 +4740,7 @@ bucket/galaxy-steam.json, borger/scoop-galaxy-integrations, 1
 bucket/galaxy-twitch.json, borger/scoop-galaxy-integrations, 1
 bucket/galaxy-uplay.json, borger/scoop-galaxy-integrations, 1
 bucket/galaxy-wargaming.json, borger/scoop-galaxy-integrations, 1
+bucket/gale.json, Calinou/scoop-games, 1
 bucket/gallery-dl-nightly.json, ScoopInstaller/Versions, 1
 bucket/gallery-dl-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/gallery-dl.json, ScoopInstaller/Main, 0
@@ -7922,7 +7923,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
