@@ -5168,7 +5168,7 @@ bucket/grails.json, ScoopInstaller/Main, 1
 bucket/grain.json, ScoopInstaller/Extras, 1
 bucket/grammarly-np.json, ScoopInstaller/Nonportable, 0
 bucket/gramps.json, ScoopInstaller/Extras, 1
-bucket/granted.json, ScoopInstaller/Main, 0
+bucket/granted.json, ScoopInstaller/Main, 1
 bucket/graphicsgale.json, ScoopInstaller/Extras, 0
 bucket/graphicsmagick-q16.json, ScoopInstaller/Versions, 0
 bucket/graphicsmagick.json, ScoopInstaller/Main, 0
