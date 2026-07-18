@@ -4797,7 +4797,6 @@ bucket/geistmono.json, KnotUntied/scoop-fonts, 1
 bucket/geistsans.json, KnotUntied/scoop-fonts, 1
 bucket/gekiore-regedit.json, mo-san/scoop-bucket, 0
 bucket/gemget.json, littleli/Scoop-littleli, 1
-bucket/gemini-cli.json, naderi/scoop-bucket, 1
 bucket/geminicommit-cli.json, hu3rror/scoop-muggle, 1
 bucket/genact.json, ScoopInstaller/Main, 1
 bucket/genius-spicetify.json, TheRandomLabs/Scoop-Spotify, 1
