@@ -10391,7 +10391,7 @@ bucket/tencent-meeting.json, ivaquero/scoopet, 0
 bucket/tencentmeeting.json, echoiron/echo-scoop, 0
 bucket/tenderly-cli.json, chawyehsu/dorado, 1
 bucket/tenv.json, ScoopInstaller/Main, 1
-bucket/teracopy-np.json, ScoopInstaller/Nonportable, 0
+bucket/teracopy-np.json, ScoopInstaller/Nonportable, 1
 bucket/teracopy.json, naderi/scoop-bucket, 0
 bucket/teraterm.json, ScoopInstaller/Extras, 1
 bucket/tere.json, ScoopInstaller/Main, 1
