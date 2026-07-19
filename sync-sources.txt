@@ -6792,6 +6792,7 @@ bucket/migrated/gotop.json, aliesbelik/poldi, 1
 bucket/migrated/gut.json, aliesbelik/poldi, 1
 bucket/migrated/hl.json, aliesbelik/poldi, 1
 bucket/migrated/hopp-cli.json, aliesbelik/poldi, 1
+bucket/migrated/hunk.json, aliesbelik/poldi, 1
 bucket/migrated/jaq.json, aliesbelik/poldi, 1
 bucket/migrated/jc.json, aliesbelik/poldi, 1
 bucket/migrated/jnv.json, aliesbelik/poldi, 1
@@ -6848,7 +6849,7 @@ bucket/min-portable.json, DoveBoy/Apps, 1
 bucket/min.json, ScoopInstaller/Extras, 1
 bucket/mindforger.json, ScoopInstaller/Extras, 1
 bucket/mindustry-server.json, Calinou/scoop-games, 1
-bucket/mindustry.json, Calinou/scoop-games, 1
+bucket/mindustry.json, Deide/deide-bucket, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
 bucket/minecraft.json, Calinou/scoop-games, 0
 bucket/minesweeper-arbiter.json, amorphobia/siku, 0
@@ -7530,6 +7531,7 @@ bucket/octarine.json, cderv/r-bucket, 0
 bucket/octave-cn.json, ivaquero/scoopet, 0
 bucket/octave.json, ScoopInstaller/Main, 0
 bucket/octopustools.json, ScoopInstaller/Main, 0
+bucket/octoscan.json, aliesbelik/poldi, 1
 bucket/octosql.json, ScoopInstaller/Main, 1
 bucket/oculante.json, ScoopInstaller/Extras, 1
 bucket/odamex.json, Calinou/scoop-games, 0
@@ -8708,7 +8710,7 @@ bucket/proxifier-pe.json, HUMORCE/nuke, 0
 bucket/proxifier.json, ScoopInstaller/Extras, 0
 bucket/proxifierpe.json, SayCV/scoop-cvp, 0
 bucket/proxify.json, iquiw/scoop-bucket, 1
-bucket/proxifyre.json, Homeland-Community/scoop, 1
+bucket/proxifyre.json, seumsc/scoop-seu, 1
 bucket/proxsign.json, naderi/scoop-bucket, 0
 bucket/proxy-switch.json, jingyu9575/scoop-jingyu9575, 1
 bucket/proxybridge.json, ScoopInstaller/Extras, 1
