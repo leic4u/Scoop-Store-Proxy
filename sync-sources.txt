@@ -7837,7 +7837,7 @@ bucket/ov.json, ScoopInstaller/Main, 1
 bucket/overture.json, wzv5/ScoopBucket, 1
 bucket/ovhcloud-cli.json, cderv/r-bucket, 1
 bucket/owncloud.json, ScoopInstaller/Extras, 0
-bucket/oxideterm.json, ViCrack/scoop-bucket, 1
+bucket/oxideterm.json, dodorz/scoop, 1
 bucket/oxipng.json, ScoopInstaller/Main, 1
 bucket/oxker.json, aliesbelik/poldi, 1
 bucket/oxlint.json, ScoopInstaller/Main, 1
@@ -8628,7 +8628,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -8708,7 +8708,7 @@ bucket/proxifier-pe.json, HUMORCE/nuke, 0
 bucket/proxifier.json, ScoopInstaller/Extras, 0
 bucket/proxifierpe.json, SayCV/scoop-cvp, 0
 bucket/proxify.json, iquiw/scoop-bucket, 1
-bucket/proxifyre.json, seumsc/scoop-seu, 1
+bucket/proxifyre.json, Homeland-Community/scoop, 1
 bucket/proxsign.json, naderi/scoop-bucket, 0
 bucket/proxy-switch.json, jingyu9575/scoop-jingyu9575, 1
 bucket/proxybridge.json, ScoopInstaller/Extras, 1
