@@ -120,7 +120,7 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, renxia/scoop-bucket, 1
+bucket/AionUi.json, dodorz/scoop, 1
 bucket/AlephNote.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
 bucket/AliWangWang.json, SayCV/scoop-cvp, 1
@@ -3814,6 +3814,7 @@ bucket/dnsquerysniffer.json, ScoopInstaller/Nirsoft, 0
 bucket/dnstrace.json, aliesbelik/poldi, 1
 bucket/dnsx.json, ViCrack/scoop-bucket, 1
 bucket/doc-downloader.json, DoveBoy/Apps, 1
+bucket/docbank.json, cderv/r-bucket, 1
 bucket/docear.json, ScoopInstaller/Extras, 0
 bucket/docfx.json, ScoopInstaller/Main, 1
 bucket/docker-buildx.json, ScoopInstaller/Main, 1
@@ -9291,7 +9292,7 @@ bucket/roughgrep.json, ScoopInstaller/Extras, 1
 bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
