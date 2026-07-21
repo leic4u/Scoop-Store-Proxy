@@ -7840,7 +7840,7 @@ bucket/ov.json, ScoopInstaller/Main, 1
 bucket/overture.json, wzv5/ScoopBucket, 1
 bucket/ovhcloud-cli.json, cderv/r-bucket, 1
 bucket/owncloud.json, ScoopInstaller/Extras, 0
-bucket/oxideterm.json, ViCrack/scoop-bucket, 1
+bucket/oxideterm.json, dodorz/scoop, 1
 bucket/oxipng.json, ScoopInstaller/Main, 1
 bucket/oxker.json, aliesbelik/poldi, 1
 bucket/oxlint.json, ScoopInstaller/Main, 1
@@ -9126,7 +9126,7 @@ bucket/redli.json, batkiz/backit, 1
 bucket/rednotebook.json, ScoopInstaller/Extras, 1
 bucket/redpanda-cpp.json, chawyehsu/dorado, 0
 bucket/redpen.json, ScoopInstaller/Main, 1
-bucket/redream-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/redream-dev.json, Calinou/scoop-games, 0
 bucket/redream.json, Calinou/scoop-games, 0
 bucket/redshift-tray.json, ScoopInstaller/Extras, 0
 bucket/redshift.json, ScoopInstaller/Main, 1
