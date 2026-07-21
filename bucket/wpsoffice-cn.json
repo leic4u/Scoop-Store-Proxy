@@ -24,10 +24,12 @@
     ]
   ],
   "checkver": {
-    "url": "https://ai.wps.cn",
-    "regex": "https://pc-package.wpscdn.cn/wps/download/WPS_Setup_AI_(?<version>[\\d]+).exe"
+    "url": "https://www.wps.cn/platformUrls",
+    "jsonpath": "$..['productButtonUrl', 'productVcode']",
+    "regex": "(/WPS_Setup_(?<build>[\\d]+)\\.exe).*?(?<version>[\\d.]+))",
+    "replace": "${version}"
   },
   "autoupdate": {
-    "url": "https://official-package.wpscdn.cn/wps/download/WPS_Setup_$version.exe"
+    "url": "https://official-package.wpscdn.cn/wps/download/WPS_Setup_$matchBuild.exe"
   }
 }
