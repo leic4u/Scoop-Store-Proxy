@@ -5781,7 +5781,7 @@ bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, chawyehsu/dorado, 0
+bucket/jianyingpro.json, akirco/aki-apps, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
 bucket/jijidown.json, amorphobia/siku, 0
@@ -6048,7 +6048,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -6349,6 +6349,7 @@ bucket/link-plus.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/link-shell-extension-np.json, ScoopInstaller/Nonportable, 0
 bucket/link-shell-extension.json, starise/Scoop-Confetti, 0
 bucket/linkandroid.json, DoveBoy/Apps, 1
+bucket/linkcode.json, batkiz/backit, 1
 bucket/linkerd.json, ScoopInstaller/Extras, 1
 bucket/links.json, ScoopInstaller/Main, 0
 bucket/linkscope.json, SayCV/scoop-cvp, 1
@@ -7892,6 +7893,7 @@ bucket/parsify-desktop.json, amorphobia/siku, 1
 bucket/parsify.json, ChungZH/peach, 1
 bucket/partition-assistant.json, ivaquero/scoopet, 0
 bucket/paseo.json, ygguorun/scoop-bucket, 1
+bucket/pasfmt.json, Deide/deide-bucket, 1
 bucket/pass-winmenu-nogpg.json, ScoopInstaller/Extras, 1
 bucket/passbolt-cli.json, ScoopInstaller/Main, 1
 bucket/passrec.json, ScoopInstaller/Nirsoft, 0
@@ -10782,7 +10784,7 @@ bucket/ultraedit.json, SayCV/scoop-cvp, 1
 bucket/ultraiso.json, ScoopInstaller/Extras, 0
 bucket/ultramarinviewer.json, naderi/scoop-bucket, 0
 bucket/ultraplusmanager.json, Calinou/scoop-games, 0
-bucket/ultrasearch.json, starise/Scoop-Confetti, 0
+bucket/ultrasearch.json, dodorz/scoop, 0
 bucket/ultravnc.json, ScoopInstaller/Extras, 0
 bucket/umaviewer.json, aoisummer/scoop-bucket, 1
 bucket/umbrello.json, ScoopInstaller/Extras, 0
