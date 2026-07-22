@@ -11830,6 +11830,7 @@ bucket/zalo.json, beerpiss/scoop-bucket, 1
 bucket/zandronum.json, Calinou/scoop-games, 0
 bucket/zap.json, chawyehsu/dorado, 1
 bucket/zaproxy.json, ScoopInstaller/Extras, 1
+bucket/zat.json, aliesbelik/poldi, 1
 bucket/zazu.json, naderi/scoop-bucket, 1
 bucket/zcashd.json, littleli/Scoop-littleli, 1
 bucket/zclient.json, SayCV/scoop-cvp, 0
