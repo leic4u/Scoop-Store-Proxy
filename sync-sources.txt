@@ -120,7 +120,7 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, dodorz/scoop, 1
+bucket/AionUi.json, renxia/scoop-bucket, 1
 bucket/AlephNote.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
 bucket/AliWangWang.json, SayCV/scoop-cvp, 1
@@ -9140,7 +9140,7 @@ bucket/reflector-desktop.json, SayCV/scoop-cvp, 1
 bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/reg.json, MCOfficer/scoop-bucket, 1
 bucket/regclient.json, ScoopInstaller/Extras, 1
-bucket/regcool.json, naderi/scoop-bucket, 0
+bucket/regcool.json, dodorz/scoop, 0
 bucket/regdelnull.json, niheaven/scoop-sysinternals, 1
 bucket/regdelta.json, rasa/scoops, 1
 bucket/regdllview.json, ScoopInstaller/Nirsoft, 0
