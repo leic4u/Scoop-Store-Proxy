@@ -120,7 +120,7 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, renxia/scoop-bucket, 1
+bucket/AionUi.json, dodorz/scoop, 1
 bucket/AlephNote.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
 bucket/AliWangWang.json, SayCV/scoop-cvp, 1
@@ -247,7 +247,6 @@ bucket/BookXNotePro.json, dodorz/scoop, 0
 bucket/BoostNote-next.json, dodorz/scoop, 1
 bucket/BootRacer-Install.json, ACooper81/scoop-apps, 0
 bucket/Bootice.json, kkzzhizhou/scoop-zapps, 1
-bucket/BowPad.json, ViCrack/scoop-bucket, 1
 bucket/Boxcryptor.json, dodorz/scoop, 0
 bucket/Brave-Portable.json, ACooper81/scoop-apps, 1
 bucket/Brave-UserInstall.json, ACooper81/scoop-apps, 1
@@ -2805,6 +2804,7 @@ bucket/boringproxy.json, ScoopInstaller/Main, 1
 bucket/bottom-nightly.json, ScoopInstaller/Versions, 1
 bucket/bottom.json, ScoopInstaller/Main, 1
 bucket/boundary.json, ScoopInstaller/Main, 0
+bucket/bowpad.json, naderi/scoop-bucket, 1
 bucket/boxcutter.json, dodorz/scoop, 0
 bucket/boxes.json, ScoopInstaller/Main, 1
 bucket/boxplayer.json, echoiron/echo-scoop, 1
@@ -6049,7 +6049,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -8638,7 +8638,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1

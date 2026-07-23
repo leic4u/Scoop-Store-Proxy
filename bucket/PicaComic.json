@@ -10,10 +10,15 @@
     }
   },
   "persist_external": [
-    "$env:AppData\\com.github.pacalini",
+    [
+      "$env:AppData\\com.github.pacalini",
+      "data",
+      "directory"
+    ],
     [
       "$env:LocalAppData\\com.github.pacalini",
-      "cache"
+      "cache",
+      "directory"
     ]
   ],
   "post_install": [

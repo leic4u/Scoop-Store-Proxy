@@ -19,11 +19,13 @@
   "persist_external": [
     [
       "$env:AppData\\com.github.cyrilpeng",
-      "data"
+      "data",
+      "directory"
     ],
     [
       "$env:LocalAppData\\com.github.cyrilpeng",
-      "cache"
+      "cache",
+      "directory"
     ]
   ],
   "post_install": [
