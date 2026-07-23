@@ -8775,6 +8775,7 @@ bucket/pstree.json, cderv/r-bucket, 0
 bucket/psutils.json, ScoopInstaller/Main, 1
 bucket/pswinglue.json, yuusakuri/scoop-bucket, 1
 bucket/pswinutil.json, yuusakuri/scoop-bucket, 1
+bucket/psysonic.json, ScoopInstaller/Extras, 1
 bucket/pt.json, ScoopInstaller/Main, 1
 bucket/ptags.json, ScoopInstaller/Main, 1
 bucket/pterm.json, ScoopInstaller/Extras, 0
@@ -9612,7 +9613,7 @@ bucket/secureuxtheme.json, ScoopInstaller/Extras, 1
 bucket/securityquestionsview.json, ScoopInstaller/Nirsoft, 0
 bucket/securitysoftview.json, ScoopInstaller/Nirsoft, 0
 bucket/sed.json, ScoopInstaller/Main, 1
-bucket/see-cat.json, aliesbelik/poldi, 1
+bucket/see.json, aliesbelik/poldi, 1
 bucket/seelen-ui.json, ScoopInstaller/Extras, 1
 bucket/sejda-pdf.json, ScoopInstaller/Extras, 0
 bucket/selene.json, ScoopInstaller/Extras, 1
