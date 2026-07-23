@@ -5221,6 +5221,7 @@ bucket/gunk.json, ScoopInstaller/Main, 1
 bucket/gut.json, ScoopInstaller/Main, 1
 bucket/gvim-portable.json, naderi/scoop-bucket, 0
 bucket/gvm.json, Weidows-projects/scoop-3rd, 1
+bucket/gwm.json, aliesbelik/poldi, 1
 bucket/gyroflow.json, ScoopInstaller/Extras, 1
 bucket/gzdoom.json, Calinou/scoop-games, 1
 bucket/gzip.json, ScoopInstaller/Main, 0
