@@ -2198,7 +2198,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3842,7 +3842,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, borger/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -6050,7 +6050,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, seumsc/scoop-seu, 0
+bucket/kook.json, chawyehsu/dorado, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -11047,7 +11047,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
