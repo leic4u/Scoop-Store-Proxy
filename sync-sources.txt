@@ -3842,7 +3842,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, borger/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -3857,7 +3857,6 @@ bucket/doom-retro.json, Calinou/scoop-games, 1
 bucket/doomrunner.json, Calinou/scoop-games, 1
 bucket/doomsday.json, Calinou/scoop-games, 0
 bucket/dopamine-legacy.json, hu3rror/scoop-muggle, 1
-bucket/dopamine-preview.json, hu3rror/scoop-muggle, 1
 bucket/dopamine.json, ScoopInstaller/Extras, 1
 bucket/dos2unix.json, ScoopInstaller/Main, 0
 bucket/dosbox-staging.json, ScoopInstaller/Extras, 1
@@ -7707,6 +7706,7 @@ bucket/openlens.json, ScoopInstaller/Extras, 1
 bucket/openliberty.json, ScoopInstaller/Extras, 0
 bucket/openlist.json, ScoopInstaller/Main, 1
 bucket/openloco.json, Calinou/scoop-games, 1
+bucket/openlogi.json, DoveBoy/Apps, 1
 bucket/openmcdf.json, SayCV/scoop-cvp, 1
 bucket/openmohaa.json, Calinou/scoop-games, 1
 bucket/openmpt.json, ScoopInstaller/Extras, 0
@@ -9620,6 +9620,7 @@ bucket/selene.json, ScoopInstaller/Extras, 1
 bucket/selenium-manager.json, ScoopInstaller/Main, 1
 bucket/selenium.json, ScoopInstaller/Main, 1
 bucket/selenium3.json, ScoopInstaller/Versions, 0
+bucket/sem.json, ScoopInstaller/Main, 1
 bucket/semeru-jdk.json, ScoopInstaller/Java, 1
 bucket/semeru-jre.json, ScoopInstaller/Java, 1
 bucket/semeru-lts-jdk.json, ScoopInstaller/Java, 1
@@ -9775,7 +9776,6 @@ bucket/simplewmiview.json, ScoopInstaller/Nirsoft, 0
 bucket/simplex-chat.json, ScoopInstaller/Main, 1
 bucket/simplyserial.json, ScoopInstaller/Extras, 1
 bucket/simpread-sync.json, hu3rror/scoop-muggle, 1
-bucket/simpread-synchelper.json, hu3rror/scoop-muggle, 0
 bucket/simulationcraft.json, Calinou/scoop-games, 0
 bucket/simutrans.json, Calinou/scoop-games, 0
 bucket/sing-box-beta.json, DoveBoy/Apps, 1
@@ -11047,7 +11047,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
