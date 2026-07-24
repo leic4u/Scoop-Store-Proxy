@@ -5696,6 +5696,7 @@ bucket/iptv-checker-cn.json, SayCV/scoop-cvp, 1
 bucket/iptvnator.json, ScoopInstaller/Extras, 1
 bucket/iqiyi-cvp.json, SayCV/scoop-cvp, 1
 bucket/iqiyi.json, echoiron/echo-scoop, 0
+bucket/ir.json, cderv/r-bucket, 1
 bucket/irfanview-lean.json, ScoopInstaller/Extras, 0
 bucket/irfanview.ja.json, jfut/scoop-jfut, 0
 bucket/irfanview.json, ScoopInstaller/Extras, 0
