@@ -2198,7 +2198,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -4160,6 +4160,7 @@ bucket/enscript.json, dodorz/scoop, 0
 bucket/enso.json, ScoopInstaller/Extras, 1
 bucket/ente-auth.json, ScoopInstaller/Extras, 1
 bucket/ente-cli.json, aliesbelik/poldi, 1
+bucket/ente-photos.json, ScoopInstaller/Extras, 1
 bucket/entracte.json, cderv/r-bucket, 1
 bucket/envfetch.json, aliesbelik/poldi, 1
 bucket/envsubst.json, ScoopInstaller/Main, 1
@@ -5671,7 +5672,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, KnotUntied/scoop-fonts, 1
+bucket/iosevka.json, iquiw/scoop-bucket, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
@@ -10484,7 +10485,7 @@ bucket/tfsec.json, ScoopInstaller/Main, 1
 bucket/tfsort.json, aliesbelik/poldi, 1
 bucket/tftpd.json, ScoopInstaller/Extras, 1
 bucket/tftputil-gui.json, ScoopInstaller/Extras, 0
-bucket/tgpt.json, brian6932/dank-scoop, 1
+bucket/tgpt.json, chawyehsu/dorado, 1
 bucket/theia-ide.json, ScoopInstaller/Extras, 0
 bucket/thewitchshouse-en.json, beerpiss/scoop-bucket, 0
 bucket/thewitchshouse-jp.json, beerpiss/scoop-bucket, 0
