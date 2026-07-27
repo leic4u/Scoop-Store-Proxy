@@ -225,7 +225,7 @@ bucket/BigBlueTerminal-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Bigjpg.json, dodorz/scoop, 0
-bucket/Bilibili.json, DoveBoy/Apps, 0
+bucket/Bilibili.json, akirco/aki-apps, 0
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitComet.json, leic4u/Scoop-Store, 0
@@ -2141,6 +2141,7 @@ bucket/aegisubdc.json, batkiz/backit, 1
 bucket/aemulus.json, Deide/deide-bucket, 1
 bucket/aerochat.json, brian6932/dank-scoop, 1
 bucket/affine.json, ScoopInstaller/Extras, 1
+bucket/affinity.json, naderi/scoop-bucket, 0
 bucket/afrog.json, ViCrack/scoop-bucket, 1
 bucket/ag.json, ScoopInstaller/Main, 1
 bucket/agate.json, littleli/Scoop-littleli, 1
@@ -2198,7 +2199,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -5743,7 +5744,7 @@ bucket/jasob.json, SayCV/scoop-cvp, 0
 bucket/jasper.json, ScoopInstaller/Extras, 1
 bucket/java-chains.json, ViCrack/scoop-bucket, 1
 bucket/java-echo-generator-release.json, ViCrack/scoop-bucket, 1
-bucket/java-editor.json, dodorz/scoop, 0
+bucket/java-editor.json, naderi/scoop-bucket, 0
 bucket/java-memshell-generator.json, ViCrack/scoop-bucket, 1
 bucket/javascriptanimatorexpress.json, kodybrown/scoop-nirsoft, 0
 bucket/jazz2-resurrection.json, Calinou/scoop-games, 1
@@ -10708,6 +10709,7 @@ bucket/ttplayer.json, chawyehsu/dorado, 0
 bucket/tts-voice-wizard.json, ScoopInstaller/Extras, 1
 bucket/tts-vue-next.json, ivaquero/scoopet, 1
 bucket/tts-vue.json, abgox/abgo_bucket, 1
+bucket/tty7.json, batkiz/backit, 1
 bucket/ttyd.json, ScoopInstaller/Main, 1
 bucket/ttyper.json, ScoopInstaller/Main, 1
 bucket/tuba-tool.json, ChinLong/scoop-customize, 0
