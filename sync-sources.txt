@@ -7939,7 +7939,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -11527,6 +11527,7 @@ bucket/workspaceutilities.json, ScoopInstaller/Extras, 0
 bucket/worktrunk.json, ScoopInstaller/Main, 1
 bucket/wormhole-william.json, ScoopInstaller/Main, 1
 bucket/worsttrace.json, ygguorun/scoop-bucket, 0
+bucket/wowup-cf.json, Calinou/scoop-games, 1
 bucket/wowup.json, Calinou/scoop-games, 1
 bucket/wox-beta.json, ScoopInstaller/Versions, 1
 bucket/wox-nightly.json, chawyehsu/dorado, 1
