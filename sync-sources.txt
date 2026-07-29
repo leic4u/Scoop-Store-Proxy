@@ -11305,6 +11305,7 @@ bucket/win-acme-plus.json, aoisummer/scoop-bucket, 1
 bucket/win-acme.json, ScoopInstaller/Main, 1
 bucket/win-aio.json, naderi/scoop-bucket, 0
 bucket/win-bash.json, naderi/scoop-bucket, 0
+bucket/win-codexbar.json, ScoopInstaller/Extras, 1
 bucket/win-gpg-agent.json, ScoopInstaller/Extras, 1
 bucket/win-gpg.json, naderi/scoop-bucket, 0
 bucket/win-portacle.json, ScoopInstaller/Extras, 1
