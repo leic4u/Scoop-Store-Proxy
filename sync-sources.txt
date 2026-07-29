@@ -2987,6 +2987,7 @@ bucket/cbmc.json, seumsc/scoop-seu, 1
 bucket/cbox-cvp.json, SayCV/scoop-cvp, 1
 bucket/cbxconverter.json, starise/Scoop-Confetti, 0
 bucket/cc-clean-launcher.json, brian6932/dank-scoop, 1
+bucket/cc-connect.json, ScoopInstaller/Main, 1
 bucket/cc-switch.json, ScoopInstaller/Extras, 1
 bucket/cc65.json, ScoopInstaller/Main, 0
 bucket/ccache.json, ScoopInstaller/Main, 1
@@ -6615,7 +6616,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
