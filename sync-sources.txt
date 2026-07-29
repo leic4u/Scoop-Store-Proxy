@@ -2199,7 +2199,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -6616,7 +6616,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -8488,6 +8488,7 @@ bucket/pilinara-portable.json, DoveBoy/Apps, 1
 bucket/pilinara.json, DoveBoy/Apps, 1
 bucket/piliplus-portable.json, DoveBoy/Apps, 1
 bucket/piliplus.json, DoveBoy/Apps, 1
+bucket/pinact.json, aliesbelik/poldi, 1
 bucket/pinata.json, aliesbelik/poldi, 1
 bucket/pincat.json, chawyehsu/dorado, 1
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
