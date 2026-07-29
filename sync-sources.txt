@@ -210,7 +210,7 @@ bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/BASIC256.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
+bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -3009,6 +3009,7 @@ bucket/cdnlookup.json, hu3rror/scoop-muggle, 1
 bucket/cdntest.json, aliesbelik/poldi, 1
 bucket/cdogs-sdl.json, Calinou/scoop-games, 1
 bucket/cdrtools.json, ScoopInstaller/Main, 0
+bucket/cedar.json, ScoopInstaller/Main, 1
 bucket/cefflashbrowser.json, ScoopInstaller/Extras, 1
 bucket/celestia.json, ScoopInstaller/Extras, 1
 bucket/cemu-dev.json, Calinou/scoop-games, 1
@@ -5260,6 +5261,7 @@ bucket/harmonoid.json, ScoopInstaller/Extras, 1
 bucket/harmony.json, ScoopInstaller/Extras, 1
 bucket/harmonyOS-sans.json, hu3rror/scoop-muggle, 0
 bucket/harper.json, ScoopInstaller/Main, 1
+bucket/haruna.json, ScoopInstaller/Extras, 0
 bucket/hash-explorer.json, rasa/scoops, 0
 bucket/hash.json, ygguorun/scoop-bucket, 0
 bucket/hashcat.json, ScoopInstaller/Main, 0
@@ -6185,7 +6187,7 @@ bucket/ldc.json, ScoopInstaller/Main, 1
 bucket/ldmdump.json, niheaven/scoop-sysinternals, 1
 bucket/ldplayer.json, ScoopInstaller/Extras, 0
 bucket/ldplayer9.json, cc713/ownscoop, 1
-bucket/leaf-md.json, ScoopInstaller/Main, 1
+bucket/leaf-markdown-viewer.json, ScoopInstaller/Main, 1
 bucket/leaf.json, ScoopInstaller/Main, 1
 bucket/leagueakari.json, DoveBoy/Apps, 1
 bucket/leaguemono.json, KnotUntied/scoop-fonts, 1
