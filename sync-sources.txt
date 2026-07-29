@@ -1123,8 +1123,6 @@ bucket/NetUsers.json, dodorz/scoop, 0
 bucket/NetView.json, dodorz/scoop, 0
 bucket/Netch-Portable.json, ACooper81/scoop-apps, 1
 bucket/NetworkDriveControl-ManualInstall.json, ACooper81/scoop-apps, 0
-bucket/NexusFile.json, dodorz/scoop, 0
-bucket/NexusImage.json, dodorz/scoop, 0
 bucket/NilesoftShell-Portable.json, ACooper81/scoop-apps, 0
 bucket/Nimbalyst.json, dodorz/scoop, 1
 bucket/Niramit.json, matthewjberger/scoop-nerd-fonts, 0
@@ -3980,7 +3978,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -7332,7 +7330,9 @@ bucket/nextdns.json, ScoopInstaller/Main, 1
 bucket/nexttrace.json, ScoopInstaller/Extras, 1
 bucket/nexus-repository-oss.json, ScoopInstaller/Extras, 0
 bucket/nexus-terminal.json, Weidows-projects/scoop-3rd, 1
+bucket/nexusfile.json, naderi/scoop-bucket, 0
 bucket/nexusfont.json, ScoopInstaller/Extras, 0
+bucket/nexusimage.json, naderi/scoop-bucket, 0
 bucket/nfpm.json, ScoopInstaller/Main, 1
 bucket/nfs2019.json, SayCV/scoop-cvp, 1
 bucket/nftup.json, chawyehsu/dorado, 1
