@@ -120,7 +120,7 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, renxia/scoop-bucket, 1
+bucket/AionUi.json, dodorz/scoop, 1
 bucket/AlephNote.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
 bucket/AliWangWang.json, SayCV/scoop-cvp, 1
@@ -2197,7 +2197,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -8698,7 +8698,7 @@ bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/project-graph.json, ScoopInstaller/Extras, 1
-bucket/project64-dev.json, borger/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom-lite.json, seumsc/scoop-seu, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
