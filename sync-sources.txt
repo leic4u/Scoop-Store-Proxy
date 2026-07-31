@@ -1916,6 +1916,7 @@ bucket/WechatWork.json, kkzzhizhou/scoop-zapps, 1
 bucket/WeekToDo.json, abgox/abgo_bucket, 1
 bucket/Wenquanyi-Microhei.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Wenquanyi-Zenhei.json, matthewjberger/scoop-nerd-fonts, 0
+bucket/Whale.json, dodorz/scoop, 1
 bucket/WhatChanged-Portable.json, ACooper81/scoop-apps, 0
 bucket/Whisper-cpp-blas.json, dodorz/scoop, 1
 bucket/Whitecloud.json, kkzzhizhou/scoop-zapps, 1
@@ -4454,7 +4455,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
