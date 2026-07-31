@@ -2361,6 +2361,7 @@ bucket/argocd.json, ScoopInstaller/Main, 1
 bucket/argyllcms.json, ScoopInstaller/Extras, 0
 bucket/aria-ng-gui.json, ScoopInstaller/Extras, 1
 bucket/aria2-134.json, ScoopInstaller/Versions, 1
+bucket/aria2-next.json, DoveBoy/Apps, 1
 bucket/aria2.json, ScoopInstaller/Main, 1
 bucket/aria2manager.json, DoveBoy/Apps, 1
 bucket/ariang-native.json, ScoopInstaller/Extras, 1
@@ -3000,6 +3001,8 @@ bucket/ccstudio.json, SayCV/scoop-cvp, 1
 bucket/ccstudio31.json, SayCV/scoop-cvp, 1
 bucket/ccstudio33-seed-xds510.json, SayCV/scoop-cvp, 1
 bucket/ccstudio33.json, SayCV/scoop-cvp, 1
+bucket/cctvvideodownloader-cli.json, DoveBoy/Apps, 1
+bucket/cctvvideodownloader.json, DoveBoy/Apps, 1
 bucket/cdburnerxp.json, ScoopInstaller/Extras, 0
 bucket/cdex.json, ScoopInstaller/Extras, 0
 bucket/cdialog.json, ScoopInstaller/Main, 0
@@ -5433,6 +5436,8 @@ bucket/hunterpie.json, Deide/deide-bucket, 1
 bucket/hunterpie2.json, Deide/deide-bucket, 1
 bucket/huorong-popblock.json, amorphobia/siku, 0
 bucket/hurl.json, ScoopInstaller/Main, 1
+bucket/husi-pre.json, DoveBoy/Apps, 1
+bucket/husi.json, DoveBoy/Apps, 1
 bucket/hwatch.json, aliesbelik/poldi, 1
 bucket/hwinfo.json, ScoopInstaller/Extras, 0
 bucket/hwmonitor.json, ScoopInstaller/Extras, 0
@@ -10030,6 +10035,8 @@ bucket/squirrel-sql.json, ScoopInstaller/Extras, 0
 bucket/squirreldisk.json, ScoopInstaller/Extras, 1
 bucket/srb2kart.json, Calinou/scoop-games, 1
 bucket/src-highlight.json, dodorz/scoop, 0
+bucket/srcbox-portable.json, DoveBoy/Apps, 1
+bucket/srcbox.json, DoveBoy/Apps, 1
 bucket/srecord.json, ScoopInstaller/Main, 0
 bucket/srgn.json, aliesbelik/poldi, 1
 bucket/srlua.json, ScoopInstaller/Main, 0
