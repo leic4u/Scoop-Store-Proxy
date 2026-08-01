@@ -563,6 +563,7 @@ bucket/FastCSViewer.json, dodorz/scoop, 0
 bucket/FastClaw.json, dodorz/scoop, 1
 bucket/FastCopy-M.json, Paxxs/Cluttered-bucket, 1
 bucket/FastGithub.json, abgox/abgo_bucket, 0
+bucket/FastRawViewer.json, dodorz/scoop, 0
 bucket/Feep.json, dodorz/scoop, 1
 bucket/FeiQ.json, dodorz/scoop, 0
 bucket/FeiShu.json, scoopcn/scoopcn, 0
@@ -8968,7 +8969,7 @@ bucket/qt-creator.json, ScoopInstaller/Extras, 0
 bucket/qtemu.json, ScoopInstaller/Extras, 0
 bucket/qtifw.json, ScoopInstaller/Main, 0
 bucket/qtox.json, ScoopInstaller/Extras, 1
-bucket/qtpass.json, kidonng/sushi, 1
+bucket/qtpass.json, dodorz/scoop, 1
 bucket/qtscrcpy.json, ScoopInstaller/Extras, 1
 bucket/qttabbar-beta.json, brian6932/dank-scoop, 0
 bucket/qttabbar-indiff-np.json, ScoopInstaller/Nonportable, 1
