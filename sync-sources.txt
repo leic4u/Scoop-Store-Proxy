@@ -458,7 +458,7 @@ bucket/DocFormat.json, dodorz/scoop, 1
 bucket/Document-TagExplorer.json, kkzzhizhou/scoop-zapps, 1
 bucket/DotNetVersions.json, ygguorun/scoop-bucket, 1
 bucket/DouYin.json, ivaquero/scoopet, 0
-bucket/DoubleCommander.json, dodorz/scoop, 0
+bucket/DoubleCommander.json, dodorz/scoop, 1
 bucket/DoubleKiller.json, zhoujin7/tomato, 0
 bucket/DownKyi.json, abgox/abgo_bucket, 1
 bucket/DoxygenGUI.json, dodorz/scoop, 0
@@ -1344,6 +1344,7 @@ bucket/QR-Desktop.json, dodorz/scoop, 1
 bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
+bucket/Qoder-CLI.json, dodorz/scoop, 0
 bucket/Qoder.json, akirco/aki-apps, 0
 bucket/QoderCN.json, dodorz/scoop, 0
 bucket/QoderWork.json, dodorz/scoop, 0
@@ -7289,7 +7290,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, chawyehsu/dorado, 0
+bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
@@ -10733,6 +10734,7 @@ bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
 bucket/tunnelbear-np.json, ScoopInstaller/Nonportable, 0
 bucket/tup.json, ScoopInstaller/Main, 0
+bucket/tura.json, ScoopInstaller/Extras, 1
 bucket/turnedontimesview.json, ScoopInstaller/Nirsoft, 0
 bucket/tursi.json, jfut/scoop-jfut, 1
 bucket/turso.json, ScoopInstaller/Main, 1
