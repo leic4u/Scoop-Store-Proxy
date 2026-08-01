@@ -808,7 +808,6 @@ bucket/IosevkaTerm-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IosevkaTermSlab-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IosevkaTermSlab-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IosevkaTermSlab-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Ipe.json, dodorz/scoop, 1
 bucket/IrfanView-Install.json, ACooper81/scoop-apps, 0
 bucket/IrfanView-Portable.json, ACooper81/scoop-apps, 0
 bucket/IrfanViewPlugins-Install.json, ACooper81/scoop-apps, 0
@@ -959,6 +958,7 @@ bucket/MP4DownloaderPro-Install.json, ACooper81/scoop-apps, 0
 bucket/MP4Tools.json, dodorz/scoop, 0
 bucket/MPC-BE-Install.json, ACooper81/scoop-apps, 0
 bucket/MPC-BE-Portable.json, ACooper81/scoop-apps, 0
+bucket/MPUI.json, dodorz/scoop, 0
 bucket/MParallel.json, dodorz/scoop, 1
 bucket/MPlayer-sherpya.json, dodorz/scoop, 0
 bucket/MPlus-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -5689,6 +5689,7 @@ bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
 bucket/ipcalc.json, ScoopInstaller/Main, 1
+bucket/ipe.json, ScoopInstaller/Extras, 1
 bucket/iperf-win32.json, SayCV/scoop-cvp, 1
 bucket/iperf2.json, SayCV/scoop-cvp, 0
 bucket/iperf3.5.json, ScoopInstaller/Versions, 0
@@ -8733,6 +8734,7 @@ bucket/protonmail-bridge.json, ScoopInstaller/Extras, 1
 bucket/protonvpn-np.json, ScoopInstaller/Nonportable, 0
 bucket/protonvpn.json, Homeland-Community/scoop, 0
 bucket/prowiz.json, ScoopInstaller/Main, 0
+bucket/proxelar.json, ScoopInstaller/Extras, 1
 bucket/proxifier-pe.json, HUMORCE/nuke, 0
 bucket/proxifier.json, ScoopInstaller/Extras, 0
 bucket/proxifierpe.json, SayCV/scoop-cvp, 0
