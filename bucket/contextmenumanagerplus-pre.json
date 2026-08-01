@@ -1,0 +1,55 @@
+{
+  "version": "1.2.23.2605",
+  "description": "Context Menu Manager Plus 是一个强大的实用程序，它可帮助您管理 Windows 上的右键菜单",
+  "homepage": "https://github.com/PLFJY/ContextMenuMgr",
+  "license": {
+    "identifier": "GPL-3.0 license",
+    "url": "https://github.com/PLFJY/ContextMenuMgr#GPL-3.0-1-ov-file"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://ghgo.xyz/https://github.com/KaringX/karing/releases/download/v1.2.23.2605/karing_1.2.23.2605_windows_x64.exe",
+      "hash": "0c988a9bc06a452ff3af0fb9653a16a6c5047627c2f646a13bdc356d58e057ba"
+    },
+    "32bit": {
+      "url": "https://ghgo.xyz/https://github.com/KaringX/karing/releases/download/v1.2.23.2605/karing_1.2.23.2605_windows_x64.exe",
+      "hash": "0c988a9bc06a452ff3af0fb9653a16a6c5047627c2f646a13bdc356d58e057ba"
+    },
+    "arm64": {
+      "url": "https://ghgo.xyz/https://github.com/KaringX/karing/releases/download/v1.2.23.2605/karing_1.2.23.2605_windows_x64.exe",
+      "hash": "0c988a9bc06a452ff3af0fb9653a16a6c5047627c2f646a13bdc356d58e057ba"
+    }
+  },
+  "innosetup": true,
+  "bin": "ContextMenuManagerPlus.exe",
+  "shortcuts": [
+    [
+      "ContextMenuManagerPlus.exe",
+      "ContextMenuManagerPlus"
+    ]
+  ],
+  "persist": "Data",
+  "checkver": {
+    "github": "https://api.github.com/repos/PLFJY/ContextMenuMgr/releases",
+    "jp": "$[*].tag_name",
+    "regex": "v(?<version>[\\d.]+-[A-Za-z]+)\\+(?<commit>[\\w]+)",
+    "replace": "${version}+${commit}"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://ghgo.xyz/https://github.com/PLFJY/ContextMenuMgr/releases/download/v$matchVersion%2B$matchCommit/ContextMenuMgrPlus-$matchVersion%2B$matchCommit-x64-self-contained-Setup.exe"
+      },
+      "32bit": {
+        "url": "https://ghgo.xyz/https://github.com/PLFJY/ContextMenuMgr/releases/download/v$matchVersion%2B$matchCommit/ContextMenuMgrPlus-$matchVersion%2B$matchCommit-x86-self-contained-Setup.exe"
+      },
+      "arm64": {
+        "url": "https://ghgo.xyz/https://github.com/PLFJY/ContextMenuMgr/releases/download/v$matchVersion%2B$matchCommit/ContextMenuMgrPlus-$matchVersion%2B$matchCommit-arm64-self-contained-Setup.exe"
+      }
+    },
+    "hash": {
+      "url": "https://github.com/PLFJY/ContextMenuMgr/releases",
+      "regex": "(?s)$basename.*?$sha256"
+    }
+  }
+}

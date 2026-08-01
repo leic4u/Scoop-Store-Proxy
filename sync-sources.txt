@@ -1251,6 +1251,7 @@ bucket/PandaOCR.json, dodorz/scoop, 1
 bucket/PandaOCRPro.json, dodorz/scoop, 1
 bucket/PartAssist.json, Weidows-projects/scoop-3rd, 0
 bucket/PartAssistCmd.json, dodorz/scoop, 0
+bucket/Pass4Win.json, dodorz/scoop, 1
 bucket/PatchMyPCHomeUpdater-Portable.json, ACooper81/scoop-apps, 0
 bucket/Patchfluent-Portable.json, ACooper81/scoop-apps, 1
 bucket/Pattaya.json, matthewjberger/scoop-nerd-fonts, 0
@@ -3340,6 +3341,8 @@ bucket/consul.json, ScoopInstaller/Main, 0
 bucket/containerd.json, ScoopInstaller/Main, 1
 bucket/context-menu-manager.json, ScoopInstaller/Extras, 1
 bucket/context.json, naderi/scoop-bucket, 0
+bucket/contextmenumanagerplus-pre.json, DoveBoy/Apps, 1
+bucket/contextmenumanagerplus.json, DoveBoy/Apps, 1
 bucket/contig.json, niheaven/scoop-sysinternals, 1
 bucket/contour.json, ScoopInstaller/Extras, 1
 bucket/controlmymonitor.json, ScoopInstaller/Nirsoft, 0
@@ -9317,7 +9320,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
