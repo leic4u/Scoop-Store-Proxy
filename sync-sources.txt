@@ -384,6 +384,7 @@ bucket/CrystalMark-Retro-Shizuku.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/CuteHttpFileServer-Portable.json, ACooper81/scoop-apps, 0
 bucket/CuteHttpFileServerGUI-Portable.json, ACooper81/scoop-apps, 0
 bucket/CutyCapt.json, dodorz/scoop, 0
+bucket/CwRsync.json, dodorz/scoop, 0
 bucket/CyLog.json, dodorz/scoop, 0
 bucket/CyberShredder.json, dodorz/scoop, 0
 bucket/CzkawkaGUI.json, dodorz/scoop, 1
@@ -531,6 +532,7 @@ bucket/EpicGamesLauncher-Install.json, ACooper81/scoop-apps, 0
 bucket/EpicGamesLauncher-Portable.json, ACooper81/scoop-apps, 0
 bucket/Eraser5-Portable.json, ACooper81/scoop-apps, 0
 bucket/EventLogViewer-Portable.json, ACooper81/scoop-apps, 0
+bucket/EverEdit.json, dodorz/scoop, 0
 bucket/EvilPlayer.json, dodorz/scoop, 0
 bucket/ExMplayer.json, dodorz/scoop, 0
 bucket/ExVR.json, Weidows-projects/scoop-3rd, 1
@@ -3986,7 +3988,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -4225,7 +4227,6 @@ bucket/eventlogchannelsview.json, ScoopInstaller/Nirsoft, 0
 bucket/eventlogsourcesview.json, ScoopInstaller/Nirsoft, 0
 bucket/eventlogviewer.json, naderi/scoop-bucket, 0
 bucket/eventstore.json, ScoopInstaller/Main, 1
-bucket/everedit.json, echoiron/echo-scoop, 0
 bucket/evernote.json, wzv5/ScoopBucket, 0
 bucket/everyone-can-use-english.json, Weidows-projects/scoop-3rd, 1
 bucket/everything-alpha.json, ScoopInstaller/Versions, 1
@@ -7162,7 +7163,7 @@ bucket/multipass.json, ScoopInstaller/Main, 1
 bucket/multrin.json, ScoopInstaller/Extras, 1
 bucket/mumble-server.json, ScoopInstaller/Extras, 1
 bucket/mumble.json, ScoopInstaller/Extras, 1
-bucket/mupdf.json, ScoopInstaller/Extras, 0
+bucket/mupdf.json, ScoopInstaller/Extras, 1
 bucket/mupen64plus.json, borger/scoop-emulators, 1
 bucket/murata-simsurfing.json, SayCV/scoop-cvp, 0
 bucket/murphysec.json, batkiz/backit, 1
