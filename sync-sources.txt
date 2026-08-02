@@ -1477,6 +1477,7 @@ bucket/SarasaGothic-ttc-unhinted.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/SarasaGothic-ttc.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/SarasaGothic-unhinted.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/SarasaGothic.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Scheme48.json, dodorz/scoop, 0
 bucket/SciHubEVA.json, dodorz/scoop, 1
 bucket/Scilab.json, dodorz/scoop, 0
 bucket/Scoop4kariiinUtils.json, AkariiinMKII/Scoop4kariiin, 1
@@ -2070,6 +2071,7 @@ bucket/Zkey.json, kkzzhizhou/scoop-zapps, 1
 bucket/Zoom-Install.json, ACooper81/scoop-apps, 0
 bucket/Zoom-Portable.json, ACooper81/scoop-apps, 0
 bucket/Zotero-Install.json, ACooper81/scoop-apps, 0
+bucket/aacDECdrop.json, dodorz/scoop, 0
 bucket/aapt2.json, chawyehsu/dorado, 0
 bucket/aardio.json, dodorz/scoop, 0
 bucket/aaru.json, cc713/ownscoop, 1
@@ -2206,7 +2208,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -7941,6 +7943,7 @@ bucket/pathofbuilding-poe2-community.json, Calinou/scoop-games, 1
 bucket/pathofbuilding.json, Calinou/scoop-games, 1
 bucket/pathom-viz.json, littleli/scoop-clojure, 1
 bucket/payk.json, aliesbelik/poldi, 1
+bucket/pb.json, dodorz/scoop, 1
 bucket/pbgopy.json, batkiz/backit, 1
 bucket/pbkit.json, brian6932/dank-scoop, 1
 bucket/pcap-dnsproxy.json, aoisummer/scoop-bucket, 1
@@ -11004,7 +11007,7 @@ bucket/verethragna.json, jfut/scoop-jfut, 0
 bucket/verilator.json, SayCV/scoop-cvp, 1
 bucket/verilog-format.json, SayCV/scoop-cvp, 1
 bucket/version-manager.json, abgox/abgo_bucket, 1
-bucket/verycapture.json, ViCrack/scoop-bucket, 0
+bucket/verycapture.json, dodorz/scoop, 0
 bucket/verysync.json, kkzzhizhou/scoop-zapps, 0
 bucket/vesktop.json, ScoopInstaller/Extras, 1
 bucket/vesta.json, ScoopInstaller/Extras, 0
