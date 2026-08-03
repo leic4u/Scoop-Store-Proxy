@@ -2691,6 +2691,7 @@ bucket/bifrost.json, ScoopInstaller/Extras, 1
 bucket/biglybt-np.json, ScoopInstaller/Nonportable, 1
 bucket/bigrats.json, dodorz/scoop, 0
 bucket/bili-cli-rs.json, DoveBoy/Apps, 1
+bucket/bili-music.json, Weidows-projects/scoop-3rd, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
@@ -6635,7 +6636,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -9174,7 +9175,7 @@ bucket/reflector-desktop.json, SayCV/scoop-cvp, 1
 bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/reg.json, MCOfficer/scoop-bucket, 1
 bucket/regclient.json, ScoopInstaller/Extras, 1
-bucket/regcool.json, naderi/scoop-bucket, 0
+bucket/regcool.json, dodorz/scoop, 0
 bucket/regdelnull.json, niheaven/scoop-sysinternals, 1
 bucket/regdelta.json, rasa/scoops, 1
 bucket/regdllview.json, ScoopInstaller/Nirsoft, 0
