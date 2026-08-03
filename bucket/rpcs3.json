@@ -1,6 +1,6 @@
 {
-  "version": "0.0.42-19690",
-  "description": "Open-source Sony PlayStation 3 emulator",
+  "version": "0.0.42-19692",
+  "description": "Sony PlayStation 3 emulator",
   "homepage": "https://rpcs3.net/",
   "license": {
     "identifier": "GPL-2.0",
@@ -17,12 +17,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-c36590bb062fc6dae364cc341af0d31436d99f77/rpcs3-v0.0.42-19690-c36590bb_win64_msvc.7z",
-      "hash": "4a867d8081ff16df32ce913a6c17ab1861f2b0d5ac2e5ebff3e1b42bd7085cfc"
+      "url": "https://ghgo.xyz/https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-ee8988ea21770c95fc090f31a154f1d7895a3c38/rpcs3-v0.0.42-19692-ee8988ea_win64_msvc.7z",
+      "hash": "ec8829825d49ebe2c0ecc9e09b6edda23747c40f675cb3f13b7ce42dbde12d43"
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/RPCS3/rpcs3-binaries-win-arm64/releases/download/build-c36590bb062fc6dae364cc341af0d31436d99f77/rpcs3-v0.0.42-19690-c36590bb_win64_aarch64_clang.7z",
-      "hash": "7cdb64152a62d03358327371e416099d64aae1c7da4b7015f0fae0b035c95d70"
+      "url": "https://ghgo.xyz/https://github.com/RPCS3/rpcs3-binaries-win-arm64/releases/download/build-ee8988ea21770c95fc090f31a154f1d7895a3c38/rpcs3-v0.0.42-19692-ee8988ea_win64_aarch64_clang.7z",
+      "hash": "b34ba9507a2cfc15d04eea44435d1f9ca96f5213ed18a601d90d927b10a9fa71"
     }
   },
   "pre_install": [
@@ -37,7 +37,7 @@
   "shortcuts": [
     [
       "rpcs3.exe",
-      "RPCS3"
+      "Sony PlayStation 3 [ps3][rpcs3]"
     ]
   ],
   "persist": [
@@ -59,7 +59,7 @@
   ],
   "checkver": {
     "url": "https://api.github.com/repos/RPCS3/rpcs3-binaries-win/releases/latest",
-    "jsonpath": "$.assets[?(@.name =~ /rpcs3-v[a-f\\d.-]+_win64_msvc\\.7z/)].browser_download_url",
+    "jsonpath": "$.assets[?(@.name =~ /rpcs3-v[a-f\\d.-]+_win64_msvc\\.7z$/)].browser_download_url",
     "regex": "releases/download/(?<build>build-[a-f\\d]+)/rpcs3-v(?<version>[\\d.-]+)-(?<commit>[a-f\\d]+)_win64_msvc\\.7z"
   },
   "autoupdate": {
