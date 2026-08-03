@@ -2209,7 +2209,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -6660,7 +6660,7 @@ bucket/maven4.json, ScoopInstaller/Versions, 0
 bucket/mawk.json, dodorz/scoop, 0
 bucket/maxim-eesim.json, SayCV/scoop-cvp, 1
 bucket/maxima.json, ScoopInstaller/Extras, 0
-bucket/maxto.json, ScoopInstaller/Extras, 0
+bucket/maxto.json, ScoopInstaller/Extras, 1
 bucket/maye.json, ViCrack/scoop-bucket, 1
 bucket/mayenano.json, ViCrack/scoop-bucket, 1
 bucket/mayo.json, ScoopInstaller/Extras, 1
