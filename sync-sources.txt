@@ -5531,7 +5531,7 @@ bucket/idea-ultimate-rc.json, ScoopInstaller/Versions, 1
 bucket/idea.json, ScoopInstaller/Extras, 1
 bucket/identme.json, ScoopInstaller/Extras, 1
 bucket/idlemaster-extended.json, Calinou/scoop-games, 1
-bucket/idm-activation-script.json, DoveBoy/Apps, 1
+bucket/idm-activation-script-chinese.json, DoveBoy/Apps, 1
 bucket/idm-trial-reset.json, amorphobia/siku, 1
 bucket/idm.json, DoveBoy/Apps, 0
 bucket/idmanager.json, jfut/scoop-jfut, 0
@@ -7249,7 +7249,7 @@ bucket/natmap.json, ScoopInstaller/Main, 1
 bucket/natron.json, ScoopInstaller/Extras, 1
 bucket/nats-server.json, ScoopInstaller/Main, 1
 bucket/natscli.json, ScoopInstaller/Extras, 1
-bucket/nattypetester.json, hu3rror/scoop-muggle, 1
+bucket/nattypetester.json, wzv5/ScoopBucket, 1
 bucket/natural-docs.json, ScoopInstaller/Extras, 0
 bucket/navi.json, ScoopInstaller/Main, 1
 bucket/navicat-premium-lite-cn.json, ivaquero/scoopet, 0
@@ -8514,9 +8514,8 @@ bucket/pilinara-portable.json, DoveBoy/Apps, 1
 bucket/pilinara.json, DoveBoy/Apps, 1
 bucket/piliplus-portable.json, DoveBoy/Apps, 1
 bucket/piliplus.json, DoveBoy/Apps, 1
-bucket/pinact.json, aliesbelik/poldi, 1
+bucket/pinact.json, chawyehsu/dorado, 1
 bucket/pinata.json, aliesbelik/poldi, 1
-bucket/pincat.json, chawyehsu/dorado, 1
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineflash.json, ScoopInstaller/Extras, 1
 bucket/pinentry-w32-ncg.json, iquiw/scoop-bucket, 1
