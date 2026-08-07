@@ -6686,6 +6686,7 @@ bucket/mcfly.json, ScoopInstaller/Main, 1
 bucket/mclone.json, Paxxs/Cluttered-bucket, 0
 bucket/mcloud.json, chawyehsu/dorado, 0
 bucket/mcomix.json, ScoopInstaller/Extras, 0
+bucket/mcp-toolbox.json, ScoopInstaller/Main, 0
 bucket/mcrcon.json, Calinou/scoop-games, 1
 bucket/mcskin3d.json, chawyehsu/dorado, 0
 bucket/md5.json, dodorz/scoop, 0
