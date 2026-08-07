@@ -10876,6 +10876,7 @@ bucket/uninstallview.json, ScoopInstaller/Nirsoft, 0
 bucket/uninstalr.json, ScoopInstaller/Extras, 0
 bucket/unison.json, ScoopInstaller/Main, 1
 bucket/units.json, ScoopInstaller/Main, 0
+bucket/unity-cli-beta.json, ScoopInstaller/Versions, 0
 bucket/unity-hub-np.json, ScoopInstaller/Nonportable, 0
 bucket/unity3d.json, scoopcn/scoopcn, 0
 bucket/unityhub.json, chawyehsu/dorado, 0
