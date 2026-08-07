@@ -5529,6 +5529,7 @@ bucket/ida-free.json, ScoopInstaller/Extras, 0
 bucket/ida64pro.json, SayCV/scoop-cvp, 1
 bucket/idcard-generator.json, DoveBoy/Apps, 1
 bucket/iddsampledriver-ge9-np.json, ScoopInstaller/Nonportable, 1
+bucket/idea-community.json, ScoopInstaller/Extras, 1
 bucket/idea-eap.json, ScoopInstaller/Versions, 1
 bucket/idea-rc.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate-eap.json, ScoopInstaller/Versions, 1
