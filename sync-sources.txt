@@ -3674,6 +3674,7 @@ bucket/default-programs-editor.json, mo-san/scoop-bucket, 0
 bucket/defender-control.json, Weidows-projects/scoop-3rd, 1
 bucket/defendnot.json, ScoopInstaller/Extras, 1
 bucket/defraggler.json, ScoopInstaller/Extras, 0
+bucket/degdid.json, brian6932/dank-scoop, 1
 bucket/dehelper.json, ivaquero/scoopet, 0
 bucket/dejavusanscode-lgc.json, KnotUntied/scoop-fonts, 1
 bucket/dejavusanscode.json, KnotUntied/scoop-fonts, 1
