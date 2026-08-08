@@ -2429,7 +2429,8 @@ bucket/atkinson-hyperlegible-mono.json, KnotUntied/scoop-fonts, 1
 bucket/atkinson-hyperlegible-next.json, KnotUntied/scoop-fonts, 1
 bucket/atkinson-hyperlegible.json, KnotUntied/scoop-fonts, 1
 bucket/atlas-ce.json, aliesbelik/poldi, 0
-bucket/atlas.json, aliesbelik/poldi, 0
+bucket/atlas-community.json, ScoopInstaller/Main, 0
+bucket/atlas.json, ScoopInstaller/Main, 0
 bucket/atlauncher.json, Calinou/scoop-games, 1
 bucket/atmos.json, ScoopInstaller/Main, 1
 bucket/atom-beta.json, ScoopInstaller/Versions, 1
@@ -10606,6 +10607,7 @@ bucket/ting.json, echoiron/echo-scoop, 0
 bucket/tinitex.json, cderv/r-bucket, 1
 bucket/tinode-mysql.json, ScoopInstaller/Extras, 1
 bucket/tinos.json, KnotUntied/scoop-fonts, 0
+bucket/tinta.json, ScoopInstaller/Extras, 1
 bucket/tiny11builder.json, DoveBoy/Apps, 1
 bucket/tinygo.json, ScoopInstaller/Main, 1
 bucket/tinymediamanager.json, ScoopInstaller/Extras, 0
