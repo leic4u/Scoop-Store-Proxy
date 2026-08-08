@@ -3984,6 +3984,7 @@ bucket/drone.json, ScoopInstaller/Main, 1
 bucket/dropbox-np.json, ScoopInstaller/Nonportable, 0
 bucket/dropit.json, ScoopInstaller/Extras, 0
 bucket/droppoint.json, DoveBoy/Apps, 1
+bucket/druk.json, ScoopInstaller/Main, 1
 bucket/dry.json, aliesbelik/poldi, 1
 bucket/ds4windows-circumspector-pre.json, ScoopInstaller/Versions, 1
 bucket/ds4windows.json, ScoopInstaller/Extras, 1
@@ -6894,6 +6895,7 @@ bucket/mimeTeX.json, dodorz/scoop, 0
 bucket/mimo-code.json, ScoopInstaller/Main, 1
 bucket/min-portable.json, DoveBoy/Apps, 1
 bucket/min.json, ScoopInstaller/Extras, 1
+bucket/mina-sshd.json, ScoopInstaller/Main, 0
 bucket/mindforger.json, ScoopInstaller/Extras, 1
 bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
@@ -11460,6 +11462,7 @@ bucket/winmerge2011.json, ScoopInstaller/Extras, 1
 bucket/winmole.json, DoveBoy/Apps, 1
 bucket/winmtr-live.json, ScoopInstaller/Extras, 1
 bucket/winmtr.json, ScoopInstaller/Extras, 0
+bucket/winmute.json, ScoopInstaller/Extras, 1
 bucket/winnfsd.json, ScoopInstaller/Main, 1
 bucket/winobj.json, niheaven/scoop-sysinternals, 1
 bucket/winobjex64.json, wzv5/ScoopBucket, 1
