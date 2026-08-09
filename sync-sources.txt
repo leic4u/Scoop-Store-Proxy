@@ -6850,6 +6850,7 @@ bucket/migrated/karing.json, aliesbelik/poldi, 1
 bucket/migrated/lazysql.json, aliesbelik/poldi, 1
 bucket/migrated/lazyssh.json, aliesbelik/poldi, 1
 bucket/migrated/mcat.json, aliesbelik/poldi, 1
+bucket/migrated/mdcat.json, aliesbelik/poldi, 1
 bucket/migrated/mqtt-cli.json, aliesbelik/poldi, 1
 bucket/migrated/nbping.json, aliesbelik/poldi, 1
 bucket/migrated/octosql.json, aliesbelik/poldi, 1
@@ -11047,6 +11048,7 @@ bucket/vget.json, DoveBoy/Apps, 1
 bucket/vgmstream.json, ScoopInstaller/Main, 1
 bucket/vhs.json, ScoopInstaller/Main, 1
 bucket/vi-mongo.json, aliesbelik/poldi, 1
+bucket/vi-sql.json, aliesbelik/poldi, 1
 bucket/via.json, ScoopInstaller/Extras, 1
 bucket/vial.json, ScoopInstaller/Extras, 1
 bucket/vibing.json, ScoopInstaller/Extras, 1
