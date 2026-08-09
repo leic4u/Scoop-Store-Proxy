@@ -2215,7 +2215,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3153,7 +3153,6 @@ bucket/chunky.json, chawyehsu/dorado, 0
 bucket/cica.json, iquiw/scoop-bucket, 1
 bucket/cider.json, beerpiss/scoop-bucket, 1
 bucket/cidr.json, aliesbelik/poldi, 1
-bucket/cinc-auditor.json, iquiw/scoop-bucket, 0
 bucket/cinebench.json, aoisummer/scoop-bucket, 0
 bucket/cinebench2024.json, aoisummer/scoop-bucket, 0
 bucket/cinebench23.json, aoisummer/scoop-bucket, 0
@@ -4554,7 +4553,7 @@ bucket/fluent-reader.json, ScoopInstaller/Extras, 1
 bucket/fluent-search-nightly.json, ScoopInstaller/Versions, 1
 bucket/fluent-search.json, ScoopInstaller/Extras, 1
 bucket/fluent-terminal-np.json, ScoopInstaller/Nonportable, 1
-bucket/fluentcleaner.json, naderi/scoop-bucket, 1
+bucket/fluentcleaner.json, DoveBoy/Apps, 1
 bucket/fluenttaskscheduler.json, ScoopInstaller/Extras, 1
 bucket/fluidsynth.json, ScoopInstaller/Extras, 1
 bucket/flut-renamer.json, DoveBoy/Apps, 1
@@ -4848,7 +4847,6 @@ bucket/gg.json, ScoopInstaller/Extras, 1
 bucket/ggsql.json, cderv/r-bucket, 1
 bucket/gh-dash.json, littleli/Scoop-littleli, 1
 bucket/gh.json, ScoopInstaller/Main, 1
-bucket/ghc96.json, iquiw/scoop-bucket, 0
 bucket/ghcup.json, ScoopInstaller/Main, 1
 bucket/ghdl.json, ScoopInstaller/Main, 1
 bucket/ghgrab.json, ScoopInstaller/Main, 1
@@ -7982,7 +7980,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -11936,7 +11934,6 @@ bucket/zettlr.json, ScoopInstaller/Extras, 1
 bucket/zhumu.json, echoiron/echo-scoop, 0
 bucket/zig-dev.json, ScoopInstaller/Versions, 0
 bucket/zig.json, ScoopInstaller/Main, 0
-bucket/zigmod.json, iquiw/scoop-bucket, 1
 bucket/zigup.json, ScoopInstaller/Main, 1
 bucket/zim.json, ScoopInstaller/Extras, 0
 bucket/zip-beta.json, ScoopInstaller/Versions, 0
