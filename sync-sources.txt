@@ -4250,6 +4250,7 @@ bucket/eventlogchannelsview.json, ScoopInstaller/Nirsoft, 0
 bucket/eventlogsourcesview.json, ScoopInstaller/Nirsoft, 0
 bucket/eventlogviewer.json, naderi/scoop-bucket, 0
 bucket/eventstore.json, ScoopInstaller/Main, 1
+bucket/evernote-backup.json, ScoopInstaller/Main, 1
 bucket/evernote.json, wzv5/ScoopBucket, 0
 bucket/everyone-can-use-english.json, Weidows-projects/scoop-3rd, 1
 bucket/everything-alpha.json, ScoopInstaller/Versions, 1
