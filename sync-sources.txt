@@ -3882,6 +3882,7 @@ bucket/domainlookuptools.json, ScoopInstaller/Nirsoft, 0
 bucket/domino.json, mo-san/scoop-bucket, 0
 bucket/dont-sleep-portable.json, naderi/scoop-bucket, 0
 bucket/dont-sleep.json, ScoopInstaller/Extras, 0
+bucket/donutbrowser.json, ZvonimirSun/scoop-iszy, 1
 bucket/dooble.json, littleli/Scoop-littleli, 1
 bucket/doom-remake4.json, littleli/Scoop-littleli, 0
 bucket/doom-retro.json, Calinou/scoop-games, 1
@@ -4008,7 +4009,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -7341,7 +7342,6 @@ bucket/netrouteview.json, ScoopInstaller/Nirsoft, 0
 bucket/netsetman.json, naderi/scoop-bucket, 0
 bucket/netsurf.json, littleli/Scoop-littleli, 0
 bucket/nettraffic.json, ScoopInstaller/Extras, 0
-bucket/netvpn-lc.json, ZvonimirSun/scoop-iszy, 0
 bucket/netwatch.json, ScoopInstaller/Main, 1
 bucket/network-monitor-np.json, jingyu9575/scoop-jingyu9575, 0
 bucket/network-profile-name-changer.json, ScoopInstaller/Extras, 0
@@ -8969,7 +8969,6 @@ bucket/qnapi.json, ScoopInstaller/Extras, 1
 bucket/qoderwork-cn.json, ivaquero/scoopet, 0
 bucket/qownnotes.json, ScoopInstaller/Extras, 1
 bucket/qpdf.json, ScoopInstaller/Main, 1
-bucket/qq-dreamcast.json, ZvonimirSun/scoop-iszy, 1
 bucket/qq-nt.json, ScoopInstaller/Extras, 0
 bucket/qq-patch.json, SayCV/scoop-cvp, 1
 bucket/qq.json, ScoopInstaller/Extras, 0
@@ -11281,7 +11280,7 @@ bucket/wechat-cvp.json, SayCV/scoop-cvp, 1
 bucket/wechat-devtools.json, scoopcn/scoopcn, 0
 bucket/wechat-legacy.json, ScoopInstaller/Versions, 0
 bucket/wechat-np.json, chawyehsu/dorado, 0
-bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
+bucket/wechat-work.json, akirco/aki-apps, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
 bucket/wechatdatabackup.json, ViCrack/scoop-bucket, 1
@@ -11489,7 +11488,7 @@ bucket/winrar-ja.json, yuusakuri/scoop-bucket, 0
 bucket/winrar-keygen-cli.json, DoveBoy/Apps, 1
 bucket/winrar-keygen-gui.json, DoveBoy/Apps, 1
 bucket/winrar-np.json, ScoopInstaller/Nonportable, 0
-bucket/winrar-sc.json, ZvonimirSun/scoop-iszy, 0
+bucket/winrar-sc.json, Paxxs/Cluttered-bucket, 0
 bucket/winrar-zh-cn.json, amorphobia/siku, 0
 bucket/winrar.json, ScoopInstaller/Extras, 0
 bucket/winscan2pdf.json, ScoopInstaller/Extras, 0
