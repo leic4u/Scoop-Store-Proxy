@@ -1369,6 +1369,7 @@ bucket/QuickSwitch.json, ygguorun/scoop-bucket, 1
 bucket/Quicker-MSI.json, leic4u/Scoop-Store, 0
 bucket/Quicker.json, ivaquero/scoopet, 0
 bucket/Qute.json, dodorz/scoop, 0
+bucket/QwenWorkCN.json, dodorz/scoop, 0
 bucket/R-Studio.json, kkzzhizhou/scoop-zapps, 1
 bucket/RAMExpect.json, kkzzhizhou/scoop-zapps, 0
 bucket/RDPWrapper-Portable.json, ACooper81/scoop-apps, 1
@@ -9354,7 +9355,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
