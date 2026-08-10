@@ -4009,7 +4009,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -4868,7 +4868,7 @@ bucket/ghq.json, ScoopInstaller/Main, 1
 bucket/ghs.json, aliesbelik/poldi, 1
 bucket/ghz.json, ScoopInstaller/Main, 1
 bucket/gibo.json, ScoopInstaller/Main, 1
-bucket/gickup.json, aliesbelik/poldi, 1
+bucket/gickup.json, ScoopInstaller/Main, 1
 bucket/gif2apng-cli.json, brian6932/dank-scoop, 0
 bucket/gif2apng-gui.json, brian6932/dank-scoop, 0
 bucket/gifcam.json, ScoopInstaller/Extras, 0
