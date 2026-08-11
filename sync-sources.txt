@@ -2019,6 +2019,7 @@ bucket/WordGrinder.json, dodorz/scoop, 1
 bucket/WordTsar.json, dodorz/scoop, 0
 bucket/Wordster.json, dodorz/scoop, 0
 bucket/WorkBuddy.json, dodorz/scoop, 0
+bucket/Write-The-Fuck.json, dodorz/scoop, 0
 bucket/WriteMonkey3.json, dodorz/scoop, 0
 bucket/Writeathon.json, abgox/abgo_bucket, 0
 bucket/WsaToolbox.json, kkzzhizhou/scoop-zapps, 0
