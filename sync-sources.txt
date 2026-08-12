@@ -5591,7 +5591,7 @@ bucket/imazing.json, beerpiss/scoop-bucket, 0
 bucket/imdone.json, ScoopInstaller/Extras, 0
 bucket/imewlconverter.json, hu3rror/scoop-muggle, 1
 bucket/imfile-portable.json, DoveBoy/Apps, 1
-bucket/imfile.json, DoveBoy/Apps, 1
+bucket/imfile.json, naderi/scoop-bucket, 1
 bucket/imgbrd-grabber.json, cc713/ownscoop, 1
 bucket/imgburn.ja.json, jfut/scoop-jfut, 0
 bucket/imgburn.json, ScoopInstaller/Extras, 1
@@ -7618,7 +7618,7 @@ bucket/officeins.json, ScoopInstaller/Nirsoft, 0
 bucket/officetool-dotnet.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetool.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetoolplus-with-runtime.json, DoveBoy/Apps, 1
-bucket/officetoolplus.json, akirco/aki-apps, 1
+bucket/officetoolplus.json, naderi/scoop-bucket, 1
 bucket/offlineinsiderenroll.json, ScoopInstaller/Main, 1
 bucket/offlineregistryfinder.json, ScoopInstaller/Nirsoft, 0
 bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
@@ -8727,7 +8727,7 @@ bucket/prm.json, ScoopInstaller/Main, 1
 bucket/probe-rs.json, ScoopInstaller/Main, 1
 bucket/procdump.json, niheaven/scoop-sysinternals, 1
 bucket/process-compose.json, ScoopInstaller/Extras, 1
-bucket/process-explorer.json, chawyehsu/dorado, 0
+bucket/process-explorer.json, niheaven/scoop-sysinternals, 1
 bucket/process-governor.json, ScoopInstaller/Main, 1
 bucket/process-monitor.json, chawyehsu/dorado, 0
 bucket/processactivityview.json, ScoopInstaller/Nirsoft, 0
@@ -8830,7 +8830,7 @@ bucket/psscripttools.json, DoveBoy/Apps, 0
 bucket/psservice.json, niheaven/scoop-sysinternals, 1
 bucket/psshutdown.json, mogeko/scoop-sysinternals, 0
 bucket/pssuspend.json, niheaven/scoop-sysinternals, 1
-bucket/pstools.json, chawyehsu/dorado, 0
+bucket/pstools.json, niheaven/scoop-sysinternals, 1
 bucket/pstpassword.json, ScoopInstaller/Nirsoft, 0
 bucket/pstree.json, cderv/r-bucket, 0
 bucket/psutils.json, ScoopInstaller/Main, 1
@@ -11709,6 +11709,7 @@ bucket/xkcd.json, KnotUntied/scoop-fonts, 0
 bucket/xkill.json, ScoopInstaller/Extras, 0
 bucket/xl-converter.json, ScoopInstaller/Extras, 1
 bucket/xleak.json, aliesbelik/poldi, 1
+bucket/xled.json, aliesbelik/poldi, 1
 bucket/xlnx-ise147.json, SayCV/scoop-cvp, 1
 bucket/xlnx-vivado20183-parts-spartan.json, SayCV/scoop-cvp, 1
 bucket/xlnx-vivado20183-parts.json, SayCV/scoop-cvp, 1
@@ -11972,7 +11973,7 @@ bucket/zola.json, ScoopInstaller/Main, 1
 bucket/zonvie.json, ScoopInstaller/Extras, 1
 bucket/zookeeper.json, ScoopInstaller/Main, 0
 bucket/zoom.json, ScoopInstaller/Extras, 0
-bucket/zoomit.json, niheaven/scoop-sysinternals, 1
+bucket/zoomit.json, mo-san/scoop-bucket, 0
 bucket/zopfli.json, seumsc/scoop-seu, 0
 bucket/zot.json, dodorz/scoop, 1
 bucket/zotero.json, ScoopInstaller/Extras, 1
