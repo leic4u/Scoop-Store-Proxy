@@ -2622,6 +2622,7 @@ bucket/bazel.json, ScoopInstaller/Main, 1
 bucket/bazelisk.json, ScoopInstaller/Main, 1
 bucket/bb-http-server.json, littleli/scoop-clojure, 1
 bucket/bb-web.json, littleli/scoop-clojure, 1
+bucket/bbdown-aliveranme.json, Weidows-projects/scoop-3rd, 1
 bucket/bbdown.json, ScoopInstaller/Main, 1
 bucket/bbin.json, littleli/scoop-clojure, 1
 bucket/bbk-cli.json, ScoopInstaller/Main, 0
@@ -11948,6 +11949,7 @@ bucket/zig-dev.json, ScoopInstaller/Versions, 0
 bucket/zig.json, ScoopInstaller/Main, 0
 bucket/zigup.json, ScoopInstaller/Main, 1
 bucket/zim.json, ScoopInstaller/Extras, 0
+bucket/zine.json, ScoopInstaller/Main, 1
 bucket/zip-beta.json, ScoopInstaller/Versions, 0
 bucket/zip.json, ScoopInstaller/Main, 1
 bucket/zipdetails-pl.json, brian6932/dank-scoop, 1
