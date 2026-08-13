@@ -3987,6 +3987,7 @@ bucket/drivers-backup.json, SayCV/scoop-cvp, 1
 bucket/driverstoreexplorer.json, ScoopInstaller/Extras, 1
 bucket/driverview.json, ScoopInstaller/Nirsoft, 0
 bucket/drmemory.json, ScoopInstaller/Main, 1
+bucket/droast.json, iquiw/scoop-bucket, 1
 bucket/droidcam.json, ScoopInstaller/Extras, 1
 bucket/drone-jenkins.json, MCOfficer/scoop-bucket, 1
 bucket/drone-scp.json, MCOfficer/scoop-bucket, 1
@@ -6664,7 +6665,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -9804,6 +9805,7 @@ bucket/show-disk-partition-style.json, ScoopInstaller/Extras, 0
 bucket/showkeyboard-node.json, DoveBoy/Apps, 1
 bucket/showkeyboard.json, DoveBoy/Apps, 1
 bucket/shterm-alt.json, seumsc/scoop-seu, 1
+bucket/shuck.json, iquiw/scoop-bucket, 1
 bucket/shutdownperformanceview.json, ScoopInstaller/Nirsoft, 0
 bucket/shutter-encoder.json, ScoopInstaller/Extras, 0
 bucket/shutter.json, ScoopInstaller/Extras, 0
