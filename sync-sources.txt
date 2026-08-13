@@ -5065,6 +5065,7 @@ bucket/godot.json, ScoopInstaller/Extras, 1
 bucket/godot3-mono.json, ScoopInstaller/Versions, 1
 bucket/godot3.json, ScoopInstaller/Versions, 1
 bucket/godots.json, ScoopInstaller/Extras, 1
+bucket/godsvg.json, naderi/scoop-bucket, 1
 bucket/godu.json, aliesbelik/poldi, 1
 bucket/godzilla.json, ViCrack/scoop-bucket, 1
 bucket/godzilla_ekp.json, ViCrack/scoop-bucket, 1
@@ -7329,6 +7330,7 @@ bucket/netbeans.json, ScoopInstaller/Extras, 0
 bucket/netbird.json, ScoopInstaller/Extras, 1
 bucket/netbscanner.json, ScoopInstaller/Nirsoft, 0
 bucket/netcat.json, ScoopInstaller/Main, 0
+bucket/netcatty.json, naderi/scoop-bucket, 1
 bucket/netcdf.json, jingyu9575/scoop-jingyu9575, 0
 bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
