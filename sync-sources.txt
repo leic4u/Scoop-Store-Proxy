@@ -893,7 +893,8 @@ bucket/Krita-Portable.json, ACooper81/scoop-apps, 0
 bucket/Krub.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/KryptorGUI.json, brian6932/dank-scoop, 1
 bucket/KuGouMusic.json, abgox/abgo_bucket, 0
-bucket/Kun.json, dodorz/scoop, 0
+bucket/Kun-TUI.json, dodorz/scoop, 1
+bucket/KunDesktop.json, dodorz/scoop, 0
 bucket/LDDC.json, batkiz/backit, 1
 bucket/LDPlayer-Portable.json, ACooper81/scoop-apps, 0
 bucket/LDWin-Portable.json, ACooper81/scoop-apps, 1
@@ -2308,6 +2309,7 @@ bucket/any-listen-desktop-legacy.json, DoveBoy/Apps, 1
 bucket/any-listen-desktop.json, DoveBoy/Apps, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
+bucket/anydoc.json, dodorz/scoop, 0
 bucket/anypoint-studio.json, ScoopInstaller/Extras, 0
 bucket/anyportal-portable.json, DoveBoy/Apps, 1
 bucket/anyportal.json, DoveBoy/Apps, 1
