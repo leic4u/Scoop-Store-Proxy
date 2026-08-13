@@ -6133,6 +6133,7 @@ bucket/ktor-cli.json, aliesbelik/poldi, 1
 bucket/ktunnel.json, ScoopInstaller/Main, 1
 bucket/ktx-software.json, ScoopInstaller/Main, 1
 bucket/ku.json, aliesbelik/poldi, 1
+bucket/kube-capacity.json, aliesbelik/poldi, 1
 bucket/kube-linter.json, ScoopInstaller/Main, 1
 bucket/kubeadm.json, ScoopInstaller/Main, 0
 bucket/kubebox.json, ScoopInstaller/Extras, 1
@@ -6513,7 +6514,7 @@ bucket/logstash.json, ScoopInstaller/Extras, 0
 bucket/logviewer.json, naderi/scoop-bucket, 0
 bucket/lokalise2.json, ScoopInstaller/Extras, 1
 bucket/lolcat.json, dodorz/scoop, 1
-bucket/look.json, naderi/scoop-bucket, 1
+bucket/look.json, ScoopInstaller/Extras, 1
 bucket/loot.json, Calinou/scoop-games, 1
 bucket/lore.json, ScoopInstaller/Main, 1
 bucket/loreserver.json, ScoopInstaller/Main, 1
@@ -7998,7 +7999,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9369,7 +9370,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -9677,6 +9678,7 @@ bucket/search-deflector.json, ScoopInstaller/Extras, 1
 bucket/searchfilterview.json, ScoopInstaller/Nirsoft, 0
 bucket/searchmyfiles.json, ScoopInstaller/Nirsoft, 0
 bucket/sec.json, SayCV/scoop-cvp, 0
+bucket/seconv.json, ScoopInstaller/Extras, 1
 bucket/securefs.json, naderi/scoop-bucket, 1
 bucket/secureuxtheme.json, ScoopInstaller/Extras, 1
 bucket/securityquestionsview.json, ScoopInstaller/Nirsoft, 0
