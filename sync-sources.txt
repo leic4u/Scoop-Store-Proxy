@@ -11982,7 +11982,7 @@ bucket/zola.json, ScoopInstaller/Main, 1
 bucket/zonvie.json, ScoopInstaller/Extras, 1
 bucket/zookeeper.json, ScoopInstaller/Main, 0
 bucket/zoom.json, ScoopInstaller/Extras, 0
-bucket/zoomit.json, niheaven/scoop-sysinternals, 1
+bucket/zoomit.json, DoveBoy/Apps, 0
 bucket/zopfli.json, seumsc/scoop-seu, 0
 bucket/zot.json, dodorz/scoop, 1
 bucket/zotero.json, ScoopInstaller/Extras, 1
