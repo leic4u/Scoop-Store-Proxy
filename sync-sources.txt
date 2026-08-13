@@ -1499,7 +1499,7 @@ bucket/Scratch-Install.json, ACooper81/scoop-apps, 0
 bucket/Scratch-Portable.json, ACooper81/scoop-apps, 0
 bucket/ScratchJr.json, dodorz/scoop, 1
 bucket/Screego.json, abgox/abgo_bucket, 1
-bucket/ScreenCapture.json, DoveBoy/Apps, 1
+bucket/ScreenCapture.json, dodorz/scoop, 1
 bucket/ScreenRuler.json, Paxxs/Cluttered-bucket, 0
 bucket/ScreenToGif-Portable.json, ACooper81/scoop-apps, 1
 bucket/Screenink.json, dodorz/scoop, 0
@@ -2220,7 +2220,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -4487,7 +4487,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -6095,7 +6095,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, seumsc/scoop-seu, 0
+bucket/kook.json, chawyehsu/dorado, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -7334,7 +7334,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -8727,7 +8727,7 @@ bucket/prm.json, ScoopInstaller/Main, 1
 bucket/probe-rs.json, ScoopInstaller/Main, 1
 bucket/procdump.json, niheaven/scoop-sysinternals, 1
 bucket/process-compose.json, ScoopInstaller/Extras, 1
-bucket/process-explorer.json, niheaven/scoop-sysinternals, 1
+bucket/process-explorer.json, chawyehsu/dorado, 0
 bucket/process-governor.json, ScoopInstaller/Main, 1
 bucket/process-monitor.json, chawyehsu/dorado, 0
 bucket/processactivityview.json, ScoopInstaller/Nirsoft, 0
@@ -8830,7 +8830,7 @@ bucket/psscripttools.json, DoveBoy/Apps, 0
 bucket/psservice.json, niheaven/scoop-sysinternals, 1
 bucket/psshutdown.json, mogeko/scoop-sysinternals, 0
 bucket/pssuspend.json, niheaven/scoop-sysinternals, 1
-bucket/pstools.json, niheaven/scoop-sysinternals, 1
+bucket/pstools.json, chawyehsu/dorado, 0
 bucket/pstpassword.json, ScoopInstaller/Nirsoft, 0
 bucket/pstree.json, cderv/r-bucket, 0
 bucket/psutils.json, ScoopInstaller/Main, 1
@@ -10767,7 +10767,7 @@ bucket/ttplayer.json, chawyehsu/dorado, 0
 bucket/tts-voice-wizard.json, ScoopInstaller/Extras, 1
 bucket/tts-vue-next.json, ivaquero/scoopet, 1
 bucket/tts-vue.json, abgox/abgo_bucket, 1
-bucket/tty7.json, dodorz/scoop, 1
+bucket/tty7.json, batkiz/backit, 1
 bucket/ttyd.json, ScoopInstaller/Main, 1
 bucket/ttyper.json, ScoopInstaller/Main, 1
 bucket/tuba-tool.json, ChinLong/scoop-customize, 0
@@ -11973,7 +11973,7 @@ bucket/zola.json, ScoopInstaller/Main, 1
 bucket/zonvie.json, ScoopInstaller/Extras, 1
 bucket/zookeeper.json, ScoopInstaller/Main, 0
 bucket/zoom.json, ScoopInstaller/Extras, 0
-bucket/zoomit.json, mo-san/scoop-bucket, 0
+bucket/zoomit.json, niheaven/scoop-sysinternals, 1
 bucket/zopfli.json, seumsc/scoop-seu, 0
 bucket/zot.json, dodorz/scoop, 1
 bucket/zotero.json, ScoopInstaller/Extras, 1
