@@ -1318,6 +1318,7 @@ bucket/PowerToys-Install.json, ACooper81/scoop-apps, 1
 bucket/PowerToys-Portable.json, ACooper81/scoop-apps, 1
 bucket/PowerToys-UserInstall.json, ACooper81/scoop-apps, 1
 bucket/PrecCalc.json, dodorz/scoop, 0
+bucket/PrimeAgent.json, dodorz/scoop, 0
 bucket/PrivateWin10-Portable.json, ACooper81/scoop-apps, 1
 bucket/Privatezilla-Portable.json, ACooper81/scoop-apps, 1
 bucket/Privazer-Portable.json, ACooper81/scoop-apps, 0
