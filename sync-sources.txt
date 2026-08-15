@@ -4521,7 +4521,7 @@ bucket/firemin.json, ScoopInstaller/Extras, 0
 bucket/firetools.json, seumsc/scoop-seu, 0
 bucket/firewallappblocker.json, ScoopInstaller/Extras, 0
 bucket/firmwaretablesview.json, ScoopInstaller/Nirsoft, 0
-bucket/fishing-funds.json, ivaquero/scoopet, 1
+bucket/fishing-funds.json, ygguorun/scoop-bucket, 1
 bucket/fishstrap.json, Calinou/scoop-games, 1
 bucket/fission-cli.json, ScoopInstaller/Main, 1
 bucket/fitwin.json, jfut/scoop-jfut, 0
@@ -8679,7 +8679,7 @@ bucket/postman-cn.json, ViCrack/scoop-bucket, 1
 bucket/postman-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/postman.json, ScoopInstaller/Extras, 0
 bucket/postman9.json, ScoopInstaller/Versions, 0
-bucket/pot-desktop.json, ivaquero/scoopet, 1
+bucket/pot-desktop.json, hu3rror/scoop-muggle, 1
 bucket/pot.json, ScoopInstaller/Extras, 1
 bucket/potplayer-ext-cntv-sites.json, SayCV/scoop-cvp, 1
 bucket/potplayer-ext-translate-baidu.json, SayCV/scoop-cvp, 1
@@ -9055,6 +9055,7 @@ bucket/quicktextpaste.json, ScoopInstaller/Extras, 0
 bucket/quickviewer.json, ScoopInstaller/Extras, 1
 bucket/quien.json, ScoopInstaller/Main, 1
 bucket/quiterss.json, ScoopInstaller/Extras, 0
+bucket/qunwen.json, ivaquero/scoopet, 0
 bucket/quodlibet.json, ScoopInstaller/Extras, 1
 bucket/qutebrowser.json, ScoopInstaller/Extras, 1
 bucket/qv.json, aliesbelik/poldi, 1
@@ -9371,7 +9372,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
