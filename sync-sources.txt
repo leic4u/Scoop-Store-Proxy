@@ -12127,6 +12127,7 @@ scripts/fixes-wsl-mac-dynaddr/.fixes-wsl-mac-dynaddr.bashrc, SayCV/scoop-cvp, 0
 scripts/fixes-wsl-mac-dynaddr/patch-bashrc.cmd, SayCV/scoop-cvp, 0
 scripts/fixes-wsl-mac-dynaddr/patch-bashrc.sh, SayCV/scoop-cvp, 0
 scripts/flutter-engine/.gclient.tpl, SayCV/scoop-cvp, 0
+scripts/font.ps1, naderi/scoop-bucket, 0
 scripts/font/install.ps1, abgox/abgo_bucket, 0
 scripts/font/uninstall.ps1, abgox/abgo_bucket, 0
 scripts/fork/install-context.reg, ScoopInstaller/Extras, 0
