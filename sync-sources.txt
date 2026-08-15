@@ -8756,7 +8756,7 @@ bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/project-graph.json, ScoopInstaller/Extras, 1
-bucket/project64-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/prom-lite.json, seumsc/scoop-seu, 0
 bucket/prom2json.json, aliesbelik/poldi, 1
@@ -8869,6 +8869,7 @@ bucket/puppet-agent.json, ScoopInstaller/Main, 0
 bucket/puppet-bolt.json, ScoopInstaller/Main, 0
 bucket/pupsqlite.json, mo-san/scoop-bucket, 0
 bucket/pure-data.json, ScoopInstaller/Extras, 0
+bucket/purelive.json, DoveBoy/Apps, 1
 bucket/purescript.json, ScoopInstaller/Main, 1
 bucket/purewriter.json, DoveBoy/Apps, 1
 bucket/pushbullet.json, naderi/scoop-bucket, 0
