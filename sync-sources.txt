@@ -8514,6 +8514,7 @@ bucket/phraze.json, aliesbelik/poldi, 1
 bucket/phyrox-developer-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/phyrox-esr-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/phyrox-portapps.json, Velgus/Scoop-Portapps, 1
+bucket/pi-agent-desktop.json, batkiz/backit, 1
 bucket/pi-coding-agent.json, ScoopInstaller/Main, 1
 bucket/pi-desktop.json, batkiz/backit, 1
 bucket/pia-desktop.json, ScoopInstaller/Extras, 0
