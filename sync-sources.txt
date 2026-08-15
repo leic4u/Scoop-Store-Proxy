@@ -4638,7 +4638,6 @@ bucket/font-sahel.json, naderi/scoop-bucket, 1
 bucket/font-samim.json, naderi/scoop-bucket, 1
 bucket/font-shabnam.json, naderi/scoop-bucket, 1
 bucket/font-shahab.json, naderi/scoop-bucket, 1
-bucket/font-source-sans.json, naderi/scoop-bucket, 1
 bucket/font-tanha.json, naderi/scoop-bucket, 1
 bucket/font-vazir-code.json, naderi/scoop-bucket, 1
 bucket/font-vazir.json, naderi/scoop-bucket, 1
@@ -5322,6 +5321,7 @@ bucket/hatch.json, ScoopInstaller/Main, 1
 bucket/haxe-dev.json, ScoopInstaller/Versions, 1
 bucket/haxe.json, ScoopInstaller/Main, 1
 bucket/hayabusa.json, ScoopInstaller/Main, 1
+bucket/hc.json, naderi/scoop-bucket, 1
 bucket/hck.json, batkiz/backit, 1
 bucket/hcloud.json, ScoopInstaller/Main, 1
 bucket/hdcleaner.json, naderi/scoop-bucket, 0
