@@ -1181,6 +1181,7 @@ bucket/NpackdCL.json, dodorz/scoop, 1
 bucket/NpcGUI.json, kkzzhizhou/scoop-zapps, 1
 bucket/NsEmuTools.json, hu3rror/scoop-muggle, 1
 bucket/NuGetCLI-Portable.json, ACooper81/scoop-apps, 0
+bucket/Nub.json, dodorz/scoop, 1
 bucket/Nuclear-Portable.json, ACooper81/scoop-apps, 1
 bucket/NvidiaDisplayDriver-Install.json, ACooper81/scoop-apps, 0
 bucket/Nyushu-font.json, Weidows-projects/scoop-3rd, 1
