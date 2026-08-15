@@ -2159,6 +2159,7 @@ bucket/adventuregamestudio.json, ScoopInstaller/Extras, 1
 bucket/adwcleaner.json, ScoopInstaller/Extras, 0
 bucket/aegisub-arch.json, cc713/ownscoop, 1
 bucket/aegisub-arch1t3cht.json, ScoopInstaller/Extras, 1
+bucket/aegisub-beta.json, ScoopInstaller/Versions, 1
 bucket/aegisub.json, ScoopInstaller/Extras, 1
 bucket/aegisubdc.json, batkiz/backit, 1
 bucket/aemulus.json, Deide/deide-bucket, 1
@@ -9357,6 +9358,7 @@ bucket/robocopy-gui.json, ScoopInstaller/Extras, 1
 bucket/robomongo.json, ChinLong/scoop-customize, 0
 bucket/roborev.json, cderv/r-bucket, 1
 bucket/robotomono-variable.json, KnotUntied/scoop-fonts, 0
+bucket/roc-nightly.json, ScoopInstaller/Versions, 1
 bucket/rocketchat-client.json, ScoopInstaller/Extras, 1
 bucket/rocketchat-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/rogue_mysql_server.json, ViCrack/scoop-bucket, 1
