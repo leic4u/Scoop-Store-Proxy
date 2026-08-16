@@ -1851,6 +1851,7 @@ bucket/UniversalViewerPro.json, dodorz/scoop, 0
 bucket/UniversalWatermarkDisabler-Portable.json, ACooper81/scoop-apps, 0
 bucket/Unlocker-Portable.json, ACooper81/scoop-apps, 1
 bucket/UnrealCommander.json, dodorz/scoop, 1
+bucket/UnslothStudio.json, dodorz/scoop, 1
 bucket/UnstoppableCopier.json, dodorz/scoop, 0
 bucket/UpNote.json, dodorz/scoop, 0
 bucket/UpSnap.json, dodorz/scoop, 1
@@ -4221,6 +4222,7 @@ bucket/eql-cli.json, littleli/scoop-clojure, 1
 bucket/equalizer-apo-np.json, ScoopInstaller/Nonportable, 0
 bucket/equationtoolsgui.json, ViCrack/scoop-bucket, 1
 bucket/equibop.json, ScoopInstaller/Extras, 1
+bucket/equilotl.json, ScoopInstaller/Extras, 1
 bucket/eraser.json, ScoopInstaller/Extras, 0
 bucket/erdtree.json, ScoopInstaller/Main, 1
 bucket/ericw-tools.json, Calinou/scoop-games, 1
@@ -8624,6 +8626,7 @@ bucket/pocket-id.json, amorphobia/siku, 1
 bucket/pocketasterisk.json, ScoopInstaller/Nirsoft, 0
 bucket/pocketbase.json, ScoopInstaller/Main, 1
 bucket/pocketsphinx.json, ScoopInstaller/Extras, 0
+bucket/pocr.json, dodorz/scoop, 1
 bucket/podesk.json, mo-san/scoop-bucket, 0
 bucket/podman-desktop.json, ScoopInstaller/Extras, 1
 bucket/podman-tui.json, ScoopInstaller/Main, 1
@@ -10971,7 +10974,7 @@ bucket/usbimager.json, ScoopInstaller/Extras, 0
 bucket/usblogview.json, ScoopInstaller/Nirsoft, 0
 bucket/usblyzer.json, SayCV/scoop-cvp, 0
 bucket/usbtrace.json, SayCV/scoop-cvp, 0
-bucket/usbtreeview.json, rasa/scoops, 0
+bucket/usbtreeview.json, dodorz/scoop, 0
 bucket/usbwriter.json, ChinLong/scoop-customize, 0
 bucket/userassistview.json, ScoopInstaller/Nirsoft, 0
 bucket/userbenchmark.json, ScoopInstaller/Extras, 0
