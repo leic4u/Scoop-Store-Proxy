@@ -6636,7 +6636,7 @@ bucket/make.json, ScoopInstaller/Main, 0
 bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makelnk.json, naderi/scoop-bucket, 1
 bucket/makemkv.json, ScoopInstaller/Extras, 0
-bucket/maki.json, dodorz/scoop, 1
+bucket/maki.json, ScoopInstaller/Main, 1
 bucket/malware-patch.json, ivaquero/scoopet, 1
 bucket/mame.json, DoveBoy/Apps, 1
 bucket/mameui.json, Calinou/scoop-games, 0
