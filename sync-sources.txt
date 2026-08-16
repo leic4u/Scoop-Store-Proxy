@@ -7069,6 +7069,7 @@ bucket/mosdns.json, chawyehsu/dorado, 1
 bucket/mosh-client.json, ScoopInstaller/Main, 1
 bucket/mosquitto.json, ScoopInstaller/Main, 0
 bucket/motrix-next.json, ScoopInstaller/Extras, 1
+bucket/motrix-pre.json, DoveBoy/Apps, 1
 bucket/motrix.json, ScoopInstaller/Extras, 1
 bucket/motrixnext.json, DoveBoy/Apps, 1
 bucket/moul.json, chawyehsu/dorado, 1
