@@ -9651,7 +9651,8 @@ bucket/scooter.json, ScoopInstaller/Main, 1
 bucket/scopy.json, ScoopInstaller/Extras, 1
 bucket/scratch.json, ScoopInstaller/Extras, 0
 bucket/scrawler.json, ScoopInstaller/Extras, 1
-bucket/scrcpy-gui.json, chawyehsu/dorado, 1
+bucket/scrcpy-gui-pre.json, DoveBoy/Apps, 1
+bucket/scrcpy-gui.json, DoveBoy/Apps, 1
 bucket/scrcpy-mask.json, DoveBoy/Apps, 1
 bucket/scrcpy.json, ScoopInstaller/Main, 1
 bucket/screen-plus.json, ChinLong/scoop-customize, 0

@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
+  "version": "2.0.0-beta.6",
   "description": "A simple & beautiful GUI application for scrcpy",
   "homepage": "http://simonaking.com/scrcpy-gui/",
   "license": {
@@ -8,16 +8,16 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-win-x64.exe#/dl.7z",
-      "hash": "a1858134f658107b086b50eae5353349b15a57d31867d18116e24426b60b3393",
+      "url": "https://ghgo.xyz/https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.0.0-beta.6/Scrcpy.GUI-2.0.0-beta.6-win-x64.exe#/dl.7z",
+      "hash": "53006064445a7956d462681adacd050f5c4f786698c260fee786fe27947240c8",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$*\" -Force -Recurse"
       ]
     },
     "32bit": {
-      "url": "https://ghgo.xyz/https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-win-ia32.exe#/dl.7z",
-      "hash": "e77110e20186221ff9597c8f7147c764eb4dbe85e815b12044406cceb9fa584b",
+      "url": "https://ghgo.xyz/https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.0.0-beta.6/Scrcpy.GUI-2.0.0-beta.6-win-ia32.exe#/dl.7z",
+      "hash": "66ecd4cc32cc04978e0fc2230cdbadc24650d4993172c23ed6d201ea75213522",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$*\" -Force -Recurse"
@@ -52,9 +52,9 @@
     ]
   ],
   "checkver": {
-    "github": "https://api.github.com/repos/SimonAKing/scrcpy-gui/releases/latest",
-    "jp": "$.tag_name",
-    "regex": "v([\\d.]+)"
+    "github": "https://api.github.com/repos/SimonAKing/scrcpy-gui/releases",
+    "jp": "$[*].assets[*].browser_download_url",
+    "regex": "v([\\d.]+-[\\w.]+)"
   },
   "autoupdate": {
     "architecture": {
@@ -64,9 +64,6 @@
       "32bit": {
         "url": "https://ghgo.xyz/https://github.com/SimonAKing/scrcpy-gui/releases/download/v$version/Scrcpy.GUI-$version-win-ia32.exe#/dl.7z"
       }
-    },
-    "hash": {
-      "url": "$baseurl/SHA256SUMS.txt"
     }
   }
 }
