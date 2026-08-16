@@ -10,5 +10,9 @@
       "Grid.exe",
       "Grid"
     ]
-  ]
+  ],
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://ghgo.xyz/https://github.com/majorworld/Grid/releases/download/$version/Grid.exe"
+  }
 }
