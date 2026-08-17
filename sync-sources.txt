@@ -234,6 +234,7 @@ bucket/BitTorrent-Portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitstreamVeraSansMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BitstreamVeraSansMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BitstreamVeraSansMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/BitviseClient.json, dodorz/scoop, 0
 bucket/Bitwarden-Portable.json, ACooper81/scoop-apps, 1
 bucket/Biu.json, DoveBoy/Apps, 1
 bucket/BlackBird-Player.json, kkzzhizhou/scoop-zapps, 1
