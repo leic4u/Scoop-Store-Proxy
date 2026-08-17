@@ -8720,7 +8720,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -9386,7 +9386,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -12069,7 +12069,7 @@ bucket/zvm.json, ScoopInstaller/Main, 1
 bucket/zxhn-f610gv9-crcv.json, SayCV/scoop-cvp, 1
 bucket/zyfun.json, cc713/ownscoop, 1
 bucket/zyperwinoptimize.json, DoveBoy/Apps, 1
-install.ps1, , 0
+install.ps1, , 1
 scripts/.deprecated/yy/yy-setup.ps1, HUMORCE/nuke, 0
 scripts/7-zip/install-context.reg, ScoopInstaller/Main, 0
 scripts/7-zip/uninstall-context.reg, ScoopInstaller/Main, 0
