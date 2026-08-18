@@ -2728,7 +2728,6 @@ bucket/bililive-tools.json, DoveBoy/Apps, 1
 bucket/bililiverecorder.json, chawyehsu/dorado, 1
 bucket/bilimini.json, amorphobia/siku, 1
 bucket/bilineo.json, DoveBoy/Apps, 1
-bucket/bilitools.json, ivaquero/scoopet, 1
 bucket/biliup-app.json, Weidows-projects/scoop-3rd, 1
 bucket/biliup-rs.json, DoveBoy/Apps, 1
 bucket/billy-frontier.json, Calinou/scoop-games, 1
@@ -7351,7 +7350,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, echoiron/echo-scoop, 0
+bucket/neteasemusic.json, ivaquero/scoopet, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
