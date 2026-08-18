@@ -5590,6 +5590,7 @@ bucket/ignoreit.json, ScoopInstaller/Extras, 1
 bucket/igrep.json, ScoopInstaller/Main, 1
 bucket/igv.json, ScoopInstaller/Extras, 0
 bucket/ihateborders.json, starise/Scoop-Gaming, 1
+bucket/iii-console.json, ScoopInstaller/Main, 1
 bucket/iii.json, ScoopInstaller/Main, 1
 bucket/ijhttp.json, ScoopInstaller/Main, 0
 bucket/il2cppdumper.json, TheCjw/scoop-retools, 1
