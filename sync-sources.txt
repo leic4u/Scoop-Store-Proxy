@@ -4295,6 +4295,7 @@ bucket/evtx_dump.json, iquiw/scoop-bucket, 1
 bucket/exaile.json, ScoopInstaller/Extras, 1
 bucket/excel-regex-tool.json, ygguorun/scoop-bucket, 0
 bucket/exe-explorer.json, ScoopInstaller/Extras, 0
+bucket/exec.json, Deide/deide-bucket, 1
 bucket/executedprogramslist.json, ScoopInstaller/Nirsoft, 0
 bucket/executor.json, ScoopInstaller/Extras, 1
 bucket/exeinfo-pe.json, ScoopInstaller/Extras, 1
@@ -9224,7 +9225,7 @@ bucket/redli.json, batkiz/backit, 1
 bucket/rednotebook.json, ScoopInstaller/Extras, 1
 bucket/redpanda-cpp.json, chawyehsu/dorado, 0
 bucket/redpen.json, ScoopInstaller/Main, 1
-bucket/redream-dev.json, Calinou/scoop-games, 0
+bucket/redream-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/redream.json, Calinou/scoop-games, 0
 bucket/redshift-tray.json, ScoopInstaller/Extras, 0
 bucket/redshift.json, ScoopInstaller/Main, 1
