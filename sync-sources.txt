@@ -128,6 +128,7 @@ bucket/AlistHelper.json, dodorz/scoop, 1
 bucket/Allavsoft-Install.json, ACooper81/scoop-apps, 0
 bucket/AllwaySync-Install.json, ACooper81/scoop-apps, 0
 bucket/AllwaySyncnGo-Portable.json, ACooper81/scoop-apps, 0
+bucket/AllyAgent.json, dodorz/scoop, 1
 bucket/Alt-C.json, kkzzhizhou/scoop-zapps, 0
 bucket/AltAppInstaller-Portable.json, ACooper81/scoop-apps, 1
 bucket/AmazonGames-UserInstall.json, ACooper81/scoop-apps, 0
@@ -210,7 +211,7 @@ bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/BASIC256.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -414,6 +415,7 @@ bucket/DainoNotes.json, dodorz/scoop, 1
 bucket/DanmakuFactory.json, cc713/ownscoop, 1
 bucket/DarkRoom.json, dodorz/scoop, 0
 bucket/Darker-Portable.json, ACooper81/scoop-apps, 1
+bucket/DataLab.json, dodorz/scoop, 1
 bucket/Database.NET-Portable.json, ACooper81/scoop-apps, 0
 bucket/DbGate.json, dodorz/scoop, 1
 bucket/DeezerDesktop-Portable.json, ACooper81/scoop-apps, 0
@@ -1209,6 +1211,7 @@ bucket/OfflineInsiderEnroll-Portable.json, ACooper81/scoop-apps, 1
 bucket/Oggdec.json, dodorz/scoop, 0
 bucket/Oggenc.json, dodorz/scoop, 0
 bucket/OhMyPPT.json, dodorz/scoop, 1
+bucket/OneQuick.json, dodorz/scoop, 1
 bucket/Open-Sans.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/OpenBoard-Portable.json, ACooper81/scoop-apps, 1
 bucket/OpenCC.json, SayCV/scoop-cvp, 0
@@ -1226,6 +1229,7 @@ bucket/OpenProj.json, dodorz/scoop, 0
 bucket/OpenRA-Portable.json, ACooper81/scoop-apps, 1
 bucket/OpenScience.json, dodorz/scoop, 1
 bucket/OpenScienceDesktop.json, dodorz/scoop, 1
+bucket/OpenSearcher.json, dodorz/scoop, 1
 bucket/OpenShellMenu-Install.json, ACooper81/scoop-apps, 1
 bucket/OpenWorker.json, dodorz/scoop, 1
 bucket/Opera-Portable.json, ACooper81/scoop-apps, 0
@@ -1285,6 +1289,7 @@ bucket/PhotoDemon-Portable.json, ACooper81/scoop-apps, 1
 bucket/PhotoFiltre11.json, zhoujin7/tomato, 0
 bucket/PhotoFiltre7.json, zhoujin7/tomato, 0
 bucket/PhotoQt.json, cc713/ownscoop, 0
+bucket/PhotoScissors.json, dodorz/scoop, 0
 bucket/PhotoZoomPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/PicaComic.json, hu3rror/scoop-muggle, 1
 bucket/PicoClaw.json, dodorz/scoop, 1
@@ -1563,6 +1568,7 @@ bucket/SnappyDriverInstallerOrigin-Portable.json, ACooper81/scoop-apps, 0
 bucket/Snaptext.json, dodorz/scoop, 0
 bucket/Snipaste-Portable.json, ACooper81/scoop-apps, 0
 bucket/Snipaste2.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/SocksCap64.json, dodorz/scoop, 0
 bucket/SodaMusic.json, abgox/abgo_bucket, 1
 bucket/SodaPlayer.json, dodorz/scoop, 0
 bucket/SoftMakerFreeOffice.json, dodorz/scoop, 0
@@ -2716,7 +2722,7 @@ bucket/bili-music.json, Weidows-projects/scoop-3rd, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, DoveBoy/Apps, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -2853,6 +2859,7 @@ bucket/brave-nightly.json, ScoopInstaller/Versions, 1
 bucket/brave-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/brave.json, ScoopInstaller/Extras, 1
 bucket/brave32.json, rasa/scoops, 1
+bucket/breeze.json, DoveBoy/Apps, 1
 bucket/breitbandmessung.json, ScoopInstaller/Extras, 0
 bucket/brename.json, ScoopInstaller/Main, 1
 bucket/briar-beta.json, ScoopInstaller/Versions, 0
@@ -7352,7 +7359,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, ivaquero/scoopet, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -7804,7 +7811,6 @@ bucket/opensca-cli.json, ScoopInstaller/Extras, 1
 bucket/openscad-dev.json, ScoopInstaller/Versions, 0
 bucket/openscad.json, ScoopInstaller/Extras, 0
 bucket/opensearcher-win7.json, DoveBoy/Apps, 1
-bucket/opensearcher.json, DoveBoy/Apps, 1
 bucket/openshift-okd-client.json, ScoopInstaller/Main, 1
 bucket/openshift-origin-client.json, ScoopInstaller/Main, 1
 bucket/openshot.json, ScoopInstaller/Extras, 1
@@ -8998,6 +9004,8 @@ bucket/qmplay2.json, ScoopInstaller/Extras, 1
 bucket/qnapi.json, ScoopInstaller/Extras, 1
 bucket/qownnotes.json, ScoopInstaller/Extras, 1
 bucket/qpdf.json, ScoopInstaller/Main, 1
+bucket/qplayer-portable.json, DoveBoy/Apps, 1
+bucket/qplayer.json, DoveBoy/Apps, 1
 bucket/qq-nt.json, ScoopInstaller/Extras, 0
 bucket/qq-patch.json, SayCV/scoop-cvp, 1
 bucket/qq.json, ScoopInstaller/Extras, 0
@@ -10797,6 +10805,8 @@ bucket/tty7.json, batkiz/backit, 1
 bucket/ttyd.json, ScoopInstaller/Main, 1
 bucket/ttyper.json, ScoopInstaller/Main, 1
 bucket/tuba-tool.json, ChinLong/scoop-customize, 0
+bucket/tubatools-portable.json, DoveBoy/Apps, 1
+bucket/tubatools.json, DoveBoy/Apps, 1
 bucket/tuicr.json, ScoopInstaller/Main, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
 bucket/tuios.json, dodorz/scoop, 1
