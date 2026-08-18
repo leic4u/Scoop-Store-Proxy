@@ -7350,7 +7350,7 @@ bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/neteasemusic.json, ivaquero/scoopet, 0
+bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
 bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
@@ -11320,7 +11320,7 @@ bucket/wechat-work.json, akirco/aki-apps, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
 bucket/wechatdatabackup.json, ViCrack/scoop-bucket, 1
-bucket/wechatdevtools.json, chawyehsu/dorado, 0
+bucket/wechatdevtools.json, ivaquero/scoopet, 0
 bucket/wechatdownload.json, DoveBoy/Apps, 1
 bucket/wechatexporter.json, amorphobia/siku, 1
 bucket/wechatrealfriends.json, DoveBoy/Apps, 1
