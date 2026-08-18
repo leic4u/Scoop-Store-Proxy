@@ -3964,7 +3964,7 @@ bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyicore.json, batkiz/backit, 1
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
 bucket/doxx.json, dodorz/scoop, 1
-bucket/doxygen.json, ScoopInstaller/Main, 0
+bucket/doxygen.json, ScoopInstaller/Main, 1
 bucket/dpeaklim.json, seumsc/scoop-seu, 0
 bucket/dprint.json, ScoopInstaller/Main, 1
 bucket/dps8m.json, chawyehsu/dorado, 0
