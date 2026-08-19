@@ -211,7 +211,7 @@ bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/BASIC256.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
+bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -2237,7 +2237,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2722,7 +2722,7 @@ bucket/bili-music.json, Weidows-projects/scoop-3rd, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, DoveBoy/Apps, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -6242,7 +6242,7 @@ bucket/lazyssh.json, ScoopInstaller/Main, 1
 bucket/lazyworktree.json, aliesbelik/poldi, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
 bucket/lbry.json, ScoopInstaller/Extras, 1
-bucket/lceda-pro.json, ivaquero/scoopet, 0
+bucket/lceda-pro.json, chawyehsu/dorado, 0
 bucket/lceda.json, ivaquero/scoopet, 0
 bucket/lcow.json, ScoopInstaller/Versions, 1
 bucket/ldap-admin.json, ScoopInstaller/Extras, 0
@@ -6603,7 +6603,7 @@ bucket/lynx.json, ScoopInstaller/Main, 1
 bucket/lynx283.json, ScoopInstaller/Versions, 1
 bucket/lyricsmaster.json, jfut/scoop-jfut, 1
 bucket/lyx-cn.json, ivaquero/scoopet, 0
-bucket/lyx.json, dodorz/scoop, 0
+bucket/lyx.json, chawyehsu/dorado, 0
 bucket/lz4.json, ScoopInstaller/Main, 1
 bucket/lzdoom.json, Calinou/scoop-games, 1
 bucket/lzip.json, ScoopInstaller/Main, 0
@@ -7361,7 +7361,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -9225,7 +9225,7 @@ bucket/redli.json, batkiz/backit, 1
 bucket/rednotebook.json, ScoopInstaller/Extras, 1
 bucket/redpanda-cpp.json, chawyehsu/dorado, 0
 bucket/redpen.json, ScoopInstaller/Main, 1
-bucket/redream-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/redream-dev.json, Calinou/scoop-games, 0
 bucket/redream.json, Calinou/scoop-games, 0
 bucket/redshift-tray.json, ScoopInstaller/Extras, 0
 bucket/redshift.json, ScoopInstaller/Main, 1
