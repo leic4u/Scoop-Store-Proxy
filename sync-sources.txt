@@ -211,7 +211,7 @@ bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/BASIC256.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -736,7 +736,6 @@ bucket/HeavyData-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/HeavyData-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/HeavyData-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/HelloFont.old.json, Paxxs/Cluttered-bucket, 0
-bucket/Herdr.json, dodorz/scoop, 1
 bucket/Hermit-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Hermit-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Hermit-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -5031,7 +5030,7 @@ bucket/gnupg1.json, ScoopInstaller/Main, 0
 bucket/gnuplot.json, ScoopInstaller/Main, 0
 bucket/gnutls.json, ScoopInstaller/Main, 0
 bucket/go-chromecast.json, ScoopInstaller/Extras, 1
-bucket/go-cn.json, chawyehsu/dorado, 0
+bucket/go-cn.json, akirco/aki-apps, 0
 bucket/go-containerregistry.json, ScoopInstaller/Main, 1
 bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
 bucket/go-drive.json, DoveBoy/Apps, 1
@@ -5366,6 +5365,7 @@ bucket/helmsman.json, chawyehsu/dorado, 1
 bucket/hemmelig.json, ScoopInstaller/Extras, 1
 bucket/hercules.json, littleli/Scoop-littleli, 1
 bucket/herdr-preview.json, ScoopInstaller/Versions, 1
+bucket/herdr.json, ScoopInstaller/Main, 1
 bucket/hermes-desktop-portable.json, Weidows-projects/scoop-3rd, 1
 bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
