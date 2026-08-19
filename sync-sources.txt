@@ -3919,7 +3919,6 @@ bucket/dosbox-x.json, ScoopInstaller/Extras, 1
 bucket/dosbox.json, ScoopInstaller/Main, 0
 bucket/dotPeek.json, ScoopInstaller/Extras, 0
 bucket/dota2_ahk.json, hu3rror/scoop-muggle, 1
-bucket/dota2_realblood.json, hu3rror/scoop-muggle, 0
 bucket/dotcover-clt.json, ScoopInstaller/Main, 0
 bucket/dotmemory-clt.json, ScoopInstaller/Main, 0
 bucket/dotmemory.json, ScoopInstaller/Extras, 0
