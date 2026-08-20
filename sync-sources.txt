@@ -3282,6 +3282,7 @@ bucket/cloud-nuke.json, ScoopInstaller/Main, 1
 bucket/cloud-sql-proxy.json, ScoopInstaller/Main, 0
 bucket/cloudcompare-alpha.json, ScoopInstaller/Versions, 0
 bucket/cloudcompare.json, ScoopInstaller/Extras, 0
+bucket/cloudflare-speed-cli.json, ScoopInstaller/Extras, 1
 bucket/cloudflare-speedtest.json, chawyehsu/dorado, 1
 bucket/cloudflared.json, ScoopInstaller/Main, 1
 bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 1
@@ -11975,7 +11976,7 @@ bucket/zellij.json, ScoopInstaller/Main, 1
 bucket/zen-browser.json, ScoopInstaller/Extras, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
 bucket/zephyr-portable.json, DoveBoy/Apps, 1
-bucket/zephyr.json, DoveBoy/Apps, 1
+bucket/zephyr.json, ScoopInstaller/Extras, 1
 bucket/zeplin.json, ScoopInstaller/Extras, 0
 bucket/zeppelin.json, ScoopInstaller/Extras, 0
 bucket/zer0.json, brian6932/dank-scoop, 1
