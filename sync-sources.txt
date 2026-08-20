@@ -6731,6 +6731,7 @@ bucket/mcomix.json, ScoopInstaller/Extras, 0
 bucket/mcp-toolbox.json, ScoopInstaller/Main, 0
 bucket/mcrcon.json, Calinou/scoop-games, 1
 bucket/mcskin3d.json, chawyehsu/dorado, 0
+bucket/md-tui.json, ScoopInstaller/Main, 1
 bucket/md5.json, dodorz/scoop, 0
 bucket/md5checker-cn.json, hu3rror/scoop-muggle, 0
 bucket/md5checker.json, hu3rror/scoop-muggle, 0
@@ -10994,6 +10995,7 @@ bucket/usbimager.json, ScoopInstaller/Extras, 0
 bucket/usblogview.json, ScoopInstaller/Nirsoft, 0
 bucket/usblyzer.json, SayCV/scoop-cvp, 0
 bucket/usbtrace.json, SayCV/scoop-cvp, 0
+bucket/usbtree.json, ScoopInstaller/Main, 1
 bucket/usbtreeview.json, rasa/scoops, 0
 bucket/usbwriter.json, ChinLong/scoop-customize, 0
 bucket/userassistview.json, ScoopInstaller/Nirsoft, 0
