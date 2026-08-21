@@ -2585,7 +2585,7 @@ bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
 bucket/baidu-net-disk.json, yuusakuri/scoop-bucket, 0
 bucket/baidudisk.json, akirco/aki-apps, 0
 bucket/baidunetdisk-cvp.json, SayCV/scoop-cvp, 1
-bucket/baidupcs-go.json, ivaquero/scoopet, 1
+bucket/baidupcs-go.json, hu3rror/scoop-muggle, 1
 bucket/baimiao-portable.json, SayCV/scoop-cvp, 0
 bucket/baka-mplayer.json, ScoopInstaller/Extras, 1
 bucket/baksmali.json, TheCjw/scoop-retools, 0
@@ -4506,7 +4506,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, hu3rror/scoop-muggle, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -6620,6 +6620,7 @@ bucket/m4acut.json, hu3rror/scoop-muggle, 1
 bucket/mRemoteNG-Portable.json, ACooper81/scoop-apps, 1
 bucket/mStream-Portable.json, ACooper81/scoop-apps, 1
 bucket/maa.json, Calinou/scoop-games, 1
+bucket/maaend-beta.json, Calinou/scoop-games, 1
 bucket/maaend.json, Calinou/scoop-games, 1
 bucket/macaddressview.json, ScoopInstaller/Nirsoft, 0
 bucket/macast-debug.json, ScoopInstaller/Extras, 1
@@ -9713,6 +9714,7 @@ bucket/searchfilterview.json, ScoopInstaller/Nirsoft, 0
 bucket/searchmyfiles.json, ScoopInstaller/Nirsoft, 0
 bucket/sec.json, SayCV/scoop-cvp, 0
 bucket/seconv.json, ScoopInstaller/Extras, 1
+bucket/secretspec.json, ScoopInstaller/Main, 1
 bucket/securefs.json, naderi/scoop-bucket, 1
 bucket/secureuxtheme.json, ScoopInstaller/Extras, 1
 bucket/securityquestionsview.json, ScoopInstaller/Nirsoft, 0
