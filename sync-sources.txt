@@ -9078,6 +9078,7 @@ bucket/quicklook.json, ScoopInstaller/Extras, 1
 bucket/quicksetdns.json, ScoopInstaller/Nirsoft, 0
 bucket/quicksfv.json, ScoopInstaller/Extras, 0
 bucket/quicktextpaste.json, ScoopInstaller/Extras, 0
+bucket/quickview-justnullname.json, hu3rror/scoop-muggle, 1
 bucket/quickviewer.json, ScoopInstaller/Extras, 1
 bucket/quien.json, ScoopInstaller/Main, 1
 bucket/quiterss.json, ScoopInstaller/Extras, 0
