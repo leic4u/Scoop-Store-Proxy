@@ -4883,6 +4883,7 @@ bucket/ghidra.json, ScoopInstaller/Extras, 1
 bucket/ghidra92.json, ScoopInstaller/Versions, 1
 bucket/ghidramod-nightly.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidramod.json, NyaMisty/scoop_bucket_misty, 1
+bucket/ghips.json, DoveBoy/Apps, 1
 bucket/ghorg.json, ScoopInstaller/Main, 1
 bucket/ghostdownloader3-portable.json, DoveBoy/Apps, 1
 bucket/ghostdownloader3.json, DoveBoy/Apps, 1
@@ -6001,7 +6002,7 @@ bucket/katrain.json, Calinou/scoop-games, 1
 bucket/kavita.json, ScoopInstaller/Extras, 1
 bucket/kawaii-player.json, ScoopInstaller/Extras, 1
 bucket/kaxaml.json, Deide/deide-bucket, 1
-bucket/kazumi.json, DoveBoy/Apps, 1
+bucket/kazumi.json, wzv5/ScoopBucket, 1
 bucket/kbootopt.json, echoiron/echo-scoop, 0
 bucket/kcc.json, ScoopInstaller/Extras, 1
 bucket/kcleaner.json, echoiron/echo-scoop, 0
