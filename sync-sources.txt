@@ -7749,6 +7749,7 @@ bucket/openclosedriveeject.json, ScoopInstaller/Extras, 0
 bucket/opencode-desktop.json, ScoopInstaller/Extras, 1
 bucket/opencode-x.json, kiennq/scoop-misc, 1
 bucket/opencode.json, ScoopInstaller/Main, 1
+bucket/opencode2-beta.json, ScoopInstaller/Versions, 0
 bucket/opencomic.json, cc713/ownscoop, 1
 bucket/openconnect.json, ScoopInstaller/Main, 0
 bucket/openconsole.json, brian6932/dank-scoop, 0
