@@ -10850,6 +10850,7 @@ bucket/txikijs.json, ScoopInstaller/Main, 1
 bucket/txsso.json, SayCV/scoop-cvp, 0
 bucket/ty.json, ScoopInstaller/Main, 1
 bucket/typeeasy.json, echoiron/echo-scoop, 0
+bucket/typescript.json, ScoopInstaller/Main, 1
 bucket/typespec.json, ScoopInstaller/Main, 0
 bucket/typioca.json, ScoopInstaller/Main, 1
 bucket/typora-dev.json, ScoopInstaller/Versions, 0
