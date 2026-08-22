@@ -11005,7 +11005,7 @@ bucket/usblogview.json, ScoopInstaller/Nirsoft, 0
 bucket/usblyzer.json, SayCV/scoop-cvp, 0
 bucket/usbtrace.json, SayCV/scoop-cvp, 0
 bucket/usbtree.json, ScoopInstaller/Main, 1
-bucket/usbtreeview.json, dodorz/scoop, 0
+bucket/usbtreeview.json, rasa/scoops, 0
 bucket/usbwriter.json, ChinLong/scoop-customize, 0
 bucket/userassistview.json, ScoopInstaller/Nirsoft, 0
 bucket/userbenchmark.json, ScoopInstaller/Extras, 0
