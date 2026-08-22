@@ -2236,7 +2236,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2585,7 +2585,7 @@ bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
 bucket/baidu-net-disk.json, yuusakuri/scoop-bucket, 0
 bucket/baidudisk.json, akirco/aki-apps, 0
 bucket/baidunetdisk-cvp.json, SayCV/scoop-cvp, 1
-bucket/baidupcs-go.json, hu3rror/scoop-muggle, 1
+bucket/baidupcs-go.json, ivaquero/scoopet, 1
 bucket/baimiao-portable.json, SayCV/scoop-cvp, 0
 bucket/baka-mplayer.json, ScoopInstaller/Extras, 1
 bucket/baksmali.json, TheCjw/scoop-retools, 0
@@ -4506,7 +4506,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
