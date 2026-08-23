@@ -5082,6 +5082,7 @@ bucket/godot-version-manager.json, ScoopInstaller/Extras, 1
 bucket/godot.json, ScoopInstaller/Extras, 1
 bucket/godot3-mono.json, ScoopInstaller/Versions, 1
 bucket/godot3.json, ScoopInstaller/Versions, 1
+bucket/godothub.json, ScoopInstaller/Extras, 1
 bucket/godots.json, ScoopInstaller/Extras, 1
 bucket/godsvg.json, naderi/scoop-bucket, 1
 bucket/godu.json, aliesbelik/poldi, 1
@@ -9406,7 +9407,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
