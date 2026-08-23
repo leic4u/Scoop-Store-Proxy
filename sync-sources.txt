@@ -2933,6 +2933,7 @@ bucket/bzflag.json, Calinou/scoop-games, 0
 bucket/bzip2.json, ScoopInstaller/Main, 1
 bucket/bzip3.json, ScoopInstaller/Extras, 1
 bucket/c2-logs.json, brian6932/dank-scoop, 1
+bucket/c2patool.json, ScoopInstaller/Main, 1
 bucket/c3.json, ScoopInstaller/Main, 1
 bucket/cabal-mini.json, ScoopInstaller/Extras, 1
 bucket/cabal.json, ScoopInstaller/Extras, 1
@@ -11939,6 +11940,7 @@ bucket/yubikey-personalization.json, ScoopInstaller/Main, 0
 bucket/yubikey-piv-manager.json, ScoopInstaller/Extras, 1
 bucket/yubioath.json, ScoopInstaller/Extras, 0
 bucket/yuescript.json, ScoopInstaller/Extras, 1
+bucket/yueyuan-font.json, Weidows-projects/scoop-3rd, 1
 bucket/yumi-exfat.json, ScoopInstaller/Extras, 0
 bucket/yumi-uefi.json, ScoopInstaller/Extras, 0
 bucket/yumi.json, ScoopInstaller/Extras, 0
