@@ -7346,6 +7346,7 @@ bucket/neoaxis-engine.json, ScoopInstaller/Extras, 0
 bucket/neochat-nightly.json, ScoopInstaller/Versions, 0
 bucket/neofetch.json, ScoopInstaller/Main, 1
 bucket/neohtop.json, ScoopInstaller/Extras, 1
+bucket/neomacs-k.json, kiennq/scoop-misc, 1
 bucket/neoray.json, ScoopInstaller/Extras, 1
 bucket/neovide-dev.json, ScoopInstaller/Versions, 1
 bucket/neovide.json, ScoopInstaller/Extras, 1
@@ -9803,7 +9804,7 @@ bucket/shadowsocksr-csharp.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
-bucket/shadps4-dev.json, Calinou/scoop-games, 1
+bucket/shadps4-dev.json, borger/scoop-emulators, 1
 bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shandianshuo.json, dodorz/scoop, 0
 bucket/shareaza.json, ScoopInstaller/Extras, 0
