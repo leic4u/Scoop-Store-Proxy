@@ -2923,7 +2923,7 @@ bucket/buttercup.json, ScoopInstaller/Extras, 1
 bucket/butterflow-ui.json, ScoopInstaller/Extras, 1
 bucket/butterflow.json, ScoopInstaller/Main, 1
 bucket/butterfly.json, ScoopInstaller/Extras, 1
-bucket/buzz.json, naderi/scoop-bucket, 0
+bucket/buzz.json, DoveBoy/Apps, 1
 bucket/bw_add_sshkeys.json, Weidows-projects/scoop-3rd, 1
 bucket/byacc.json, ScoopInstaller/Main, 0
 bucket/byedpi.json, aliesbelik/poldi, 1
@@ -6691,7 +6691,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
