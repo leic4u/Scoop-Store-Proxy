@@ -1,36 +1,36 @@
 {
-  "version": "1.20.4-1336-ge4f66f3809",
-  "description": "Sony PlayStation Portable (PSP) emulator. Development build",
+  "version": "1.20.4-1345-g0f36b3310f",
+  "description": "Sony PlayStation Portable (PSP) emulator",
   "homepage": "https://www.ppsspp.org",
   "license": "GPL-2.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://builds.ppsspp.org/builds/v1.20.4-1336-ge4f66f3809/ppsspp_win_v1.20.4-1336-ge4f66f3809.zip",
-      "hash": "9847069261d91efbb4deaa0460788782fe3c1828400f720d0a56e2901bd0b5f3",
+      "url": "https://builds.ppsspp.org/builds/v1.20.4-1345-g0f36b3310f/ppsspp_win_v1.20.4-1345-g0f36b3310f.zip",
+      "hash": "972bc8ca0118866c12656bd0ea28ee7709d53a2a14d712fe69e15abecf1bfdd0",
       "shortcuts": [
         [
           "PPSSPPWindows64.exe",
-          "PPSSPP (Development)"
+          "Sony PlayStation Portable [psp][ppsspp] (dev)"
         ]
       ]
     },
     "32bit": {
-      "url": "https://builds.ppsspp.org/builds/v1.20.4-1336-ge4f66f3809/ppsspp_win_v1.20.4-1336-ge4f66f3809.zip",
-      "hash": "9847069261d91efbb4deaa0460788782fe3c1828400f720d0a56e2901bd0b5f3",
+      "url": "https://builds.ppsspp.org/builds/v1.20.4-1345-g0f36b3310f/ppsspp_win_v1.20.4-1345-g0f36b3310f.zip",
+      "hash": "972bc8ca0118866c12656bd0ea28ee7709d53a2a14d712fe69e15abecf1bfdd0",
       "shortcuts": [
         [
           "PPSSPPWindows.exe",
-          "PPSSPP (Development)"
+          "Sony PlayStation Portable [psp][ppsspp] (dev)"
         ]
       ]
     },
     "arm64": {
-      "url": "https://builds.ppsspp.org/builds/v1.20.4-1336-ge4f66f3809/PPSSPPWindowsARM64_v1.20.4-1336-ge4f66f3809.zip",
-      "hash": "f795f25ea65e3a5b97db5696d381d8e690a8befe1c9a8805bd5fb10fec63d1c0",
+      "url": "https://builds.ppsspp.org/builds/v1.20.4-1345-g0f36b3310f/PPSSPPWindowsARM64_v1.20.4-1345-g0f36b3310f.zip",
+      "hash": "7f76ff84abe63986bd1d9835d3bb7f5df33766616792eff8dceb6fd99618a4a7",
       "shortcuts": [
         [
           "PPSSPPWindowsARM64.exe",
-          "PPSSPP (Development)"
+          "Sony PlayStation Portable [psp][ppsspp] (dev)"
         ]
       ]
     }
