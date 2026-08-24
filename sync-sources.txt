@@ -2236,7 +2236,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -6288,6 +6288,8 @@ bucket/leomoon-jalalitray.json, naderi/scoop-bucket, 0
 bucket/leomoon-parsinegar.json, naderi/scoop-bucket, 0
 bucket/leomoon-subfix.json, naderi/scoop-bucket, 0
 bucket/lepton.json, ScoopInstaller/Extras, 1
+bucket/lertaro-portable.json, DoveBoy/Apps, 1
+bucket/lertaro.json, DoveBoy/Apps, 1
 bucket/less-beta.json, ScoopInstaller/Versions, 1
 bucket/less-windows.json, batkiz/backit, 1
 bucket/less.json, ScoopInstaller/Main, 1
@@ -6670,6 +6672,9 @@ bucket/mandoc.json, ScoopInstaller/Main, 0
 bucket/mangadex-dl.json, hu3rror/scoop-muggle, 1
 bucket/mangal.json, ScoopInstaller/Extras, 1
 bucket/mangayomi.json, cc713/ownscoop, 1
+bucket/mangodisk-cli.json, DoveBoy/Apps, 1
+bucket/mangodisk-portable.json, DoveBoy/Apps, 1
+bucket/mangodisk.json, DoveBoy/Apps, 1
 bucket/manhuagui-downloader.json, hu3rror/scoop-muggle, 1
 bucket/mani.json, aliesbelik/poldi, 1
 bucket/manictime.json, ScoopInstaller/Extras, 0
@@ -7977,6 +7982,8 @@ bucket/pansy.json, DoveBoy/Apps, 1
 bucket/panwriter.json, ScoopInstaller/Extras, 1
 bucket/paperang.json, AkinoKaede/maple, 0
 bucket/papercut.json, ScoopInstaller/Extras, 1
+bucket/papertodo-with-runtime.json, DoveBoy/Apps, 1
+bucket/papertodo.json, DoveBoy/Apps, 1
 bucket/par2cmdline.json, ScoopInstaller/Main, 1
 bucket/parabolic.json, ScoopInstaller/Extras, 1
 bucket/parallels-client.json, amorphobia/siku, 0
@@ -9408,7 +9415,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
