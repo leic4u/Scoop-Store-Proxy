@@ -10611,6 +10611,7 @@ bucket/thewitchshouse-en.json, beerpiss/scoop-bucket, 0
 bucket/thewitchshouse-jp.json, beerpiss/scoop-bucket, 0
 bucket/thide.json, Deide/deide-bucket, 1
 bucket/thief.json, Weidows-projects/scoop-3rd, 0
+bucket/thinkrail.json, batkiz/backit, 1
 bucket/thisiswin11.json, ScoopInstaller/Extras, 1
 bucket/thonny.json, ScoopInstaller/Extras, 1
 bucket/thorium-avx2.json, ScoopInstaller/Versions, 1
