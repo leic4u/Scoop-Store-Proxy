@@ -3703,6 +3703,7 @@ bucket/defendnot.json, ScoopInstaller/Extras, 1
 bucket/defraggler.json, ScoopInstaller/Extras, 0
 bucket/degdid.json, brian6932/dank-scoop, 1
 bucket/dehelper.json, ivaquero/scoopet, 0
+bucket/deja-vu.json, ScoopInstaller/Main, 1
 bucket/dejavusanscode-lgc.json, KnotUntied/scoop-fonts, 1
 bucket/dejavusanscode.json, KnotUntied/scoop-fonts, 1
 bucket/dejavusansmono-lgc.json, KnotUntied/scoop-fonts, 1
@@ -9416,7 +9417,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
