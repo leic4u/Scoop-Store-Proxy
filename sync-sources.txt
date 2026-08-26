@@ -6128,7 +6128,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -12412,6 +12412,8 @@ scripts/vim/install-context.reg, ScoopInstaller/Main, 0
 scripts/vim/uninstall-context.reg, ScoopInstaller/Main, 0
 scripts/visual-studio-code/vscode-install-context.reg, naderi/scoop-bucket, 0
 scripts/visual-studio-code/vscode-uninstall-context.reg, naderi/scoop-bucket, 0
+scripts/vlc-cn/install-associations.reg, ivaquero/scoopet, 0
+scripts/vlc-cn/uninstall-associations.reg, ivaquero/scoopet, 0
 scripts/vscode/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/vscode/install-context-it.reg, starise/Scoop-Confetti, 0
 scripts/vscode/install-context.reg, ScoopInstaller/Extras, 0
