@@ -5229,6 +5229,7 @@ bucket/gradle7.json, ScoopInstaller/Versions, 0
 bucket/grafana.json, ScoopInstaller/Extras, 0
 bucket/grails.json, ScoopInstaller/Main, 1
 bucket/grain.json, ScoopInstaller/Extras, 1
+bucket/gram.json, ScoopInstaller/Extras, 0
 bucket/grammarly-np.json, ScoopInstaller/Nonportable, 0
 bucket/gramps.json, ScoopInstaller/Extras, 1
 bucket/granted.json, ScoopInstaller/Main, 1
