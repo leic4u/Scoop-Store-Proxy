@@ -2722,7 +2722,7 @@ bucket/bili-music.json, Weidows-projects/scoop-3rd, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, DoveBoy/Apps, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -6052,6 +6052,7 @@ bucket/keyboard-inspector.json, brian6932/dank-scoop, 1
 bucket/keyboardstateview.json, ScoopInstaller/Nirsoft, 0
 bucket/keyferret.json, ScoopInstaller/Extras, 0
 bucket/keyfinder.json, naderi/scoop-bucket, 0
+bucket/keyguard-app.json, DoveBoy/Apps, 1
 bucket/keyguard.json, ScoopInstaller/Extras, 1
 bucket/keymap.json, DoveBoy/Apps, 1
 bucket/keynavish.json, ScoopInstaller/Extras, 1
@@ -7379,7 +7380,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
