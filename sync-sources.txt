@@ -8655,7 +8655,7 @@ bucket/png2jpeg.json, ScoopInstaller/Main, 0
 bucket/pngcrush.json, ScoopInstaller/Main, 0
 bucket/pngout.json, dodorz/scoop, 0
 bucket/pngquant.json, ScoopInstaller/Main, 0
-bucket/pngyu.json, ScoopInstaller/Extras, 0
+bucket/pngyu.json, ScoopInstaller/Extras, 1
 bucket/pnpm-tab-completion.json, DoveBoy/Apps, 0
 bucket/pnpm.json, ScoopInstaller/Main, 1
 bucket/pocket-id.json, amorphobia/siku, 1
