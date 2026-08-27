@@ -131,6 +131,38 @@ function Test-ValidateParameter {
     if ($ProxyUseDefaultCredentials -and $null -ne $ProxyCredential) {
         Deny-Install "ProxyUseDefaultCredentials is conflict with ProxyCredential. Don't use the -ProxyCredential and -ProxyUseDefaultCredentials together."
     }
+
+    if (-not (Test-Path $SCOOP_DIR -IsValid)) {
+        Deny-Install "'$SCOOP_DIR' is not a valid path, please specify another path."
+    }
+
+    if (-not (Test-Path $SCOOP_GLOBAL_DIR -IsValid)) {
+        Deny-Install "'$SCOOP_GLOBAL_DIR' is not a valid path, please specify another path."
+    }
+
+    if (-not (Test-Path $SCOOP_CACHE_DIR -IsValid)) {
+        Deny-Install "'$SCOOP_CACHE_DIR' is not a valid path, please specify another path."
+    }
+
+    if (Test-Path $SCOOP_DIR -PathType Leaf) {
+        Deny-Install "'$SCOOP_DIR' is a file, please remove it or specify another path."
+    }
+
+    if ((Test-Path $SCOOP_DIR -PathType Container) -and (Test-Path "$SCOOP_DIR\*")) {
+        Deny-Install "'$SCOOP_DIR' exists and is not empty, please specify another path."
+    }
+
+    if (Test-Path $SCOOP_GLOBAL_DIR -PathType Leaf) {
+        Deny-Install "'$SCOOP_GLOBAL_DIR' is a file, please remove it or specify another path."
+    }
+
+    if ((Test-Path $SCOOP_GLOBAL_DIR -PathType Container) -and (Test-Path "$SCOOP_GLOBAL_DIR\*")) {
+        Deny-Install "'$SCOOP_GLOBAL_DIR' exists and is not empty, please specify another path."
+    }
+
+    if (Test-Path $SCOOP_CACHE_DIR -PathType Leaf) {
+        Deny-Install "'$SCOOP_CACHE_DIR' is a file, please remove it or specify another path."
+    }
 }
 
 function Test-IsAdministrator {
@@ -575,10 +607,10 @@ function Test-CommandAvailable {
 
 function Install-Scoop {
     Write-InstallInfo 'Initializing...'
-    # Validate install parameters
-    Test-ValidateParameter
     # Check prerequisites
     Test-Prerequisite
+    # Validate install parameters
+    Test-ValidateParameter
     # Enable TLS 1.2
     Optimize-SecurityProtocol
 
@@ -683,9 +715,6 @@ function Write-DebugInfo {
 # Prepare variables
 $IS_EXECUTED_FROM_IEX = ($null -eq $MyInvocation.MyCommand.Path)
 
-# Abort when the language mode is restricted
-Test-LanguageMode
-
 # Scoop root directory
 $SCOOP_DIR = $ScoopDir, $env:SCOOP, "$env:USERPROFILE\scoop" | Where-Object { -not [String]::IsNullOrEmpty($_) } | Select-Object -First 1
 # Scoop global apps directory
@@ -709,14 +738,18 @@ $SCOOP_MAIN_BUCKET_REPO = 'https://ghgo.xyz/https://github.com/ScoopInstaller/Ma
 $SCOOP_PACKAGE_GIT_REPO = 'https://github.com/ScoopInstaller/Scoop.git'
 $SCOOP_MAIN_BUCKET_GIT_REPO = 'https://github.com/ScoopInstaller/Main.git'
 
-# Quit if anything goes wrong
-$oldErrorActionPreference = $ErrorActionPreference
-$ErrorActionPreference = 'Stop'
-
-# Logging debug info
-Write-DebugInfo $PSBoundParameters
-# Bootstrap function
-Install-Scoop
-
-# Reset $ErrorActionPreference to original value
-$ErrorActionPreference = $oldErrorActionPreference
+# The install flow triggers only when the script is executed directly, but
+# not when dot-sourced. Dot-sourcing the installer will not trigger the
+# installation, and only the functions will be loaded, e.g., for testing.
+# Downstreams can call `Install-Scoop` explicitly to start the installation.
+if ($MyInvocation.InvocationName -ne '.') {
+    $oldErrorActionPreference = $ErrorActionPreference
+    try {
+        $ErrorActionPreference = 'Stop'
+        Test-LanguageMode
+        Write-DebugInfo $PSBoundParameters
+        Install-Scoop
+    } finally {
+        $ErrorActionPreference = $oldErrorActionPreference
+    }
+}
