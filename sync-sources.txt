@@ -3694,7 +3694,6 @@ bucket/deepgit.json, ScoopInstaller/Extras, 0
 bucket/deepgit402.json, ScoopInstaller/Versions, 0
 bucket/deepl.json, naderi/scoop-bucket, 0
 bucket/deeplx.json, ScoopInstaller/Extras, 1
-bucket/deepseek-tui.json, ScoopInstaller/Main, 1
 bucket/deepstream.json, ScoopInstaller/Main, 1
 bucket/deepx-code.json, ygguorun/scoop-bucket, 1
 bucket/deew.json, ScoopInstaller/Extras, 1
@@ -5257,6 +5256,7 @@ bucket/griddycode.json, Weidows-projects/scoop-3rd, 1
 bucket/gridea.json, ScoopInstaller/Extras, 1
 bucket/gridplayer.json, ScoopInstaller/Extras, 1
 bucket/grip-py.json, TheRandomLabs/Scoop-Python, 1
+bucket/grok-bot.json, ScoopInstaller/Extras, 0
 bucket/grok-cli.json, ScoopInstaller/Main, 0
 bucket/gron.json, ScoopInstaller/Main, 1
 bucket/groovy.json, ScoopInstaller/Main, 0
@@ -6727,7 +6727,6 @@ bucket/material-maker.json, ScoopInstaller/Extras, 1
 bucket/materialgram.json, ScoopInstaller/Extras, 1
 bucket/materialize.json, ScoopInstaller/Extras, 0
 bucket/mathpix.json, ScoopInstaller/Extras, 0
-bucket/matlab-mcp-core-server.json, ScoopInstaller/Main, 1
 bucket/matlab-mcp-server.json, ScoopInstaller/Main, 1
 bucket/matlab-package-manager.json, ScoopInstaller/Main, 0
 bucket/matterbridge.json, ScoopInstaller/Extras, 1
@@ -8051,7 +8050,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Calinou/scoop-games, 1
@@ -9830,7 +9829,7 @@ bucket/shadowsocksr-csharp.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
-bucket/shadps4-dev.json, Calinou/scoop-games, 1
+bucket/shadps4-dev.json, borger/scoop-emulators, 1
 bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shandianshuo.json, dodorz/scoop, 0
 bucket/shareaza.json, ScoopInstaller/Extras, 0
@@ -11200,7 +11199,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
