@@ -2722,7 +2722,7 @@ bucket/bili-music.json, Weidows-projects/scoop-3rd, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, DoveBoy/Apps, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -3954,7 +3954,7 @@ bucket/dottorrent-gui.json, ScoopInstaller/Extras, 1
 bucket/dottrace-api.json, ScoopInstaller/Main, 0
 bucket/dottrace-clt.json, ScoopInstaller/Main, 0
 bucket/dottrace.json, ScoopInstaller/Extras, 0
-bucket/doubao.json, akirco/aki-apps, 1
+bucket/doubao.json, dodorz/scoop, 0
 bucket/double-finder.json, amorphobia/siku, 0
 bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
@@ -5032,14 +5032,14 @@ bucket/gn.json, ScoopInstaller/Versions, 0
 bucket/gnirehtet.json, ScoopInstaller/Main, 1
 bucket/gns3.json, DoveBoy/Apps, 1
 bucket/gnucash.json, ScoopInstaller/Extras, 1
-bucket/gnupg-np.json, DoveBoy/Apps, 0
+bucket/gnupg-np.json, chawyehsu/dorado, 0
 bucket/gnupg-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/gnupg.json, ScoopInstaller/Main, 0
 bucket/gnupg1.json, ScoopInstaller/Main, 0
 bucket/gnuplot.json, ScoopInstaller/Main, 0
 bucket/gnutls.json, ScoopInstaller/Main, 0
 bucket/go-chromecast.json, ScoopInstaller/Extras, 1
-bucket/go-cn.json, akirco/aki-apps, 0
+bucket/go-cn.json, chawyehsu/dorado, 0
 bucket/go-containerregistry.json, ScoopInstaller/Main, 1
 bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
 bucket/go-drive.json, DoveBoy/Apps, 1
@@ -7391,7 +7391,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -8052,7 +8052,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Calinou/scoop-games, 1
