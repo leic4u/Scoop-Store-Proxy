@@ -10262,6 +10262,7 @@ bucket/streamlink.json, ScoopInstaller/Extras, 1
 bucket/streams.json, niheaven/scoop-sysinternals, 1
 bucket/streamsave-dev.json, brian6932/dank-scoop, 0
 bucket/streamsave.json, brian6932/dank-scoop, 0
+bucket/streamtop.json, aliesbelik/poldi, 1
 bucket/streamwriter.json, ScoopInstaller/Extras, 0
 bucket/stremio.json, ScoopInstaller/Extras, 1
 bucket/stretchly.json, ScoopInstaller/Extras, 1
@@ -11397,6 +11398,7 @@ bucket/weflow.json, ViCrack/scoop-bucket, 1
 bucket/wegame.json, ivaquero/scoopet, 0
 bucket/wemod.json, Calinou/scoop-games, 0
 bucket/wepe.json, SayCV/scoop-cvp, 0
+bucket/werf-v1.json, aliesbelik/poldi, 0
 bucket/werf-v2.json, aliesbelik/poldi, 0
 bucket/werf.json, aliesbelik/poldi, 0
 bucket/wesing.json, echoiron/echo-scoop, 0
