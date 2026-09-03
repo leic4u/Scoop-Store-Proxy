@@ -3958,7 +3958,7 @@ bucket/dottorrent-gui.json, ScoopInstaller/Extras, 1
 bucket/dottrace-api.json, ScoopInstaller/Main, 0
 bucket/dottrace-clt.json, ScoopInstaller/Main, 0
 bucket/dottrace.json, ScoopInstaller/Extras, 0
-bucket/doubao.json, dodorz/scoop, 0
+bucket/doubao.json, akirco/aki-apps, 1
 bucket/double-finder.json, amorphobia/siku, 0
 bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
