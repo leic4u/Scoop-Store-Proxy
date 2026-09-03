@@ -116,6 +116,7 @@ bucket/Agave-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Agave-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Agave-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/AgentRansack.json, dodorz/scoop, 0
+bucket/AgentX.json, dodorz/scoop, 1
 bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
