@@ -2412,6 +2412,7 @@ bucket/aria2.json, ScoopInstaller/Main, 1
 bucket/aria2manager.json, DoveBoy/Apps, 1
 bucket/ariang-native.json, ScoopInstaller/Extras, 1
 bucket/arimo.json, KnotUntied/scoop-fonts, 0
+bucket/arity.json, cderv/r-bucket, 1
 bucket/ark-cli.json, Weidows-projects/scoop-3rd, 1
 bucket/ark-smart-breeding.json, Calinou/scoop-games, 1
 bucket/ark.json, cderv/r-bucket, 1
@@ -5030,7 +5031,7 @@ bucket/gluttonyFLIF.json, ygguorun/scoop-bucket, 0
 bucket/gluttonyPNG.json, ygguorun/scoop-bucket, 0
 bucket/gmic-cli.json, ScoopInstaller/Main, 0
 bucket/gmic-qt.json, ScoopInstaller/Extras, 0
-bucket/gmkvextractgui.json, ScoopInstaller/Extras, 0
+bucket/gmkvextractgui.json, ScoopInstaller/Extras, 1
 bucket/gmsh.json, chawyehsu/dorado, 0
 bucket/gn.json, ScoopInstaller/Versions, 0
 bucket/gnirehtet.json, ScoopInstaller/Main, 1
@@ -7765,7 +7766,6 @@ bucket/opdessertstorm.json, Calinou/scoop-games, 0
 bucket/open-log-viewer.json, ScoopInstaller/Extras, 1
 bucket/open-shell-menu-np.json, jingyu9575/scoop-jingyu9575, 1
 bucket/open-shell-np.json, ScoopInstaller/Nonportable, 1
-bucket/open-tv.json, ScoopInstaller/Extras, 1
 bucket/open-video-downloader.json, hu3rror/scoop-muggle, 1
 bucket/open-xrechnung-toolbox.json, naderi/scoop-bucket, 1
 bucket/openallegroparser.json, SayCV/scoop-cvp, 1
@@ -9441,7 +9441,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -11069,6 +11069,7 @@ bucket/uutils-diffutils.json, kiennq/scoop-misc, 1
 bucket/uutils-findutils.json, ScoopInstaller/Main, 1
 bucket/uv-portable-cn.json, Weidows-projects/scoop-3rd, 1
 bucket/uv.json, ScoopInstaller/Main, 1
+bucket/uvr.json, cderv/r-bucket, 1
 bucket/uvtt2fgu.json, Calinou/scoop-games, 1
 bucket/uwamp.json, ScoopInstaller/Extras, 0
 bucket/uwphook.json, kiennq/scoop-misc, 1
