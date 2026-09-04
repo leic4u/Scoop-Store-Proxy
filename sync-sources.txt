@@ -9441,7 +9441,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -10638,7 +10638,7 @@ bucket/thewitchshouse-jp.json, beerpiss/scoop-bucket, 0
 bucket/thide.json, Deide/deide-bucket, 1
 bucket/thief.json, Weidows-projects/scoop-3rd, 0
 bucket/thinkrail-nightly.json, ScoopInstaller/Versions, 1
-bucket/thinkrail.json, batkiz/backit, 1
+bucket/thinkrail.json, dodorz/scoop, 1
 bucket/thisiswin11.json, ScoopInstaller/Extras, 1
 bucket/thonny.json, ScoopInstaller/Extras, 1
 bucket/thorium-avx2.json, ScoopInstaller/Versions, 1
