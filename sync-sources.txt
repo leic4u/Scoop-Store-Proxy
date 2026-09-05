@@ -7930,6 +7930,7 @@ bucket/oranda.json, ScoopInstaller/Extras, 1
 bucket/orange.json, ScoopInstaller/Extras, 0
 bucket/oras.json, ScoopInstaller/Extras, 1
 bucket/orca-agent-ide.json, naderi/scoop-bucket, 1
+bucket/orca-ide.json, ScoopInstaller/Extras, 1
 bucket/orca.json, ScoopInstaller/Extras, 0
 bucket/orca3.json, ScoopInstaller/Versions, 1
 bucket/orcaslicer-nightly.json, ScoopInstaller/Versions, 1
@@ -11691,6 +11692,7 @@ bucket/workspaceutilities.json, ScoopInstaller/Extras, 0
 bucket/worktrunk.json, ScoopInstaller/Main, 1
 bucket/wormhole-william.json, ScoopInstaller/Main, 1
 bucket/worsttrace.json, ygguorun/scoop-bucket, 0
+bucket/wowl.json, naderi/scoop-bucket, 1
 bucket/wowup-cf.json, Calinou/scoop-games, 1
 bucket/wowup.json, Calinou/scoop-games, 1
 bucket/wox-beta.json, ScoopInstaller/Versions, 1
