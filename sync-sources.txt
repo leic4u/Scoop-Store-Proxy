@@ -4198,6 +4198,8 @@ bucket/emacs.json, ScoopInstaller/Extras, 0
 bucket/emacs27.2.json, ScoopInstaller/Versions, 0
 bucket/emacs30-tree-sitter-module-ucrt64.json, iquiw/scoop-bucket, 1
 bucket/emacs30-tree-sitter-module.json, iquiw/scoop-bucket, 1
+bucket/emacs31-tree-sitter-module-ucrt64.json, iquiw/scoop-bucket, 1
+bucket/emacs31-tree-sitter-module.json, iquiw/scoop-bucket, 1
 bucket/emax64-pdumper.json, ScoopInstaller/Extras, 1
 bucket/emax64.json, kiennq/scoop-misc, 1
 bucket/embarcadero-dev-cpp-no-compiler.json, batkiz/backit, 1
@@ -9451,7 +9453,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
