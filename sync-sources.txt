@@ -3376,6 +3376,8 @@ bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
 bucket/con-terminal.json, batkiz/backit, 1
 bucket/conan.json, ScoopInstaller/Main, 1
+bucket/concat-pre.json, DoveBoy/Apps, 1
+bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
 bucket/concourse-fly.json, ScoopInstaller/Main, 1
 bucket/conemu-color-themes.json, ScoopInstaller/Extras, 1
@@ -5158,7 +5160,10 @@ bucket/gopass-jsonapi.json, ScoopInstaller/Main, 1
 bucket/gopass.json, ScoopInstaller/Main, 1
 bucket/gopass184.json, ScoopInstaller/Versions, 1
 bucket/gopayloader.json, aliesbelik/poldi, 1
+bucket/gopeed-portable-pre.json, DoveBoy/Apps, 1
 bucket/gopeed-portable.json, DoveBoy/Apps, 1
+bucket/gopeed-pre.json, DoveBoy/Apps, 1
+bucket/gopeed-web-pre.json, DoveBoy/Apps, 1
 bucket/gopeed-web.json, DoveBoy/Apps, 1
 bucket/gopeed.json, ScoopInstaller/Extras, 1
 bucket/gopher360.json, ScoopInstaller/Extras, 1
@@ -7115,6 +7120,8 @@ bucket/moonscript.json, ScoopInstaller/Extras, 1
 bucket/moonup.json, chawyehsu/dorado, 1
 bucket/moor.json, ScoopInstaller/Extras, 1
 bucket/moosync.json, ScoopInstaller/Extras, 1
+bucket/mootool-electron-portable.json, DoveBoy/Apps, 1
+bucket/mootool-electron.json, DoveBoy/Apps, 1
 bucket/mootool-portable.json, DoveBoy/Apps, 1
 bucket/mootool.json, ViCrack/scoop-bucket, 1
 bucket/mosdns-cn.json, chawyehsu/dorado, 1
@@ -8588,8 +8595,6 @@ bucket/picacomic-downloader.json, DoveBoy/Apps, 1
 bucket/picard-portable.json, naderi/scoop-bucket, 0
 bucket/picard.json, ScoopInstaller/Extras, 0
 bucket/picgo.json, ScoopInstaller/Extras, 1
-bucket/picktv-portable.json, DoveBoy/Apps, 1
-bucket/picktv.json, DoveBoy/Apps, 1
 bucket/pico.json, mo-san/scoop-bucket, 0
 bucket/picocrypt-ng.json, ScoopInstaller/Extras, 1
 bucket/picocrypt.json, ScoopInstaller/Extras, 1

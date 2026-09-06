@@ -1,5 +1,5 @@
 {
-  "version": "1.9.3",
+  "version": "2.0.0-beta.1",
   "description": "High speed downloader that supports all platforms.",
   "homepage": "https://github.com/GopeedLab/gopeed",
   "license": "GPL-3.0-only",
@@ -9,12 +9,12 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-windows-amd64-portable.zip",
-      "hash": "02b3b2f0ce4b0e0008edc835802ad6f4b241eb863f312b0bdd77b2b2afc9e012"
+      "url": "https://ghgo.xyz/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.1/Gopeed-v2.0.0-beta.1-windows-amd64-portable.zip",
+      "hash": "e7ae34e2740189629d73206c2a9b0494069fa91d43ed558eecd72cadcfcadfb4"
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-windows-arm64-portable.zip",
-      "hash": "48a85f30ac94e72d1427f28f1465d5e79b1e8ab252c2a3ad408ae5c1c8bfd915"
+      "url": "https://ghgo.xyz/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.1/Gopeed-v2.0.0-beta.1-windows-arm64-portable.zip",
+      "hash": "3b2e731431ea47b2e6b9d0b55e11df3cc1cafe28ced45586e7c3766a77594470"
     }
   },
   "pre_install": [
@@ -61,9 +61,9 @@
   ],
   "persist": "storage",
   "checkver": {
-    "github": "https://api.github.com/repos/GopeedLab/gopeed/releases/latest",
-    "jp": "$.tag_name",
-    "regex": "v([\\d.]+)"
+    "github": "https://api.github.com/repos/GopeedLab/gopeed/releases",
+    "jp": "$[*].tag_name",
+    "regex": "v([\\d.]+-[\\w.]+)"
   },
   "autoupdate": {
     "architecture": {
