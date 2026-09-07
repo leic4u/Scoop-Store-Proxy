@@ -1275,7 +1275,7 @@ bucket/PanDownloadServer.json, Paxxs/Cluttered-bucket, 0
 bucket/PanJi-GreenTools.json, Weidows-projects/scoop-3rd, 0
 bucket/PandaOCR.json, dodorz/scoop, 1
 bucket/PandaOCRPro.json, dodorz/scoop, 1
-bucket/PartAssist.json, Weidows-projects/scoop-3rd, 0
+bucket/PartAssist.json, dodorz/scoop, 0
 bucket/PartAssistCmd.json, dodorz/scoop, 0
 bucket/Pass4Win.json, dodorz/scoop, 1
 bucket/PatchMyPCHomeUpdater-Portable.json, ACooper81/scoop-apps, 0
@@ -2243,7 +2243,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
