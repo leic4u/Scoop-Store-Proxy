@@ -667,6 +667,7 @@ bucket/GeekUninstaller-Portable.json, ACooper81/scoop-apps, 0
 bucket/GeistMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/GeistMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/GeistMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/GenOffice.json, dodorz/scoop, 1
 bucket/GetWindowText.json, dodorz/scoop, 0
 bucket/Getmail.json, dodorz/scoop, 0
 bucket/GitHub520.json, Weidows-projects/scoop-3rd, 1
@@ -1275,7 +1276,7 @@ bucket/PanDownloadServer.json, Paxxs/Cluttered-bucket, 0
 bucket/PanJi-GreenTools.json, Weidows-projects/scoop-3rd, 0
 bucket/PandaOCR.json, dodorz/scoop, 1
 bucket/PandaOCRPro.json, dodorz/scoop, 1
-bucket/PartAssist.json, dodorz/scoop, 0
+bucket/PartAssist.json, Weidows-projects/scoop-3rd, 0
 bucket/PartAssistCmd.json, dodorz/scoop, 0
 bucket/Pass4Win.json, dodorz/scoop, 1
 bucket/PatchMyPCHomeUpdater-Portable.json, ACooper81/scoop-apps, 0
@@ -1765,6 +1766,8 @@ bucket/TidalMediaDownloaderPro-Portable.json, ACooper81/scoop-apps, 1
 bucket/Tideflow.json, dodorz/scoop, 1
 bucket/TidyDesktopMonster.json, brian6932/dank-scoop, 1
 bucket/TidyOS-Portable.json, ACooper81/scoop-apps, 1
+bucket/TigerVNCServer-np.json, dodorz/scoop, 0
+bucket/TigerVNCViewer.json, dodorz/scoop, 0
 bucket/TightVNC-Portable.json, ACooper81/scoop-apps, 0
 bucket/TimeVertor-Portable.json, ACooper81/scoop-apps, 1
 bucket/Tinos-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -2243,7 +2246,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2730,7 +2733,7 @@ bucket/bili-music.json, Weidows-projects/scoop-3rd, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, DoveBoy/Apps, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -4524,7 +4527,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -7410,7 +7413,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -9453,7 +9456,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
