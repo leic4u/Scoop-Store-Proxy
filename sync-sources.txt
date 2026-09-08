@@ -855,6 +855,7 @@ bucket/JetBrainsMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/JianYingSRT.json, ygguorun/scoop-bucket, 1
 bucket/JiduScan.json, dodorz/scoop, 0
 bucket/JohnsBackgroundSwitcher-Portable.json, ACooper81/scoop-apps, 0
+bucket/JumpDesktop.json, dodorz/scoop, 0
 bucket/JumpToFolder.json, hu3rror/scoop-muggle, 1
 bucket/Jupyterlab.json, dodorz/scoop, 1
 bucket/Jvedio.json, Weidows-projects/scoop-3rd, 1
@@ -1718,7 +1719,6 @@ bucket/Tabbit.json, Weidows-projects/scoop-3rd, 0
 bucket/TablacusExplorer.json, dodorz/scoop, 1
 bucket/Tag.json, dodorz/scoop, 0
 bucket/TagUI.json, Weidows-projects/scoop-3rd, 1
-bucket/Tailcat.json, dodorz/scoop, 1
 bucket/Tailscale-Portable.json, ACooper81/scoop-apps, 1
 bucket/Tanuki-Permanent-Marker.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/TarTool.json, dodorz/scoop, 1
@@ -4051,7 +4051,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -5138,6 +5138,7 @@ bucket/gom-player.json, mo-san/scoop-bucket, 0
 bucket/gomi.json, aliesbelik/poldi, 1
 bucket/gomono.json, KnotUntied/scoop-fonts, 0
 bucket/gomplate.json, ScoopInstaller/Main, 1
+bucket/gonavi-cli.json, ScoopInstaller/Extras, 1
 bucket/gonavi.json, ScoopInstaller/Extras, 1
 bucket/goneovim-nightly.json, ScoopInstaller/Versions, 1
 bucket/goneovim.json, ScoopInstaller/Extras, 1
@@ -7358,6 +7359,7 @@ bucket/navicat-premium-lite-cn.json, ivaquero/scoopet, 0
 bucket/navicat-premium-lite.json, seumsc/scoop-seu, 0
 bucket/navidrome-portable.json, DoveBoy/Apps, 1
 bucket/navidrome.json, ScoopInstaller/Main, 1
+bucket/navop.json, ScoopInstaller/Extras, 1
 bucket/nb.json, dodorz/scoop, 1
 bucket/nbping.json, ScoopInstaller/Main, 1
 bucket/nbtexplorer.json, Calinou/scoop-games, 1
@@ -7634,6 +7636,7 @@ bucket/nvm-desktop.json, abgox/abgo_bucket, 1
 bucket/nvm-tab-completion.json, DoveBoy/Apps, 0
 bucket/nvm-windows.json, chawyehsu/dorado, 1
 bucket/nvm.json, ScoopInstaller/Main, 1
+bucket/nvm1.json, ScoopInstaller/Versions, 1
 bucket/nvs.json, ScoopInstaller/Main, 1
 bucket/nvui.json, ScoopInstaller/Extras, 1
 bucket/nvy.json, ScoopInstaller/Extras, 1
@@ -10459,6 +10462,7 @@ bucket/tai.json, DoveBoy/Apps, 1
 bucket/taiga-beta.json, ScoopInstaller/Versions, 1
 bucket/taiga.json, ScoopInstaller/Extras, 1
 bucket/tailblazer.json, ScoopInstaller/Extras, 1
+bucket/tailcat.json, ScoopInstaller/Main, 1
 bucket/tailscale.json, ScoopInstaller/Extras, 1
 bucket/tailspin.json, ScoopInstaller/Main, 1
 bucket/tailwindcss.json, ScoopInstaller/Main, 1
