@@ -10652,6 +10652,7 @@ bucket/tfsec.json, ScoopInstaller/Main, 1
 bucket/tfsort.json, aliesbelik/poldi, 1
 bucket/tftpd.json, ScoopInstaller/Extras, 1
 bucket/tftputil-gui.json, ScoopInstaller/Extras, 0
+bucket/tfui.json, aliesbelik/poldi, 1
 bucket/tgpt.json, chawyehsu/dorado, 1
 bucket/thcrap.json, Calinou/scoop-games, 0
 bucket/theia-ide.json, ScoopInstaller/Extras, 0
@@ -11232,7 +11233,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -11626,7 +11627,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, naderi/scoop-bucket, 1
+bucket/winscript.json, DoveBoy/Apps, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
