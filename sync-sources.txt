@@ -3378,7 +3378,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, batkiz/backit, 1
+bucket/con-terminal.json, dodorz/scoop, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat-pre.json, DoveBoy/Apps, 1
 bucket/concat.json, DoveBoy/Apps, 1
@@ -10655,6 +10655,7 @@ bucket/tftpd.json, ScoopInstaller/Extras, 1
 bucket/tftputil-gui.json, ScoopInstaller/Extras, 0
 bucket/tfui.json, aliesbelik/poldi, 1
 bucket/tgpt.json, chawyehsu/dorado, 1
+bucket/tgrep.json, ScoopInstaller/Main, 1
 bucket/thcrap.json, Calinou/scoop-games, 0
 bucket/theia-ide.json, ScoopInstaller/Extras, 0
 bucket/thewitchshouse-en.json, beerpiss/scoop-bucket, 0
