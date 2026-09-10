@@ -953,6 +953,7 @@ bucket/LightProxy.json, Paxxs/Cluttered-bucket, 1
 bucket/Lilex-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lilex-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lilex-NF.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/LinguaGacha.json, cc713/ownscoop, 1
 bucket/LinkEase.json, ygguorun/scoop-bucket, 0
 bucket/LinkShellExtension-Install.json, ACooper81/scoop-apps, 0
 bucket/Lively-Wallpaper.json, Weidows-projects/scoop-3rd, 1
@@ -2217,7 +2218,7 @@ bucket/aidoku-cli.json, beerpiss/scoop-bucket, 1
 bucket/aigcpanel.json, ivaquero/scoopet, 1
 bucket/aimp.json, ScoopInstaller/Extras, 0
 bucket/ain.json, aliesbelik/poldi, 1
-bucket/ainiee.json, ivaquero/scoopet, 1
+bucket/ainiee.json, cc713/ownscoop, 1
 bucket/air.json, ScoopInstaller/Main, 1
 bucket/aircrack-ng.json, ScoopInstaller/Extras, 0
 bucket/airdroid.json, ScoopInstaller/Extras, 0
@@ -4931,7 +4932,7 @@ bucket/giff.json, aliesbelik/poldi, 1
 bucket/gifsicle.json, ScoopInstaller/Main, 0
 bucket/gifski.json, ScoopInstaller/Main, 0
 bucket/gig.json, ScoopInstaller/Main, 1
-bucket/gimagereader.json, cc713/ownscoop, 1
+bucket/gimagereader.json, SayCV/scoop-cvp, 1
 bucket/gimagex.json, ScoopInstaller/Extras, 0
 bucket/gimp-dev.json, ScoopInstaller/Versions, 0
 bucket/gimp.json, ScoopInstaller/Extras, 0
@@ -6869,7 +6870,7 @@ bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -7708,7 +7709,7 @@ bucket/officeins.json, ScoopInstaller/Nirsoft, 0
 bucket/officetool-dotnet.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetool.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetoolplus-with-runtime.json, DoveBoy/Apps, 1
-bucket/officetoolplus.json, akirco/aki-apps, 1
+bucket/officetoolplus.json, naderi/scoop-bucket, 1
 bucket/offlineinsiderenroll.json, ScoopInstaller/Main, 1
 bucket/offlineregistryfinder.json, ScoopInstaller/Nirsoft, 0
 bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
@@ -8086,7 +8087,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9301,6 +9302,7 @@ bucket/redream.json, Calinou/scoop-games, 0
 bucket/redshift-tray.json, ScoopInstaller/Extras, 0
 bucket/redshift.json, ScoopInstaller/Main, 1
 bucket/reduce-memory.json, ScoopInstaller/Extras, 0
+bucket/redumper.json, ScoopInstaller/Main, 1
 bucket/reflector-desktop.json, SayCV/scoop-cvp, 1
 bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/reg.json, MCOfficer/scoop-bucket, 1
@@ -10887,7 +10889,7 @@ bucket/tts-vue-next.json, ivaquero/scoopet, 1
 bucket/tts-vue.json, abgox/abgo_bucket, 1
 bucket/ttskill.json, ygguorun/scoop-bucket, 0
 bucket/ttt.json, dodorz/scoop, 1
-bucket/tty7.json, dodorz/scoop, 1
+bucket/tty7.json, batkiz/backit, 1
 bucket/ttyd.json, ScoopInstaller/Main, 1
 bucket/ttyper.json, ScoopInstaller/Main, 1
 bucket/tuba-tool.json, ChinLong/scoop-customize, 0
@@ -11635,7 +11637,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, DoveBoy/Apps, 1
+bucket/winscript.json, naderi/scoop-bucket, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
@@ -11807,7 +11809,6 @@ bucket/xcmusic.json, DoveBoy/Apps, 1
 bucket/xd-antispy.json, naderi/scoop-bucket, 1
 bucket/xdelta.json, ScoopInstaller/Main, 1
 bucket/xdelta3-cross-gui.json, ScoopInstaller/Extras, 1
-bucket/xdm-dev.json, cc713/ownscoop, 1
 bucket/xdm.json, naderi/scoop-bucket, 1
 bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
