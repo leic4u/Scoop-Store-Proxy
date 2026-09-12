@@ -3407,6 +3407,7 @@ bucket/consul.json, ScoopInstaller/Main, 0
 bucket/containerd.json, ScoopInstaller/Main, 1
 bucket/context-menu-manager.json, ScoopInstaller/Extras, 1
 bucket/context.json, naderi/scoop-bucket, 0
+bucket/contextmenucustom-np.json, ScoopInstaller/Nonportable, 1
 bucket/contextmenumanagerplus-pre.json, DoveBoy/Apps, 1
 bucket/contextmenumanagerplus.json, DoveBoy/Apps, 1
 bucket/contig.json, niheaven/scoop-sysinternals, 1
@@ -8635,7 +8636,7 @@ bucket/pilinara-portable.json, DoveBoy/Apps, 1
 bucket/pilinara.json, DoveBoy/Apps, 1
 bucket/piliplus-portable.json, DoveBoy/Apps, 1
 bucket/piliplus.json, DoveBoy/Apps, 1
-bucket/pinact.json, chawyehsu/dorado, 1
+bucket/pinact.json, aliesbelik/poldi, 1
 bucket/pinata.json, aliesbelik/poldi, 1
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineflash.json, ScoopInstaller/Extras, 1
@@ -9865,7 +9866,7 @@ bucket/shadowsocksr-csharp.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
-bucket/shadps4-dev.json, Calinou/scoop-games, 1
+bucket/shadps4-dev.json, borger/scoop-emulators, 1
 bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shandianshuo.json, dodorz/scoop, 0
 bucket/shareaza.json, ScoopInstaller/Extras, 0
@@ -10916,6 +10917,7 @@ bucket/tuya.json, akirco/aki-apps, 0
 bucket/tweakpower.json, dodorz/scoop, 0
 bucket/tweakstyle.json, ScoopInstaller/Extras, 0
 bucket/twemoji-color-font.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/twg.json, ScoopInstaller/Main, 0
 bucket/twilio-cli.json, ScoopInstaller/Main, 0
 bucket/twine-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/twine.json, ScoopInstaller/Extras, 1
