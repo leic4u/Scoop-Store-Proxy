@@ -2051,7 +2051,6 @@ bucket/WondershareUniconverter.json, Weidows-projects/scoop-3rd, 0
 bucket/WordGrinder.json, dodorz/scoop, 1
 bucket/WordTsar.json, dodorz/scoop, 0
 bucket/Wordster.json, dodorz/scoop, 0
-bucket/WorkBuddy.json, dodorz/scoop, 0
 bucket/Write-The-Fuck.json, dodorz/scoop, 0
 bucket/WriteMonkey3.json, dodorz/scoop, 0
 bucket/Writeathon.json, abgox/abgo_bucket, 0
@@ -2253,7 +2252,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2935,6 +2934,7 @@ bucket/bun1.3.json, ScoopInstaller/Versions, 1
 bucket/bunbackup.json, jfut/scoop-jfut, 0
 bucket/bundletool.json, ScoopInstaller/Main, 1
 bucket/burp-suite-community-np.json, ScoopInstaller/Nonportable, 0
+bucket/burp-suite-np.json, ScoopInstaller/Nonportable, 0
 bucket/burp-suite-pro-np.json, ScoopInstaller/Nonportable, 0
 bucket/bushound.json, SayCV/scoop-cvp, 0
 bucket/busybox-lean.json, ScoopInstaller/Main, 0
@@ -10018,6 +10018,7 @@ bucket/smartzip.json, hu3rror/scoop-muggle, 1
 bucket/smiley-sans-dev.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/smiley-sans.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/smimesign.json, ScoopInstaller/Main, 1
+bucket/smolvm.json, ScoopInstaller/Main, 1
 bucket/smoothcsv.json, ScoopInstaller/Extras, 1
 bucket/smoothie.json, couleur-tweak-tips/utils, 1
 bucket/smplayer-with-smtube.json, ScoopInstaller/Versions, 1
@@ -10672,7 +10673,7 @@ bucket/thewitchshouse-jp.json, beerpiss/scoop-bucket, 0
 bucket/thide.json, Deide/deide-bucket, 1
 bucket/thief.json, Weidows-projects/scoop-3rd, 0
 bucket/thinkrail-nightly.json, ScoopInstaller/Versions, 1
-bucket/thinkrail.json, batkiz/backit, 1
+bucket/thinkrail.json, ScoopInstaller/Main, 1
 bucket/thisiswin11.json, ScoopInstaller/Extras, 1
 bucket/thonny.json, ScoopInstaller/Extras, 1
 bucket/thorium-avx2.json, ScoopInstaller/Versions, 1
@@ -11710,6 +11711,7 @@ bucket/woof.json, Calinou/scoop-games, 1
 bucket/word-regex-tool.json, ygguorun/scoop-bucket, 0
 bucket/wordle.json, brian6932/dank-scoop, 1
 bucket/wordmark.json, ScoopInstaller/Extras, 1
+bucket/workbuddy.json, ScoopInstaller/Extras, 0
 bucket/workman-np.json, ScoopInstaller/Nonportable, 0
 bucket/workman-p-np.json, ScoopInstaller/Nonportable, 0
 bucket/workman-p-uk-np.json, ScoopInstaller/Nonportable, 0
