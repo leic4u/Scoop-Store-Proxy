@@ -1,13 +1,13 @@
 {
-  "version": "10.17.1.2",
-  "description": "A Visual Novel translation tool, with HOOK / OCR / clipboard support",
   "homepage": "https://github.com/HIllya51/LunaTranslator",
-  "license": "GPL-3.0-only",
+  "description": "Galgame translator",
+  "license": "GPL-3.0",
+  "version": "10.17.1.2",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v10.17.1.2/LunaTranslator_x64.zip",
-      "hash": "826f76a2ac2de68dccbcc2d5dd8454980aae10428784a086ddc72dc14438642e",
-      "extract_dir": "LunaTranslator_x64"
+      "url": "https://ghgo.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v10.17.1.2/LunaTranslator_x64_win7.zip",
+      "hash": "bfb8d261a1385d5009ea29d99278589ea7436c00108c4348917de0cc04fabd1b",
+      "extract_dir": "LunaTranslator_x64_win7"
     },
     "32bit": {
       "url": "https://ghgo.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v10.17.1.2/LunaTranslator_x86_win7.zip",
@@ -19,26 +19,18 @@
     [
       "LunaTranslator.exe",
       "LunaTranslator"
-    ],
-    [
-      "LunaTranslator_admin.exe",
-      "LunaTranslator (admin)"
-    ],
-    [
-      "LunaTranslator_debug.bat",
-      "LunaTranslator (debug)"
     ]
   ],
   "persist": [
     "cache",
-    "userconfig",
-    "translation_record"
+    "translation_record",
+    "userconfig"
   ],
   "checkver": "github",
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghgo.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x64.zip"
+        "url": "https://ghgo.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x64_win7.zip"
       },
       "32bit": {
         "url": "https://ghgo.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x86_win7.zip"
