@@ -647,7 +647,7 @@ bucket/FrpcGUI.json, kkzzhizhou/scoop-zapps, 1
 bucket/FullSync.json, dodorz/scoop, 0
 bucket/FullscreenPhotoViewer.json, dodorz/scoop, 0
 bucket/GARbro-Mod.json, cc713/ownscoop, 1
-bucket/GIMP-Portable.json, ACooper81/scoop-apps, 0
+bucket/GIMP-Portable.json, naderi/scoop-bucket, 0
 bucket/GImageX-Portable.json, ACooper81/scoop-apps, 0
 bucket/GOGGalaxy-Install.json, ACooper81/scoop-apps, 0
 bucket/GOGGalaxy-Portable.json, ACooper81/scoop-apps, 0
@@ -4044,6 +4044,7 @@ bucket/ds4windows-circumspector-pre.json, ScoopInstaller/Versions, 1
 bucket/ds4windows.json, ScoopInstaller/Extras, 1
 bucket/dsc.json, ScoopInstaller/Main, 1
 bucket/dsda-doom.json, Calinou/scoop-games, 1
+bucket/dsh-desktop.json, ivaquero/scoopet, 1
 bucket/dshidmini-np.json, ScoopInstaller/Nonportable, 1
 bucket/dskwipe.json, rasa/scoops, 1
 bucket/dsq.json, aliesbelik/poldi, 1
@@ -5854,7 +5855,7 @@ bucket/jasob.json, SayCV/scoop-cvp, 0
 bucket/jasper.json, ScoopInstaller/Extras, 1
 bucket/java-chains.json, ViCrack/scoop-bucket, 1
 bucket/java-echo-generator-release.json, ViCrack/scoop-bucket, 1
-bucket/java-editor.json, dodorz/scoop, 0
+bucket/java-editor.json, naderi/scoop-bucket, 0
 bucket/java-memshell-generator.json, ViCrack/scoop-bucket, 1
 bucket/javascriptanimatorexpress.json, kodybrown/scoop-nirsoft, 0
 bucket/jazz2-resurrection.json, Calinou/scoop-games, 1
@@ -9310,7 +9311,7 @@ bucket/reflector-desktop.json, SayCV/scoop-cvp, 1
 bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/reg.json, MCOfficer/scoop-bucket, 1
 bucket/regclient.json, ScoopInstaller/Extras, 1
-bucket/regcool.json, dodorz/scoop, 0
+bucket/regcool.json, naderi/scoop-bucket, 0
 bucket/regdelnull.json, niheaven/scoop-sysinternals, 1
 bucket/regdelta.json, rasa/scoops, 1
 bucket/regdllview.json, ScoopInstaller/Nirsoft, 0
@@ -9463,6 +9464,7 @@ bucket/rocketchat-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/rogue_mysql_server.json, ViCrack/scoop-bucket, 1
 bucket/rom-properties-np.json, ScoopInstaller/Nonportable, 1
 bucket/romsorter.json, Calinou/scoop-games, 1
+bucket/rootkit-revealer.json, niheaven/scoop-sysinternals, 1
 bucket/ropy.json, ScoopInstaller/Extras, 1
 bucket/roslynpad.json, ScoopInstaller/Extras, 1
 bucket/roswell.json, ScoopInstaller/Main, 1
