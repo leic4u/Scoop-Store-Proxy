@@ -914,7 +914,7 @@ bucket/LGPO-Portable.json, ACooper81/scoop-apps, 0
 bucket/LLFTOOL.json, kkzzhizhou/scoop-zapps, 1
 bucket/LLVM-MinGW-UCRT.json, dodorz/scoop, 1
 bucket/LMStudio-Portable.json, ACooper81/scoop-apps, 0
-bucket/LX-Music.json, cc713/ownscoop, 1
+bucket/LX-Music.json, ivaquero/scoopet, 1
 bucket/LXGW-Bright-GB.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LXGW-Bright-TC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LXGW-Bright.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3207,7 +3207,6 @@ bucket/cinta-notes.json, naderi/scoop-bucket, 0
 bucket/circleci-cli.json, ScoopInstaller/Main, 1
 bucket/citra-canary.json, hermanjustnu/scoop-emulators, 1
 bucket/citra-nightly.json, hermanjustnu/scoop-emulators, 1
-bucket/citra.json, Deide/deide-bucket, 1
 bucket/civo.json, ScoopInstaller/Extras, 1
 bucket/ciyue.json, DoveBoy/Apps, 1
 bucket/cjoe-static.json, dodorz/scoop, 0
@@ -5612,7 +5611,7 @@ bucket/idea-ultimate-rc.json, ScoopInstaller/Versions, 1
 bucket/idea.json, ScoopInstaller/Extras, 1
 bucket/identme.json, ScoopInstaller/Extras, 1
 bucket/idlemaster-extended.json, Calinou/scoop-games, 1
-bucket/idm-activation-script-chinese.json, DoveBoy/Apps, 1
+bucket/idm-activation-script-cyberhavik.json, DoveBoy/Apps, 1
 bucket/idm-trial-reset.json, amorphobia/siku, 1
 bucket/idm.json, DoveBoy/Apps, 0
 bucket/idmanager.json, jfut/scoop-jfut, 0
@@ -9474,7 +9473,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -10068,7 +10067,7 @@ bucket/sometypemono.json, KnotUntied/scoop-fonts, 0
 bucket/sonar-scanner.json, ScoopInstaller/Main, 0
 bucket/sonar.json, ScoopInstaller/Main, 1
 bucket/sonarqube.json, ScoopInstaller/Main, 0
-bucket/sonarr.json, amorphobia/siku, 0
+bucket/sonarr.json, amorphobia/siku, 1
 bucket/sonic-pi.json, ScoopInstaller/Extras, 0
 bucket/sonic-visualiser.json, ScoopInstaller/Extras, 1
 bucket/sonixd.json, ScoopInstaller/Extras, 1
@@ -10324,6 +10323,7 @@ bucket/stylua.json, ScoopInstaller/Main, 1
 bucket/suanpan.json, ScoopInstaller/Main, 1
 bucket/subconverter.json, ScoopInstaller/Main, 1
 bucket/subfinder.json, ViCrack/scoop-bucket, 1
+bucket/sublime-keygen.json, DoveBoy/Apps, 1
 bucket/sublime-merge.json, ScoopInstaller/Extras, 1
 bucket/sublime-text-3.json, amorphobia/siku, 0
 bucket/sublime-text-4.json, naderi/scoop-bucket, 1
@@ -11822,7 +11822,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu-dev.json, Calinou/scoop-games, 1
+bucket/xemu-dev.json, borger/scoop-emulators, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
