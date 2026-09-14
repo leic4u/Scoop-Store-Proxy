@@ -1311,7 +1311,7 @@ bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/Pinokio-Portable.json, ACooper81/scoop-apps, 1
 bucket/PixBuilder.json, zhoujin7/tomato, 0
 bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
-bucket/PixPin.json, chawyehsu/dorado, 0
+bucket/PixPin.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixel-Code.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Pixeval.json, DoveBoy/Apps, 1
@@ -4061,7 +4061,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -4991,6 +4991,7 @@ bucket/gitas.json, ScoopInstaller/Extras, 1
 bucket/gitbutler-nightly.json, ScoopInstaller/Versions, 0
 bucket/gitbutler.json, ScoopInstaller/Extras, 0
 bucket/gitea-beta.json, ScoopInstaller/Versions, 1
+bucket/gitea-mcp-server.json, ScoopInstaller/Extras, 0
 bucket/gitea-runner.json, amorphobia/siku, 0
 bucket/gitea.json, ScoopInstaller/Main, 0
 bucket/gitextensions.json, ScoopInstaller/Extras, 1
@@ -6084,6 +6085,7 @@ bucket/keeperfx.json, brian6932/dank-scoop, 1
 bucket/keeweb.json, ScoopInstaller/Extras, 1
 bucket/kega-fusion.json, Calinou/scoop-games, 0
 bucket/kelivo.json, ScoopInstaller/Extras, 1
+bucket/kenn-forge.json, cderv/r-bucket, 1
 bucket/keptn-cli.json, ScoopInstaller/Main, 1
 bucket/keyboard-chatter-blocker.json, ScoopInstaller/Extras, 1
 bucket/keyboard-inspector.json, brian6932/dank-scoop, 1
@@ -6118,6 +6120,7 @@ bucket/kingdraw.json, ivaquero/scoopet, 0
 bucket/kiota.json, ScoopInstaller/Main, 1
 bucket/kiro-cli.json, ScoopInstaller/Main, 0
 bucket/kiro.json, ScoopInstaller/Extras, 0
+bucket/kirocrew.json, ScoopInstaller/Extras, 1
 bucket/kitch.json, chawyehsu/dorado, 0
 bucket/kitematic.json, ScoopInstaller/Extras, 1
 bucket/kitty-portapps.json, Velgus/Scoop-Portapps, 1
@@ -7681,7 +7684,7 @@ bucket/occt.json, brian6932/dank-scoop, 0
 bucket/ocenaudio.json, ScoopInstaller/Extras, 0
 bucket/oci-cli.json, ScoopInstaller/Main, 1
 bucket/octant.json, ScoopInstaller/Extras, 1
-bucket/octarine.json, cderv/r-bucket, 0
+bucket/octarine.json, dodorz/scoop, 0
 bucket/octave-cn.json, ivaquero/scoopet, 0
 bucket/octave.json, ScoopInstaller/Main, 0
 bucket/octopustools.json, ScoopInstaller/Main, 0
@@ -7822,7 +7825,7 @@ bucket/openface.json, ScoopInstaller/Extras, 1
 bucket/openfang.json, ScoopInstaller/Main, 1
 bucket/openfga.json, ScoopInstaller/Main, 1
 bucket/openfortress.json, Calinou/scoop-games, 0
-bucket/openfreebuds.json, ScoopInstaller/Extras, 0
+bucket/openfreebuds.json, ScoopInstaller/Extras, 1
 bucket/openhab.json, ScoopInstaller/Extras, 0
 bucket/openhardwaremonitor.json, ScoopInstaller/Extras, 0
 bucket/openhashtab-np.json, ScoopInstaller/Nonportable, 1
@@ -8089,7 +8092,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9225,6 +9228,7 @@ bucket/rapidee.json, ScoopInstaller/Extras, 0
 bucket/rare.json, Calinou/scoop-games, 1
 bucket/rascal.json, seumsc/scoop-seu, 1
 bucket/raspberry-pi-imager.json, ScoopInstaller/Extras, 1
+bucket/ratchet.json, aliesbelik/poldi, 1
 bucket/rathole.json, ScoopInstaller/Main, 1
 bucket/ratiomaster.json, ScoopInstaller/Extras, 1
 bucket/ratty.json, ScoopInstaller/Extras, 1
@@ -12107,6 +12111,7 @@ bucket/zlibrary.json, hu3rror/scoop-muggle, 0
 bucket/zlocation.json, ScoopInstaller/Extras, 0
 bucket/zls-dev.json, ScoopInstaller/Versions, 0
 bucket/zls.json, ScoopInstaller/Main, 1
+bucket/zluda.json, ScoopInstaller/Main, 1
 bucket/zmc.json, ScoopInstaller/Extras, 0
 bucket/zns.json, aliesbelik/poldi, 1
 bucket/zokumbsp.json, Calinou/scoop-games, 0
