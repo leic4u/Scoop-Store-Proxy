@@ -145,7 +145,7 @@ bucket/AntRenamer.json, dodorz/scoop, 0
 bucket/AntiTwin.json, dodorz/scoop, 0
 bucket/Anuphan.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/AnyBurn-Portable.json, ACooper81/scoop-apps, 0
-bucket/AnyTXT.json, cc713/ownscoop, 0
+bucket/AnyTXT.json, kkzzhizhou/scoop-zapps, 0
 bucket/AnytxtSearcher-OCR-np.json, dodorz/scoop, 0
 bucket/AnytxtSearcher-np.json, dodorz/scoop, 0
 bucket/AnytxtSearcher.json, dodorz/scoop, 0
@@ -1144,6 +1144,7 @@ bucket/NetComment.json, dodorz/scoop, 0
 bucket/NetPWAge.json, dodorz/scoop, 0
 bucket/NetSetMan-Portable.json, ACooper81/scoop-apps, 0
 bucket/NetSpeed.json, dodorz/scoop, 0
+bucket/NetSpeedTray.json, cc713/ownscoop, 1
 bucket/NetUsers.json, dodorz/scoop, 0
 bucket/NetView.json, dodorz/scoop, 0
 bucket/Netch-Portable.json, ACooper81/scoop-apps, 1
@@ -1731,6 +1732,7 @@ bucket/Tailscale-Portable.json, ACooper81/scoop-apps, 1
 bucket/Tanuki-Permanent-Marker.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/TarTool.json, dodorz/scoop, 1
 bucket/TaskExplorer-Portable.json, ACooper81/scoop-apps, 1
+bucket/TaskExplorer.json, cc713/ownscoop, 1
 bucket/TaskbarGroups-Portable.json, ACooper81/scoop-apps, 1
 bucket/TeamViewer-Install.json, ACooper81/scoop-apps, 0
 bucket/Teamviewer-Portable.json, ACooper81/scoop-apps, 0
@@ -2053,6 +2055,7 @@ bucket/WondershareUniconverter.json, Weidows-projects/scoop-3rd, 0
 bucket/WordGrinder.json, dodorz/scoop, 1
 bucket/WordTsar.json, dodorz/scoop, 0
 bucket/Wordster.json, dodorz/scoop, 0
+bucket/Wormhole.json, dodorz/scoop, 1
 bucket/Write-The-Fuck.json, dodorz/scoop, 0
 bucket/WriteMonkey3.json, dodorz/scoop, 0
 bucket/Writeathon.json, abgox/abgo_bucket, 0
@@ -2187,7 +2190,6 @@ bucket/advancedrenamer.json, ScoopInstaller/Extras, 0
 bucket/advancedrun.json, ScoopInstaller/Nirsoft, 0
 bucket/adventuregamestudio.json, ScoopInstaller/Extras, 1
 bucket/adwcleaner.json, ScoopInstaller/Extras, 0
-bucket/aegisub-arch.json, cc713/ownscoop, 1
 bucket/aegisub-arch1t3cht.json, ScoopInstaller/Extras, 1
 bucket/aegisub-beta.json, ScoopInstaller/Versions, 1
 bucket/aegisub.json, ScoopInstaller/Extras, 1
@@ -2254,7 +2256,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3387,7 +3389,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, batkiz/backit, 1
+bucket/con-terminal.json, dodorz/scoop, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat-pre.json, DoveBoy/Apps, 1
 bucket/concat.json, DoveBoy/Apps, 1
@@ -5143,7 +5145,7 @@ bucket/goland-rc.json, ScoopInstaller/Versions, 1
 bucket/goland.json, ScoopInstaller/Extras, 1
 bucket/golang.json, kiennq/scoop-misc, 0
 bucket/golangci-lint.json, ScoopInstaller/Main, 1
-bucket/goldendict-ng.json, ivaquero/scoopet, 1
+bucket/goldendict-ng.json, cc713/ownscoop, 1
 bucket/goldendict.json, ScoopInstaller/Extras, 1
 bucket/goldeneye-recomp.json, borger/scoop-emulators, 1
 bucket/golly.json, Calinou/scoop-games, 0
@@ -5471,6 +5473,7 @@ bucket/hongdown.json, ScoopInstaller/Extras, 1
 bucket/hootvoice.json, jfut/scoop-jfut, 1
 bucket/hopp-cli.json, ScoopInstaller/Main, 1
 bucket/hoppscotch.json, ScoopInstaller/Extras, 1
+bucket/hoptodesk.json, ScoopInstaller/Extras, 0
 bucket/horcrux.json, ScoopInstaller/Extras, 1
 bucket/horizon-eda.json, ScoopInstaller/Extras, 1
 bucket/horsemd.json, DoveBoy/Apps, 1
@@ -9155,6 +9158,7 @@ bucket/quicksfv.json, ScoopInstaller/Extras, 0
 bucket/quicktextpaste.json, ScoopInstaller/Extras, 0
 bucket/quickview-justnullname.json, hu3rror/scoop-muggle, 1
 bucket/quickviewer.json, ScoopInstaller/Extras, 1
+bucket/quicmic.json, hu3rror/scoop-muggle, 1
 bucket/quien.json, ScoopInstaller/Main, 1
 bucket/quiterss.json, ScoopInstaller/Extras, 0
 bucket/qunwen.json, ivaquero/scoopet, 0
@@ -9481,7 +9485,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -9739,7 +9743,6 @@ bucket/scite.json, ScoopInstaller/Extras, 0
 bucket/scons.json, ScoopInstaller/Main, 0
 bucket/scoop-backup-KNOXDEV.json, DoveBoy/Apps, 1
 bucket/scoop-completion.json, ScoopInstaller/Extras, 1
-bucket/scoop-directory.json, cc713/ownscoop, 0
 bucket/scoop-ext.json, Weidows-projects/scoop-3rd, 1
 bucket/scoop-find.json, amorphobia/siku, 1
 bucket/scoop-hook.json, amorphobia/siku, 1
