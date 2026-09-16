@@ -332,6 +332,7 @@ bucket/ClashXW.json, ygguorun/scoop-bucket, 1
 bucket/ClashforWindows.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/ClaudeCode.json, dodorz/scoop, 0
 bucket/CleanUp.json, dodorz/scoop, 0
+bucket/ClineDesktop.json, dodorz/scoop, 1
 bucket/ClipAngel.json, dodorz/scoop, 0
 bucket/ClipText.json, dodorz/scoop, 0
 bucket/ClipboardViewer.json, dodorz/scoop, 1
@@ -2598,7 +2599,7 @@ bucket/b2.json, ScoopInstaller/Main, 1
 bucket/b23downloader-win7.json, DoveBoy/Apps, 1
 bucket/b2sum.json, ScoopInstaller/Main, 0
 bucket/b3sum.json, ScoopInstaller/Main, 1
-bucket/babashka.json, dodorz/scoop, 1
+bucket/babashka.json, littleli/scoop-clojure, 1
 bucket/babelmap.json, ScoopInstaller/Extras, 0
 bucket/babelpad.json, ScoopInstaller/Extras, 0
 bucket/backrest.json, ScoopInstaller/Extras, 1
@@ -9480,7 +9481,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
