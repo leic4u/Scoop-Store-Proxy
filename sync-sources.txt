@@ -3833,6 +3833,7 @@ bucket/discord-ptb-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/discord-ptb.json, ScoopInstaller/Versions, 1
 bucket/discord-rpc-extension.json, ScoopInstaller/Extras, 1
 bucket/discord.json, ScoopInstaller/Extras, 1
+bucket/discordchatexporter-cli.json, ScoopInstaller/Main, 1
 bucket/discordchatexporter.json, ScoopInstaller/Extras, 1
 bucket/discordcompressor.json, couleur-tweak-tips/utils, 1
 bucket/discrakt.json, ScoopInstaller/Extras, 1
@@ -6289,6 +6290,7 @@ bucket/layerx.json, aliesbelik/poldi, 1
 bucket/lazarus.json, ScoopInstaller/Extras, 0
 bucket/lazpaint.json, ScoopInstaller/Extras, 1
 bucket/lazy-posh-git.json, ScoopInstaller/Extras, 1
+bucket/lazycurl.json, aliesbelik/poldi, 1
 bucket/lazydocker.json, ScoopInstaller/Main, 1
 bucket/lazygit.json, ScoopInstaller/Extras, 1
 bucket/lazyjira.json, aliesbelik/poldi, 1
@@ -7822,6 +7824,7 @@ bucket/opencode-desktop.json, ScoopInstaller/Extras, 1
 bucket/opencode-x.json, kiennq/scoop-misc, 1
 bucket/opencode.json, ScoopInstaller/Main, 1
 bucket/opencode2-beta.json, ScoopInstaller/Versions, 0
+bucket/opencode2.json, ScoopInstaller/Versions, 0
 bucket/opencomic.json, cc713/ownscoop, 1
 bucket/openconnect.json, ScoopInstaller/Main, 0
 bucket/openconsole.json, brian6932/dank-scoop, 0
@@ -11264,7 +11267,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
