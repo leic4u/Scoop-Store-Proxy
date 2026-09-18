@@ -214,7 +214,7 @@ bucket/BASIC256.json, dodorz/scoop, 0
 bucket/BaGeShuo.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
+bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -2293,6 +2293,7 @@ bucket/andcli.json, ScoopInstaller/Extras, 1
 bucket/andika-compact.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika-new-basic.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika.json, matthewjberger/scoop-nerd-fonts, 0
+bucket/android-cli.json, ScoopInstaller/Main, 0
 bucket/android-clt.json, ScoopInstaller/Main, 0
 bucket/android-dex.json, DoveBoy/Apps, 1
 bucket/android-line-transfer.json, ScoopInstaller/Extras, 0
@@ -3390,7 +3391,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, dodorz/scoop, 1
+bucket/con-terminal.json, batkiz/backit, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat-pre.json, DoveBoy/Apps, 1
 bucket/concat.json, DoveBoy/Apps, 1
@@ -4066,7 +4067,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -6294,6 +6295,7 @@ bucket/lazycurl.json, aliesbelik/poldi, 1
 bucket/lazydocker.json, ScoopInstaller/Main, 1
 bucket/lazygit.json, ScoopInstaller/Extras, 1
 bucket/lazyjira.json, aliesbelik/poldi, 1
+bucket/lazykube.json, aliesbelik/poldi, 1
 bucket/lazyskills.json, aliesbelik/poldi, 1
 bucket/lazysql.json, ScoopInstaller/Extras, 1
 bucket/lazyssh.json, ScoopInstaller/Main, 1
@@ -8106,7 +8108,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9957,6 +9959,7 @@ bucket/silverbullet.json, ScoopInstaller/Main, 1
 bucket/similarimagefinder.json, naderi/scoop-bucket, 0
 bucket/simple-assembly-explorer.json, ScoopInstaller/Extras, 1
 bucket/simple-dnscrypt.json, ScoopInstaller/Extras, 1
+bucket/simple-fts.json, iquiw/scoop-bucket, 1
 bucket/simple-http-server.json, ScoopInstaller/Main, 1
 bucket/simple-image-compare.json, brian6932/dank-scoop, 1
 bucket/simple-live.json, akirco/aki-apps, 1
@@ -11220,6 +11223,7 @@ bucket/vice-gtk3-snapshot.json, hermanjustnu/scoop-emulators, 1
 bucket/vice-gtk3.json, hermanjustnu/scoop-emulators, 0
 bucket/vice-sdl2-snapshot.json, hermanjustnu/scoop-emulators, 1
 bucket/vice-sdl2.json, hermanjustnu/scoop-emulators, 0
+bucket/vicinae.json, ScoopInstaller/Extras, 1
 bucket/victormono.json, KnotUntied/scoop-fonts, 0
 bucket/vidbee.json, DoveBoy/Apps, 1
 bucket/vidcoder-beta.json, ScoopInstaller/Versions, 1
