@@ -2257,7 +2257,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -6668,7 +6668,7 @@ bucket/lynx.json, ScoopInstaller/Main, 1
 bucket/lynx283.json, ScoopInstaller/Versions, 1
 bucket/lyricsmaster.json, jfut/scoop-jfut, 1
 bucket/lyx-cn.json, ivaquero/scoopet, 0
-bucket/lyx.json, chawyehsu/dorado, 0
+bucket/lyx.json, dodorz/scoop, 0
 bucket/lz4.json, ScoopInstaller/Main, 1
 bucket/lzdoom.json, Calinou/scoop-games, 1
 bucket/lzip.json, ScoopInstaller/Main, 0
@@ -8050,6 +8050,8 @@ bucket/pansy.json, DoveBoy/Apps, 1
 bucket/panwriter.json, ScoopInstaller/Extras, 1
 bucket/paperang.json, AkinoKaede/maple, 0
 bucket/papercut.json, ScoopInstaller/Extras, 1
+bucket/papertodo-pre.json, DoveBoy/Apps, 1
+bucket/papertodo-with-runtime-pre.json, DoveBoy/Apps, 1
 bucket/papertodo-with-runtime.json, DoveBoy/Apps, 1
 bucket/papertodo.json, DoveBoy/Apps, 1
 bucket/par2cmdline.json, ScoopInstaller/Main, 1

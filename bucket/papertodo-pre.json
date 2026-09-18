@@ -1,5 +1,5 @@
 {
-  "version": "3.31",
+  "version": "4.0.0-beta1",
   "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
   "homepage": "https://github.com/snownico0722/PaperTodo",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/snownico0722/PaperTodo/releases/download/v3.31/PaperTodo-v3.31-win-x64-no-runtime.exe#/PaperTodo.exe",
-      "hash": "74d5adc876afea1c7d1cfaaf88417fa929f024ddced7fdabff01b9dbcf4186a6"
+      "url": "https://ghgo.xyz/https://github.com/snownico0722/PaperTodo/releases/download/v4.0.0-beta1/PaperTodo-v4.0.0-beta1-win-x64-no-runtime.exe#/PaperTodo.exe",
+      "hash": "da2b9f652edcf57691e49cdb35f0517a6550114b857de37f1f5cc04ef45ccb40"
     }
   },
   "installer": {
@@ -35,9 +35,9 @@
     ]
   ],
   "checkver": {
-    "github": "https://api.github.com/repos/snownico0722/PaperTodo/releases/latest",
-    "jp": "$.tag_name",
-    "regex": "v([\\d.]+)"
+    "github": "https://api.github.com/repos/snownico0722/PaperTodo/releases",
+    "jp": "$[*].tag_name",
+    "regex": "v([\\d.]+-[\\w.]+)"
   },
   "autoupdate": {
     "architecture": {
