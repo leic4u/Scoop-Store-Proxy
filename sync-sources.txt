@@ -8919,7 +8919,7 @@ bucket/ps3decrs.json, Deide/deide-bucket, 1
 bucket/psake.json, ScoopInstaller/Main, 0
 bucket/pscalendar.json, DoveBoy/Apps, 0
 bucket/pscolor.json, ScoopInstaller/Extras, 1
-bucket/pscompletions.json, ScoopInstaller/Extras, 0
+bucket/pscompletions.json, ScoopInstaller/Main, 0
 bucket/pseps.json, ScoopInstaller/Extras, 0
 bucket/pseverything.json, akirco/aki-apps, 0
 bucket/psexec.json, niheaven/scoop-sysinternals, 1
