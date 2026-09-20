@@ -956,6 +956,7 @@ bucket/Lilex-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lilex-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lilex-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LinguaGacha.json, cc713/ownscoop, 1
+bucket/LinguaHaru.json, cc713/ownscoop, 1
 bucket/LinkEase.json, ygguorun/scoop-bucket, 0
 bucket/LinkShellExtension-Install.json, ACooper81/scoop-apps, 0
 bucket/Lively-Wallpaper.json, Weidows-projects/scoop-3rd, 1
@@ -3920,6 +3921,7 @@ bucket/dockerfile-generator.json, MCOfficer/scoop-bucket, 1
 bucket/docnet.json, MCOfficer/scoop-bucket, 1
 bucket/doctl.json, ScoopInstaller/Main, 1
 bucket/docto.json, ScoopInstaller/Main, 1
+bucket/docutranslate.json, cc713/ownscoop, 1
 bucket/dog.json, ScoopInstaller/Main, 1
 bucket/doge.json, brian6932/dank-scoop, 1
 bucket/dogecoin-core.json, naderi/scoop-bucket, 1
@@ -4067,7 +4069,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
