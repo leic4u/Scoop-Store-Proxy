@@ -7191,6 +7191,7 @@ bucket/mpc-qt.json, ScoopInstaller/Extras, 1
 bucket/mpc-video-renderer.json, seumsc/scoop-seu, 1
 bucket/mpc.json, ScoopInstaller/Extras, 0
 bucket/mpd.json, ScoopInstaller/Main, 0
+bucket/mpf.json, ScoopInstaller/Extras, 1
 bucket/mpg123-dynamic.json, dodorz/scoop, 0
 bucket/mpg123.json, ScoopInstaller/Main, 0
 bucket/mplayer.json, ScoopInstaller/Extras, 0
