@@ -1423,6 +1423,7 @@ bucket/Random.json, dodorz/scoop, 0
 bucket/Raptor.json, abgox/abgo_bucket, 1
 bucket/Rare-Portable.json, ACooper81/scoop-apps, 1
 bucket/RavenReader.json, dodorz/scoop, 0
+bucket/Rayburst.json, cc713/ownscoop, 1
 bucket/ReClass.NET.json, TheCjw/scoop-retools, 1
 bucket/ReasonixCLI.json, dodorz/scoop, 1
 bucket/Recursive-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -12054,7 +12055,7 @@ bucket/ytplayer.json, DoveBoy/Apps, 1
 bucket/ytsage.json, DoveBoy/Apps, 1
 bucket/ytsubconverter.json, ScoopInstaller/Extras, 1
 bucket/ytt.json, ScoopInstaller/Main, 1
-bucket/yuanbao.json, akirco/aki-apps, 1
+bucket/yuanbao.json, dodorz/scoop, 0
 bucket/yubico-piv-tool.json, ScoopInstaller/Main, 0
 bucket/yubikey-manager-cli.json, ScoopInstaller/Main, 1
 bucket/yubikey-manager-qt.json, ScoopInstaller/Extras, 0
