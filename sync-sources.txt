@@ -232,7 +232,7 @@ bucket/BigBlueTerminal-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Bigjpg.json, dodorz/scoop, 0
-bucket/Bilibili.json, chawyehsu/dorado, 0
+bucket/Bilibili.json, akirco/aki-apps, 0
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitComet.json, leic4u/Scoop-Store, 0
@@ -735,6 +735,7 @@ bucket/Hanamin.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/HandBrake-Portable.json, ACooper81/scoop-apps, 1
 bucket/HandWrite.json, Weidows-projects/scoop-3rd, 1
 bucket/HandyWinGet-Portable.json, ACooper81/scoop-apps, 1
+bucket/Happier.json, dodorz/scoop, 1
 bucket/HardDiskSentinel.json, hu3rror/scoop-muggle, 0
 bucket/HashCodes.json, dodorz/scoop, 0
 bucket/HashTab.json, dodorz/scoop, 0
@@ -6305,7 +6306,7 @@ bucket/lazyssh.json, ScoopInstaller/Main, 1
 bucket/lazyworktree.json, aliesbelik/poldi, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
 bucket/lbry.json, ScoopInstaller/Extras, 1
-bucket/lceda-pro.json, chawyehsu/dorado, 0
+bucket/lceda-pro.json, ivaquero/scoopet, 0
 bucket/lceda.json, ivaquero/scoopet, 0
 bucket/lcow.json, ScoopInstaller/Versions, 1
 bucket/ldap-admin.json, ScoopInstaller/Extras, 0
@@ -10626,6 +10627,7 @@ bucket/teraterm.json, ScoopInstaller/Extras, 1
 bucket/tere.json, ScoopInstaller/Main, 1
 bucket/terjang.json, aliesbelik/poldi, 1
 bucket/termframe.json, aliesbelik/poldi, 1
+bucket/termgram.json, Weidows-projects/scoop-3rd, 1
 bucket/terminal-icons.json, ScoopInstaller/Extras, 0
 bucket/terminal-parrot.json, ScoopInstaller/Extras, 1
 bucket/terminalpp.json, ScoopInstaller/Extras, 1
