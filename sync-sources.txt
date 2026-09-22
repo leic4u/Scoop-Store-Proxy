@@ -4120,6 +4120,7 @@ bucket/eartrumpet.json, ScoopInstaller/Extras, 1
 bucket/eask-cli.json, ScoopInstaller/Extras, 1
 bucket/eastmoney-desktop.json, SayCV/scoop-cvp, 0
 bucket/easy-context-menu.json, ScoopInstaller/Extras, 0
+bucket/easyeda.json, ivaquero/scoopet, 1
 bucket/easymusic.json, DoveBoy/Apps, 1
 bucket/easyrpg-player.json, Calinou/scoop-games, 0
 bucket/easyrsa.json, ScoopInstaller/Extras, 1
@@ -7259,7 +7260,7 @@ bucket/msedge-canary.json, 42wim/scoop-bucket, 0
 bucket/msedge-dev.json, 42wim/scoop-bucket, 0
 bucket/msedge-stable.json, 42wim/scoop-bucket, 0
 bucket/msedgeredirect.json, ScoopInstaller/Extras, 1
-bucket/msgvault.json, dodorz/scoop, 1
+bucket/msgvault.json, cderv/r-bucket, 1
 bucket/msiafterburner.json, ScoopInstaller/Extras, 0
 bucket/msikombustor.json, ScoopInstaller/Extras, 0
 bucket/msival2.json, ScoopInstaller/Main, 0
@@ -9128,7 +9129,7 @@ bucket/qqlite.json, SayCV/scoop-cvp, 0
 bucket/qqlive-cvp.json, SayCV/scoop-cvp, 1
 bucket/qqlive.json, wzv5/ScoopBucket, 0
 bucket/qqmusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/qqmusic.json, wzv5/ScoopBucket, 0
+bucket/qqmusic.json, ivaquero/scoopet, 0
 bucket/qqnt.json, chawyehsu/dorado, 0
 bucket/qqplayer.json, amorphobia/siku, 0
 bucket/qr.json, ScoopInstaller/Main, 1
@@ -11029,7 +11030,7 @@ bucket/ultraedit.json, SayCV/scoop-cvp, 1
 bucket/ultraiso.json, ScoopInstaller/Extras, 0
 bucket/ultramarinviewer.json, naderi/scoop-bucket, 0
 bucket/ultraplusmanager.json, Calinou/scoop-games, 0
-bucket/ultrasearch.json, dodorz/scoop, 0
+bucket/ultrasearch.json, starise/Scoop-Confetti, 0
 bucket/ultravnc.json, ScoopInstaller/Extras, 0
 bucket/umaviewer.json, aoisummer/scoop-bucket, 1
 bucket/umbrello.json, ScoopInstaller/Extras, 0
