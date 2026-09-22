@@ -3592,6 +3592,7 @@ bucket/cuda13.0.json, ScoopInstaller/Versions, 0
 bucket/cuda13.1.json, ScoopInstaller/Versions, 0
 bucket/cuda13.2.json, ScoopInstaller/Versions, 0
 bucket/cuda13.3.json, ScoopInstaller/Versions, 0
+bucket/cuda13.4.json, ScoopInstaller/Versions, 0
 bucket/cuda6.0.json, ScoopInstaller/Versions, 0
 bucket/cuda6.5.json, ScoopInstaller/Versions, 0
 bucket/cuda6.json, ScoopInstaller/Versions, 0
@@ -7528,7 +7529,8 @@ bucket/nmap-portable.json, akirco/aki-apps, 0
 bucket/nmap.json, ScoopInstaller/Main, 0
 bucket/nmkoder.json, ScoopInstaller/Extras, 1
 bucket/no-mistakes.json, ScoopInstaller/Main, 1
-bucket/no-steam-webhelper.json, brian6932/dank-scoop, 1
+bucket/no-steam-webhelper-reloaded.json, brian6932/dank-scoop, 1
+bucket/no-steam-webhelper.json, brian6932/dank-scoop, 0
 bucket/node-compiler.json, ScoopInstaller/Extras, 1
 bucket/nodejs-bin.json, wzv5/ScoopBucket, 1
 bucket/nodejs-lts-np.json, ScoopInstaller/Nonportable, 1
@@ -8830,7 +8832,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
