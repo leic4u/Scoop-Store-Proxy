@@ -2530,6 +2530,7 @@ bucket/auto-unlocker.json, hu3rror/scoop-muggle, 1
 bucket/autoMate.json, Weidows-projects/scoop-3rd, 1
 bucket/autoactions.json, ScoopInstaller/Extras, 1
 bucket/autoclicker.json, ScoopInstaller/Extras, 0
+bucket/autoclip.json, ivaquero/scoopet, 1
 bucket/autocorrect.json, ScoopInstaller/Main, 1
 bucket/autocut.json, Weidows-projects/scoop-3rd, 0
 bucket/autodarkmode.json, DoveBoy/Apps, 1
@@ -2611,7 +2612,7 @@ bucket/b2.json, ScoopInstaller/Main, 1
 bucket/b23downloader-win7.json, DoveBoy/Apps, 1
 bucket/b2sum.json, ScoopInstaller/Main, 0
 bucket/b3sum.json, ScoopInstaller/Main, 1
-bucket/babashka.json, littleli/scoop-clojure, 1
+bucket/babashka.json, dodorz/scoop, 1
 bucket/babelmap.json, ScoopInstaller/Extras, 0
 bucket/babelpad.json, ScoopInstaller/Extras, 0
 bucket/backrest.json, ScoopInstaller/Extras, 1
@@ -3402,7 +3403,6 @@ bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
 bucket/con-terminal.json, batkiz/backit, 1
 bucket/conan.json, ScoopInstaller/Main, 1
-bucket/concat-pre.json, DoveBoy/Apps, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
 bucket/concourse-fly.json, ScoopInstaller/Main, 1
@@ -3433,6 +3433,8 @@ bucket/convert.net.json, ScoopInstaller/Extras, 0
 bucket/converter-now.json, naderi/scoop-bucket, 1
 bucket/coodesker.json, echoiron/echo-scoop, 0
 bucket/cookiecutter.json, ScoopInstaller/Extras, 0
+bucket/coolapk-desktop-portable.json, DoveBoy/Apps, 1
+bucket/coolapk-desktop.json, DoveBoy/Apps, 1
 bucket/coolermaster-masterplus.json, brian6932/dank-scoop, 0
 bucket/coolplayer.json, naderi/scoop-bucket, 0
 bucket/copilot-cli.json, ScoopInstaller/Main, 1
@@ -4077,7 +4079,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -7088,6 +7090,8 @@ bucket/mitec-system-information-x.json, naderi/scoop-bucket, 0
 bucket/mitec-task-manager-deluxe.json, naderi/scoop-bucket, 0
 bucket/mitec-windows-registry-recovery.json, naderi/scoop-bucket, 0
 bucket/mitec-xml-viewer.json, naderi/scoop-bucket, 0
+bucket/mithka-portable.json, DoveBoy/Apps, 1
+bucket/mithka.json, DoveBoy/Apps, 1
 bucket/mitmproxy.json, ScoopInstaller/Extras, 0
 bucket/mixin-messenger.json, chawyehsu/dorado, 1
 bucket/mkcert.json, ScoopInstaller/Extras, 1
@@ -11254,6 +11258,7 @@ bucket/vidcoder-beta.json, ScoopInstaller/Versions, 1
 bucket/vidcoder.json, ScoopInstaller/Extras, 1
 bucket/vidcutter.json, ScoopInstaller/Extras, 1
 bucket/viddy.json, ScoopInstaller/Extras, 1
+bucket/videdown.json, DoveBoy/Apps, 1
 bucket/video-compare.json, ScoopInstaller/Extras, 1
 bucket/video-srt-windows-with-ffmpeg.json, DoveBoy/Apps, 1
 bucket/video-srt-windows.json, DoveBoy/Apps, 1
