@@ -662,6 +662,7 @@ bucket/GPTCraft.json, dodorz/scoop, 1
 bucket/GPUShark.json, kkzzhizhou/scoop-zapps, 0
 bucket/GSpot.json, dodorz/scoop, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
+bucket/GaiaSky.json, dodorz/scoop, 0
 bucket/Gajim.json, dodorz/scoop, 0
 bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
@@ -894,6 +895,7 @@ bucket/KillCopy.json, dodorz/scoop, 0
 bucket/KillEmAll.json, dodorz/scoop, 0
 bucket/KillEmAllMini.json, dodorz/scoop, 0
 bucket/Kimi.json, dodorz/scoop, 0
+bucket/KimiCode-Desktop.json, dodorz/scoop, 0
 bucket/KimiCode.json, dodorz/scoop, 0
 bucket/KindleMate.json, dodorz/scoop, 0
 bucket/KindleSend.json, kkzzhizhou/scoop-zapps, 1
@@ -2263,7 +2265,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -8127,7 +8129,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9129,7 +9131,7 @@ bucket/qqlite.json, SayCV/scoop-cvp, 0
 bucket/qqlive-cvp.json, SayCV/scoop-cvp, 1
 bucket/qqlive.json, wzv5/ScoopBucket, 0
 bucket/qqmusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/qqmusic.json, ivaquero/scoopet, 0
+bucket/qqmusic.json, wzv5/ScoopBucket, 0
 bucket/qqnt.json, chawyehsu/dorado, 0
 bucket/qqplayer.json, amorphobia/siku, 0
 bucket/qr.json, ScoopInstaller/Main, 1
