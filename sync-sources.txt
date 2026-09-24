@@ -216,7 +216,7 @@ bucket/BBDownNextGUI.json, cc713/ownscoop, 1
 bucket/BaGeShuo.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
+bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -2232,7 +2232,7 @@ bucket/aidoku-cli.json, beerpiss/scoop-bucket, 1
 bucket/aigcpanel.json, ivaquero/scoopet, 1
 bucket/aimp.json, ScoopInstaller/Extras, 0
 bucket/ain.json, aliesbelik/poldi, 1
-bucket/ainiee.json, cc713/ownscoop, 1
+bucket/ainiee.json, ivaquero/scoopet, 1
 bucket/air.json, ScoopInstaller/Main, 1
 bucket/aircrack-ng.json, ScoopInstaller/Extras, 0
 bucket/airdroid.json, ScoopInstaller/Extras, 0
@@ -4311,7 +4311,7 @@ bucket/ethr.json, ScoopInstaller/Main, 1
 bucket/etl2pcapng.json, ScoopInstaller/Main, 1
 bucket/etlas.json, ScoopInstaller/Extras, 0
 bucket/etterna.json, Calinou/scoop-games, 1
-bucket/eudic.json, ivaquero/scoopet, 0
+bucket/eudic.json, naderi/scoop-bucket, 0
 bucket/euler.json, ScoopInstaller/Extras, 0
 bucket/eva.json, ScoopInstaller/Main, 1
 bucket/evans.json, ScoopInstaller/Main, 1
@@ -5257,6 +5257,7 @@ bucket/graalvm-oracle-21jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm-oracle-22jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm-oracle-23jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm-oracle-24jdk.json, ScoopInstaller/Java, 0
+bucket/graalvm-oracle-25jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm-oracle-jdk-ea.json, ScoopInstaller/Java, 1
 bucket/graalvm-oracle-jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm17-jdk.json, ScoopInstaller/Java, 1
@@ -6611,6 +6612,7 @@ bucket/logitech-gaming-software-np.json, ScoopInstaller/Nonportable, 0
 bucket/logitech-omm.json, ScoopInstaller/Extras, 0
 bucket/logonsessions.json, niheaven/scoop-sysinternals, 1
 bucket/logseq-nightly.json, ScoopInstaller/Versions, 1
+bucket/logseq-og.json, ScoopInstaller/Extras, 1
 bucket/logseq.json, ScoopInstaller/Extras, 1
 bucket/logstalgia.json, ScoopInstaller/Extras, 1
 bucket/logstash.json, ScoopInstaller/Extras, 0
@@ -7893,6 +7895,7 @@ bucket/openjdk23.json, ScoopInstaller/Java, 0
 bucket/openjdk24.json, ScoopInstaller/Java, 0
 bucket/openjdk25.json, ScoopInstaller/Java, 0
 bucket/openjdk26.json, ScoopInstaller/Java, 0
+bucket/openjdk27.json, ScoopInstaller/Java, 0
 bucket/openjdk7-unofficial.json, ScoopInstaller/Java, 0
 bucket/openjdk8-redhat-jre.json, ScoopInstaller/Java, 1
 bucket/openjdk8-redhat.json, ScoopInstaller/Java, 1
@@ -9202,7 +9205,6 @@ bucket/quickviewer.json, ScoopInstaller/Extras, 1
 bucket/quicmic.json, hu3rror/scoop-muggle, 1
 bucket/quien.json, ScoopInstaller/Main, 1
 bucket/quiterss.json, ScoopInstaller/Extras, 0
-bucket/qunwen.json, ivaquero/scoopet, 0
 bucket/quodlibet.json, ScoopInstaller/Extras, 1
 bucket/qutebrowser.json, ScoopInstaller/Extras, 1
 bucket/qv.json, aliesbelik/poldi, 1
@@ -11156,7 +11158,7 @@ bucket/utorrent-portable.json, SayCV/scoop-cvp, 0
 bucket/utorrent.json, kkzzhizhou/scoop-zapps, 0
 bucket/utpm.json, ScoopInstaller/Extras, 1
 bucket/utvideo.json, couleur-tweak-tips/utils, 1
-bucket/uu-remote.json, ygguorun/scoop-bucket, 0
+bucket/uu-remote.json, ivaquero/scoopet, 0
 bucket/uup-download-wizard-converter.json, hu3rror/scoop-muggle, 1
 bucket/uutils-coreutils-lean.json, ScoopInstaller/Main, 1
 bucket/uutils-coreutils.json, ScoopInstaller/Main, 1
