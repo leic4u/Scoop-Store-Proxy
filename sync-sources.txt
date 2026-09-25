@@ -216,7 +216,7 @@ bucket/BBDownNextGUI.json, cc713/ownscoop, 1
 bucket/BaGeShuo.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
+bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -6184,7 +6184,7 @@ bucket/komac.json, ScoopInstaller/Extras, 1
 bucket/komelia.json, aoisummer/scoop-bucket, 1
 bucket/komf.json, ScoopInstaller/Extras, 1
 bucket/komga.json, ScoopInstaller/Extras, 1
-bucket/komi-store.json, DoveBoy/Apps, 1
+bucket/komi-store.json, cc713/ownscoop, 1
 bucket/komokana.json, ScoopInstaller/Extras, 1
 bucket/komorebi-nightly.json, ScoopInstaller/Versions, 1
 bucket/komorebi-tray.json, starise/Scoop-Confetti, 1
@@ -6460,6 +6460,7 @@ bucket/libjpeg-turbo.json, ScoopInstaller/Main, 1
 bucket/libjxl.json, ScoopInstaller/Main, 1
 bucket/libraw.json, HUMORCE/nuke, 0
 bucket/librecad.json, ScoopInstaller/Extras, 1
+bucket/libredb-studio.json, ScoopInstaller/Extras, 1
 bucket/librehardwaremonitor-dotnet10-nightly.json, ScoopInstaller/Versions, 0
 bucket/librehardwaremonitor-dotnet10.json, ScoopInstaller/Versions, 1
 bucket/librehardwaremonitor-nightly.json, ScoopInstaller/Versions, 0
@@ -7188,7 +7189,6 @@ bucket/mosquitto.json, ScoopInstaller/Main, 0
 bucket/motrix-next.json, ScoopInstaller/Extras, 1
 bucket/motrix-pre.json, ScoopInstaller/Versions, 1
 bucket/motrix.json, ScoopInstaller/Extras, 1
-bucket/motrixnext.json, DoveBoy/Apps, 1
 bucket/moul.json, chawyehsu/dorado, 1
 bucket/mouse-monitor.json, brian6932/dank-scoop, 1
 bucket/mouse-tester-fork.json, couleur-tweak-tips/utils, 1
@@ -9290,6 +9290,7 @@ bucket/rawcap-old.json, beerpiss/scoop-bucket, 0
 bucket/rawcap.json, beerpiss/scoop-bucket, 0
 bucket/rawrite32.json, iquiw/scoop-bucket, 0
 bucket/rawtherapee.json, ScoopInstaller/Extras, 1
+bucket/rayburst-pre.json, DoveBoy/Apps, 1
 bucket/raylib-mingw.json, ScoopInstaller/Extras, 1
 bucket/raylib.json, ScoopInstaller/Extras, 1
 bucket/raylink.json, akirco/aki-apps, 0
@@ -9529,7 +9530,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
