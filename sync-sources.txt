@@ -1314,6 +1314,8 @@ bucket/PhotoZoomPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/PicaComic.json, hu3rror/scoop-muggle, 1
 bucket/PicoClaw.json, dodorz/scoop, 1
 bucket/PicoTorrent-Portable.json, ACooper81/scoop-apps, 1
+bucket/PiliNara.json, DoveBoy/Apps, 1
+bucket/PiliPlus.json, cc713/ownscoop, 1
 bucket/PingFang.json, ygguorun/scoop-bucket, 0
 bucket/PingFangHK.json, ygguorun/scoop-bucket, 0
 bucket/PingFangSC.json, ygguorun/scoop-bucket, 0
@@ -8686,9 +8688,7 @@ bucket/pikapika.json, DoveBoy/Apps, 1
 bucket/pikatorrent.json, DoveBoy/Apps, 1
 bucket/pikpak.json, akirco/aki-apps, 0
 bucket/pilinara-portable.json, DoveBoy/Apps, 1
-bucket/pilinara.json, DoveBoy/Apps, 1
 bucket/piliplus-portable.json, DoveBoy/Apps, 1
-bucket/piliplus.json, DoveBoy/Apps, 1
 bucket/pinact.json, chawyehsu/dorado, 1
 bucket/pinata.json, aliesbelik/poldi, 1
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
@@ -9530,7 +9530,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -11894,6 +11894,7 @@ bucket/xenia-edge.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
+bucket/xfetch.json, ScoopInstaller/Extras, 1
 bucket/xftp7p.json, kkzzhizhou/scoop-zapps, 1
 bucket/xh.json, ScoopInstaller/Main, 1
 bucket/xiadown-portable.json, DoveBoy/Apps, 1
