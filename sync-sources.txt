@@ -2267,7 +2267,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -4489,7 +4489,7 @@ bucket/ffmpeg-shared-yt-dlp-nightly.json, ScoopInstaller/Versions, 1
 bucket/ffmpeg-shared.json, ScoopInstaller/Main, 1
 bucket/ffmpeg-yt-dlp-nightly.json, ScoopInstaller/Versions, 1
 bucket/ffmpeg.json, ScoopInstaller/Main, 1
-bucket/ffmpegfreeui.json, ivaquero/scoopet, 1
+bucket/ffmpegfreeui.json, DoveBoy/Apps, 1
 bucket/ffmpegthumbnailer.json, ScoopInstaller/Main, 1
 bucket/ffprogress.json, couleur-tweak-tips/utils, 1
 bucket/ffqueue.json, ScoopInstaller/Extras, 0
@@ -6526,6 +6526,8 @@ bucket/liquibase.json, ScoopInstaller/Main, 1
 bucket/liquidsoap.json, ScoopInstaller/Extras, 1
 bucket/listary-beta.json, kidonng/sushi, 0
 bucket/listary.json, ScoopInstaller/Extras, 0
+bucket/listary6-beta.json, ScoopInstaller/Versions, 0
+bucket/listary7-beta.json, ScoopInstaller/Versions, 0
 bucket/listdlls.json, niheaven/scoop-sysinternals, 1
 bucket/listdosdevices.json, rasa/scoops, 0
 bucket/listen1desktop.json, ScoopInstaller/Extras, 1
@@ -10857,6 +10859,7 @@ bucket/topgrade.json, ScoopInstaller/Main, 1
 bucket/topgradeCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/topmost.json, ViCrack/scoop-bucket, 0
 bucket/topnotify.json, ScoopInstaller/Extras, 1
+bucket/tor-alpha.json, ScoopInstaller/Versions, 0
 bucket/tor-browser-alpha.json, ScoopInstaller/Versions, 0
 bucket/tor-browser.json, ScoopInstaller/Extras, 0
 bucket/tor.json, ScoopInstaller/Main, 0
