@@ -1236,6 +1236,7 @@ bucket/OpenDyslexic-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/OpenDyslexic-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/OpenDyslexic-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/OpenHAB-Portable.json, ACooper81/scoop-apps, 0
+bucket/OpenHanako.json, dodorz/scoop, 1
 bucket/OpenHardwareMonitor-Portable.json, ACooper81/scoop-apps, 0
 bucket/OpenHardwareMonitorReport.json, brian6932/dank-scoop, 1
 bucket/OpenHashTab.json, cc713/ownscoop, 0
@@ -1326,7 +1327,7 @@ bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
 bucket/PixPin.json, chawyehsu/dorado, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixel-Code.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Pixeval.json, DoveBoy/Apps, 1
+bucket/Pixeval.json, cc713/ownscoop, 1
 bucket/Playnite-Portable.json, ACooper81/scoop-apps, 1
 bucket/PlexForWindows-Portable.json, ACooper81/scoop-apps, 0
 bucket/PlexMediaPlayer-Portable.json, ACooper81/scoop-apps, 0
@@ -4491,7 +4492,7 @@ bucket/ffmpeg-shared-yt-dlp-nightly.json, ScoopInstaller/Versions, 1
 bucket/ffmpeg-shared.json, ScoopInstaller/Main, 1
 bucket/ffmpeg-yt-dlp-nightly.json, ScoopInstaller/Versions, 1
 bucket/ffmpeg.json, ScoopInstaller/Main, 1
-bucket/ffmpegfreeui.json, ivaquero/scoopet, 1
+bucket/ffmpegfreeui.json, DoveBoy/Apps, 1
 bucket/ffmpegthumbnailer.json, ScoopInstaller/Main, 1
 bucket/ffprogress.json, couleur-tweak-tips/utils, 1
 bucket/ffqueue.json, ScoopInstaller/Extras, 0
@@ -9543,7 +9544,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -11727,7 +11728,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, DoveBoy/Apps, 1
+bucket/winscript.json, naderi/scoop-bucket, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
