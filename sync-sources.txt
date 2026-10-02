@@ -4175,7 +4175,7 @@ bucket/ecopaste.json, DoveBoy/Apps, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden-nightly.json, Calinou/scoop-games, 0
+bucket/eden-nightly.json, borger/scoop-emulators, 0
 bucket/eden.json, Calinou/scoop-games, 0
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-TTS-record.json, dodorz/scoop, 0
@@ -4569,7 +4569,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, hu3rror/scoop-muggle, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -6325,6 +6325,7 @@ bucket/layerx.json, aliesbelik/poldi, 1
 bucket/lazarus.json, ScoopInstaller/Extras, 0
 bucket/lazpaint.json, ScoopInstaller/Extras, 1
 bucket/lazy-posh-git.json, ScoopInstaller/Extras, 1
+bucket/lazyactions.json, aliesbelik/poldi, 1
 bucket/lazycurl.json, aliesbelik/poldi, 1
 bucket/lazydocker.json, ScoopInstaller/Main, 1
 bucket/lazygit.json, ScoopInstaller/Extras, 1
@@ -7293,7 +7294,7 @@ bucket/msedge-canary.json, 42wim/scoop-bucket, 0
 bucket/msedge-dev.json, 42wim/scoop-bucket, 0
 bucket/msedge-stable.json, 42wim/scoop-bucket, 0
 bucket/msedgeredirect.json, ScoopInstaller/Extras, 1
-bucket/msgvault.json, cderv/r-bucket, 1
+bucket/msgvault.json, dodorz/scoop, 1
 bucket/msiafterburner.json, ScoopInstaller/Extras, 0
 bucket/msikombustor.json, ScoopInstaller/Extras, 0
 bucket/msival2.json, ScoopInstaller/Main, 0
@@ -8944,7 +8945,7 @@ bucket/proton-drive.json, ScoopInstaller/Extras, 0
 bucket/proton-launcher.json, kiennq/scoop-misc, 1
 bucket/proton-mail-export.json, ScoopInstaller/Extras, 1
 bucket/proton-mail.json, ScoopInstaller/Extras, 0
-bucket/proton-pass-cli.json, cderv/r-bucket, 0
+bucket/proton-pass-cli.json, ScoopInstaller/Main, 0
 bucket/proton-pass.json, ScoopInstaller/Extras, 0
 bucket/protonmail-bridge.json, ScoopInstaller/Extras, 1
 bucket/protonvpn-np.json, ScoopInstaller/Nonportable, 0
@@ -11344,7 +11345,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -11742,7 +11743,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, naderi/scoop-bucket, 1
+bucket/winscript.json, DoveBoy/Apps, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
