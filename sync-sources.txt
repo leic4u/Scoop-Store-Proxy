@@ -5218,7 +5218,7 @@ bucket/gopeed-web-pre.json, DoveBoy/Apps, 1
 bucket/gopeed-web.json, DoveBoy/Apps, 1
 bucket/gopeed.json, ScoopInstaller/Extras, 1
 bucket/gopher360.json, ScoopInstaller/Extras, 1
-bucket/gopher64.json, Calinou/scoop-games, 1
+bucket/gopher64.json, borger/scoop-emulators, 1
 bucket/gopls.json, iquiw/scoop-bucket, 1
 bucket/goproxy.json, kkzzhizhou/scoop-zapps, 1
 bucket/goread.json, batkiz/backit, 1
@@ -10927,6 +10927,7 @@ bucket/transmission-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/transmission.json, ScoopInstaller/Extras, 1
 bucket/trash.json, chawyehsu/dorado, 1
 bucket/trashy.json, ScoopInstaller/Main, 1
+bucket/trayme.json, naderi/scoop-bucket, 1
 bucket/traymond.json, ScoopInstaller/Extras, 1
 bucket/trays.json, NyaMisty/scoop_bucket_misty, 1
 bucket/trayweather.json, ScoopInstaller/Extras, 1
@@ -11742,7 +11743,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, DoveBoy/Apps, 1
+bucket/winscript.json, naderi/scoop-bucket, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
