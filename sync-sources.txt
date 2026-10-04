@@ -2269,7 +2269,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -6167,6 +6167,7 @@ bucket/kitematic.json, ScoopInstaller/Extras, 1
 bucket/kitty-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/kitty.json, ScoopInstaller/Extras, 1
 bucket/kiwi-for-gmail.json, ScoopInstaller/Extras, 0
+bucket/kiwix-tools.json, cc713/ownscoop, 0
 bucket/kiwix.json, ScoopInstaller/Extras, 0
 bucket/kl.json, aliesbelik/poldi, 1
 bucket/klatexformula.json, ScoopInstaller/Extras, 0
@@ -9300,6 +9301,7 @@ bucket/rancher-desktop.json, ScoopInstaller/Extras, 1
 bucket/randpass.json, starise/Scoop-Confetti, 0
 bucket/rapidcrc.json, ScoopInstaller/Extras, 0
 bucket/rapidee.json, ScoopInstaller/Extras, 0
+bucket/rapidee9.json, ScoopInstaller/Versions, 0
 bucket/rare.json, Calinou/scoop-games, 1
 bucket/rascal.json, seumsc/scoop-seu, 1
 bucket/raspberry-pi-imager.json, ScoopInstaller/Extras, 1
@@ -9556,7 +9558,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
