@@ -3664,7 +3664,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, chawyehsu/dorado, 1
+bucket/dandanplay.json, DoveBoy/Apps, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -9558,7 +9558,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -10133,6 +10133,7 @@ bucket/sniproxy.json, DoveBoy/Apps, 1
 bucket/snoop.json, ScoopInstaller/Extras, 1
 bucket/snoretoast.json, ScoopInstaller/Extras, 0
 bucket/snova-asioCLI-Portable.json, ACooper81/scoop-apps, 1
+bucket/snowshot.json, ScoopInstaller/Extras, 1
 bucket/so-novel-beta.json, DoveBoy/Apps, 1
 bucket/so-novel.json, DoveBoy/Apps, 1
 bucket/so.json, ScoopInstaller/Extras, 1
@@ -12192,6 +12193,7 @@ bucket/zhumu.json, echoiron/echo-scoop, 0
 bucket/zig-dev.json, ScoopInstaller/Versions, 0
 bucket/zig.json, ScoopInstaller/Main, 0
 bucket/zigup.json, ScoopInstaller/Main, 1
+bucket/zim-tools.json, cc713/ownscoop, 0
 bucket/zim.json, ScoopInstaller/Extras, 0
 bucket/zine.json, ScoopInstaller/Main, 1
 bucket/zip-beta.json, ScoopInstaller/Versions, 0
