@@ -3073,6 +3073,7 @@ bucket/cbox-cvp.json, SayCV/scoop-cvp, 1
 bucket/cbxconverter.json, starise/Scoop-Confetti, 0
 bucket/cc-clean-launcher.json, brian6932/dank-scoop, 1
 bucket/cc-connect.json, ScoopInstaller/Main, 1
+bucket/cc-switch-pre.json, ScoopInstaller/Versions, 1
 bucket/cc-switch.json, ScoopInstaller/Extras, 1
 bucket/cc65.json, ScoopInstaller/Main, 0
 bucket/ccache.json, ScoopInstaller/Main, 1
@@ -3664,7 +3665,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, DoveBoy/Apps, 1
+bucket/dandanplay.json, aoisummer/scoop-bucket, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -7679,7 +7680,7 @@ bucket/nugget-doom.json, Calinou/scoop-games, 1
 bucket/numa.json, ScoopInstaller/Main, 1
 bucket/numbat.json, ScoopInstaller/Main, 1
 bucket/nuncabola.json, Calinou/scoop-games, 0
-bucket/nunit-console.json, ScoopInstaller/Main, 0
+bucket/nunit-console.json, ScoopInstaller/Main, 1
 bucket/nunit-extension-nunit-project-loader.json, ScoopInstaller/Main, 0
 bucket/nunit-extension-nunit-v2-driver.json, ScoopInstaller/Main, 0
 bucket/nunit-extension-nunit-v2-result-writer.json, ScoopInstaller/Main, 0
@@ -8166,7 +8167,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8874,7 +8875,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -9558,7 +9559,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -9644,6 +9645,7 @@ bucket/runfromprocess.json, ScoopInstaller/Nirsoft, 0
 bucket/runjs.json, akirco/aki-apps, 1
 bucket/runtimeclassesview.json, ScoopInstaller/Nirsoft, 0
 bucket/rust-analyzer.json, ScoopInstaller/Main, 1
+bucket/rust-glancer.json, ScoopInstaller/Main, 1
 bucket/rust-gnu.json, ScoopInstaller/Main, 0
 bucket/rust-msvc-nightly.json, ScoopInstaller/Versions, 0
 bucket/rust-msvc.json, ScoopInstaller/Main, 0
@@ -10497,7 +10499,7 @@ bucket/symlinker.json, ScoopInstaller/Extras, 1
 bucket/symphytum.json, ScoopInstaller/Extras, 1
 bucket/sync-dis-boi.json, brian6932/dank-scoop, 1
 bucket/sync.json, niheaven/scoop-sysinternals, 1
-bucket/syncany-cli.json, ScoopInstaller/Main, 0
+bucket/syncany-cli.json, ScoopInstaller/Main, 1
 bucket/syncback.json, ScoopInstaller/Extras, 0
 bucket/syncbackpro.json, ScoopInstaller/Extras, 0
 bucket/syncclipboard-beta.json, DoveBoy/Apps, 1
@@ -11348,7 +11350,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
