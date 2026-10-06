@@ -1176,6 +1176,7 @@ bucket/NitroShare-Portable.json, ACooper81/scoop-apps, 0
 bucket/NoMachine-Install.json, ACooper81/scoop-apps, 0
 bucket/NoMansSkySaveEditor-Portable.json, ACooper81/scoop-apps, 1
 bucket/Nomad.NET.json, dodorz/scoop, 0
+bucket/Nomo.json, dodorz/scoop, 1
 bucket/NordPass-Portable.json, ACooper81/scoop-apps, 0
 bucket/NormCap-cn.json, dodorz/scoop, 1
 bucket/NotCPUCores-Portable.json, ACooper81/scoop-apps, 1
@@ -1821,7 +1822,7 @@ bucket/TranslucentTB-Install.json, ACooper81/scoop-apps, 1
 bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
 bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
-bucket/TreeSize.json, DoveBoy/Apps, 0
+bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
 bucket/Trout.json, dodorz/scoop, 0
 bucket/TscanPlus.json, ViCrack/scoop-bucket, 1
 bucket/TuBaTool.json, kkzzhizhou/scoop-zapps, 0
@@ -2269,7 +2270,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -4094,8 +4095,8 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
-bucket/duckstation.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation.json, borger/scoop-emulators, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
 bucket/duf.json, ScoopInstaller/Main, 1
@@ -6145,7 +6146,7 @@ bucket/keypirinha-Kill.json, yuusakuri/scoop-bucket, 1
 bucket/keypirinha-terminal-profiles.json, yuusakuri/scoop-bucket, 1
 bucket/keypirinha.json, ScoopInstaller/Extras, 1
 bucket/keyring-py.json, TheRandomLabs/Scoop-Python, 1
-bucket/keysmith-switch-releases.json, ViCrack/scoop-bucket, 1
+bucket/keysmith-switch.json, ViCrack/scoop-bucket, 1
 bucket/keystore-explorer.json, ScoopInstaller/Extras, 1
 bucket/keyviz-dart.json, brian6932/dank-scoop, 1
 bucket/keyviz.json, ScoopInstaller/Extras, 1
@@ -6918,6 +6919,7 @@ bucket/meow.json, ScoopInstaller/Extras, 1
 bucket/mercurial.json, ScoopInstaller/Main, 0
 bucket/mercury.json, brian6932/dank-scoop, 1
 bucket/mergiraf.json, ScoopInstaller/Main, 0
+bucket/merman-cli.json, ScoopInstaller/Main, 1
 bucket/mery.json, SayCV/scoop-cvp, 0
 bucket/mesa3d-mingw.json, Calinou/scoop-games, 1
 bucket/mesa3d.json, Calinou/scoop-games, 1
@@ -6936,7 +6938,7 @@ bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
