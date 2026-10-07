@@ -2273,7 +2273,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -6085,6 +6085,7 @@ bucket/karate.json, ScoopInstaller/Main, 1
 bucket/karing-portable.json, DoveBoy/Apps, 1
 bucket/karing.json, ScoopInstaller/Extras, 1
 bucket/kassistant-live2d.json, Weidows-projects/scoop-3rd, 1
+bucket/kast.json, naderi/scoop-bucket, 1
 bucket/kasts.json, ScoopInstaller/Extras, 0
 bucket/kata.json, cderv/r-bucket, 1
 bucket/katana.json, ViCrack/scoop-bucket, 1
@@ -8051,6 +8052,7 @@ bucket/orcaslicer-nightly.json, ScoopInstaller/Versions, 1
 bucket/orcaslicer.json, ScoopInstaller/Extras, 1
 bucket/origin.json, chawyehsu/dorado, 0
 bucket/oripa.json, ScoopInstaller/Extras, 1
+bucket/ortie.json, ScoopInstaller/Extras, 1
 bucket/orwell-dev-cpp-no-compiler.json, chawyehsu/dorado, 0
 bucket/orwell-dev-cpp.json, chawyehsu/dorado, 0
 bucket/oryxis.json, ScoopInstaller/Extras, 1
@@ -9573,7 +9575,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
