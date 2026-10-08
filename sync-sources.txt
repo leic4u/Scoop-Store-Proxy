@@ -454,6 +454,7 @@ bucket/DesktopOK.json, dodorz/scoop, 0
 bucket/DevEco-Studio.json, Weidows-projects/scoop-3rd, 0
 bucket/DevToys-Install.json, ACooper81/scoop-apps, 1
 bucket/DevToys.json, naderi/scoop-bucket, 1
+bucket/DevinCLI.json, dodorz/scoop, 0
 bucket/DevinDesktop.json, dodorz/scoop, 0
 bucket/Dexios.json, brian6932/dank-scoop, 1
 bucket/DexiosGUI.json, brian6932/dank-scoop, 1
@@ -667,7 +668,7 @@ bucket/GSpot.json, dodorz/scoop, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
 bucket/GaiaSky.json, dodorz/scoop, 0
 bucket/Gajim.json, dodorz/scoop, 0
-bucket/Game-Cheats-Manager.json, cc713/ownscoop, 1
+bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/Gammadyne-CLI.json, dodorz/scoop, 0
 bucket/Gapminder.json, dodorz/scoop, 0
@@ -1303,6 +1304,7 @@ bucket/Pass4Win.json, dodorz/scoop, 1
 bucket/PatchMyPCHomeUpdater-Portable.json, ACooper81/scoop-apps, 0
 bucket/Patchfluent-Portable.json, ACooper81/scoop-apps, 1
 bucket/Pattaya.json, matthewjberger/scoop-nerd-fonts, 0
+bucket/PdfCraft.json, dodorz/scoop, 1
 bucket/PdfRotate.json, dodorz/scoop, 0
 bucket/PeaZip-Portable.json, ACooper81/scoop-apps, 1
 bucket/Pebrel.json, dodorz/scoop, 1
@@ -2273,7 +2275,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -8190,7 +8192,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9587,7 +9589,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
@@ -11779,7 +11781,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, naderi/scoop-bucket, 1
+bucket/winscript.json, DoveBoy/Apps, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
