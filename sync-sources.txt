@@ -1305,7 +1305,6 @@ bucket/Pass4Win.json, dodorz/scoop, 1
 bucket/PatchMyPCHomeUpdater-Portable.json, ACooper81/scoop-apps, 0
 bucket/Patchfluent-Portable.json, ACooper81/scoop-apps, 1
 bucket/Pattaya.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/PdfCraft.json, dodorz/scoop, 1
 bucket/PdfRotate.json, dodorz/scoop, 0
 bucket/PeaZip-Portable.json, ACooper81/scoop-apps, 1
 bucket/Pebrel.json, dodorz/scoop, 1
@@ -2462,7 +2461,7 @@ bucket/armor.json, ScoopInstaller/Main, 1
 bucket/arnis.json, batkiz/backit, 1
 bucket/arrayv.json, beerpiss/scoop-bucket, 1
 bucket/artcnn.json, brian6932/dank-scoop, 0
-bucket/artcraft.json, batkiz/backit, 1
+bucket/artcraft.json, ScoopInstaller/Extras, 1
 bucket/artemis.json, naderi/scoop-bucket, 1
 bucket/arthas.json, ScoopInstaller/Main, 1
 bucket/artroom-stable-diffusion.json, brian6932/dank-scoop, 1
@@ -2993,6 +2992,7 @@ bucket/cache-monkey.json, brian6932/dank-scoop, 1
 bucket/cacher.json, ScoopInstaller/Extras, 0
 bucket/cacheset.json, niheaven/scoop-sysinternals, 1
 bucket/cactusviewer.json, ScoopInstaller/Extras, 1
+bucket/cadcraft.json, ScoopInstaller/Extras, 1
 bucket/caddy.json, ScoopInstaller/Main, 1
 bucket/caesium-image-compressor.json, ScoopInstaller/Extras, 1
 bucket/caesium.json, ViCrack/scoop-bucket, 1
@@ -3746,6 +3746,7 @@ bucket/deadlock.json, ScoopInstaller/Extras, 1
 bucket/debugtron.json, ScoopInstaller/Extras, 1
 bucket/debugview.json, niheaven/scoop-sysinternals, 1
 bucket/debugviewpp.json, ScoopInstaller/Extras, 1
+bucket/deckcraft.json, ScoopInstaller/Extras, 1
 bucket/decrypttools.json, ViCrack/scoop-bucket, 1
 bucket/deemix-portable.json, hu3rror/scoop-muggle, 0
 bucket/deep-explorer.json, amorphobia/siku, 0
@@ -3791,7 +3792,7 @@ bucket/depot_tools.json, SayCV/scoop-cvp, 0
 bucket/deprecated.Filezilla-persist.json, Paxxs/Cluttered-bucket, 0
 bucket/deprecated.LDPlayer.clear.json, Paxxs/Cluttered-bucket, 0
 bucket/deps.clj.json, littleli/scoop-clojure, 1
-bucket/designcraft.json, batkiz/backit, 1
+bucket/designcraft.json, ScoopInstaller/Extras, 1
 bucket/deskflow.json, ScoopInstaller/Extras, 1
 bucket/deskpins.json, ScoopInstaller/Extras, 0
 bucket/deskreen.json, ScoopInstaller/Extras, 1
@@ -4213,7 +4214,7 @@ bucket/edtracker.json, Deide/deide-bucket, 0
 bucket/eduke32.json, Calinou/scoop-games, 0
 bucket/eduvpn.json, seumsc/scoop-seu, 0
 bucket/edx.json, ViCrack/scoop-bucket, 0
-bucket/effectcraft.json, batkiz/backit, 1
+bucket/effectcraft.json, ScoopInstaller/Extras, 1
 bucket/effekseer.json, ScoopInstaller/Extras, 1
 bucket/efsdump.json, niheaven/scoop-sysinternals, 1
 bucket/eget.json, ScoopInstaller/Extras, 1
@@ -4561,7 +4562,7 @@ bucket/filezilla-server.json, ScoopInstaller/Extras, 0
 bucket/filezilla-server0.9.json, ScoopInstaller/Versions, 1
 bucket/filezilla.json, ScoopInstaller/Extras, 0
 bucket/fillets.json, Calinou/scoop-games, 0
-bucket/filmcraft.json, batkiz/backit, 1
+bucket/filmcraft.json, ScoopInstaller/Extras, 1
 bucket/final2x-portable.json, DoveBoy/Apps, 1
 bucket/final2x.json, ScoopInstaller/Extras, 1
 bucket/finalshell.json, ViCrack/scoop-bucket, 0
@@ -5335,6 +5336,7 @@ bucket/grep.json, ScoopInstaller/Main, 1
 bucket/grepwin.json, ScoopInstaller/Extras, 1
 bucket/gretl.json, ScoopInstaller/Extras, 0
 bucket/grex.json, ScoopInstaller/Main, 1
+bucket/gridcraft.json, ScoopInstaller/Extras, 1
 bucket/griddycode.json, Weidows-projects/scoop-3rd, 1
 bucket/gridea.json, ScoopInstaller/Extras, 1
 bucket/gridplayer.json, ScoopInstaller/Extras, 1
@@ -6357,7 +6359,7 @@ bucket/lazyssh.json, ScoopInstaller/Main, 1
 bucket/lazyworktree.json, aliesbelik/poldi, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
 bucket/lbry.json, ScoopInstaller/Extras, 1
-bucket/lceda-pro.json, chawyehsu/dorado, 0
+bucket/lceda-pro.json, ivaquero/scoopet, 0
 bucket/lceda.json, ivaquero/scoopet, 0
 bucket/lcow.json, ScoopInstaller/Versions, 1
 bucket/ldap-admin.json, ScoopInstaller/Extras, 0
@@ -6519,7 +6521,7 @@ bucket/licecap.json, ScoopInstaller/Extras, 0
 bucket/lightbulb.json, ScoopInstaller/Extras, 1
 bucket/lightc-portable.json, DoveBoy/Apps, 1
 bucket/lightc.json, DoveBoy/Apps, 1
-bucket/lightcraft.json, batkiz/backit, 1
+bucket/lightcraft.json, ScoopInstaller/Extras, 1
 bucket/lightscreen.json, ScoopInstaller/Extras, 1
 bucket/lightscribe-system-software-np.json, ScoopInstaller/Nonportable, 0
 bucket/lightshot.json, ScoopInstaller/Versions, 0
@@ -7318,6 +7320,7 @@ bucket/msedge-dev.json, 42wim/scoop-bucket, 0
 bucket/msedge-stable.json, 42wim/scoop-bucket, 0
 bucket/msedgeredirect.json, ScoopInstaller/Extras, 1
 bucket/msgvault.json, cderv/r-bucket, 1
+bucket/msiafterburner-beta.json, ScoopInstaller/Versions, 0
 bucket/msiafterburner.json, ScoopInstaller/Extras, 0
 bucket/msikombustor.json, ScoopInstaller/Extras, 0
 bucket/msival2.json, ScoopInstaller/Main, 0
@@ -8207,6 +8210,7 @@ bucket/pdfarranger.json, ScoopInstaller/Extras, 1
 bucket/pdfbox-alpha.json, ScoopInstaller/Versions, 0
 bucket/pdfbox.json, ScoopInstaller/Main, 0
 bucket/pdfcpu.json, ScoopInstaller/Main, 1
+bucket/pdfcraft.json, ScoopInstaller/Extras, 1
 bucket/pdfelement.json, SayCV/scoop-cvp, 0
 bucket/pdfgear.json, ScoopInstaller/Extras, 0
 bucket/pdfill-np.json, ScoopInstaller/Nonportable, 0
@@ -8267,7 +8271,7 @@ bucket/phantomjs19.json, ScoopInstaller/Versions, 0
 bucket/phiola.json, naderi/scoop-bucket, 1
 bucket/pho.json, dodorz/scoop, 0
 bucket/phoenix-protector.json, ScoopInstaller/Extras, 1
-bucket/photocraft.json, batkiz/backit, 1
+bucket/photocraft.json, ScoopInstaller/Extras, 1
 bucket/photodemon.json, ScoopInstaller/Extras, 1
 bucket/photoflare.json, ScoopInstaller/Extras, 1
 bucket/php-nts-xdebug.json, ScoopInstaller/Extras, 0
@@ -8902,7 +8906,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -10201,6 +10205,7 @@ bucket/soul.json, batkiz/backit, 1
 bucket/soulseekqt.json, ScoopInstaller/Extras, 0
 bucket/sound-keeper.json, amorphobia/siku, 0
 bucket/sound-of-sorting.json, beerpiss/scoop-bucket, 0
+bucket/soundcraft.json, ScoopInstaller/Extras, 1
 bucket/soundkeeper.json, starise/Scoop-Confetti, 0
 bucket/soundnode.json, ScoopInstaller/Extras, 1
 bucket/soundswitch.json, ScoopInstaller/Extras, 1
@@ -11293,7 +11298,7 @@ bucket/vcxsrv.json, ScoopInstaller/Extras, 1
 bucket/vdesk.json, ScoopInstaller/Main, 1
 bucket/vdrift.json, Calinou/scoop-games, 0
 bucket/vector.json, ScoopInstaller/Main, 0
-bucket/vectorcraft.json, batkiz/backit, 1
+bucket/vectorcraft.json, ScoopInstaller/Extras, 1
 bucket/vegeta.json, ScoopInstaller/Main, 1
 bucket/velero.json, ScoopInstaller/Main, 1
 bucket/veloren-weekly.json, Calinou/scoop-games, 1
@@ -11849,6 +11854,7 @@ bucket/wonderpen.json, ScoopInstaller/Extras, 0
 bucket/woodpecker.json, ViCrack/scoop-bucket, 1
 bucket/woof.json, Calinou/scoop-games, 1
 bucket/word-regex-tool.json, ygguorun/scoop-bucket, 0
+bucket/wordcraft.json, ScoopInstaller/Extras, 1
 bucket/wordle.json, brian6932/dank-scoop, 1
 bucket/wordmark.json, ScoopInstaller/Extras, 1
 bucket/workbuddy.json, ScoopInstaller/Extras, 0
