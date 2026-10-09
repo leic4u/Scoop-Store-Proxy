@@ -2440,7 +2440,7 @@ bucket/argocd.json, ScoopInstaller/Main, 1
 bucket/argyllcms.json, ScoopInstaller/Extras, 0
 bucket/aria-ng-gui.json, ScoopInstaller/Extras, 1
 bucket/aria2-134.json, ScoopInstaller/Versions, 1
-bucket/aria2-next.json, DoveBoy/Apps, 1
+bucket/aria2-next.json, ScoopInstaller/Main, 1
 bucket/aria2.json, ScoopInstaller/Main, 1
 bucket/aria2manager.json, DoveBoy/Apps, 1
 bucket/ariang-native.json, ScoopInstaller/Extras, 1
@@ -6047,7 +6047,7 @@ bucket/just.json, ScoopInstaller/Main, 1
 bucket/justasplanned.json, beerpiss/scoop-bucket, 1
 bucket/justcolorpicker.json, chawyehsu/dorado, 0
 bucket/justmd.json, dodorz/scoop, 1
-bucket/jvms.json, Weidows-projects/scoop-3rd, 1
+bucket/jvms.json, aliesbelik/poldi, 1
 bucket/jwno.json, naderi/scoop-bucket, 1
 bucket/jwt-cli.json, ScoopInstaller/Main, 1
 bucket/jwt-ui.json, aliesbelik/poldi, 1
@@ -6061,6 +6061,7 @@ bucket/k-lite-codec-pack-full-np.json, ScoopInstaller/Nonportable, 0
 bucket/k-lite-codec-pack-mega-np.json, ScoopInstaller/Nonportable, 0
 bucket/k-lite-codec-pack-standard-np.json, ScoopInstaller/Nonportable, 0
 bucket/k0s.json, ScoopInstaller/Main, 1
+bucket/k10s.json, aliesbelik/poldi, 1
 bucket/k2pdfopt.json, seumsc/scoop-seu, 1
 bucket/k2tf.json, ScoopInstaller/Main, 1
 bucket/k3d.json, ScoopInstaller/Main, 1
@@ -6936,6 +6937,7 @@ bucket/mercurial.json, ScoopInstaller/Main, 0
 bucket/mercury.json, brian6932/dank-scoop, 1
 bucket/mergiraf.json, ScoopInstaller/Main, 0
 bucket/merman-cli.json, ScoopInstaller/Main, 1
+bucket/merman-lsp.json, ScoopInstaller/Main, 1
 bucket/mery.json, SayCV/scoop-cvp, 0
 bucket/mesa3d-mingw.json, Calinou/scoop-games, 1
 bucket/mesa3d.json, Calinou/scoop-games, 1
@@ -8907,7 +8909,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -11386,7 +11388,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -11787,7 +11789,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, DoveBoy/Apps, 1
+bucket/winscript.json, naderi/scoop-bucket, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
