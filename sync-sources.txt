@@ -9008,6 +9008,7 @@ bucket/ps-guicompletion.json, DoveBoy/Apps, 0
 bucket/ps3-firmware.json, Deide/deide-bucket, 0
 bucket/ps3-system-software.json, Calinou/scoop-games, 0
 bucket/ps3decrs.json, Deide/deide-bucket, 1
+bucket/ps4-pkg-extractor.json, starise/Scoop-Confetti, 1
 bucket/ps4pkgtool.json, starise/Scoop-Confetti, 1
 bucket/psake.json, ScoopInstaller/Main, 0
 bucket/pscalendar.json, DoveBoy/Apps, 0
@@ -11388,7 +11389,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
