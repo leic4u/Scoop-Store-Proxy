@@ -1422,6 +1422,7 @@ bucket/RAMExpect.json, kkzzhizhou/scoop-zapps, 0
 bucket/RDPWrapper-Portable.json, ACooper81/scoop-apps, 1
 bucket/RDPWrapperMod-Portable.json, ACooper81/scoop-apps, 1
 bucket/RM-ATKtools.json, Weidows-projects/scoop-3rd, 1
+bucket/RPGMakerDecrypter.json, cc713/ownscoop, 1
 bucket/RRShare.json, dodorz/scoop, 0
 bucket/RSSGuard-Portable.json, ACooper81/scoop-apps, 1
 bucket/RSSOwl.json, dodorz/scoop, 1
@@ -6048,7 +6049,7 @@ bucket/just.json, ScoopInstaller/Main, 1
 bucket/justasplanned.json, beerpiss/scoop-bucket, 1
 bucket/justcolorpicker.json, chawyehsu/dorado, 0
 bucket/justmd.json, dodorz/scoop, 1
-bucket/jvms.json, aliesbelik/poldi, 1
+bucket/jvms.json, Weidows-projects/scoop-3rd, 1
 bucket/jwno.json, naderi/scoop-bucket, 1
 bucket/jwt-cli.json, ScoopInstaller/Main, 1
 bucket/jwt-ui.json, aliesbelik/poldi, 1
@@ -8198,7 +8199,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9599,6 +9600,8 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
 bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpgm-decrypt.json, cc713/ownscoop, 1
+bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
