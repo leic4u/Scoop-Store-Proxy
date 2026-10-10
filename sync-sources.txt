@@ -971,6 +971,7 @@ bucket/LinkShellExtension-Install.json, ACooper81/scoop-apps, 0
 bucket/Lively-Wallpaper.json, Weidows-projects/scoop-3rd, 1
 bucket/LivelyWallpaper-Portable.json, ACooper81/scoop-apps, 1
 bucket/LobeHub.json, dodorz/scoop, 0
+bucket/LocaleEmulatorPlus.json, cc713/ownscoop, 1
 bucket/LockHunter-Portable.json, ACooper81/scoop-apps, 0
 bucket/LogiOptionsPlus-Install.json, ACooper81/scoop-apps, 0
 bucket/LogitechOptions-Install.json, ACooper81/scoop-apps, 0
@@ -1003,6 +1004,7 @@ bucket/MSEdgeRedirect-Portable.json, ACooper81/scoop-apps, 1
 bucket/MTool.json, cc713/ownscoop, 0
 bucket/MaaNTE.json, Weidows-projects/scoop-3rd, 1
 bucket/MadEdit-mod.json, dodorz/scoop, 0
+bucket/Magpie-dev.json, cc713/ownscoop, 1
 bucket/MajsoulPaipuAnalyzer.json, ygguorun/scoop-bucket, 1
 bucket/MajsoulPlus.json, ygguorun/scoop-bucket, 1
 bucket/Mali.json, matthewjberger/scoop-nerd-fonts, 0
@@ -3674,7 +3676,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, DoveBoy/Apps, 1
+bucket/dandanplay.json, aoisummer/scoop-bucket, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -8199,7 +8201,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -11042,7 +11044,7 @@ bucket/tubatools-portable.json, DoveBoy/Apps, 1
 bucket/tubatools.json, DoveBoy/Apps, 1
 bucket/tuicr.json, ScoopInstaller/Main, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
-bucket/tuios.json, dodorz/scoop, 1
+bucket/tuios.json, iquiw/scoop-bucket, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
