@@ -951,7 +951,7 @@ bucket/LeagueMono-variable.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Lertaro.json, cc713/ownscoop, 1
+bucket/Lertaro.json, DoveBoy/Apps, 1
 bucket/LetsView.json, kkzzhizhou/scoop-zapps, 0
 bucket/LiberationMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LiberationMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
@@ -990,6 +990,7 @@ bucket/MBoxViewer-Portable.json, ACooper81/scoop-apps, 1
 bucket/MCI-Browser.json, dodorz/scoop, 0
 bucket/MDReader.json, dodorz/scoop, 1
 bucket/MDViewer.json, dodorz/scoop, 1
+bucket/MDmeow.json, dodorz/scoop, 1
 bucket/MP4DownloaderPro-Install.json, ACooper81/scoop-apps, 0
 bucket/MP4Tools.json, dodorz/scoop, 0
 bucket/MPC-BE-Install.json, ACooper81/scoop-apps, 0
@@ -1440,6 +1441,7 @@ bucket/Raptor.json, abgox/abgo_bucket, 1
 bucket/Rare-Portable.json, ACooper81/scoop-apps, 1
 bucket/RavenReader.json, dodorz/scoop, 0
 bucket/ReClass.NET.json, TheCjw/scoop-retools, 1
+bucket/ReadMD.json, dodorz/scoop, 1
 bucket/ReasonixCLI.json, dodorz/scoop, 1
 bucket/Recursive-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Recursive-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
@@ -1939,6 +1941,7 @@ bucket/VeyonMaster-Install.json, ACooper81/scoop-apps, 1
 bucket/ViDown.json, dodorz/scoop, 0
 bucket/ViVeToolGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Vibe.json, dodorz/scoop, 1
+bucket/VibeOffice.json, dodorz/scoop, 1
 bucket/Victor-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/VictorMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/VictorMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3557,11 +3560,11 @@ bucket/cryfs.json, naderi/scoop-bucket, 1
 bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
-bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskinfo-aoi-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
-bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-shizuku-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
@@ -4790,7 +4793,7 @@ bucket/freecad.json, ScoopInstaller/Extras, 1
 bucket/freeciv.json, Calinou/scoop-games, 0
 bucket/freeclipboardviewer.json, ScoopInstaller/Extras, 0
 bucket/freecommander.json, ScoopInstaller/Extras, 0
-bucket/freecontrol.json, DoveBoy/Apps, 1
+bucket/freecontrol2.json, DoveBoy/Apps, 1
 bucket/freedoom.json, Calinou/scoop-games, 1
 bucket/freedownloadmanager.json, ScoopInstaller/Extras, 0
 bucket/freedroidrpg.json, Calinou/scoop-games, 0
@@ -5186,7 +5189,7 @@ bucket/goggalaxy.json, Calinou/scoop-games, 0
 bucket/gogs.json, ScoopInstaller/Main, 0
 bucket/gogs0.json, ScoopInstaller/Versions, 0
 bucket/goimports-reviser.json, batkiz/backit, 1
-bucket/gojq.json, batkiz/backit, 1
+bucket/gojq.json, ScoopInstaller/Main, 1
 bucket/gokey.json, aliesbelik/poldi, 1
 bucket/goku-bench.json, aliesbelik/poldi, 1
 bucket/goku.json, aliesbelik/poldi, 1
@@ -7194,6 +7197,7 @@ bucket/mogan-cn.json, ivaquero/scoopet, 0
 bucket/mogan.json, cc713/ownscoop, 1
 bucket/mold.json, ScoopInstaller/Main, 1
 bucket/moldau.json, brian6932/dank-scoop, 1
+bucket/mole.json, ScoopInstaller/Main, 1
 bucket/molotov-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/monasans.json, KnotUntied/scoop-fonts, 1
 bucket/monaspaceargon.json, KnotUntied/scoop-fonts, 0
@@ -7332,6 +7336,7 @@ bucket/msiafterburner.json, ScoopInstaller/Extras, 0
 bucket/msikombustor.json, ScoopInstaller/Extras, 0
 bucket/msival2.json, ScoopInstaller/Main, 0
 bucket/msix.json, littleli/Scoop-littleli, 0
+bucket/msixmgr.json, ScoopInstaller/Main, 1
 bucket/msklc.json, ScoopInstaller/Extras, 0
 bucket/msls.json, dodorz/scoop, 0
 bucket/msmpi.json, ScoopInstaller/Main, 1
@@ -7709,6 +7714,7 @@ bucket/nuget-package-explorer.json, ScoopInstaller/Extras, 0
 bucket/nuget.json, ScoopInstaller/Main, 0
 bucket/nuget3.json, ScoopInstaller/Versions, 0
 bucket/nugget-doom.json, Calinou/scoop-games, 1
+bucket/nullclaw.json, ScoopInstaller/Main, 1
 bucket/numa.json, ScoopInstaller/Main, 1
 bucket/numbat.json, ScoopInstaller/Main, 1
 bucket/nuncabola.json, Calinou/scoop-games, 0
@@ -9072,6 +9078,7 @@ bucket/publii.json, ScoopInstaller/Extras, 0
 bucket/pueue.json, ScoopInstaller/Main, 1
 bucket/puget.json, littleli/scoop-clojure, 1
 bucket/pulsar.json, ScoopInstaller/Extras, 1
+bucket/pulse.json, batkiz/backit, 1
 bucket/pulseview.json, ScoopInstaller/Extras, 0
 bucket/pulumi.json, ScoopInstaller/Main, 1
 bucket/punzip.json, beerpiss/scoop-bucket, 1
@@ -9141,6 +9148,7 @@ bucket/python311.json, ScoopInstaller/Versions, 1
 bucket/python312.json, ScoopInstaller/Versions, 1
 bucket/python313.json, ScoopInstaller/Versions, 1
 bucket/python314.json, ScoopInstaller/Versions, 1
+bucket/python315.json, ScoopInstaller/Versions, 1
 bucket/python35.json, ScoopInstaller/Versions, 1
 bucket/python36.json, ScoopInstaller/Versions, 1
 bucket/python37.json, ScoopInstaller/Versions, 1
@@ -9602,7 +9610,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, Deide/deide-bucket, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rq.json, aliesbelik/poldi, 1
@@ -10321,6 +10329,7 @@ bucket/sqlitebrowser.json, ScoopInstaller/Extras, 1
 bucket/sqliteq.json, littleli/Scoop-littleli, 0
 bucket/sqlitespy.json, ScoopInstaller/Extras, 0
 bucket/sqlitestudio.json, ScoopInstaller/Extras, 1
+bucket/sqlpackage.json, ScoopInstaller/Main, 0
 bucket/sqlpage.json, ScoopInstaller/Main, 1
 bucket/sqluv.json, aliesbelik/poldi, 1
 bucket/sqly.json, aliesbelik/poldi, 1
@@ -11396,7 +11405,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -11702,6 +11711,7 @@ bucket/windows-iso-downloader.json, ScoopInstaller/Extras, 0
 bucket/windows-manage-tool.json, DoveBoy/Apps, 1
 bucket/windows-repair-toolbox.json, naderi/scoop-bucket, 0
 bucket/windows-repair.json, naderi/scoop-bucket, 0
+bucket/windows-sdk-buildtools.json, ScoopInstaller/Main, 0
 bucket/windows-sdk-signing-tools.json, TheRandomLabs/Scoop-Bucket, 0
 bucket/windows-terminal-preview.json, ScoopInstaller/Versions, 1
 bucket/windows-terminal-quake.json, akirco/aki-apps, 1
@@ -12204,6 +12214,7 @@ bucket/zap.json, chawyehsu/dorado, 1
 bucket/zaproxy.json, ScoopInstaller/Extras, 1
 bucket/zat.json, aliesbelik/poldi, 1
 bucket/zazu.json, naderi/scoop-bucket, 1
+bucket/zbar.json, ScoopInstaller/Main, 1
 bucket/zcashd.json, littleli/Scoop-littleli, 1
 bucket/zclient.json, SayCV/scoop-cvp, 0
 bucket/zcode.json, ScoopInstaller/Extras, 0
