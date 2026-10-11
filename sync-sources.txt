@@ -667,7 +667,7 @@ bucket/GSpot.json, dodorz/scoop, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
 bucket/GaiaSky.json, dodorz/scoop, 0
 bucket/Gajim.json, dodorz/scoop, 0
-bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
+bucket/Game-Cheats-Manager.json, cc713/ownscoop, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/Gammadyne-CLI.json, dodorz/scoop, 0
 bucket/Gapminder.json, dodorz/scoop, 0
@@ -2217,7 +2217,6 @@ bucket/adwcleaner.json, ScoopInstaller/Extras, 0
 bucket/aegisub-arch1t3cht.json, ScoopInstaller/Extras, 1
 bucket/aegisub-beta.json, ScoopInstaller/Versions, 1
 bucket/aegisub.json, ScoopInstaller/Extras, 1
-bucket/aegisubdc.json, batkiz/backit, 1
 bucket/aemulus.json, Deide/deide-bucket, 1
 bucket/aerochat.json, brian6932/dank-scoop, 1
 bucket/affine.json, ScoopInstaller/Extras, 1
@@ -3423,7 +3422,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, dodorz/scoop, 1
+bucket/con-terminal.json, batkiz/backit, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -3563,7 +3562,7 @@ bucket/crystal.json, ScoopInstaller/Main, 1
 bucket/crystaldiskinfo-aoi-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-shizuku-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
@@ -4037,7 +4036,6 @@ bucket/douyin-ide.json, chawyehsu/dorado, 0
 bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
 bucket/douyu.json, DoveBoy/Apps, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
-bucket/downkyicore.json, batkiz/backit, 1
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
 bucket/doxx.json, dodorz/scoop, 1
 bucket/doxygen.json, ScoopInstaller/Main, 1
@@ -6394,7 +6392,7 @@ bucket/leetsolv.json, ScoopInstaller/Extras, 1
 bucket/leeyes.json, mo-san/scoop-bucket, 0
 bucket/lefthook.json, ScoopInstaller/Main, 1
 bucket/legcord.json, ScoopInstaller/Extras, 1
-bucket/legendary.json, Deide/deide-bucket, 1
+bucket/legendary.json, batkiz/backit, 1
 bucket/legit.json, ScoopInstaller/Main, 1
 bucket/lego.json, ScoopInstaller/Main, 1
 bucket/leiningen.json, ScoopInstaller/Main, 0
@@ -6411,7 +6409,6 @@ bucket/leopardwm.json, ScoopInstaller/Extras, 1
 bucket/lepton.json, ScoopInstaller/Extras, 1
 bucket/lertaro-portable.json, DoveBoy/Apps, 1
 bucket/less-beta.json, ScoopInstaller/Versions, 1
-bucket/less-windows.json, batkiz/backit, 1
 bucket/less.json, ScoopInstaller/Main, 1
 bucket/lessmsi.json, ScoopInstaller/Main, 1
 bucket/letos.json, ScoopInstaller/Extras, 1
@@ -6880,6 +6877,7 @@ bucket/md5.json, dodorz/scoop, 0
 bucket/md5checker-cn.json, hu3rror/scoop-muggle, 0
 bucket/md5checker.json, hu3rror/scoop-muggle, 0
 bucket/md5sums.json, dodorz/scoop, 0
+bucket/md66.json, dodorz/scoop, 1
 bucket/mdbook.json, ScoopInstaller/Main, 1
 bucket/mdcat.json, ScoopInstaller/Main, 1
 bucket/mdconv.json, batkiz/backit, 1
@@ -8937,7 +8935,6 @@ bucket/prime95.json, ScoopInstaller/Extras, 0
 bucket/primehack.json, Calinou/scoop-games, 1
 bucket/primesieve.json, ScoopInstaller/Main, 1
 bucket/prince.json, ScoopInstaller/Main, 0
-bucket/printcraft.json, batkiz/backit, 1
 bucket/prismlauncher-git.json, ScoopInstaller/Versions, 1
 bucket/prismlauncher-qt5.json, Calinou/scoop-games, 1
 bucket/prismlauncher.json, Calinou/scoop-games, 1
@@ -9760,7 +9757,7 @@ bucket/samsung-magician-np.json, rasa/scoops, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
+bucket/sandboxie-plus.json, DoveBoy/Apps, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1
@@ -11807,7 +11804,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, naderi/scoop-bucket, 1
+bucket/winscript.json, DoveBoy/Apps, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
