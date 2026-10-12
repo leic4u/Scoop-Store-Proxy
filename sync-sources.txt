@@ -306,7 +306,7 @@ bucket/CefDetector.json, ygguorun/scoop-bucket, 1
 bucket/CefDetectorX.json, Weidows-projects/scoop-3rd, 1
 bucket/CenterTaskbar-Portable.json, ACooper81/scoop-apps, 1
 bucket/Chakra-Petch.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/Charles.json, DoveBoy/Apps, 0
+bucket/Charles.json, chawyehsu/dorado, 0
 bucket/Charm.json, batkiz/backit, 1
 bucket/Charmonman.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/ChatALL-Portable.json, ACooper81/scoop-apps, 1
@@ -667,7 +667,7 @@ bucket/GSpot.json, dodorz/scoop, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
 bucket/GaiaSky.json, dodorz/scoop, 0
 bucket/Gajim.json, dodorz/scoop, 0
-bucket/Game-Cheats-Manager.json, cc713/ownscoop, 1
+bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/Gammadyne-CLI.json, dodorz/scoop, 0
 bucket/Gapminder.json, dodorz/scoop, 0
@@ -3559,11 +3559,11 @@ bucket/cryfs.json, naderi/scoop-bucket, 1
 bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
-bucket/crystaldiskinfo-aoi-edition.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
-bucket/crystaldiskinfo-shizuku-edition.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
@@ -5078,6 +5078,7 @@ bucket/gitversion-beta.json, ScoopInstaller/Versions, 0
 bucket/gitversion.json, ScoopInstaller/Main, 1
 bucket/gitwig.json, aliesbelik/poldi, 1
 bucket/gk.json, ScoopInstaller/Main, 1
+bucket/gkd.json, DoveBoy/Apps, 1
 bucket/glab.json, ScoopInstaller/Main, 0
 bucket/glary-utilities.json, ScoopInstaller/Extras, 0
 bucket/glasswire-lite-np.json, ScoopInstaller/Nonportable, 0
@@ -5527,6 +5528,9 @@ bucket/homebank.json, ScoopInstaller/Extras, 0
 bucket/homedale.json, kkzzhizhou/scoop-zapps, 0
 bucket/honeyview.json, ScoopInstaller/Extras, 0
 bucket/hongdown.json, ScoopInstaller/Extras, 1
+bucket/hongguo-desktop.json, DoveBoy/Apps, 1
+bucket/hongguo-drama.json, DoveBoy/Apps, 1
+bucket/hongguo-web.json, DoveBoy/Apps, 1
 bucket/hootvoice.json, jfut/scoop-jfut, 1
 bucket/hopp-cli.json, ScoopInstaller/Main, 1
 bucket/hoppscotch.json, ScoopInstaller/Extras, 1
