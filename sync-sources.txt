@@ -1990,7 +1990,7 @@ bucket/Waydir.json, dodorz/scoop, 1
 bucket/WazuhAgent-Install.json, ACooper81/scoop-apps, 0
 bucket/WeChat-Portable.json, Paxxs/Cluttered-bucket, 0
 bucket/WebCatalog-Portable.json, ACooper81/scoop-apps, 0
-bucket/WechatWork.json, kkzzhizhou/scoop-zapps, 1
+bucket/WechatWork.json, chawyehsu/dorado, 0
 bucket/WeekToDo.json, abgox/abgo_bucket, 1
 bucket/Wenquanyi-Microhei.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Wenquanyi-Zenhei.json, matthewjberger/scoop-nerd-fonts, 0
@@ -2279,7 +2279,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -11989,7 +11989,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu-dev.json, borger/scoop-emulators, 1
+bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
@@ -12532,7 +12532,6 @@ scripts/phoenix-protector/register-ilmerge-path.reg, ScoopInstaller/Extras, 0
 scripts/phoenix-protector/unregister-ilmerge-path.reg, ScoopInstaller/Extras, 0
 scripts/picotorrent/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/picotorrent/uninstall-associations.reg, ScoopInstaller/Extras, 0
-scripts/portable.ps1, ZvonimirSun/scoop-iszy, 0
 scripts/poweriso/instdrv.cmd, SayCV/scoop-cvp, 0
 scripts/poweriso/uninstdrv.cmd, SayCV/scoop-cvp, 0
 scripts/powertoys/install-context.ps1, ScoopInstaller/Extras, 0
