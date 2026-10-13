@@ -951,7 +951,7 @@ bucket/LeagueMono-variable.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Lekton-NF.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Lertaro.json, DoveBoy/Apps, 1
+bucket/Lertaro.json, cc713/ownscoop, 1
 bucket/LetsView.json, kkzzhizhou/scoop-zapps, 0
 bucket/LiberationMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LiberationMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
@@ -2340,7 +2340,7 @@ bucket/anime4k-glsl.json, brian6932/dank-scoop, 1
 bucket/anime4kcpp-cli.json, seumsc/scoop-seu, 1
 bucket/animeko-alpha.json, hu3rror/scoop-muggle, 1
 bucket/animeko-pre.json, DoveBoy/Apps, 1
-bucket/animeko.json, cc713/ownscoop, 0
+bucket/animeko.json, batkiz/backit, 0
 bucket/anki-np.json, ScoopInstaller/Nonportable, 1
 bucket/anki-with-sync.json, kkzzhizhou/scoop-zapps, 1
 bucket/anki.json, ScoopInstaller/Extras, 1
@@ -2775,7 +2775,7 @@ bucket/bili23-downloader.json, ScoopInstaller/Extras, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, chawyehsu/dorado, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-manga-downloader.json, DoveBoy/Apps, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -3680,7 +3680,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, DoveBoy/Apps, 1
+bucket/dandanplay.json, aoisummer/scoop-bucket, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -3805,7 +3805,7 @@ bucket/deskreen.json, ScoopInstaller/Extras, 1
 bucket/desktop-cc-gui.json, ViCrack/scoop-bucket, 1
 bucket/desktop-ini-editor.json, ScoopInstaller/Extras, 0
 bucket/desktopnaotu.json, hu3rror/scoop-muggle, 1
-bucket/desktopok.json, naderi/scoop-bucket, 0
+bucket/desktopok.json, dodorz/scoop, 0
 bucket/desktoppet.json, amorphobia/siku, 1
 bucket/desktops.json, niheaven/scoop-sysinternals, 1
 bucket/desmume-stable.json, hermanjustnu/scoop-emulators, 1
@@ -7830,6 +7830,7 @@ bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
 bucket/ofgb-with-runtime.json, DoveBoy/Apps, 1
 bucket/ofgb.json, DoveBoy/Apps, 1
 bucket/ofview.json, ScoopInstaller/Nirsoft, 0
+bucket/oh-my-openagent.json, ScoopInstaller/Extras, 0
 bucket/oh-my-pi.json, ScoopInstaller/Main, 1
 bucket/oh-my-posh-and-wsl.json, Paxxs/Cluttered-bucket, 1
 bucket/oh-my-posh.json, ScoopInstaller/Main, 1
@@ -7899,6 +7900,7 @@ bucket/onetrueawk.json, beerpiss/scoop-bucket, 0
 bucket/oni.json, ScoopInstaller/Extras, 1
 bucket/onionshare.json, ScoopInstaller/Extras, 1
 bucket/onlyoffice-desktopeditors.json, ScoopInstaller/Extras, 1
+bucket/onlyoffice.json, naderi/scoop-bucket, 1
 bucket/onthespot.json, ScoopInstaller/Extras, 1
 bucket/ontopreplica.json, ScoopInstaller/Extras, 1
 bucket/ooRexx.json, dodorz/scoop, 0
@@ -7918,7 +7920,7 @@ bucket/openark.json, ScoopInstaller/Extras, 0
 bucket/openbbterminal-pre.json, DoveBoy/Apps, 1
 bucket/openbbterminal.json, DoveBoy/Apps, 1
 bucket/openboard.json, ScoopInstaller/Extras, 1
-bucket/openchamber.json, batkiz/backit, 1
+bucket/openchamber.json, ScoopInstaller/Extras, 1
 bucket/openclonk.json, Calinou/scoop-games, 0
 bucket/openclosedriveeject.json, ScoopInstaller/Extras, 0
 bucket/opencode-desktop.json, ScoopInstaller/Extras, 1
@@ -7969,6 +7971,7 @@ bucket/openjdk8-redhat-jre.json, ScoopInstaller/Java, 1
 bucket/openjdk8-redhat.json, ScoopInstaller/Java, 1
 bucket/openjdk9.json, ScoopInstaller/Java, 0
 bucket/openkh.json, brian6932/dank-scoop, 1
+bucket/openknowledge.json, ScoopInstaller/Extras, 1
 bucket/openlens.json, ScoopInstaller/Extras, 1
 bucket/openliberty.json, ScoopInstaller/Extras, 0
 bucket/openlist.json, ScoopInstaller/Main, 1
@@ -8984,7 +8987,7 @@ bucket/propertree.json, ScoopInstaller/Extras, 1
 bucket/propertysystemview.json, ScoopInstaller/Nirsoft, 0
 bucket/protectedstoragepassview.json, kodybrown/scoop-nirsoft, 0
 bucket/protege.json, ScoopInstaller/Extras, 1
-bucket/proto.json, seumsc/scoop-seu, 1
+bucket/proto.json, ScoopInstaller/Main, 1
 bucket/protobuf.json, ScoopInstaller/Extras, 1
 bucket/protoc-gen-grpc-web.json, ScoopInstaller/Main, 1
 bucket/protoc.json, echoiron/echo-scoop, 1
@@ -11104,7 +11107,7 @@ bucket/typora1.2.5.json, ygguorun/scoop-bucket, 0
 bucket/typos.json, ScoopInstaller/Main, 1
 bucket/typst.json, ScoopInstaller/Main, 1
 bucket/typstyle.json, ScoopInstaller/Main, 1
-bucket/uTools.json, chawyehsu/dorado, 0
+bucket/uTools.json, ivaquero/scoopet, 0
 bucket/uabea.json, Calinou/scoop-games, 1
 bucket/uad-ng.json, ScoopInstaller/Extras, 1
 bucket/uad.json, DoveBoy/Apps, 1
