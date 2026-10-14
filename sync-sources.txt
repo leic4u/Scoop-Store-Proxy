@@ -684,6 +684,7 @@ bucket/GitHub520.json, Weidows-projects/scoop-3rd, 1
 bucket/GitHubDesktop-Install.json, ACooper81/scoop-apps, 0
 bucket/GitHubDesktop-Portable.json, ACooper81/scoop-apps, 0
 bucket/GitHubDesktop-UserInstall.json, ACooper81/scoop-apps, 0
+bucket/GitNote.json, dodorz/scoop, 1
 bucket/GithubStarsManager.json, Weidows-projects/scoop-3rd, 1
 bucket/GliderCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Glint.json, dodorz/scoop, 1
@@ -1990,7 +1991,7 @@ bucket/Waydir.json, dodorz/scoop, 1
 bucket/WazuhAgent-Install.json, ACooper81/scoop-apps, 0
 bucket/WeChat-Portable.json, Paxxs/Cluttered-bucket, 0
 bucket/WebCatalog-Portable.json, ACooper81/scoop-apps, 0
-bucket/WechatWork.json, chawyehsu/dorado, 0
+bucket/WechatWork.json, kkzzhizhou/scoop-zapps, 1
 bucket/WeekToDo.json, abgox/abgo_bucket, 1
 bucket/Wenquanyi-Microhei.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Wenquanyi-Zenhei.json, matthewjberger/scoop-nerd-fonts, 0
@@ -2279,7 +2280,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2340,7 +2341,7 @@ bucket/anime4k-glsl.json, brian6932/dank-scoop, 1
 bucket/anime4kcpp-cli.json, seumsc/scoop-seu, 1
 bucket/animeko-alpha.json, hu3rror/scoop-muggle, 1
 bucket/animeko-pre.json, DoveBoy/Apps, 1
-bucket/animeko.json, batkiz/backit, 0
+bucket/animeko.json, Weidows-projects/scoop-3rd, 1
 bucket/anki-np.json, ScoopInstaller/Nonportable, 1
 bucket/anki-with-sync.json, kkzzhizhou/scoop-zapps, 1
 bucket/anki.json, ScoopInstaller/Extras, 1
@@ -3805,7 +3806,7 @@ bucket/deskreen.json, ScoopInstaller/Extras, 1
 bucket/desktop-cc-gui.json, ViCrack/scoop-bucket, 1
 bucket/desktop-ini-editor.json, ScoopInstaller/Extras, 0
 bucket/desktopnaotu.json, hu3rror/scoop-muggle, 1
-bucket/desktopok.json, dodorz/scoop, 0
+bucket/desktopok.json, naderi/scoop-bucket, 0
 bucket/desktoppet.json, amorphobia/siku, 1
 bucket/desktops.json, niheaven/scoop-sysinternals, 1
 bucket/desmume-stable.json, hermanjustnu/scoop-emulators, 1
@@ -4027,7 +4028,7 @@ bucket/dottorrent-gui.json, ScoopInstaller/Extras, 1
 bucket/dottrace-api.json, ScoopInstaller/Main, 0
 bucket/dottrace-clt.json, ScoopInstaller/Main, 0
 bucket/dottrace.json, ScoopInstaller/Extras, 0
-bucket/doubao.json, akirco/aki-apps, 1
+bucket/doubao.json, dodorz/scoop, 0
 bucket/double-finder.json, amorphobia/siku, 0
 bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
@@ -5064,7 +5065,6 @@ bucket/gitkube.json, ScoopInstaller/Main, 1
 bucket/gitlab-release-cli.json, ScoopInstaller/Main, 0
 bucket/gitlab-runner.json, ScoopInstaller/Main, 0
 bucket/gitleaks.json, ScoopInstaller/Main, 1
-bucket/gitnote.json, naderi/scoop-bucket, 1
 bucket/gitnuro.json, ScoopInstaller/Extras, 1
 bucket/gitomatic.json, ScoopInstaller/Main, 1
 bucket/gitoxide.json, ScoopInstaller/Main, 1
@@ -6242,7 +6242,7 @@ bucket/kondo.json, ScoopInstaller/Main, 1
 bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -7398,6 +7398,7 @@ bucket/mupdf.json, ScoopInstaller/Extras, 1
 bucket/mupen64plus.json, borger/scoop-emulators, 1
 bucket/murata-simsurfing.json, SayCV/scoop-cvp, 0
 bucket/murphysec.json, batkiz/backit, 1
+bucket/muse-code.json, ScoopInstaller/Main, 0
 bucket/museeks.json, ScoopInstaller/Extras, 1
 bucket/musescore-nightly-with-file-associations.json, TheRandomLabs/Scoop-Bucket, 1
 bucket/musescore-nightly.json, ScoopInstaller/Versions, 0
@@ -7603,6 +7604,7 @@ bucket/nip4.json, ScoopInstaller/Extras, 1
 bucket/nircmd.json, ScoopInstaller/Main, 0
 bucket/nirext.json, ScoopInstaller/Nirsoft, 0
 bucket/nirlauncher.json, ScoopInstaller/Extras, 0
+bucket/nitshot.json, naderi/scoop-bucket, 1
 bucket/niubash.json, dodorz/scoop, 1
 bucket/nixpacks.json, ScoopInstaller/Main, 1
 bucket/nk2edit.json, ScoopInstaller/Nirsoft, 0
@@ -8215,7 +8217,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -10015,7 +10017,7 @@ bucket/shadowsocksr-csharp.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
-bucket/shadps4-dev.json, Calinou/scoop-games, 1
+bucket/shadps4-dev.json, borger/scoop-emulators, 1
 bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shandianshuo.json, dodorz/scoop, 0
 bucket/shareaza.json, ScoopInstaller/Extras, 0
@@ -11412,7 +11414,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
