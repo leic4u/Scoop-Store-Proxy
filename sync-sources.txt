@@ -216,7 +216,7 @@ bucket/BBDownNextGUI.json, cc713/ownscoop, 1
 bucket/BaGeShuo.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/BaiduTranslate.json, abgox/abgo_bucket, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -4591,7 +4591,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -5924,7 +5924,7 @@ bucket/jasob.json, SayCV/scoop-cvp, 0
 bucket/jasper.json, ScoopInstaller/Extras, 1
 bucket/java-chains.json, ViCrack/scoop-bucket, 1
 bucket/java-echo-generator-release.json, ViCrack/scoop-bucket, 1
-bucket/java-editor.json, naderi/scoop-bucket, 0
+bucket/java-editor.json, dodorz/scoop, 0
 bucket/java-memshell-generator.json, ViCrack/scoop-bucket, 1
 bucket/javascriptanimatorexpress.json, kodybrown/scoop-nirsoft, 0
 bucket/jazz2-resurrection.json, Calinou/scoop-games, 1
@@ -6117,7 +6117,7 @@ bucket/katrain.json, Calinou/scoop-games, 1
 bucket/kavita.json, ScoopInstaller/Extras, 1
 bucket/kawaii-player.json, ScoopInstaller/Extras, 1
 bucket/kaxaml.json, Deide/deide-bucket, 1
-bucket/kazumi.json, cc713/ownscoop, 1
+bucket/kazumi.json, wzv5/ScoopBucket, 1
 bucket/kbootopt.json, echoiron/echo-scoop, 0
 bucket/kcc.json, ScoopInstaller/Extras, 1
 bucket/kcleaner.json, echoiron/echo-scoop, 0
@@ -6372,7 +6372,7 @@ bucket/lazyssh.json, ScoopInstaller/Main, 1
 bucket/lazyworktree.json, aliesbelik/poldi, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
 bucket/lbry.json, ScoopInstaller/Extras, 1
-bucket/lceda-pro.json, chawyehsu/dorado, 0
+bucket/lceda-pro.json, ivaquero/scoopet, 0
 bucket/lceda.json, ivaquero/scoopet, 0
 bucket/lcow.json, ScoopInstaller/Versions, 1
 bucket/ldap-admin.json, ScoopInstaller/Extras, 0
@@ -9721,6 +9721,7 @@ bucket/rustdesk.json, ScoopInstaller/Extras, 1
 bucket/rustic.json, ScoopInstaller/Main, 1
 bucket/rustnet.json, ScoopInstaller/Main, 1
 bucket/rustrover.json, ScoopInstaller/Extras, 1
+bucket/rustscan.json, ScoopInstaller/Main, 1
 bucket/rustup-cvp.json, SayCV/scoop-cvp, 1
 bucket/rustup-gnu.json, ScoopInstaller/Main, 0
 bucket/rustup-msvc-np.json, chawyehsu/dorado, 1
@@ -10168,6 +10169,7 @@ bucket/smarttaskbar.json, ScoopInstaller/Extras, 1
 bucket/smartty.json, ScoopInstaller/Extras, 0
 bucket/smartversion.json, jingyu9575/scoop-jingyu9575, 0
 bucket/smartzip.json, hu3rror/scoop-muggle, 1
+bucket/smassh.json, ScoopInstaller/Main, 1
 bucket/smiley-sans-dev.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/smiley-sans.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/smimesign.json, ScoopInstaller/Main, 1
@@ -10365,6 +10367,7 @@ bucket/ss.json, DoveBoy/Apps, 1
 bucket/ssd-z.json, ScoopInstaller/Extras, 0
 bucket/ssed.json, dodorz/scoop, 0
 bucket/ssh-agent-wsl.json, ScoopInstaller/Extras, 1
+bucket/ssh-audit.json, ScoopInstaller/Main, 1
 bucket/ssh-chat.json, MCOfficer/scoop-bucket, 1
 bucket/ssh3.json, ScoopInstaller/Main, 1
 bucket/sshfs-np-beta.json, brian6932/dank-scoop, 1
@@ -11064,7 +11067,7 @@ bucket/tubatools-portable.json, DoveBoy/Apps, 1
 bucket/tubatools.json, DoveBoy/Apps, 1
 bucket/tuicr.json, ScoopInstaller/Main, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
-bucket/tuios.json, iquiw/scoop-bucket, 1
+bucket/tuios.json, dodorz/scoop, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
@@ -11415,7 +11418,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
