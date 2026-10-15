@@ -10303,6 +10303,7 @@ bucket/spicetify-cli.json, ScoopInstaller/Main, 1
 bucket/spicetify-jqbx.json, TheRandomLabs/Scoop-Spotify, 1
 bucket/spicetify-themes.json, ScoopInstaller/Extras, 1
 bucket/spim.json, amorphobia/siku, 0
+bucket/sping.json, aliesbelik/poldi, 1
 bucket/splashtop-business-access.json, ScoopInstaller/Extras, 0
 bucket/splayer-beta.json, DoveBoy/Apps, 1
 bucket/splayer.json, DoveBoy/Apps, 1
