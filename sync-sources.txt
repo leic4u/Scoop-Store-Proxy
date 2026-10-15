@@ -371,7 +371,7 @@ bucket/CompileAHK.json, kkzzhizhou/scoop-zapps, 1
 bucket/ComputerManagementDsc-PSModule.json, ACooper81/scoop-apps, 1
 bucket/ContextMenuManager-Portable.json, ACooper81/scoop-apps, 1
 bucket/ContextMenuManager.json, abgox/abgo_bucket, 1
-bucket/ContextMenuManagerPlus.json, cc713/ownscoop, 1
+bucket/ContextMenuManagerPlus.json, DoveBoy/Apps, 1
 bucket/ContextMenuMgr.json, zhoujin7/tomato, 0
 bucket/ControlUWP-Portable.json, ACooper81/scoop-apps, 1
 bucket/ControllerMeta.json, hu3rror/scoop-muggle, 1
@@ -4113,7 +4113,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -5244,7 +5244,7 @@ bucket/gopeed-web-pre.json, DoveBoy/Apps, 1
 bucket/gopeed-web.json, DoveBoy/Apps, 1
 bucket/gopeed.json, ScoopInstaller/Extras, 1
 bucket/gopher360.json, ScoopInstaller/Extras, 1
-bucket/gopher64.json, Calinou/scoop-games, 1
+bucket/gopher64.json, borger/scoop-emulators, 1
 bucket/gopls.json, iquiw/scoop-bucket, 1
 bucket/goproxy.json, kkzzhizhou/scoop-zapps, 1
 bucket/goread.json, batkiz/backit, 1
@@ -7533,7 +7533,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -9622,7 +9622,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Deide/deide-bucket, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rq.json, aliesbelik/poldi, 1
