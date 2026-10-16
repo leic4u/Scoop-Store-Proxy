@@ -1505,6 +1505,7 @@ bucket/RunCat-zhiyin.json, Weidows-projects/scoop-3rd, 1
 bucket/RundeckCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Rusl.json, dodorz/scoop, 1
 bucket/RustDesk-Portable.json, ACooper81/scoop-apps, 1
+bucket/RustGrid.json, dodorz/scoop, 1
 bucket/Rymdport-Portable.json, ACooper81/scoop-apps, 1
 bucket/RyzenController-Portable.json, ACooper81/scoop-apps, 0
 bucket/SABnzbd-Portable.json, ACooper81/scoop-apps, 1
@@ -2281,7 +2282,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -6838,7 +6839,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -6937,6 +6938,7 @@ bucket/mekhq.json, Calinou/scoop-games, 1
 bucket/meld.json, ScoopInstaller/Extras, 0
 bucket/mellow.json, ScoopInstaller/Extras, 1
 bucket/mellowplayer.json, ScoopInstaller/Extras, 1
+bucket/melodia.json, DoveBoy/Apps, 1
 bucket/melonds.json, Calinou/scoop-games, 1
 bucket/melonloader-installer.json, brian6932/dank-scoop, 1
 bucket/memcached.json, ScoopInstaller/Main, 1
@@ -7484,6 +7486,7 @@ bucket/nbtexplorer.json, Calinou/scoop-games, 1
 bucket/ncftpclient.json, ScoopInstaller/Extras, 0
 bucket/ncmpc.json, ScoopInstaller/Extras, 0
 bucket/nconvert.json, ScoopInstaller/Main, 0
+bucket/ncrust.json, DoveBoy/Apps, 1
 bucket/ncspot.json, ScoopInstaller/Main, 1
 bucket/ndm.json, ScoopInstaller/Extras, 1
 bucket/neat-converter.json, hu3rror/scoop-muggle, 0
@@ -8962,7 +8965,7 @@ bucket/prm.json, ScoopInstaller/Main, 1
 bucket/probe-rs.json, ScoopInstaller/Main, 1
 bucket/procdump.json, niheaven/scoop-sysinternals, 1
 bucket/process-compose.json, ScoopInstaller/Extras, 1
-bucket/process-explorer.json, niheaven/scoop-sysinternals, 1
+bucket/process-explorer.json, chawyehsu/dorado, 0
 bucket/process-governor.json, ScoopInstaller/Main, 1
 bucket/process-monitor.json, chawyehsu/dorado, 0
 bucket/processactivityview.json, ScoopInstaller/Nirsoft, 0
@@ -9624,7 +9627,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rq.json, aliesbelik/poldi, 1
@@ -11076,7 +11079,7 @@ bucket/tubatools-portable.json, DoveBoy/Apps, 1
 bucket/tubatools.json, DoveBoy/Apps, 1
 bucket/tuicr.json, ScoopInstaller/Main, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
-bucket/tuios.json, iquiw/scoop-bucket, 1
+bucket/tuios.json, dodorz/scoop, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
