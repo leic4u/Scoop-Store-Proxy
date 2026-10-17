@@ -589,7 +589,6 @@ bucket/FeiQ.json, dodorz/scoop, 0
 bucket/FeiShu.json, scoopcn/scoopcn, 0
 bucket/FerdiumNightly-Portable.json, ACooper81/scoop-apps, 1
 bucket/Fido-PSScript.json, ACooper81/scoop-apps, 1
-bucket/FigCraft.json, dodorz/scoop, 1
 bucket/FileCentipede.json, leic4u/Scoop-Store, 1
 bucket/FileLocatorLite.json, dodorz/scoop, 0
 bucket/FileLocatorPro.json, kkzzhizhou/scoop-zapps, 1
@@ -4548,6 +4547,7 @@ bucket/fiddler-classic.json, HUMORCE/nuke, 0
 bucket/fiddler-everywhere.json, seumsc/scoop-seu, 0
 bucket/fiddler.json, ScoopInstaller/Extras, 0
 bucket/fido.json, amorphobia/siku, 1
+bucket/figcraft.json, ScoopInstaller/Extras, 1
 bucket/figlet.json, ScoopInstaller/Main, 1
 bucket/figma.json, ScoopInstaller/Extras, 0
 bucket/figtree-variable.json, KnotUntied/scoop-fonts, 0
@@ -9630,7 +9630,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rq.json, aliesbelik/poldi, 1
@@ -9781,7 +9781,7 @@ bucket/samsung-magician-np.json, rasa/scoops, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
+bucket/sandboxie-plus.json, DoveBoy/Apps, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1
@@ -12019,7 +12019,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu-dev.json, Calinou/scoop-games, 1
+bucket/xemu-dev.json, borger/scoop-emulators, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
