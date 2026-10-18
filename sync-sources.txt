@@ -614,7 +614,7 @@ bucket/FiraMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FiraMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FireAlpaca.json, dodorz/scoop, 0
 bucket/Firefox-Install.json, ACooper81/scoop-apps, 0
-bucket/Firefox-Portable.json, naderi/scoop-bucket, 0
+bucket/Firefox-Portable.json, ACooper81/scoop-apps, 0
 bucket/FirefoxBeta-Portable.json, ACooper81/scoop-apps, 0
 bucket/FirefoxDeveloper-Portable.json, ACooper81/scoop-apps, 0
 bucket/FirefoxNightly-Portable.json, ACooper81/scoop-apps, 0
@@ -3428,7 +3428,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, batkiz/backit, 1
+bucket/con-terminal.json, dodorz/scoop, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -3931,7 +3931,7 @@ bucket/dn-tool-container.json, ScoopInstaller/Extras, 1
 bucket/dnSpyEx-nightly.json, NyaMisty/scoop_bucket_misty, 0
 bucket/dnglab.json, aliesbelik/poldi, 1
 bucket/dngrep.json, ScoopInstaller/Extras, 1
-bucket/dnote.json, dodorz/scoop, 1
+bucket/dnote.json, batkiz/backit, 1
 bucket/dns-jumper.json, ChinLong/scoop-customize, 0
 bucket/dns-safeguard.json, brian6932/dank-scoop, 1
 bucket/dnsbench.json, rasa/scoops, 0
@@ -4116,7 +4116,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -8941,7 +8941,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -9631,7 +9631,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rq.json, aliesbelik/poldi, 1
@@ -9782,7 +9782,7 @@ bucket/samsung-magician-np.json, rasa/scoops, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, DoveBoy/Apps, 1
+bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1
@@ -10035,7 +10035,7 @@ bucket/shadowsocksr-csharp.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
-bucket/shadps4-dev.json, borger/scoop-emulators, 1
+bucket/shadps4-dev.json, Calinou/scoop-games, 1
 bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shandianshuo.json, dodorz/scoop, 0
 bucket/shareaza.json, ScoopInstaller/Extras, 0
@@ -11085,7 +11085,7 @@ bucket/tubatools-portable.json, DoveBoy/Apps, 1
 bucket/tubatools.json, DoveBoy/Apps, 1
 bucket/tuicr.json, ScoopInstaller/Main, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
-bucket/tuios.json, dodorz/scoop, 1
+bucket/tuios.json, iquiw/scoop-bucket, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
@@ -11438,7 +11438,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
