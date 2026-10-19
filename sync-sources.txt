@@ -2284,7 +2284,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3428,7 +3428,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, batkiz/backit, 1
+bucket/con-terminal.json, dodorz/scoop, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -4116,7 +4116,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -5930,7 +5930,7 @@ bucket/jasob.json, SayCV/scoop-cvp, 0
 bucket/jasper.json, ScoopInstaller/Extras, 1
 bucket/java-chains.json, ViCrack/scoop-bucket, 1
 bucket/java-echo-generator-release.json, ViCrack/scoop-bucket, 1
-bucket/java-editor.json, dodorz/scoop, 0
+bucket/java-editor.json, naderi/scoop-bucket, 0
 bucket/java-memshell-generator.json, ViCrack/scoop-bucket, 1
 bucket/javascriptanimatorexpress.json, kodybrown/scoop-nirsoft, 0
 bucket/jazz2-resurrection.json, Calinou/scoop-games, 1
@@ -6064,7 +6064,7 @@ bucket/junction.json, niheaven/scoop-sysinternals, 1
 bucket/just-lsp.json, ScoopInstaller/Main, 1
 bucket/just.json, ScoopInstaller/Main, 1
 bucket/justasplanned.json, beerpiss/scoop-bucket, 1
-bucket/justcolorpicker.json, chawyehsu/dorado, 0
+bucket/justcolorpicker.json, naderi/scoop-bucket, 0
 bucket/justmd.json, dodorz/scoop, 1
 bucket/jvms.json, Weidows-projects/scoop-3rd, 1
 bucket/jwno.json, naderi/scoop-bucket, 1
@@ -6186,6 +6186,8 @@ bucket/keysmith-switch.json, ViCrack/scoop-bucket, 1
 bucket/keystore-explorer.json, ScoopInstaller/Extras, 1
 bucket/keyviz-dart.json, brian6932/dank-scoop, 1
 bucket/keyviz.json, ScoopInstaller/Extras, 1
+bucket/ki-editor-master.json, ScoopInstaller/Versions, 1
+bucket/ki-editor.json, ScoopInstaller/Main, 1
 bucket/kibana.json, ScoopInstaller/Extras, 0
 bucket/kicad-cn.json, ivaquero/scoopet, 0
 bucket/kicad-lite-nightly.json, ScoopInstaller/Versions, 0
@@ -7835,7 +7837,7 @@ bucket/officeins.json, ScoopInstaller/Nirsoft, 0
 bucket/officetool-dotnet.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetool.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetoolplus-with-runtime.json, DoveBoy/Apps, 1
-bucket/officetoolplus.json, akirco/aki-apps, 1
+bucket/officetoolplus.json, naderi/scoop-bucket, 1
 bucket/offlineinsiderenroll.json, ScoopInstaller/Main, 1
 bucket/offlineregistryfinder.json, ScoopInstaller/Nirsoft, 0
 bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
@@ -8941,7 +8943,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -9631,7 +9633,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rq.json, aliesbelik/poldi, 1
@@ -11438,7 +11440,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
