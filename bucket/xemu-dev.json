@@ -1,5 +1,5 @@
 {
-  "version": "0.8.137-13-g0103939ba4",
+  "version": "0.8.137-18-g578094b834",
   "description": "Original Xbox Emulator (development version)",
   "homepage": "https://xemu.app",
   "license": {
@@ -16,12 +16,12 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-0.8.137-13-g0103939ba4-windows-x86_64.zip",
-      "hash": "f15d103a11c970decdb5f15b6cb4a8993accd1acd475ed7b75f247f5e39f6616"
+      "url": "https://ghgo.xyz/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-0.8.137-18-g578094b834-windows-x86_64.zip",
+      "hash": "118c8bfc7b694a822f329257132686c79b0ce71aa89691adeb8d7f848a780281"
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-0.8.137-13-g0103939ba4-windows-arm64.zip",
-      "hash": "240f043ab7dee1af821ab7b9be7b30b79731583d0b6ef49d0e454618e8517b37"
+      "url": "https://ghgo.xyz/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-0.8.137-18-g578094b834-windows-arm64.zip",
+      "hash": "959b94f0c6e8c1c18ff4a5211d585adc4903455fa1d5881916a1c2f0d5a391a1"
     }
   },
   "pre_install": [
@@ -54,7 +54,7 @@
   "shortcuts": [
     [
       "xemu.exe",
-      "xemu (Development)"
+      "Microsoft Xbox [xbx][xemu] (dev)"
     ]
   ],
   "persist": [
