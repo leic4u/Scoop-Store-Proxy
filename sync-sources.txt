@@ -3428,7 +3428,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, dodorz/scoop, 1
+bucket/con-terminal.json, batkiz/backit, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -4116,7 +4116,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -4597,7 +4597,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -6844,7 +6844,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -7932,6 +7932,7 @@ bucket/openallegroparser.json, SayCV/scoop-cvp, 1
 bucket/openapi-generator-cli.json, ScoopInstaller/Main, 0
 bucket/openarena.json, Calinou/scoop-games, 0
 bucket/openark.json, ScoopInstaller/Extras, 0
+bucket/openbao.json, ScoopInstaller/Main, 1
 bucket/openbbterminal-pre.json, DoveBoy/Apps, 1
 bucket/openbbterminal.json, DoveBoy/Apps, 1
 bucket/openboard.json, ScoopInstaller/Extras, 1
@@ -8943,7 +8944,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -9410,6 +9411,7 @@ bucket/rcon-cli.json, chawyehsu/dorado, 1
 bucket/rdcman.json, niheaven/scoop-sysinternals, 1
 bucket/rdiff-backup.json, ScoopInstaller/Main, 1
 bucket/rdpv.json, ScoopInstaller/Nirsoft, 0
+bucket/reach.json, ScoopInstaller/Extras, 1
 bucket/reachable.json, MCOfficer/scoop-bucket, 1
 bucket/react-native-debugger.json, ScoopInstaller/Extras, 1
 bucket/readany.json, DoveBoy/Apps, 1
@@ -10143,6 +10145,7 @@ bucket/siyuan-note.json, ScoopInstaller/Extras, 1
 bucket/sizer.json, starise/Scoop-Confetti, 0
 bucket/skaffold.json, ScoopInstaller/Extras, 1
 bucket/skiff.json, DoveBoy/Apps, 1
+bucket/skills-manager.json, ScoopInstaller/Extras, 1
 bucket/skim.json, ScoopInstaller/Main, 1
 bucket/skm.json, MCOfficer/scoop-bucket, 1
 bucket/sky-tv.json, DoveBoy/Apps, 1
@@ -11440,7 +11443,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -11994,6 +11997,7 @@ bucket/wxhexeditor.json, ScoopInstaller/Extras, 0
 bucket/wxmedit.json, naderi/scoop-bucket, 0
 bucket/wxwork.json, scoopcn/scoopcn, 0
 bucket/wyrmsun.json, Calinou/scoop-games, 1
+bucket/x-anylabeling.json, ScoopInstaller/Extras, 1
 bucket/x-studio.json, Weidows-projects/scoop-3rd, 1
 bucket/x264.json, ScoopInstaller/Main, 0
 bucket/x265.json, ScoopInstaller/Main, 0
