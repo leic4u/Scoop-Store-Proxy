@@ -2592,6 +2592,7 @@ bucket/awareness.json, ScoopInstaller/Extras, 0
 bucket/awatch.json, ScoopInstaller/Nirsoft, 0
 bucket/awesomebump.json, ScoopInstaller/Extras, 1
 bucket/awgg.json, naderi/scoop-bucket, 1
+bucket/awless-ro.json, aliesbelik/poldi, 1
 bucket/aws-amplify.json, ScoopInstaller/Main, 1
 bucket/aws-copilot.json, ScoopInstaller/Main, 1
 bucket/aws-ecs.json, ScoopInstaller/Main, 0
