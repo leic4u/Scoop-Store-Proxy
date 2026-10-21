@@ -1246,6 +1246,8 @@ bucket/OhMyPPT.json, dodorz/scoop, 1
 bucket/OneQuick.json, dodorz/scoop, 1
 bucket/Open-Sans.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/OpenBoard-Portable.json, ACooper81/scoop-apps, 1
+bucket/OpenCompare.json, dodorz/scoop, 1
+bucket/OpenDiff.json, dodorz/scoop, 1
 bucket/OpenDyslexic-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/OpenDyslexic-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/OpenDyslexic-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3087,6 +3089,7 @@ bucket/cataclysm-dda-tiles.json, Calinou/scoop-games, 1
 bucket/cataclysm-dda.json, Calinou/scoop-games, 1
 bucket/catalyst.json, ScoopInstaller/Extras, 1
 bucket/catbox.json, brian6932/dank-scoop, 1
+bucket/cate.json, ScoopInstaller/Extras, 1
 bucket/catime.json, ScoopInstaller/Extras, 1
 bucket/catsxp.json, naderi/scoop-bucket, 0
 bucket/cava.json, Deide/deide-bucket, 1
@@ -4565,6 +4568,8 @@ bucket/filebot.json, ScoopInstaller/Extras, 0
 bucket/filebrowser.json, amorphobia/siku, 1
 bucket/filecode-checker.json, mo-san/scoop-bucket, 0
 bucket/fileconverter.json, DoveBoy/Apps, 1
+bucket/filee-portable.json, DoveBoy/Apps, 1
+bucket/filee.json, DoveBoy/Apps, 1
 bucket/filelight-nightly.json, ScoopInstaller/Versions, 0
 bucket/filelight.json, ScoopInstaller/Extras, 0
 bucket/filelist.json, starise/Scoop-Confetti, 0
@@ -5445,6 +5450,7 @@ bucket/haskell863.json, ScoopInstaller/Versions, 0
 bucket/haskplex.json, KnotUntied/scoop-fonts, 0
 bucket/hasura-cli.json, ScoopInstaller/Main, 1
 bucket/hatch.json, ScoopInstaller/Main, 1
+bucket/hatoba.json, ScoopInstaller/Extras, 1
 bucket/haxe-dev.json, ScoopInstaller/Versions, 1
 bucket/haxe.json, ScoopInstaller/Main, 1
 bucket/hayabusa.json, ScoopInstaller/Main, 1
@@ -7187,6 +7193,7 @@ bucket/mmcompview.json, kodybrown/scoop-nirsoft, 0
 bucket/mmcsnapinsview.json, ScoopInstaller/Nirsoft, 0
 bucket/mmdr.json, ScoopInstaller/Main, 1
 bucket/mmview.json, ScoopInstaller/Nirsoft, 0
+bucket/mnemon.json, ScoopInstaller/Main, 1
 bucket/mo.json, iquiw/scoop-bucket, 1
 bucket/mo2.json, Calinou/scoop-games, 1
 bucket/mob.json, ScoopInstaller/Main, 1
@@ -8236,7 +8243,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9639,7 +9646,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rq.json, aliesbelik/poldi, 1
@@ -10305,7 +10312,7 @@ bucket/special-k.json, ScoopInstaller/Extras, 0
 bucket/specialfoldersview.json, ScoopInstaller/Nirsoft, 0
 bucket/speed-dreams.json, Calinou/scoop-games, 0
 bucket/speedbump.json, aliesbelik/poldi, 1
-bucket/speedcrunch.json, ScoopInstaller/Extras, 0
+bucket/speedcrunch.json, ScoopInstaller/Extras, 1
 bucket/speedfan.json, ScoopInstaller/Extras, 0
 bucket/speedtest-cli.json, ScoopInstaller/Main, 0
 bucket/speedtest-go.json, ScoopInstaller/Main, 1
