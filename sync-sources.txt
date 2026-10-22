@@ -1005,7 +1005,7 @@ bucket/MPlus-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MPlus-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MPlus-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MSEdgeRedirect-Portable.json, ACooper81/scoop-apps, 1
-bucket/MSIME.json, cc713/ownscoop, 1
+bucket/MSIME.json, Weidows-projects/scoop-3rd, 1
 bucket/MTool.json, cc713/ownscoop, 0
 bucket/MaaNTE.json, Weidows-projects/scoop-3rd, 1
 bucket/MadEdit-mod.json, dodorz/scoop, 0
@@ -2286,7 +2286,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -7821,7 +7821,7 @@ bucket/occt.json, brian6932/dank-scoop, 0
 bucket/ocenaudio.json, ScoopInstaller/Extras, 0
 bucket/oci-cli.json, ScoopInstaller/Main, 1
 bucket/octant.json, ScoopInstaller/Extras, 1
-bucket/octarine.json, dodorz/scoop, 0
+bucket/octarine.json, cderv/r-bucket, 0
 bucket/octave-cn.json, ivaquero/scoopet, 0
 bucket/octave.json, ScoopInstaller/Main, 0
 bucket/octopustools.json, ScoopInstaller/Main, 1
@@ -8796,7 +8796,7 @@ bucket/pikatorrent.json, DoveBoy/Apps, 1
 bucket/pikpak.json, akirco/aki-apps, 0
 bucket/pilinara-portable.json, DoveBoy/Apps, 1
 bucket/piliplus-portable.json, DoveBoy/Apps, 1
-bucket/pinact.json, chawyehsu/dorado, 1
+bucket/pinact.json, aliesbelik/poldi, 1
 bucket/pinata.json, aliesbelik/poldi, 1
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineflash.json, ScoopInstaller/Extras, 1
@@ -9200,6 +9200,7 @@ bucket/pyzo.json, ScoopInstaller/Extras, 1
 bucket/q-dir.json, ScoopInstaller/Extras, 0
 bucket/q-dns.json, ScoopInstaller/Main, 1
 bucket/q.json, ScoopInstaller/Main, 1
+bucket/q2-nightly.json, cderv/r-bucket, 1
 bucket/q2.json, cderv/r-bucket, 1
 bucket/q2pro.json, Calinou/scoop-games, 0
 bucket/qBittorrent-Install.json, ACooper81/scoop-apps, 0
@@ -9234,7 +9235,7 @@ bucket/qilin.json, naderi/scoop-bucket, 1
 bucket/qimgv-dev.json, cc713/ownscoop, 1
 bucket/qimgv-video.json, ScoopInstaller/Extras, 1
 bucket/qimgv.json, ScoopInstaller/Extras, 1
-bucket/qingjian.json, ivaquero/scoopet, 1
+bucket/qingjian.json, cc713/ownscoop, 1
 bucket/qkeymapper-qt5.json, DoveBoy/Apps, 1
 bucket/qkeymapper-qt6.json, DoveBoy/Apps, 1
 bucket/qm-py.json, couleur-tweak-tips/utils, 1
