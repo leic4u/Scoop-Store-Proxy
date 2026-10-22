@@ -3904,6 +3904,7 @@ bucket/diskspd.json, ScoopInstaller/Extras, 1
 bucket/diskus.json, ScoopInstaller/Extras, 1
 bucket/diskusage.json, aliesbelik/poldi, 1
 bucket/diskview.json, niheaven/scoop-sysinternals, 1
+bucket/diskwatch.json, ScoopInstaller/Main, 1
 bucket/dismplusplus.json, ScoopInstaller/Extras, 1
 bucket/dismpp.json, echoiron/echo-scoop, 1
 bucket/dispatch.json, brian6932/dank-scoop, 1
@@ -4050,6 +4051,8 @@ bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
 bucket/doxx.json, dodorz/scoop, 1
 bucket/doxygen.json, ScoopInstaller/Main, 1
+bucket/dpanel-desktop-ce.json, ScoopInstaller/Extras, 1
+bucket/dpanel-desktop-pe.json, ScoopInstaller/Extras, 1
 bucket/dpeaklim.json, seumsc/scoop-seu, 0
 bucket/dprint.json, ScoopInstaller/Main, 1
 bucket/dps8m.json, chawyehsu/dorado, 0
@@ -7290,6 +7293,7 @@ bucket/mozjpeg.json, ScoopInstaller/Main, 1
 bucket/mozlz4.json, ScoopInstaller/Extras, 1
 bucket/mozregression-gui.json, ScoopInstaller/Extras, 1
 bucket/mp3directcut.json, ScoopInstaller/Extras, 0
+bucket/mp3rgain-gui.json, ScoopInstaller/Extras, 1
 bucket/mp3tag.json, ScoopInstaller/Extras, 0
 bucket/mp4muxer.json, naderi/scoop-bucket, 0
 bucket/mpc-be.json, ScoopInstaller/Extras, 1
@@ -9235,7 +9239,7 @@ bucket/qilin.json, naderi/scoop-bucket, 1
 bucket/qimgv-dev.json, cc713/ownscoop, 1
 bucket/qimgv-video.json, ScoopInstaller/Extras, 1
 bucket/qimgv.json, ScoopInstaller/Extras, 1
-bucket/qingjian.json, cc713/ownscoop, 1
+bucket/qingjian.json, ivaquero/scoopet, 1
 bucket/qkeymapper-qt5.json, DoveBoy/Apps, 1
 bucket/qkeymapper-qt6.json, DoveBoy/Apps, 1
 bucket/qm-py.json, couleur-tweak-tips/utils, 1
@@ -10957,6 +10961,7 @@ bucket/tinytex-extra.json, cderv/r-bucket, 1
 bucket/tinytex-min.json, cderv/r-bucket, 1
 bucket/tinytex.json, cderv/r-bucket, 1
 bucket/tixati.json, ScoopInstaller/Extras, 0
+bucket/tixl.json, ScoopInstaller/Extras, 1
 bucket/tkdiff.json, dodorz/scoop, 0
 bucket/tlaplus-toolbox.json, ScoopInstaller/Extras, 1
 bucket/tldr.json, ScoopInstaller/Main, 1
@@ -11294,7 +11299,7 @@ bucket/usblogview.json, ScoopInstaller/Nirsoft, 0
 bucket/usblyzer.json, SayCV/scoop-cvp, 0
 bucket/usbtrace.json, SayCV/scoop-cvp, 0
 bucket/usbtree.json, ScoopInstaller/Main, 1
-bucket/usbtreeview.json, rasa/scoops, 0
+bucket/usbtreeview.json, dodorz/scoop, 0
 bucket/usbwriter.json, ChinLong/scoop-customize, 0
 bucket/userassistview.json, ScoopInstaller/Nirsoft, 0
 bucket/userbenchmark.json, ScoopInstaller/Extras, 0
