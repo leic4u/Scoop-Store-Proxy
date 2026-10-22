@@ -1800,7 +1800,7 @@ bucket/Thunder.json, ygguorun/scoop-bucket, 0
 bucket/ThunderS.json, hu3rror/scoop-muggle, 0
 bucket/ThunderSpeed.json, kkzzhizhou/scoop-zapps, 1
 bucket/Thunderbird-CN.json, abgox/abgo_bucket, 0
-bucket/Thunderbird-Portable.json, naderi/scoop-bucket, 0
+bucket/Thunderbird-Portable.json, ACooper81/scoop-apps, 0
 bucket/TianRuoOCR.json, kkzzhizhou/scoop-zapps, 1
 bucket/Tickeys-Portable.json, ACooper81/scoop-apps, 0
 bucket/TidGi.json, dodorz/scoop, 1
@@ -7821,7 +7821,7 @@ bucket/occt.json, brian6932/dank-scoop, 0
 bucket/ocenaudio.json, ScoopInstaller/Extras, 0
 bucket/oci-cli.json, ScoopInstaller/Main, 1
 bucket/octant.json, ScoopInstaller/Extras, 1
-bucket/octarine.json, cderv/r-bucket, 0
+bucket/octarine.json, dodorz/scoop, 0
 bucket/octave-cn.json, ivaquero/scoopet, 0
 bucket/octave.json, ScoopInstaller/Main, 0
 bucket/octopustools.json, ScoopInstaller/Main, 1
@@ -12043,7 +12043,7 @@ bucket/xdman-beta.json, ScoopInstaller/Versions, 1
 bucket/xdman.json, ScoopInstaller/Extras, 1
 bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xebra.json, Calinou/scoop-games, 0
-bucket/xemu-dev.json, borger/scoop-emulators, 1
+bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
