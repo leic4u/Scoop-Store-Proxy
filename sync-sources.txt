@@ -2287,7 +2287,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3434,7 +3434,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, batkiz/backit, 1
+bucket/con-terminal.json, dodorz/scoop, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -8804,7 +8804,7 @@ bucket/pikatorrent.json, DoveBoy/Apps, 1
 bucket/pikpak.json, akirco/aki-apps, 0
 bucket/pilinara-portable.json, DoveBoy/Apps, 1
 bucket/piliplus-portable.json, DoveBoy/Apps, 1
-bucket/pinact.json, aliesbelik/poldi, 1
+bucket/pinact.json, chawyehsu/dorado, 1
 bucket/pinata.json, aliesbelik/poldi, 1
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineflash.json, ScoopInstaller/Extras, 1
@@ -9658,7 +9658,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rq.json, aliesbelik/poldi, 1
@@ -11303,7 +11303,7 @@ bucket/usblogview.json, ScoopInstaller/Nirsoft, 0
 bucket/usblyzer.json, SayCV/scoop-cvp, 0
 bucket/usbtrace.json, SayCV/scoop-cvp, 0
 bucket/usbtree.json, ScoopInstaller/Main, 1
-bucket/usbtreeview.json, dodorz/scoop, 0
+bucket/usbtreeview.json, rasa/scoops, 0
 bucket/usbwriter.json, ChinLong/scoop-customize, 0
 bucket/userassistview.json, ScoopInstaller/Nirsoft, 0
 bucket/userbenchmark.json, ScoopInstaller/Extras, 0
