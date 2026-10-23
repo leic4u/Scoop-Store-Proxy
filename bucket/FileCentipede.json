@@ -1,13 +1,13 @@
 {
-  "version": "2.82.0",
+  "version": "2.9",
   "description": "An All-In-One internet file upload/download manager, BitTorrent Client, WebDAV client, FTP client, and SSH client.",
   "homepage": "https://filecxx.com/",
   "license": "Freeware",
   "notes": "If you want scoop to uninstall the service during the un-installation process, use the `-p` switch (this will also remove all persisted files)",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/filecxx/FileCentipede/releases/download/v2.82.0/filecxx_2.82_win_x64.zip",
-      "hash": "f0bdef157f45ae1652ede116ebe98d889d163e5c094e88a076e917989742fe1e"
+      "url": "https://ghgo.xyz/https://github.com/filecxx/FileCentipede/releases/download/2.9/filecxx_2.9_win_x64.zip",
+      "hash": "846d39d47ac0ebf3635076ca82d28f65fc1e6d5645d7fcb8d8b743e4b1a82465"
     }
   },
   "pre_install": [
