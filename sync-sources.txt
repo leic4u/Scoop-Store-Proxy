@@ -983,6 +983,7 @@ bucket/LogitechOptions-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/LogitechSetPoint-Install.json, ACooper81/scoop-apps, 0
 bucket/LogitechUnifyingSoftware-Install.json, ACooper81/scoop-apps, 0
 bucket/LuDaShi.json, kkzzhizhou/scoop-zapps, 1
+bucket/LucasChess.json, cc713/ownscoop, 1
 bucket/LunaBox.json, Weidows-projects/scoop-3rd, 1
 bucket/Lunacy-Portable.json, ACooper81/scoop-apps, 0
 bucket/LuxCLI-Portable.json, ACooper81/scoop-apps, 1
@@ -1304,6 +1305,7 @@ bucket/PSHash-Portable.json, ACooper81/scoop-apps, 0
 bucket/PSScoop-PSModule.json, ACooper81/scoop-apps, 1
 bucket/PSScriptTools-PSModule.json, ACooper81/scoop-apps, 0
 bucket/PSWindowsUpdate-PSModule.json, ACooper81/scoop-apps, 0
+bucket/PaddiChess.json, cc713/ownscoop, 1
 bucket/PalCalc.json, cc713/ownscoop, 1
 bucket/PanDownloadServer.json, Paxxs/Cluttered-bucket, 0
 bucket/PanJi-GreenTools.json, Weidows-projects/scoop-3rd, 0
@@ -1879,6 +1881,7 @@ bucket/USBCopyer.json, dodorz/scoop, 1
 bucket/USBSafelyRemove.json, kkzzhizhou/scoop-zapps, 1
 bucket/UVOutliner.json, dodorz/scoop, 0
 bucket/UWP.Fluent-Terminal.json, Paxxs/Cluttered-bucket, 1
+bucket/UberWolf.json, cc713/ownscoop, 1
 bucket/Ubuntu-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Ubuntu-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Ubuntu-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3435,7 +3438,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, batkiz/backit, 1
+bucket/con-terminal.json, dodorz/scoop, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -4296,6 +4299,7 @@ bucket/empty-recycle-bin.json, ScoopInstaller/Main, 1
 bucket/emscripten.json, ScoopInstaller/Main, 1
 bucket/emule-community.json, ScoopInstaller/Extras, 1
 bucket/emule.json, ScoopInstaller/Extras, 0
+bucket/en-croissant.json, cc713/ownscoop, 1
 bucket/enableloopback.json, jingyu9575/scoop-jingyu9575, 0
 bucket/encfs.json, naderi/scoop-bucket, 1
 bucket/encodegui-np.json, ScoopInstaller/Nonportable, 0
@@ -5070,6 +5074,7 @@ bucket/gitbutler-nightly.json, ScoopInstaller/Versions, 0
 bucket/gitbutler.json, ScoopInstaller/Extras, 0
 bucket/gitea-beta.json, ScoopInstaller/Versions, 1
 bucket/gitea-cli.json, ScoopInstaller/Main, 0
+bucket/gitea-importer.json, ScoopInstaller/Extras, 0
 bucket/gitea-mcp-server.json, ScoopInstaller/Extras, 0
 bucket/gitea-runner.json, ScoopInstaller/Main, 0
 bucket/gitea.json, ScoopInstaller/Main, 0
@@ -6867,7 +6872,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -8805,6 +8810,7 @@ bucket/pietty.json, ScoopInstaller/Extras, 0
 bucket/pigma.json, akirco/aki-apps, 1
 bucket/pijul.json, ScoopInstaller/Versions, 1
 bucket/pik.json, aliesbelik/poldi, 1
+bucket/pikafish.json, cc713/ownscoop, 1
 bucket/pikapika.json, DoveBoy/Apps, 1
 bucket/pikatorrent.json, DoveBoy/Apps, 1
 bucket/pikpak.json, akirco/aki-apps, 0
@@ -10719,6 +10725,7 @@ bucket/tb-vol-scroll.json, ScoopInstaller/Extras, 1
 bucket/tbls.json, iquiw/scoop-bucket, 1
 bucket/tbtool.json, Weidows-projects/scoop-3rd, 1
 bucket/tcc.json, ScoopInstaller/Main, 0
+bucket/tchess.json, cc713/ownscoop, 1
 bucket/tcno-acc-switcher.json, ScoopInstaller/Extras, 1
 bucket/tcpconnectproblemview.json, ScoopInstaller/Nirsoft, 0
 bucket/tcping-go.json, aliesbelik/poldi, 1
@@ -11943,6 +11950,7 @@ bucket/wnr.json, kidonng/sushi, 1
 bucket/wodeabc.json, ygguorun/scoop-bucket, 0
 bucket/wolai.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/wolcmd.json, rasa/scoops, 0
+bucket/wolfrpgeditor-mini.json, cc713/ownscoop, 0
 bucket/wombat.json, aliesbelik/poldi, 1
 bucket/wonderpen.json, ScoopInstaller/Extras, 0
 bucket/woodpecker.json, ViCrack/scoop-bucket, 1
