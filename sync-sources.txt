@@ -1007,7 +1007,7 @@ bucket/MPlus-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MPlus-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MPlus-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MSEdgeRedirect-Portable.json, ACooper81/scoop-apps, 1
-bucket/MSIME.json, Weidows-projects/scoop-3rd, 1
+bucket/MSIME.json, cc713/ownscoop, 1
 bucket/MTool.json, cc713/ownscoop, 0
 bucket/MaaNTE.json, Weidows-projects/scoop-3rd, 1
 bucket/MadEdit-mod.json, dodorz/scoop, 0
@@ -8978,7 +8978,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -9670,7 +9670,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rq.json, aliesbelik/poldi, 1
