@@ -11130,7 +11130,7 @@ bucket/tubatools-portable.json, DoveBoy/Apps, 1
 bucket/tubatools.json, DoveBoy/Apps, 1
 bucket/tuicr.json, ScoopInstaller/Main, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
-bucket/tuios.json, dodorz/scoop, 1
+bucket/tuios.json, iquiw/scoop-bucket, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
