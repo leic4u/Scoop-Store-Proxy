@@ -91,6 +91,7 @@ bucket/AWGG-Portable.json, ACooper81/scoop-apps, 1
 bucket/AbaReplace.json, dodorz/scoop, 0
 bucket/AccentApplicator-UserInstall.json, ACooper81/scoop-apps, 1
 bucket/AccountManager.json, dodorz/scoop, 0
+bucket/Acme-SAC.json, dodorz/scoop, 0
 bucket/Acreom.json, dodorz/scoop, 1
 bucket/AcronisTrueImage.json, kkzzhizhou/scoop-zapps, 1
 bucket/AcrylicDNSProxy-Portable.json, ACooper81/scoop-apps, 0
@@ -131,6 +132,7 @@ bucket/Allavsoft-Install.json, ACooper81/scoop-apps, 0
 bucket/AllwaySync-Install.json, ACooper81/scoop-apps, 0
 bucket/AllwaySyncnGo-Portable.json, ACooper81/scoop-apps, 0
 bucket/AllyAgent.json, dodorz/scoop, 1
+bucket/AlomWareToolbox.json, dodorz/scoop, 0
 bucket/Alt-C.json, kkzzhizhou/scoop-zapps, 0
 bucket/AltAppInstaller-Portable.json, ACooper81/scoop-apps, 1
 bucket/AmazonGames-UserInstall.json, ACooper81/scoop-apps, 0
@@ -172,6 +174,7 @@ bucket/ArtCraftLauncher.json, dodorz/scoop, 1
 bucket/AssRocket.json, leic4u/Scoop-Store, 1
 bucket/AssetStudioMod.json, NyaMisty/scoop_bucket_misty, 1
 bucket/AssetStudioModCLI.json, NyaMisty/scoop_bucket_misty, 1
+bucket/AstroNvim.json, dodorz/scoop, 0
 bucket/Astroterm.json, dodorz/scoop, 1
 bucket/AsusDeviceDiscovery-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/AtkinsonHyperlegibleMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -641,6 +644,7 @@ bucket/Font-Awesome-Free.json, leic4u/Scoop-Store, 1
 bucket/Font-Awesome.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FontMod.json, ygguorun/scoop-bucket, 1
 bucket/ForceBindIPCLI-Portable.json, ACooper81/scoop-apps, 0
+bucket/FormatFactory.json, dodorz/scoop, 0
 bucket/FotoSketcher.json, dodorz/scoop, 0
 bucket/Frameless.json, dodorz/scoop, 0
 bucket/FreeFileSync-Portable.json, ACooper81/scoop-apps, 0
@@ -1007,7 +1011,7 @@ bucket/MPlus-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MPlus-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MPlus-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MSEdgeRedirect-Portable.json, ACooper81/scoop-apps, 1
-bucket/MSIME.json, cc713/ownscoop, 1
+bucket/MSIME.json, Weidows-projects/scoop-3rd, 1
 bucket/MTool.json, cc713/ownscoop, 0
 bucket/MaaNTE.json, Weidows-projects/scoop-3rd, 1
 bucket/MadEdit-mod.json, dodorz/scoop, 0
@@ -1047,6 +1051,7 @@ bucket/MediaCreationTool-Portable.json, ACooper81/scoop-apps, 1
 bucket/MediaDownloader.json, couleur-tweak-tips/utils, 1
 bucket/MediaInfo.NET-Portable.json, ACooper81/scoop-apps, 1
 bucket/MediaMonkey5-Portable.json, ACooper81/scoop-apps, 0
+bucket/MediaPreview-np.json, dodorz/scoop, 0
 bucket/Meld-Portable.json, ACooper81/scoop-apps, 0
 bucket/MemCheck.json, dodorz/scoop, 0
 bucket/MemPad.json, dodorz/scoop, 0
@@ -1093,6 +1098,8 @@ bucket/Midori.json, dodorz/scoop, 1
 bucket/Mihomo-TUI.json, dodorz/scoop, 1
 bucket/Milkup.json, dodorz/scoop, 1
 bucket/MinEd.json, dodorz/scoop, 1
+bucket/MindMaster-zh-cn.json, dodorz/scoop, 0
+bucket/MindMaster.json, dodorz/scoop, 0
 bucket/Mindbox.json, dodorz/scoop, 0
 bucket/MinerU.json, dodorz/scoop, 0
 bucket/MiniHex.json, dodorz/scoop, 0
@@ -1187,6 +1194,7 @@ bucket/NirsoftUninstallView-Portable.json, ACooper81/scoop-apps, 0
 bucket/NirsoftWifiInfoView-Portable.json, ACooper81/scoop-apps, 0
 bucket/NirsoftWirelessNetworkWatcher-Portable.json, ACooper81/scoop-apps, 0
 bucket/NitroShare-Portable.json, ACooper81/scoop-apps, 0
+bucket/NitroShare.json, dodorz/scoop, 0
 bucket/NoMachine-Install.json, ACooper81/scoop-apps, 0
 bucket/NoMansSkySaveEditor-Portable.json, ACooper81/scoop-apps, 1
 bucket/Nomad.NET.json, dodorz/scoop, 0
@@ -1294,6 +1302,7 @@ bucket/PDFMatePDFMerger.json, dodorz/scoop, 0
 bucket/PDFPatcher.json, echoiron/echo-scoop, 0
 bucket/PDFPresenter.json, dodorz/scoop, 0
 bucket/PDFShaperFree.json, dodorz/scoop, 0
+bucket/PDFSplitandMerge.json, dodorz/scoop, 0
 bucket/PDQDeploy-Install.json, ACooper81/scoop-apps, 0
 bucket/PDQInventory-Install.json, ACooper81/scoop-apps, 0
 bucket/PEAnatomist-Portable.json, ACooper81/scoop-apps, 0
@@ -1333,6 +1342,7 @@ bucket/PhotoScissors.json, dodorz/scoop, 0
 bucket/PhotoZoomPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/PicaComic.json, hu3rror/scoop-muggle, 1
 bucket/PicoTorrent-Portable.json, ACooper81/scoop-apps, 1
+bucket/PictureCollageMaker.json, dodorz/scoop, 0
 bucket/PiliNara.json, cc713/ownscoop, 1
 bucket/PiliPlus.json, cc713/ownscoop, 1
 bucket/PingFang.json, ygguorun/scoop-bucket, 0
@@ -1404,6 +1414,7 @@ bucket/PyCmd.json, dodorz/scoop, 1
 bucket/PyDebloatX-Portable.json, ACooper81/scoop-apps, 1
 bucket/PyGPT.json, dodorz/scoop, 0
 bucket/PyMacroRecord.json, cc713/ownscoop, 1
+bucket/PyNGWallpaper.json, dodorz/scoop, 1
 bucket/PyScripter.json, dodorz/scoop, 0
 bucket/Python-embed.json, dodorz/scoop, 0
 bucket/PythonStudio.json, dodorz/scoop, 0
@@ -3438,7 +3449,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, batkiz/backit, 1
+bucket/con-terminal.json, dodorz/scoop, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -8265,7 +8276,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8301,7 +8312,7 @@ bucket/pe-sieve.json, ScoopInstaller/Main, 1
 bucket/peace-np.json, ScoopInstaller/Nonportable, 0
 bucket/pear-desktop.json, ScoopInstaller/Extras, 1
 bucket/peazip.json, ScoopInstaller/Extras, 1
-bucket/pebrel.json, ViCrack/scoop-bucket, 1
+bucket/pebrel.json, dodorz/scoop, 1
 bucket/peco.json, ScoopInstaller/Main, 1
 bucket/peerbanhelper.json, ScoopInstaller/Extras, 1
 bucket/peerblock.json, ScoopInstaller/Extras, 0
@@ -9505,7 +9516,7 @@ bucket/reflector-desktop.json, SayCV/scoop-cvp, 1
 bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/reg.json, MCOfficer/scoop-bucket, 1
 bucket/regclient.json, ScoopInstaller/Extras, 1
-bucket/regcool.json, naderi/scoop-bucket, 0
+bucket/regcool.json, dodorz/scoop, 0
 bucket/regdelnull.json, niheaven/scoop-sysinternals, 1
 bucket/regdelta.json, rasa/scoops, 1
 bucket/regdllview.json, ScoopInstaller/Nirsoft, 0
@@ -10210,6 +10221,7 @@ bucket/slskd.json, ScoopInstaller/Extras, 1
 bucket/slu.json, littleli/Scoop-littleli, 1
 bucket/slumber.json, ScoopInstaller/Main, 1
 bucket/sm64coopdx.json, Calinou/scoop-games, 1
+bucket/smagit.json, dodorz/scoop, 1
 bucket/smali.json, TheCjw/scoop-retools, 0
 bucket/smart-svg-viewer.json, naderi/scoop-bucket, 1
 bucket/smartcontextmenu.json, ScoopInstaller/Extras, 1
