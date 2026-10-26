@@ -1474,7 +1474,7 @@ bucket/Recuva-Portable.json, ACooper81/scoop-apps, 0
 bucket/Reg2Nsis.json, kkzzhizhou/scoop-zapps, 1
 bucket/RegConvert.json, kkzzhizhou/scoop-zapps, 0
 bucket/RegConverter.json, ViCrack/scoop-bucket, 0
-bucket/RegCool-Portable.json, ACooper81/scoop-apps, 0
+bucket/RegCool-Portable.json, cc713/ownscoop, 0
 bucket/Regester.json, dodorz/scoop, 0
 bucket/RegexMatchTracer.json, ygguorun/scoop-bucket, 0
 bucket/Regina.json, dodorz/scoop, 0
@@ -3452,7 +3452,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, dodorz/scoop, 1
+bucket/con-terminal.json, batkiz/backit, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -5295,7 +5295,7 @@ bucket/goshs.json, ScoopInstaller/Extras, 1
 bucket/gossip.json, ScoopInstaller/Extras, 1
 bucket/gossl.json, aliesbelik/poldi, 1
 bucket/gossm.json, ScoopInstaller/Main, 1
-bucket/gost.json, wzv5/ScoopBucket, 1
+bucket/gost.json, aoisummer/scoop-bucket, 1
 bucket/gostv3.json, NyaMisty/scoop_bucket_misty, 1
 bucket/gosuki.json, ScoopInstaller/Main, 1
 bucket/got.json, aliesbelik/poldi, 1
@@ -7478,6 +7478,7 @@ bucket/mweather.json, ScoopInstaller/Nirsoft, 0
 bucket/mycomputermanager.json, DoveBoy/Apps, 1
 bucket/mycrypto.json, chawyehsu/dorado, 1
 bucket/myeventviewer.json, ScoopInstaller/Nirsoft, 0
+bucket/mygo-cloudmusic.json, batkiz/backit, 1
 bucket/mylastsearch.json, ScoopInstaller/Nirsoft, 0
 bucket/mypaint.json, ScoopInstaller/Extras, 1
 bucket/mypy-extensions-py.json, TheRandomLabs/Scoop-Python, 1
@@ -8065,6 +8066,7 @@ bucket/opensca-cli.json, ScoopInstaller/Extras, 1
 bucket/openscad-dev.json, ScoopInstaller/Versions, 0
 bucket/openscad.json, ScoopInstaller/Extras, 0
 bucket/opensearcher-win7.json, DoveBoy/Apps, 1
+bucket/opensgolf.json, Calinou/scoop-games, 1
 bucket/openshift-okd-client.json, ScoopInstaller/Main, 1
 bucket/openshift-origin-client.json, ScoopInstaller/Main, 1
 bucket/openshot.json, ScoopInstaller/Extras, 1
@@ -8781,8 +8783,10 @@ bucket/php82.json, ScoopInstaller/Versions, 0
 bucket/php83-nts.json, aoisummer/scoop-bucket, 0
 bucket/php83-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php83.json, ScoopInstaller/Versions, 0
+bucket/php84-nts.json, aoisummer/scoop-bucket, 0
 bucket/php84-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php84.json, ScoopInstaller/Versions, 0
+bucket/php85-nts.json, aoisummer/scoop-bucket, 0
 bucket/php85-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php85.json, ScoopInstaller/Versions, 0
 bucket/phpmyadmin.json, wzv5/ScoopBucket, 0
@@ -9520,7 +9524,7 @@ bucket/reflector-desktop.json, SayCV/scoop-cvp, 1
 bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/reg.json, MCOfficer/scoop-bucket, 1
 bucket/regclient.json, ScoopInstaller/Extras, 1
-bucket/regcool.json, dodorz/scoop, 0
+bucket/regcool.json, naderi/scoop-bucket, 0
 bucket/regdelnull.json, niheaven/scoop-sysinternals, 1
 bucket/regdelta.json, rasa/scoops, 1
 bucket/regdllview.json, ScoopInstaller/Nirsoft, 0
@@ -10089,7 +10093,7 @@ bucket/shadowsocksr-csharp.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
-bucket/shadps4-dev.json, borger/scoop-emulators, 1
+bucket/shadps4-dev.json, Calinou/scoop-games, 1
 bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shandianshuo.json, dodorz/scoop, 0
 bucket/shareaza.json, ScoopInstaller/Extras, 0
@@ -11422,7 +11426,7 @@ bucket/vencord-installer.json, ScoopInstaller/Extras, 1
 bucket/venera-next.json, hu3rror/scoop-muggle, 1
 bucket/ventoy.json, ScoopInstaller/Extras, 1
 bucket/veracrypt-legacy-np.json, aoisummer/scoop-bucket, 0
-bucket/veracrypt-np.json, aoisummer/scoop-bucket, 0
+bucket/veracrypt-np.json, aoisummer/scoop-bucket, 1
 bucket/verapdf-docker.json, cderv/r-bucket, 1
 bucket/verethragna.json, jfut/scoop-jfut, 0
 bucket/verilator.json, SayCV/scoop-cvp, 1
@@ -12094,6 +12098,7 @@ bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
 bucket/xfetch.json, ScoopInstaller/Extras, 1
 bucket/xftp7p.json, kkzzhizhou/scoop-zapps, 1
+bucket/xget.json, aliesbelik/poldi, 1
 bucket/xh.json, ScoopInstaller/Main, 1
 bucket/xiadown-portable.json, DoveBoy/Apps, 1
 bucket/xiadown.json, DoveBoy/Apps, 1
