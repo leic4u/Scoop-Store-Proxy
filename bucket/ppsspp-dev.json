@@ -1,36 +1,36 @@
 {
-  "version": "1.20.4-4037-g476d020c588d",
-  "description": "Sony PlayStation Portable (PSP) emulator. Development build",
+  "version": "1.20.4-4097-g27ee45409c4c",
+  "description": "Sony PlayStation Portable (PSP) emulator",
   "homepage": "https://www.ppsspp.org",
   "license": "GPL-2.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://builds.ppsspp.org/builds/v1.20.4-4037-g476d020c588d/ppsspp_win_v1.20.4-4037-g476d020c588d.zip",
-      "hash": "aa7847f1348adcdf7fa87f5ff7571b15a0ea5d4866416cab21ddfa947c20c1f1",
+      "url": "https://builds.ppsspp.org/builds/v1.20.4-4097-g27ee45409c4c/ppsspp_win_v1.20.4-4097-g27ee45409c4c.zip",
+      "hash": "a522174ac213bc54ab9029d56ca6c0f6f8b64a9469c424950581ad541caf9704",
       "shortcuts": [
         [
           "PPSSPPWindows64.exe",
-          "PPSSPP (Development)"
+          "Sony PlayStation Portable [psp][ppsspp] (dev)"
         ]
       ]
     },
     "32bit": {
-      "url": "https://builds.ppsspp.org/builds/v1.20.4-4037-g476d020c588d/ppsspp_win_v1.20.4-4037-g476d020c588d.zip",
-      "hash": "aa7847f1348adcdf7fa87f5ff7571b15a0ea5d4866416cab21ddfa947c20c1f1",
+      "url": "https://builds.ppsspp.org/builds/v1.20.4-4097-g27ee45409c4c/ppsspp_win_v1.20.4-4097-g27ee45409c4c.zip",
+      "hash": "a522174ac213bc54ab9029d56ca6c0f6f8b64a9469c424950581ad541caf9704",
       "shortcuts": [
         [
           "PPSSPPWindows.exe",
-          "PPSSPP (Development)"
+          "Sony PlayStation Portable [psp][ppsspp] (dev)"
         ]
       ]
     },
     "arm64": {
-      "url": "https://builds.ppsspp.org/builds/v1.20.4-4037-g476d020c588d/PPSSPPWindowsARM64_v1.20.4-4037-g476d020c588d.zip",
-      "hash": "8b92d075a3cd498eae85e595cd1f82b38378819391741e535ff0729b01d0ad14",
+      "url": "https://builds.ppsspp.org/builds/v1.20.4-4097-g27ee45409c4c/PPSSPPWindowsARM64_v1.20.4-4097-g27ee45409c4c.zip",
+      "hash": "503b99f16ba3cfc9121f38ff7b73253e823e9b02d9a5bfe2b179043d53541adc",
       "shortcuts": [
         [
           "PPSSPPWindowsARM64.exe",
-          "PPSSPP (Development)"
+          "Sony PlayStation Portable [psp][ppsspp] (dev)"
         ]
       ]
     }
@@ -42,12 +42,13 @@
     "}"
   ],
   "persist": [
-    "demos",
-    "memstick"
+    "memstick",
+    "assets",
+    "demos"
   ],
   "checkver": {
     "url": "https://builds.ppsspp.org/meta/history.json",
-    "regex": "v(?<version>[\\d.]+)-(?<build>[\\d]+)-g(?<commit>[\\da-fA-F]+)",
+    "regex": "ppsspp_win_v(?<version>[\\d.]+)-(?<build>[\\d]+)-g(?<commit>[\\da-fA-F]+)\\.zip",
     "replace": "${version}-${build}-g${commit}"
   },
   "autoupdate": {
