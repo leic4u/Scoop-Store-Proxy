@@ -3847,7 +3847,7 @@ bucket/deskreen.json, ScoopInstaller/Extras, 1
 bucket/desktop-cc-gui.json, ViCrack/scoop-bucket, 1
 bucket/desktop-ini-editor.json, ScoopInstaller/Extras, 0
 bucket/desktopnaotu.json, hu3rror/scoop-muggle, 1
-bucket/desktopok.json, naderi/scoop-bucket, 0
+bucket/desktopok.json, dodorz/scoop, 0
 bucket/desktoppet.json, amorphobia/siku, 1
 bucket/desktops.json, niheaven/scoop-sysinternals, 1
 bucket/desmume-stable.json, hermanjustnu/scoop-emulators, 1
@@ -4107,6 +4107,8 @@ bucket/dreamm.json, Calinou/scoop-games, 0
 bucket/dreamscene2.json, DoveBoy/Apps, 1
 bucket/dreamset.json, ScoopInstaller/Extras, 0
 bucket/drep.json, batkiz/backit, 1
+bucket/drift-portable.json, DoveBoy/Apps, 1
+bucket/drift.json, DoveBoy/Apps, 1
 bucket/drive-icon-manager.json, DoveBoy/Apps, 1
 bucket/drive-letter-changer.json, ScoopInstaller/Extras, 0
 bucket/driveck.json, DoveBoy/Apps, 1
@@ -6322,6 +6324,8 @@ bucket/kotatogram.json, ScoopInstaller/Extras, 1
 bucket/kotlin-interactive-shell.json, ScoopInstaller/Extras, 1
 bucket/kotlin-native.json, ScoopInstaller/Main, 1
 bucket/kotlin.json, ScoopInstaller/Main, 1
+bucket/kototoro-portable.json, DoveBoy/Apps, 1
+bucket/kototoro.json, DoveBoy/Apps, 1
 bucket/kova.json, ScoopInstaller/Extras, 1
 bucket/kpcli.json, rasa/scoops, 0
 bucket/krew.json, ScoopInstaller/Main, 1
@@ -7036,7 +7040,7 @@ bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, borger/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -9015,7 +9019,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -9361,6 +9365,7 @@ bucket/quick-any2ico.json, naderi/scoop-bucket, 0
 bucket/quick-lint-js.json, ScoopInstaller/Main, 0
 bucket/quick-picture-viewer.json, ScoopInstaller/Extras, 1
 bucket/quickbib.json, ivaquero/scoopet, 1
+bucket/quickbuds.json, DoveBoy/Apps, 1
 bucket/quickclipboard-portable.json, DoveBoy/Apps, 1
 bucket/quickclipboard.json, ScoopInstaller/Extras, 1
 bucket/quickcpu.json, ScoopInstaller/Extras, 0
@@ -9707,7 +9712,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rpi.json, dodorz/scoop, 1
@@ -11046,6 +11051,7 @@ bucket/tomcat8.json, ScoopInstaller/Versions, 0
 bucket/tomcat9.json, ScoopInstaller/Versions, 0
 bucket/tome4.json, Calinou/scoop-games, 0
 bucket/toney.json, aliesbelik/poldi, 1
+bucket/toolknit-desktop.json, DoveBoy/Apps, 1
 bucket/toolsfx.json, ViCrack/scoop-bucket, 1
 bucket/tooniversal.json, Calinou/scoop-games, 0
 bucket/toontownfellowship.json, Calinou/scoop-games, 0
@@ -12318,6 +12324,8 @@ bucket/yueyuan-font.json, Weidows-projects/scoop-3rd, 1
 bucket/yumi-exfat.json, ScoopInstaller/Extras, 0
 bucket/yumi-uefi.json, ScoopInstaller/Extras, 0
 bucket/yumi.json, ScoopInstaller/Extras, 0
+bucket/yunx-desktop-portable.json, DoveBoy/Apps, 1
+bucket/yunx-desktop.json, DoveBoy/Apps, 1
 bucket/yuzu-pineapple.json, hermanjustnu/scoop-emulators, 1
 bucket/yuzu.json, hermanjustnu/scoop-emulators, 1
 bucket/yy-thunks.json, wzv5/ScoopBucket, 1
