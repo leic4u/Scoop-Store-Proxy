@@ -1464,6 +1464,7 @@ bucket/RZGetCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Radarr-Portable.json, ACooper81/scoop-apps, 1
 bucket/RadarrDevelop-Portable.json, ACooper81/scoop-apps, 1
 bucket/RaiDrive-Portable.json, ACooper81/scoop-apps, 0
+bucket/RaiDrive-np.json, dodorz/scoop, 0
 bucket/RaiDrive.json, kkzzhizhou/scoop-zapps, 1
 bucket/RainlendarLite.json, dodorz/scoop, 0
 bucket/Raleway.json, matthewjberger/scoop-nerd-fonts, 0
@@ -1875,6 +1876,7 @@ bucket/TwinkleTray-Portable.json, ACooper81/scoop-apps, 1
 bucket/TwinkleTray.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/TwomonUSB.json, kkzzhizhou/scoop-zapps, 1
 bucket/TypeAndRun.json, dodorz/scoop, 1
+bucket/Typewriter-Nocturne.json, dodorz/scoop, 1
 bucket/TyporaFree.json, abgox/abgo_bucket, 0
 bucket/UAC.EverythingToolbar.json, Paxxs/Cluttered-bucket, 1
 bucket/UAC.HashTab.json, Paxxs/Cluttered-bucket, 0
@@ -2105,6 +2107,7 @@ bucket/Wireshark-Portable.json, ACooper81/scoop-apps, 0
 bucket/Wise-Registry-Cleaner.json, leic4u/Scoop-Store, 0
 bucket/WiseCare365.json, echoiron/echo-scoop, 0
 bucket/WiseDataRecovery-Portable.json, ACooper81/scoop-apps, 0
+bucket/WispTerm.json, dodorz/scoop, 1
 bucket/WizFile-Portable.json, ACooper81/scoop-apps, 0
 bucket/WizNote.json, dodorz/scoop, 0
 bucket/WizNoteLite.json, dodorz/scoop, 0
@@ -2314,7 +2317,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -4643,7 +4646,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -5435,6 +5438,7 @@ bucket/guiscrcpy.json, ScoopInstaller/Extras, 1
 bucket/gum.json, ScoopInstaller/Main, 1
 bucket/gun.json, kidonng/sushi, 1
 bucket/gunk.json, ScoopInstaller/Main, 1
+bucket/gurl.json, aliesbelik/poldi, 1
 bucket/gut.json, ScoopInstaller/Main, 1
 bucket/gvim-portable.json, naderi/scoop-bucket, 0
 bucket/gvm.json, Weidows-projects/scoop-3rd, 1
@@ -9020,7 +9024,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -10877,6 +10881,7 @@ bucket/termshark.json, ScoopInstaller/Main, 1
 bucket/termsvg.json, brian6932/dank-scoop, 1
 bucket/termusic.json, ScoopInstaller/Main, 1
 bucket/tern-subtitle-file-translator.json, ScoopInstaller/Extras, 1
+bucket/tern.json, dodorz/scoop, 1
 bucket/terraform-docs.json, ScoopInstaller/Main, 1
 bucket/terraform-ls.json, ScoopInstaller/Main, 0
 bucket/terraform-provider-ibm.json, ScoopInstaller/Main, 1
