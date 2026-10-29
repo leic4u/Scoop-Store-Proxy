@@ -2018,7 +2018,7 @@ bucket/Wait.json, dodorz/scoop, 0
 bucket/WaitCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/WarpTerminal.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/WasFile.json, dodorz/scoop, 0
-bucket/Waterfox-Portable.json, ACooper81/scoop-apps, 0
+bucket/Waterfox-Portable.json, naderi/scoop-bucket, 0
 bucket/Waveloom.json, dodorz/scoop, 1
 bucket/Waydir.json, dodorz/scoop, 1
 bucket/WazuhAgent-Install.json, ACooper81/scoop-apps, 0
@@ -3329,7 +3329,7 @@ bucket/clavier-plus.json, ScoopInstaller/Extras, 1
 bucket/clawPDF-np.json, dodorz/scoop, 1
 bucket/claws-mail.json, ScoopInstaller/Extras, 0
 bucket/claws.json, aliesbelik/poldi, 1
-bucket/clcl.json, dodorz/scoop, 0
+bucket/clcl.json, naderi/scoop-bucket, 0
 bucket/cleanafterme.json, ScoopInstaller/Nirsoft, 0
 bucket/cleanmgrplus.json, naderi/scoop-bucket, 1
 bucket/cleanmywechat.json, amorphobia/siku, 1
@@ -3460,7 +3460,7 @@ bucket/completion-predictor.json, akirco/aki-apps, 0
 bucket/completionpredictor.json, ScoopInstaller/Extras, 0
 bucket/composer.json, ScoopInstaller/Main, 0
 bucket/composer1.json, ScoopInstaller/Versions, 0
-bucket/compresso.json, DoveBoy/Apps, 1
+bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
@@ -3847,7 +3847,7 @@ bucket/deskreen.json, ScoopInstaller/Extras, 1
 bucket/desktop-cc-gui.json, ViCrack/scoop-bucket, 1
 bucket/desktop-ini-editor.json, ScoopInstaller/Extras, 0
 bucket/desktopnaotu.json, hu3rror/scoop-muggle, 1
-bucket/desktopok.json, dodorz/scoop, 0
+bucket/desktopok.json, naderi/scoop-bucket, 0
 bucket/desktoppet.json, amorphobia/siku, 1
 bucket/desktops.json, niheaven/scoop-sysinternals, 1
 bucket/desmume-stable.json, hermanjustnu/scoop-emulators, 1
@@ -9548,7 +9548,7 @@ bucket/reflector-desktop.json, SayCV/scoop-cvp, 1
 bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/reg.json, MCOfficer/scoop-bucket, 1
 bucket/regclient.json, ScoopInstaller/Extras, 1
-bucket/regcool.json, dodorz/scoop, 0
+bucket/regcool.json, naderi/scoop-bucket, 0
 bucket/regdelnull.json, niheaven/scoop-sysinternals, 1
 bucket/regdelta.json, rasa/scoops, 1
 bucket/regdllview.json, ScoopInstaller/Nirsoft, 0
@@ -10778,6 +10778,7 @@ bucket/tcping.json, ScoopInstaller/Main, 0
 bucket/tcpingCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/tcpipmanager.json, ScoopInstaller/Extras, 0
 bucket/tcplogview.json, ScoopInstaller/Nirsoft, 0
+bucket/tcplup.json, naderi/scoop-bucket, 1
 bucket/tcptunnelCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/tcpview.json, niheaven/scoop-sysinternals, 1
 bucket/tdk-ferrite.json, SayCV/scoop-cvp, 1
@@ -11363,7 +11364,7 @@ bucket/usblogview.json, ScoopInstaller/Nirsoft, 0
 bucket/usblyzer.json, SayCV/scoop-cvp, 0
 bucket/usbtrace.json, SayCV/scoop-cvp, 0
 bucket/usbtree.json, ScoopInstaller/Main, 1
-bucket/usbtreeview.json, rasa/scoops, 0
+bucket/usbtreeview.json, ScoopInstaller/Extras, 0
 bucket/usbwriter.json, ChinLong/scoop-customize, 0
 bucket/userassistview.json, ScoopInstaller/Nirsoft, 0
 bucket/userbenchmark.json, ScoopInstaller/Extras, 0
