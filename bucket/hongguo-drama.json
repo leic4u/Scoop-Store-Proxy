@@ -1,5 +1,5 @@
 {
-  "version": "4.7",
+  "version": "4.9",
   "description": "红果短剧桌面版 · 支持 M 系列 Mac、Intel Mac 和 Windows · 三来源搜索、播放、下载与追剧 · GPL-3.0 开源",
   "homepage": "https://github.com/jackotom/hongguo-drama",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/jackotom/hongguo-drama/releases/download/v4.7/hongguo-downloader-4.7-win-x64.exe#/dl.7z",
-      "hash": "7a401caf3c8b7cc74b31166d0374ef2f0813f3550cfad1e0f0ed9b690dd02984",
+      "url": "https://ghgo.xyz/https://github.com/jackotom/hongguo-drama/releases/download/v4.9/hongguo-downloader-4.9-win-x64.exe#/dl.7z",
+      "hash": "58d21e181900e502e1db9f655660f19b67c817032cfd234dccc748a4720e6f9a",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
         "Get-ChildItem \"$dir\\红果*.exe\" | Rename-Item -NewName 'hongguo-drama.exe'",

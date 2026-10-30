@@ -238,7 +238,7 @@ bucket/BigBlueTerminal-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Bigjpg.json, dodorz/scoop, 0
-bucket/Bilibili.json, chawyehsu/dorado, 0
+bucket/Bilibili.json, DoveBoy/Apps, 0
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitComet.json, leic4u/Scoop-Store, 0
@@ -533,7 +533,6 @@ bucket/Elasticsearch6.json, zhoujin7/tomato, 0
 bucket/Elasticsearch7.json, zhoujin7/tomato, 0
 bucket/EleDo.json, brian6932/dank-scoop, 1
 bucket/ElectronicObserver.json, Darkatse/Scoop-KanColle, 1
-bucket/ElevateToSystem.json, dodorz/scoop, 0
 bucket/ElevatedStartup.json, dodorz/scoop, 1
 bucket/ElevenClock-Portable.json, ACooper81/scoop-apps, 1
 bucket/EmACT.json, dodorz/scoop, 0
@@ -1362,7 +1361,7 @@ bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/Pinokio-Portable.json, ACooper81/scoop-apps, 1
 bucket/PixBuilder.json, zhoujin7/tomato, 0
 bucket/PixPin-Beta.json, leic4u/Scoop-Store, 0
-bucket/PixPin.json, ivaquero/scoopet, 0
+bucket/PixPin.json, chawyehsu/dorado, 0
 bucket/PixPinBeta.json, abgox/abgo_bucket, 0
 bucket/Pixel-Code.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Pixeval.json, cc713/ownscoop, 1
@@ -2319,7 +2318,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3352,7 +3351,7 @@ bucket/clingo.json, ScoopInstaller/Extras, 1
 bucket/clink-completions.json, ScoopInstaller/Main, 1
 bucket/clink-cvp.json, SayCV/scoop-cvp, 1
 bucket/clink-flex-prompt.json, ScoopInstaller/Main, 1
-bucket/clink-gizmos.json, dodorz/scoop, 0
+bucket/clink-gizmos.json, dodorz/scoop, 1
 bucket/clink-portable.json, naderi/scoop-bucket, 1
 bucket/clink-powerline.json, dodorz/scoop, 1
 bucket/clink-zoxide.json, dodorz/scoop, 0
@@ -6033,7 +6032,7 @@ bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, akirco/aki-apps, 0
+bucket/jianyingpro.json, chawyehsu/dorado, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
 bucket/jijidown.json, amorphobia/siku, 0
@@ -6447,7 +6446,7 @@ bucket/lazyssh.json, ScoopInstaller/Main, 1
 bucket/lazyworktree.json, aliesbelik/poldi, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
 bucket/lbry.json, ScoopInstaller/Extras, 1
-bucket/lceda-pro.json, ivaquero/scoopet, 0
+bucket/lceda-pro.json, chawyehsu/dorado, 0
 bucket/lceda.json, ivaquero/scoopet, 0
 bucket/lcow.json, ScoopInstaller/Versions, 1
 bucket/ldap-admin.json, ScoopInstaller/Extras, 0
@@ -7616,7 +7615,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -12016,6 +12015,7 @@ bucket/word-regex-tool.json, ygguorun/scoop-bucket, 0
 bucket/wordcraft.json, ScoopInstaller/Extras, 1
 bucket/wordle.json, brian6932/dank-scoop, 1
 bucket/wordmark.json, ScoopInstaller/Extras, 1
+bucket/workbuddy-cn.json, chawyehsu/dorado, 0
 bucket/workbuddy.json, ScoopInstaller/Extras, 0
 bucket/workman-np.json, ScoopInstaller/Nonportable, 0
 bucket/workman-p-np.json, ScoopInstaller/Nonportable, 0
