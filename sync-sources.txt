@@ -238,7 +238,7 @@ bucket/BigBlueTerminal-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Bigjpg.json, dodorz/scoop, 0
-bucket/Bilibili.json, DoveBoy/Apps, 0
+bucket/Bilibili.json, akirco/aki-apps, 0
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitComet.json, leic4u/Scoop-Store, 0
@@ -2318,7 +2318,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2444,7 +2444,7 @@ bucket/apngdis-cli.json, brian6932/dank-scoop, 0
 bucket/apngdis-gui.json, brian6932/dank-scoop, 0
 bucket/apngopt-cli.json, brian6932/dank-scoop, 0
 bucket/apngopt-gui.json, brian6932/dank-scoop, 0
-bucket/app-name.json.template, hu3rror/scoop-muggle, 0
+bucket/app-name.json.template, brian6932/dank-scoop, 0
 bucket/appaudioconfig.json, ScoopInstaller/Nirsoft, 0
 bucket/appbuster.json, ScoopInstaller/Extras, 0
 bucket/appcompatibilityview.json, ScoopInstaller/Nirsoft, 0
@@ -5486,6 +5486,7 @@ bucket/haruna.json, ScoopInstaller/Extras, 0
 bucket/haruneko.json, cc713/ownscoop, 1
 bucket/hash-explorer.json, rasa/scoops, 0
 bucket/hash.json, ygguorun/scoop-bucket, 0
+bucket/hashcards.json, ScoopInstaller/Main, 1
 bucket/hashcat.json, ScoopInstaller/Main, 0
 bucket/hashcheck.json, ScoopInstaller/Extras, 1
 bucket/hasher.json, ScoopInstaller/Extras, 0
@@ -7278,7 +7279,7 @@ bucket/modernflyouts.json, ScoopInstaller/Extras, 1
 bucket/mods.json, ScoopInstaller/Main, 1
 bucket/moekoemusic.json, DoveBoy/Apps, 1
 bucket/mogan-cn.json, ivaquero/scoopet, 0
-bucket/mogan.json, cc713/ownscoop, 1
+bucket/mogan.json, dodorz/scoop, 1
 bucket/mold.json, ScoopInstaller/Main, 1
 bucket/moldau.json, brian6932/dank-scoop, 1
 bucket/mole.json, ScoopInstaller/Main, 1
@@ -7504,7 +7505,7 @@ bucket/mweather.json, ScoopInstaller/Nirsoft, 0
 bucket/mycomputermanager.json, DoveBoy/Apps, 1
 bucket/mycrypto.json, chawyehsu/dorado, 1
 bucket/myeventviewer.json, ScoopInstaller/Nirsoft, 0
-bucket/mygo-cloudmusic.json, batkiz/backit, 1
+bucket/mygo-cloudmusic.json, DoveBoy/Apps, 1
 bucket/mylastsearch.json, ScoopInstaller/Nirsoft, 0
 bucket/mypaint.json, ScoopInstaller/Extras, 1
 bucket/mypy-extensions-py.json, TheRandomLabs/Scoop-Python, 1
@@ -9027,7 +9028,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -9193,6 +9194,7 @@ bucket/puppet-agent.json, ScoopInstaller/Main, 0
 bucket/puppet-bolt.json, ScoopInstaller/Main, 0
 bucket/pupsqlite.json, mo-san/scoop-bucket, 0
 bucket/pure-data.json, ScoopInstaller/Extras, 0
+bucket/pure-music.json, hu3rror/scoop-muggle, 1
 bucket/purelive.json, DoveBoy/Apps, 1
 bucket/purescript.json, ScoopInstaller/Main, 1
 bucket/purewriter.json, DoveBoy/Apps, 1
@@ -9720,7 +9722,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rpi.json, dodorz/scoop, 1
@@ -11452,7 +11454,7 @@ bucket/vcredist2022.json, ScoopInstaller/Extras, 0
 bucket/vcxsrv.json, ScoopInstaller/Extras, 1
 bucket/vdesk.json, ScoopInstaller/Main, 1
 bucket/vdrift.json, Calinou/scoop-games, 0
-bucket/vector.json, ScoopInstaller/Main, 0
+bucket/vector.json, ScoopInstaller/Main, 1
 bucket/vectorcraft.json, ScoopInstaller/Extras, 1
 bucket/vegeta.json, ScoopInstaller/Main, 1
 bucket/velero.json, ScoopInstaller/Main, 1
