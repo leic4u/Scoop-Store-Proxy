@@ -238,7 +238,7 @@ bucket/BigBlueTerminal-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BigBlueTerminal-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Bigjpg.json, dodorz/scoop, 0
-bucket/Bilibili.json, akirco/aki-apps, 0
+bucket/Bilibili.json, chawyehsu/dorado, 0
 bucket/BilibiliLiveRecordDownLoader.json, ygguorun/scoop-bucket, 1
 bucket/BingDianWenku.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitComet.json, leic4u/Scoop-Store, 0
@@ -2318,7 +2318,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, dodorz/scoop, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3726,7 +3726,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, aoisummer/scoop-bucket, 1
+bucket/dandanplay.json, chawyehsu/dorado, 1
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable.json, brian6932/dank-scoop, 1
@@ -4647,7 +4647,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -7284,6 +7284,7 @@ bucket/mold.json, ScoopInstaller/Main, 1
 bucket/moldau.json, brian6932/dank-scoop, 1
 bucket/mole.json, ScoopInstaller/Main, 1
 bucket/molotov-portapps.json, Velgus/Scoop-Portapps, 1
+bucket/momomi.json, hu3rror/scoop-muggle, 1
 bucket/monasans.json, KnotUntied/scoop-fonts, 1
 bucket/monaspaceargon.json, KnotUntied/scoop-fonts, 0
 bucket/monaspacekrypton.json, KnotUntied/scoop-fonts, 0
@@ -7616,7 +7617,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, DoveBoy/Apps, 0
+bucket/neteaseuu.json, chawyehsu/dorado, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -9028,7 +9029,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -9722,7 +9723,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rpi.json, dodorz/scoop, 1
@@ -11188,7 +11189,7 @@ bucket/tubatools-portable.json, DoveBoy/Apps, 1
 bucket/tubatools.json, DoveBoy/Apps, 1
 bucket/tuicr.json, ScoopInstaller/Main, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
-bucket/tuios.json, dodorz/scoop, 1
+bucket/tuios.json, iquiw/scoop-bucket, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
