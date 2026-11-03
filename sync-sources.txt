@@ -9,7 +9,7 @@ bucket/115chrome.json, echoiron/echo-scoop, 0
 bucket/115life.json, echoiron/echo-scoop, 0
 bucket/11game-platform.json, SayCV/scoop-cvp, 0
 bucket/123pan.json, akirco/aki-apps, 1
-bucket/163MusicLyrics.json, ygguorun/scoop-bucket, 1
+bucket/163MusicLyrics.json, DoveBoy/Apps, 1
 bucket/1667.json, dodorz/scoop, 1
 bucket/1Clipboard.json, dodorz/scoop, 0
 bucket/1History.json, abgox/abgo_bucket, 1
@@ -2318,7 +2318,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, hu3rror/scoop-muggle, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3464,7 +3464,7 @@ bucket/completion-predictor.json, akirco/aki-apps, 0
 bucket/completionpredictor.json, ScoopInstaller/Extras, 0
 bucket/composer.json, ScoopInstaller/Main, 0
 bucket/composer1.json, ScoopInstaller/Versions, 0
-bucket/compresso.json, naderi/scoop-bucket, 1
+bucket/compresso.json, DoveBoy/Apps, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
@@ -3605,7 +3605,7 @@ bucket/cryfs.json, naderi/scoop-bucket, 1
 bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
-bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskinfo-aoi-edition.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
@@ -5535,6 +5535,8 @@ bucket/helmsman.json, chawyehsu/dorado, 1
 bucket/helmsniff.json, aliesbelik/poldi, 1
 bucket/hemmelig.json, ScoopInstaller/Extras, 1
 bucket/hercules.json, littleli/Scoop-littleli, 1
+bucket/herdr-app.json, hu3rror/scoop-muggle, 0
+bucket/herdr-core.json, hu3rror/scoop-muggle, 0
 bucket/herdr-gpui.json, hu3rror/scoop-muggle, 1
 bucket/herdr-preview.json, ScoopInstaller/Versions, 1
 bucket/herdr.json, ScoopInstaller/Main, 1
@@ -7732,6 +7734,7 @@ bucket/nodejs8.json, ScoopInstaller/Versions, 1
 bucket/nodejs9.json, ScoopInstaller/Versions, 1
 bucket/nohboard.json, ScoopInstaller/Extras, 1
 bucket/noi.json, ScoopInstaller/Extras, 1
+bucket/noir.json, ScoopInstaller/Main, 1
 bucket/nomachine-enterprise.json, 42wim/scoop-bucket, 0
 bucket/nomacs.json, ScoopInstaller/Extras, 1
 bucket/nomad.json, ScoopInstaller/Main, 0
@@ -9526,7 +9529,8 @@ bucket/reasonix.json, ScoopInstaller/Main, 1
 bucket/rebar3.json, ScoopInstaller/Main, 1
 bucket/rebased.json, ScoopInstaller/Extras, 1
 bucket/rebuild-shell-icon-cache.json, ViCrack/scoop-bucket, 0
-bucket/recaf.json, TheCjw/scoop-retools, 1
+bucket/recaf-alpha.json, ScoopInstaller/Versions, 1
+bucket/recaf.json, ScoopInstaller/Extras, 1
 bucket/recaps.json, ScoopInstaller/Extras, 1
 bucket/recentfilesview.json, ScoopInstaller/Nirsoft, 0
 bucket/recmd.json, ScoopInstaller/Main, 1
@@ -12682,6 +12686,7 @@ scripts/oraclejre8/uninstall-jre.reg, SayCV/scoop-cvp, 0
 scripts/pdfgear/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/pdfgear/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/persist-external-hooks.Tests.ps1, hu3rror/scoop-muggle, 0
+scripts/persist-external-runtime.Tests.ps1, hu3rror/scoop-muggle, 0
 scripts/persist-external.Tests.ps1, hu3rror/scoop-muggle, 0
 scripts/persist-external.ps1, hu3rror/scoop-muggle, 0
 scripts/phoenix-protector/register-ilmerge-path.reg, ScoopInstaller/Extras, 0
@@ -12832,6 +12837,8 @@ scripts/wpsoffice/Install.bat, kkzzhizhou/scoop-zapps, 0
 scripts/wpsoffice/Uninstall.bat, kkzzhizhou/scoop-zapps, 0
 scripts/wsa-pacman/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/wsa-pacman/uninstall-associations.reg, ScoopInstaller/Extras, 0
+scripts/wu/install-context.reg, hu3rror/scoop-muggle, 0
+scripts/wu/uninstall-context.reg, hu3rror/scoop-muggle, 0
 scripts/xdman/3rd-party-tools-setup.ps1, ScoopInstaller/Extras, 0
 scripts/xftp/01-install.bat, SayCV/scoop-cvp, 0
 scripts/xftp/02-uninstall.bat, SayCV/scoop-cvp, 0
