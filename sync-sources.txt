@@ -2318,7 +2318,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, hu3rror/scoop-muggle, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2817,7 +2817,7 @@ bucket/bili23-downloader.json, ScoopInstaller/Extras, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, DoveBoy/Apps, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
@@ -3464,7 +3464,7 @@ bucket/completion-predictor.json, akirco/aki-apps, 0
 bucket/completionpredictor.json, ScoopInstaller/Extras, 0
 bucket/composer.json, ScoopInstaller/Main, 0
 bucket/composer1.json, ScoopInstaller/Versions, 0
-bucket/compresso.json, DoveBoy/Apps, 1
+bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
@@ -3606,7 +3606,7 @@ bucket/cryfs.json, naderi/scoop-bucket, 1
 bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
-bucket/crystaldiskinfo-aoi-edition.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
@@ -4149,6 +4149,7 @@ bucket/dshidmini-np.json, ScoopInstaller/Nonportable, 1
 bucket/dskwipe.json, rasa/scoops, 1
 bucket/dsq.json, aliesbelik/poldi, 1
 bucket/dsqCLI-Portable.json, ACooper81/scoop-apps, 1
+bucket/dssh.json, aliesbelik/poldi, 1
 bucket/dstp.json, aliesbelik/poldi, 1
 bucket/dsynchronize-zh-cn.json, amorphobia/siku, 0
 bucket/dt.json, aliesbelik/poldi, 1
@@ -9038,7 +9039,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -10140,7 +10141,7 @@ bucket/shadowsocksr-csharp.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
-bucket/shadps4-dev.json, Calinou/scoop-games, 1
+bucket/shadps4-dev.json, borger/scoop-emulators, 1
 bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shandianshuo.json, dodorz/scoop, 0
 bucket/shareaza.json, ScoopInstaller/Extras, 0

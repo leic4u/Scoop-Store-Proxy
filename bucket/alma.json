@@ -1,48 +1,20 @@
 {
-  "version": "0.4.410",
-  "description": "GUI client for herdr: Claude Code, Codex and pi agent sessions as clean chats.",
-  "homepage": "https://alma.now",
-  "license": "MIT",
+  "version": "0.4.414",
+  "description": "Elegant AI Provider Orchestration",
+  "homepage": "https://alma.now/",
+  "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/yetone/alma-releases/releases/download/v0.4.410/alma-0.4.410-win-x64.exe#/dl.7z",
-      "hash": "sha512:d8e61329fdbe9fc56997b6c9d475ea2494a11cd54b13c71e6ed043121b4c86dc72ab798ba9d146ea04738253734ef0a3fc1e5fbda494df2c8df4a6a55cc6abc5",
-      "pre_install": [
-        "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
-        "Remove-Item \"$dir\\`$*\", \"$dir\\Uninst*\" -Recurse"
-      ]
+      "url": "https://ghgo.xyz/https://github.com/yetone/alma-releases/releases/download/v0.4.414/alma-0.4.414-win-x64.exe#/dl.7z",
+      "hash": "327c5c493a0c360e0506ed262e195f1c68039165a53f1491ba7ed3024d04d0d0",
+      "installer": {
+        "script": [
+          "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+          "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\`$R0\" -Force -Recurse"
+        ]
+      }
     }
   },
-  "persist_external": [
-    [
-      "$env:AppData\\alma",
-      "data",
-      "directory"
-    ],
-    [
-      "$env:USERPROFILE\\.config\\alma",
-      "config",
-      "directory"
-    ],
-    [
-      "$env:USERPROFILE\\.alma",
-      "activity",
-      "directory"
-    ],
-    [
-      "$env:USERPROFILE\\.cache\\alma",
-      "cache",
-      "directory"
-    ]
-  ],
-  "post_install": [
-    ". \"$(Find-BucketDirectory -Root -Name (coalesce $bucket 'muggle'))/scripts/persist-external.ps1\"",
-    "Invoke-PersistExternalInstall"
-  ],
-  "pre_uninstall": [
-    ". \"$(Find-BucketDirectory -Root -Name (coalesce $bucket 'muggle'))/scripts/persist-external.ps1\"",
-    "Invoke-PersistExternalUninstall"
-  ],
   "shortcuts": [
     [
       "Alma.exe",
@@ -57,10 +29,6 @@
       "64bit": {
         "url": "https://ghgo.xyz/https://github.com/yetone/alma-releases/releases/download/v$version/alma-$version-win-x64.exe#/dl.7z"
       }
-    },
-    "hash": {
-      "url": "$baseurl/latest.yml",
-      "regex": "$basename\\s+sha512:\\s+$base64"
     }
   }
 }
