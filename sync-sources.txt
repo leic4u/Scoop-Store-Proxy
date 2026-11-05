@@ -2903,7 +2903,7 @@ bucket/brave-nightly.json, ScoopInstaller/Versions, 1
 bucket/brave-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/brave.json, ScoopInstaller/Extras, 1
 bucket/brave32.json, rasa/scoops, 1
-bucket/breeze.json, DoveBoy/Apps, 1
+bucket/breeze.json, batkiz/backit, 1
 bucket/breitbandmessung.json, ScoopInstaller/Extras, 0
 bucket/brename.json, ScoopInstaller/Main, 1
 bucket/briar-beta.json, ScoopInstaller/Versions, 0
@@ -4116,7 +4116,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -4353,7 +4353,7 @@ bucket/ethr.json, ScoopInstaller/Main, 1
 bucket/etl2pcapng.json, ScoopInstaller/Main, 1
 bucket/etlas.json, ScoopInstaller/Extras, 0
 bucket/etterna.json, Calinou/scoop-games, 1
-bucket/eudic.json, naderi/scoop-bucket, 0
+bucket/eudic.json, dodorz/scoop, 0
 bucket/euler.json, ScoopInstaller/Extras, 0
 bucket/euro-office.json, ScoopInstaller/Extras, 1
 bucket/eva.json, ScoopInstaller/Main, 1
@@ -5497,7 +5497,7 @@ bucket/helmsman.json, chawyehsu/dorado, 1
 bucket/helmsniff.json, aliesbelik/poldi, 1
 bucket/hemmelig.json, ScoopInstaller/Extras, 1
 bucket/hercules.json, littleli/Scoop-littleli, 1
-bucket/herdr-app.json, hu3rror/scoop-muggle, 0
+bucket/herdr-app.json, ScoopInstaller/Extras, 0
 bucket/herdr-core.json, ScoopInstaller/Main, 0
 bucket/herdr-gpui.json, hu3rror/scoop-muggle, 1
 bucket/herdr-preview.json, ScoopInstaller/Versions, 1
@@ -7018,7 +7018,7 @@ bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -9009,7 +9009,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -9706,7 +9706,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rpi.json, dodorz/scoop, 1
@@ -10112,7 +10112,7 @@ bucket/shadowsocksr-csharp.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
-bucket/shadps4-dev.json, borger/scoop-emulators, 1
+bucket/shadps4-dev.json, Calinou/scoop-games, 1
 bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shandianshuo.json, dodorz/scoop, 0
 bucket/shareaza.json, ScoopInstaller/Extras, 0
@@ -12129,7 +12129,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
-bucket/xenia-edge.json, borger/scoop-emulators, 1
+bucket/xenia-edge.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
