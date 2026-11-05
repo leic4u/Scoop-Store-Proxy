@@ -2264,7 +2264,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2558,6 +2558,7 @@ bucket/autossh.json, ScoopInstaller/Main, 1
 bucket/autotyper.json, ivaquero/scoopet, 0
 bucket/autowikibrowser.json, seumsc/scoop-seu, 0
 bucket/avalonia86.json, Calinou/scoop-games, 1
+bucket/avbox.json, DoveBoy/Apps, 1
 bucket/avidemux-nightly.json, ScoopInstaller/Versions, 0
 bucket/avidemux.json, ScoopInstaller/Extras, 1
 bucket/avogadro.json, ScoopInstaller/Extras, 1
@@ -4115,7 +4116,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -5497,7 +5498,7 @@ bucket/helmsniff.json, aliesbelik/poldi, 1
 bucket/hemmelig.json, ScoopInstaller/Extras, 1
 bucket/hercules.json, littleli/Scoop-littleli, 1
 bucket/herdr-app.json, hu3rror/scoop-muggle, 0
-bucket/herdr-core.json, hu3rror/scoop-muggle, 0
+bucket/herdr-core.json, ScoopInstaller/Main, 0
 bucket/herdr-gpui.json, hu3rror/scoop-muggle, 1
 bucket/herdr-preview.json, ScoopInstaller/Versions, 1
 bucket/herdr.json, ScoopInstaller/Main, 1
@@ -7017,7 +7018,7 @@ bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mgtv.json, DoveBoy/Apps, 0
 bucket/mhc2-dev.json, seumsc/scoop-seu, 1
@@ -7303,6 +7304,7 @@ bucket/mosquitto.json, ScoopInstaller/Main, 0
 bucket/motrix-next.json, ScoopInstaller/Extras, 1
 bucket/motrix-pre.json, ScoopInstaller/Versions, 1
 bucket/motrix.json, ScoopInstaller/Extras, 1
+bucket/motty.json, ScoopInstaller/Extras, 1
 bucket/moul.json, chawyehsu/dorado, 1
 bucket/mouse-monitor.json, brian6932/dank-scoop, 1
 bucket/mouse-tester-fork.json, couleur-tweak-tips/utils, 1
@@ -9704,7 +9706,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rpi.json, dodorz/scoop, 1
@@ -10110,7 +10112,7 @@ bucket/shadowsocksr-csharp.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
-bucket/shadps4-dev.json, Calinou/scoop-games, 1
+bucket/shadps4-dev.json, borger/scoop-emulators, 1
 bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shandianshuo.json, dodorz/scoop, 0
 bucket/shareaza.json, ScoopInstaller/Extras, 0
@@ -10856,6 +10858,7 @@ bucket/temurin8-nightly-jre.json, ScoopInstaller/Java, 1
 bucket/tenacity.json, naderi/scoop-bucket, 0
 bucket/tencent-meeting.json, ivaquero/scoopet, 0
 bucket/tenderly-cli.json, chawyehsu/dorado, 1
+bucket/tennis.json, ScoopInstaller/Main, 1
 bucket/tenv.json, ScoopInstaller/Main, 1
 bucket/teracopy-np.json, ScoopInstaller/Nonportable, 1
 bucket/teracopy.json, naderi/scoop-bucket, 0
@@ -11535,7 +11538,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -11700,6 +11703,7 @@ bucket/webdav.json, amorphobia/siku, 1
 bucket/webex.json, ScoopInstaller/Extras, 0
 bucket/webgal-terre.json, Calinou/scoop-games, 1
 bucket/webhook.json, ScoopInstaller/Main, 1
+bucket/webhtv.json, DoveBoy/Apps, 1
 bucket/weblogic-remote-console.json, ScoopInstaller/Extras, 1
 bucket/webpicmd.json, ScoopInstaller/Extras, 0
 bucket/webshell_generate.json, ViCrack/scoop-bucket, 1
@@ -12129,6 +12133,7 @@ bucket/xenia-edge.json, borger/scoop-emulators, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
+bucket/xerj.json, ScoopInstaller/Main, 1
 bucket/xfetch.json, ScoopInstaller/Extras, 1
 bucket/xftp7p.json, kkzzhizhou/scoop-zapps, 1
 bucket/xget.json, aliesbelik/poldi, 1
@@ -12490,6 +12495,7 @@ bucket/zulufx25-jre.json, ScoopInstaller/Java, 0
 bucket/zulufx8-jdk.json, ScoopInstaller/Java, 0
 bucket/zulufx8-jre.json, ScoopInstaller/Java, 0
 bucket/zulumc.json, ScoopInstaller/Java, 0
+bucket/zvec-grep.json, ScoopInstaller/Main, 0
 bucket/zvm.json, ScoopInstaller/Main, 1
 bucket/zxhn-f610gv9-crcv.json, SayCV/scoop-cvp, 1
 bucket/zyfun.json, cc713/ownscoop, 1
@@ -12509,7 +12515,6 @@ scripts/DoradoUtils.psm1, chawyehsu/dorado, 0
 scripts/Install-Font.ps1, batkiz/backit, 0
 scripts/InstallAllInstallApps.ps1, ACooper81/scoop-apps, 0
 scripts/InstallAllPortableApps.ps1, ACooper81/scoop-apps, 0
-scripts/MobaXtermX.exe, hu3rror/scoop-muggle, 0
 scripts/ModifyPSProfile.psm1, ScoopInstaller/Extras, 0
 scripts/SSUtils.psm1, leic4u/Scoop-Store, 0
 scripts/Scoop-Core/install.ps1, ACooper81/scoop-apps, 1
@@ -12627,8 +12632,9 @@ scripts/mdk533/uninstall-context.reg, SayCV/scoop-cvp, 0
 scripts/microchip-filterlab/install-filterlab.reg.templ, SayCV/scoop-cvp, 0
 scripts/microchip-filterlab/uninstall-filterlab.reg, SayCV/scoop-cvp, 0
 scripts/migrate-python-packages.ps1, TheRandomLabs/Scoop-Python, 0
-scripts/mihomo-helper.ps1, hu3rror/scoop-muggle, 0
-scripts/mihomo-shawl-setup.ps1, hu3rror/scoop-muggle, 0
+scripts/mihomo-shawl-service/mihomo-helper.ps1, hu3rror/scoop-muggle, 0
+scripts/mihomo-shawl-service/mihomo-shawl-setup.ps1, hu3rror/scoop-muggle, 0
+scripts/mobaxterm-sp/MobaXtermX.exe, hu3rror/scoop-muggle, 0
 scripts/modelsim-se202004-win64/install-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/modelsim-se202004-win64/scripts_modelsim.cmd.tpl, SayCV/scoop-cvp, 0
 scripts/modelsim-se202004-win64/uninstall-context.reg.tpl, SayCV/scoop-cvp, 0
