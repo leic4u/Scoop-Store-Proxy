@@ -1753,7 +1753,7 @@ bucket/TaskExplorer-Portable.json, ACooper81/scoop-apps, 1
 bucket/TaskExplorer.json, cc713/ownscoop, 1
 bucket/TaskbarGroups-Portable.json, ACooper81/scoop-apps, 1
 bucket/TeamViewer-Install.json, ACooper81/scoop-apps, 0
-bucket/Teamviewer-Portable.json, ACooper81/scoop-apps, 0
+bucket/Teamviewer-Portable.json, naderi/scoop-bucket, 0
 bucket/Telegram-Portable.json, ACooper81/scoop-apps, 0
 bucket/TencentMeeting.json, dodorz/scoop, 0
 bucket/TencentQQNT.json, AkariiinMKII/Scoop4kariiin, 0
@@ -2168,7 +2168,6 @@ bucket/acttools.json, hu3rror/scoop-muggle, 1
 bucket/adapterwatch.json, kodybrown/scoop-nirsoft, 0
 bucket/adata-ssdtoolbox.json, SayCV/scoop-cvp, 1
 bucket/adb.json, ScoopInstaller/Main, 0
-bucket/adblink.json, naderi/scoop-bucket, 0
 bucket/addrview.json, ScoopInstaller/Nirsoft, 0
 bucket/ade.json, scoopcn/scoopcn, 0
 bucket/adexplorer.json, niheaven/scoop-sysinternals, 1
@@ -2265,7 +2264,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, hu3rror/scoop-muggle, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2538,7 +2537,7 @@ bucket/autoclicker.json, ScoopInstaller/Extras, 0
 bucket/autoclip.json, ivaquero/scoopet, 1
 bucket/autocorrect.json, ScoopInstaller/Main, 1
 bucket/autocut.json, Weidows-projects/scoop-3rd, 0
-bucket/autodarkmode.json, DoveBoy/Apps, 1
+bucket/autodarkmode.json, naderi/scoop-bucket, 1
 bucket/autogpuaffinity-spddl.json, couleur-tweak-tips/utils, 1
 bucket/autogpuaffinity.json, couleur-tweak-tips/utils, 1
 bucket/autohotkey-np.json, ScoopInstaller/Nonportable, 1
@@ -3316,7 +3315,7 @@ bucket/clipboard.json, ScoopInstaller/Main, 1
 bucket/clipboardic.json, ScoopInstaller/Nirsoft, 0
 bucket/clipgrab.json, starise/Scoop-Confetti, 0
 bucket/cliproxyapi.json, ScoopInstaller/Main, 1
-bucket/clipx.json, dodorz/scoop, 0
+bucket/clipx.json, naderi/scoop-bucket, 0
 bucket/clj-deps.json, littleli/scoop-clojure, 1
 bucket/clj-kondo.json, littleli/scoop-clojure, 1
 bucket/clj-msi.json, littleli/scoop-clojure, 1
@@ -3972,7 +3971,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, borger/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4606,7 +4605,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -9008,7 +9007,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -10573,7 +10572,6 @@ bucket/stretchly.json, ScoopInstaller/Extras, 1
 bucket/strings.json, niheaven/scoop-sysinternals, 1
 bucket/stripe-cli.json, ScoopInstaller/Main, 1
 bucket/strix.json, ScoopInstaller/Main, 1
-bucket/strokes-plus.json, naderi/scoop-bucket, 0
 bucket/strokesplus.json, ScoopInstaller/Extras, 0
 bucket/strokesplus.net.json, ScoopInstaller/Extras, 0
 bucket/strongvpn-v1.json, SayCV/scoop-cvp, 1
@@ -11805,7 +11803,6 @@ bucket/win11-classic-context-menu.json, hu3rror/scoop-muggle, 0
 bucket/win11-toggle-rounded-corners.json, starise/Scoop-Confetti, 1
 bucket/win11-virtual-desktop-extension.json, starise/Scoop-Confetti, 1
 bucket/win11dragdroptaskbarfix.json, ScoopInstaller/Extras, 1
-bucket/win11rct.json, naderi/scoop-bucket, 0
 bucket/win32-disk-imager.json, ScoopInstaller/Extras, 0
 bucket/win32-openssh.json, akirco/aki-apps, 1
 bucket/win32pad.json, dodorz/scoop, 0
@@ -12128,7 +12125,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
-bucket/xenia-edge.json, Calinou/scoop-games, 1
+bucket/xenia-edge.json, borger/scoop-emulators, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
