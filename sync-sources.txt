@@ -8948,6 +8948,7 @@ bucket/polsedit.json, ScoopInstaller/Extras, 0
 bucket/polymc.json, Deide/deide-bucket, 1
 bucket/pomerium.json, MCOfficer/scoop-bucket, 1
 bucket/pomsky.json, ScoopInstaller/Main, 1
+bucket/ponyup.json, littleli/Scoop-littleli, 1
 bucket/popeye.json, ScoopInstaller/Main, 1
 bucket/poppler.json, ScoopInstaller/Main, 1
 bucket/poppler068.json, ScoopInstaller/Versions, 0
@@ -12140,7 +12141,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
-bucket/xenia-edge.json, borger/scoop-emulators, 1
+bucket/xenia-edge.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
