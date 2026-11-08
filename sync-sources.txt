@@ -8844,7 +8844,6 @@ bucket/pict.json, iquiw/scoop-bucket, 1
 bucket/picturecleaner.json, DoveBoy/Apps, 1
 bucket/picview.json, ScoopInstaller/Extras, 1
 bucket/pidgin.json, ScoopInstaller/Extras, 0
-bucket/pidkey.json, ViCrack/scoop-bucket, 1
 bucket/pie.json, naderi/scoop-bucket, 0
 bucket/pietty.json, ScoopInstaller/Extras, 0
 bucket/pigma.json, akirco/aki-apps, 1
@@ -9721,7 +9720,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rpi.json, dodorz/scoop, 1
@@ -11485,7 +11484,7 @@ bucket/verapdf-docker.json, cderv/r-bucket, 1
 bucket/verethragna.json, jfut/scoop-jfut, 0
 bucket/verilator.json, SayCV/scoop-cvp, 1
 bucket/verilog-format.json, SayCV/scoop-cvp, 1
-bucket/verycapture.json, dodorz/scoop, 0
+bucket/verycapture.json, ViCrack/scoop-bucket, 0
 bucket/verysync.json, kkzzhizhou/scoop-zapps, 0
 bucket/vesktop.json, ScoopInstaller/Extras, 1
 bucket/vesta.json, ScoopInstaller/Extras, 0
@@ -12150,7 +12149,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
-bucket/xenia-edge.json, borger/scoop-emulators, 1
+bucket/xenia-edge.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
@@ -12460,7 +12459,6 @@ bucket/zrok.json, ScoopInstaller/Extras, 1
 bucket/zsh-patina.json, ScoopInstaller/Extras, 1
 bucket/zsharp.json, ScoopInstaller/Extras, 1
 bucket/zstd.json, ScoopInstaller/Main, 1
-bucket/ztasker.json, ViCrack/scoop-bucket, 0
 bucket/ztools.json, ViCrack/scoop-bucket, 1
 bucket/ztree-beta.json, rasa/scoops, 0
 bucket/ztree-zeta.json, rasa/scoops, 0
