@@ -3420,7 +3420,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, dodorz/scoop, 1
+bucket/con-terminal.json, batkiz/backit, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -9721,7 +9721,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rpi.json, dodorz/scoop, 1
@@ -11738,6 +11738,7 @@ bucket/wechat-cvp.json, SayCV/scoop-cvp, 1
 bucket/wechat-devtools.json, scoopcn/scoopcn, 0
 bucket/wechat-legacy.json, ScoopInstaller/Versions, 0
 bucket/wechat-np.json, chawyehsu/dorado, 0
+bucket/wechat-video-downloader.json, ivaquero/scoopet, 1
 bucket/wechat-work.json, akirco/aki-apps, 0
 bucket/wechat.json, ScoopInstaller/Extras, 1
 bucket/wechatbaktool.json, ViCrack/scoop-bucket, 1
@@ -12106,6 +12107,7 @@ bucket/wurl.json, ScoopInstaller/Extras, 1
 bucket/wutils.json, Weidows-projects/scoop-3rd, 1
 bucket/wuzz.json, ScoopInstaller/Main, 1
 bucket/wwgjx-portable.json, Weidows-projects/scoop-3rd, 1
+bucket/wx-channel.json, ivaquero/scoopet, 1
 bucket/wx-channels-download.json, ivaquero/scoopet, 1
 bucket/wx_channels_download.json, ViCrack/scoop-bucket, 1
 bucket/wx_qq_revokeMsgPatcher.json, akirco/aki-apps, 1
@@ -12148,7 +12150,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
-bucket/xenia-edge.json, Calinou/scoop-games, 1
+bucket/xenia-edge.json, borger/scoop-emulators, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
