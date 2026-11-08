@@ -2264,7 +2264,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, hu3rror/scoop-muggle, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3236,6 +3236,8 @@ bucket/cinta-notes.json, naderi/scoop-bucket, 0
 bucket/circleci-cli.json, ScoopInstaller/Main, 1
 bucket/citra-canary.json, hermanjustnu/scoop-emulators, 1
 bucket/citra-nightly.json, hermanjustnu/scoop-emulators, 1
+bucket/citron-nightly.json, borger/scoop-emulators, 1
+bucket/citron.json, borger/scoop-emulators, 0
 bucket/civo.json, ScoopInstaller/Extras, 1
 bucket/ciyue.json, DoveBoy/Apps, 1
 bucket/cjoe-static.json, dodorz/scoop, 0
@@ -3418,7 +3420,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, batkiz/backit, 1
+bucket/con-terminal.json, dodorz/scoop, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -4219,6 +4221,7 @@ bucket/edgedriver.json, ScoopInstaller/Main, 0
 bucket/edgeless.json, ivaquero/scoopet, 0
 bucket/ediary.json, chawyehsu/dorado, 0
 bucket/edit.json, ScoopInstaller/Main, 1
+bucket/editorconfig-checker.json, ScoopInstaller/Main, 1
 bucket/editorconfig.json, ScoopInstaller/Main, 0
 bucket/edlo.json, KnotUntied/scoop-fonts, 0
 bucket/edrawmax.json, ivaquero/scoopet, 0
@@ -4571,7 +4574,7 @@ bucket/filebrowser.json, amorphobia/siku, 1
 bucket/filecode-checker.json, mo-san/scoop-bucket, 0
 bucket/fileconverter.json, DoveBoy/Apps, 1
 bucket/filee-portable.json, DoveBoy/Apps, 1
-bucket/filee.json, DoveBoy/Apps, 1
+bucket/filee.json, ScoopInstaller/Extras, 1
 bucket/filelight-nightly.json, ScoopInstaller/Versions, 0
 bucket/filelight.json, ScoopInstaller/Extras, 0
 bucket/filelist.json, starise/Scoop-Confetti, 0
@@ -4835,6 +4838,7 @@ bucket/fresh-editor.json, littleli/Scoop-littleli, 1
 bucket/fresh.json, ScoopInstaller/Main, 1
 bucket/frhelper.json, ivaquero/scoopet, 0
 bucket/fricas.json, ScoopInstaller/Extras, 1
+bucket/fritchii.json, borger/scoop-emulators, 1
 bucket/fritzing.json, ScoopInstaller/Extras, 1
 bucket/froststrap.json, Calinou/scoop-games, 1
 bucket/frostwire.json, ScoopInstaller/Extras, 0
@@ -6577,6 +6581,7 @@ bucket/libvips.json, ScoopInstaller/Main, 1
 bucket/libwebp.json, ScoopInstaller/Main, 0
 bucket/libxml2.json, ScoopInstaller/Main, 0
 bucket/licecap.json, ScoopInstaller/Extras, 0
+bucket/lichii.json, borger/scoop-emulators, 1
 bucket/lightbulb.json, ScoopInstaller/Extras, 1
 bucket/lightc-portable.json, DoveBoy/Apps, 1
 bucket/lightc.json, DoveBoy/Apps, 1
@@ -7487,7 +7492,7 @@ bucket/mweather.json, ScoopInstaller/Nirsoft, 0
 bucket/mycomputermanager.json, DoveBoy/Apps, 1
 bucket/mycrypto.json, chawyehsu/dorado, 1
 bucket/myeventviewer.json, ScoopInstaller/Nirsoft, 0
-bucket/mygo-cloudmusic.json, batkiz/backit, 1
+bucket/mygo-music.json, batkiz/backit, 1
 bucket/mylastsearch.json, ScoopInstaller/Nirsoft, 0
 bucket/mypaint.json, ScoopInstaller/Extras, 1
 bucket/mypy-extensions-py.json, TheRandomLabs/Scoop-Python, 1
@@ -9716,7 +9721,7 @@ bucket/roundedtb.json, ScoopInstaller/Extras, 1
 bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
-bucket/rpcs3.json, borger/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rpi.json, dodorz/scoop, 1
@@ -10309,6 +10314,8 @@ bucket/sniproxy.json, DoveBoy/Apps, 1
 bucket/snitch.json, ScoopInstaller/Extras, 1
 bucket/snoop.json, ScoopInstaller/Extras, 1
 bucket/snoretoast.json, ScoopInstaller/Extras, 0
+bucket/snout-desktop.json, hu3rror/scoop-muggle, 1
+bucket/snout.json, hu3rror/scoop-muggle, 1
 bucket/snova-asioCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/snowshot.json, ScoopInstaller/Extras, 1
 bucket/snsync.json, dodorz/scoop, 1
