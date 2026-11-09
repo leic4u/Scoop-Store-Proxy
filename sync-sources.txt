@@ -1327,6 +1327,8 @@ bucket/PhotoFiltre7.json, zhoujin7/tomato, 0
 bucket/PhotoQt.json, cc713/ownscoop, 0
 bucket/PhotoScissors.json, dodorz/scoop, 0
 bucket/PhotoZoomPro.json, kkzzhizhou/scoop-zapps, 1
+bucket/Pi-Agent-Rust.json, dodorz/scoop, 1
+bucket/Pi-Bolt.json, dodorz/scoop, 1
 bucket/PicaComic.json, hu3rror/scoop-muggle, 1
 bucket/PicoTorrent-Portable.json, ACooper81/scoop-apps, 1
 bucket/PictureCollageMaker.json, dodorz/scoop, 0
@@ -2264,7 +2266,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, hu3rror/scoop-muggle, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -3421,7 +3423,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, batkiz/backit, 1
+bucket/con-terminal.json, dodorz/scoop, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -7021,6 +7023,7 @@ bucket/mesa3d.json, Calinou/scoop-games, 1
 bucket/mesen-s.json, Calinou/scoop-games, 1
 bucket/mesen.json, Calinou/scoop-games, 1
 bucket/meshlab.json, ScoopInstaller/Extras, 1
+bucket/meshmc.json, Calinou/scoop-games, 1
 bucket/meshroom.json, ScoopInstaller/Extras, 0
 bucket/meson.json, ScoopInstaller/Main, 1
 bucket/mesonlsp.json, ScoopInstaller/Extras, 1
@@ -10021,6 +10024,7 @@ bucket/screentogif.json, ScoopInstaller/Extras, 1
 bucket/scribus-dev.json, ScoopInstaller/Versions, 0
 bucket/scribus.json, ScoopInstaller/Extras, 0
 bucket/scriptcs.json, ScoopInstaller/Main, 0
+bucket/scskiller.json, Calinou/scoop-games, 1
 bucket/scummvm-nightly.json, hermanjustnu/scoop-emulators, 0
 bucket/scummvm.json, Calinou/scoop-games, 0
 bucket/sd-card-formatter.json, ScoopInstaller/Extras, 0
@@ -10153,7 +10157,7 @@ bucket/shellmenunew.json, ScoopInstaller/Nirsoft, 0
 bucket/shellmenuview.json, kodybrown/scoop-nirsoft, 0
 bucket/shellrunas.json, niheaven/scoop-sysinternals, 1
 bucket/shelltools-np.json, ScoopInstaller/Nonportable, 0
-bucket/sheprd.json, dodorz/scoop, 1
+bucket/sheprd.json, hu3rror/scoop-muggle, 1
 bucket/shexview.json, ScoopInstaller/Nirsoft, 0
 bucket/shfmt.json, ScoopInstaller/Main, 1
 bucket/shh.json, littleli/scoop-clojure, 1
@@ -10544,7 +10548,7 @@ bucket/steam-game-idler.json, Calinou/scoop-games, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-lite.json, brian6932/dank-scoop, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
-bucket/steam-rom-manager.json, borger/scoop-emulators, 1
+bucket/steam-rom-manager.json, Calinou/scoop-games, 1
 bucket/steam.json, ScoopInstaller/Versions, 0
 bucket/steamchina.json, SayCV/scoop-cvp, 0
 bucket/steamcmd.json, ScoopInstaller/Extras, 0
@@ -11244,6 +11248,7 @@ bucket/typeeasy.json, echoiron/echo-scoop, 0
 bucket/typescript.json, ScoopInstaller/Main, 1
 bucket/typespec.json, ScoopInstaller/Main, 0
 bucket/typioca.json, ScoopInstaller/Main, 1
+bucket/typora-arm64.json, ScoopInstaller/Extras, 0
 bucket/typora-dev.json, ScoopInstaller/Versions, 0
 bucket/typora-plugin.json, DoveBoy/Apps, 1
 bucket/typora.json, ScoopInstaller/Extras, 0
@@ -12652,6 +12657,8 @@ scripts/manifest-script-references.Tests.ps1, hu3rror/scoop-muggle, 0
 scripts/mdk533/TOOLS.INI.templ, SayCV/scoop-cvp, 0
 scripts/mdk533/install-context.reg.templ, SayCV/scoop-cvp, 0
 scripts/mdk533/uninstall-context.reg, SayCV/scoop-cvp, 0
+scripts/meshmc/install-associations.reg, Calinou/scoop-games, 0
+scripts/meshmc/uninstall-associations.reg, Calinou/scoop-games, 0
 scripts/microchip-filterlab/install-filterlab.reg.templ, SayCV/scoop-cvp, 0
 scripts/microchip-filterlab/uninstall-filterlab.reg, SayCV/scoop-cvp, 0
 scripts/migrate-python-packages.ps1, TheRandomLabs/Scoop-Python, 0
