@@ -220,7 +220,7 @@ bucket/BBDownNextGUI.json, cc713/ownscoop, 1
 bucket/BaGeShuo.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
-bucket/BaiduNetdisk.json, ivaquero/scoopet, 0
+bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
 bucket/BaiduPanFilesTransfers.json, dodorz/scoop, 1
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
@@ -1217,7 +1217,6 @@ bucket/NpackdCL.json, dodorz/scoop, 1
 bucket/NpcGUI.json, kkzzhizhou/scoop-zapps, 1
 bucket/NsEmuTools.json, hu3rror/scoop-muggle, 1
 bucket/NuGetCLI-Portable.json, ACooper81/scoop-apps, 0
-bucket/Nub.json, dodorz/scoop, 1
 bucket/Nuclear-Portable.json, ACooper81/scoop-apps, 1
 bucket/NvidiaDisplayDriver-Install.json, ACooper81/scoop-apps, 0
 bucket/Nyushu-font.json, Weidows-projects/scoop-3rd, 1
@@ -3981,7 +3980,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, borger/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4035,7 +4034,7 @@ bucket/dottorrent-gui.json, ScoopInstaller/Extras, 1
 bucket/dottrace-api.json, ScoopInstaller/Main, 0
 bucket/dottrace-clt.json, ScoopInstaller/Main, 0
 bucket/dottrace.json, ScoopInstaller/Extras, 0
-bucket/doubao.json, dodorz/scoop, 0
+bucket/doubao.json, akirco/aki-apps, 1
 bucket/double-finder.json, amorphobia/siku, 0
 bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
@@ -4210,7 +4209,7 @@ bucket/ecspresso.json, ScoopInstaller/Main, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden-nightly.json, borger/scoop-emulators, 0
+bucket/eden-nightly.json, Calinou/scoop-games, 0
 bucket/eden.json, Calinou/scoop-games, 0
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-TTS-record.json, dodorz/scoop, 0
@@ -7808,6 +7807,7 @@ bucket/ntrace-dev.json, DoveBoy/Apps, 1
 bucket/ntsc-rs.json, ScoopInstaller/Extras, 1
 bucket/ntttcp.json, aliesbelik/poldi, 1
 bucket/nu.json, ScoopInstaller/Main, 1
+bucket/nub.json, ScoopInstaller/Main, 1
 bucket/nuclear.json, ScoopInstaller/Extras, 1
 bucket/nuclei.json, ScoopInstaller/Main, 0
 bucket/nucleistudio.json, SayCV/scoop-cvp, 0
@@ -8026,7 +8026,7 @@ bucket/openclonk.json, Calinou/scoop-games, 0
 bucket/openclosedriveeject.json, ScoopInstaller/Extras, 0
 bucket/opencode-desktop.json, ScoopInstaller/Extras, 1
 bucket/opencode-x.json, kiennq/scoop-misc, 1
-bucket/opencode.json, ScoopInstaller/Main, 1
+bucket/opencode.json, ScoopInstaller/Main, 0
 bucket/opencode1-desktop.json, ScoopInstaller/Versions, 1
 bucket/opencode1.json, ScoopInstaller/Versions, 1
 bucket/opencode2-beta.json, ScoopInstaller/Versions, 0
@@ -8299,6 +8299,8 @@ bucket/pasteex.json, chawyehsu/dorado, 1
 bucket/pastel.json, ScoopInstaller/Main, 1
 bucket/patch.json, ScoopInstaller/Main, 0
 bucket/patchcleaner.json, ScoopInstaller/Extras, 0
+bucket/patchy-portable.json, DoveBoy/Apps, 1
+bucket/patchy.json, DoveBoy/Apps, 1
 bucket/path-set.json, rasa/scoops, 1
 bucket/patheditor.json, ScoopInstaller/Extras, 1
 bucket/pathod.json, ScoopInstaller/Extras, 0
@@ -11578,7 +11580,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -11984,7 +11986,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, DoveBoy/Apps, 1
+bucket/winscript.json, naderi/scoop-bucket, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0

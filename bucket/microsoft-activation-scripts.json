@@ -1,5 +1,5 @@
 {
-  "version": "1783151319",
+  "version": "1794378887",
   "description": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
   "homepage": "https://massgrave.dev/",
   "license": {
@@ -7,7 +7,7 @@
     "url": "https://github.com/massgravel/Microsoft-Activation-Scripts/blob/master/LICENSE"
   },
   "url": "https://github.com/massgravel/Microsoft-Activation-Scripts/raw/master/MAS/All-In-One-Version-KL/MAS_AIO.cmd",
-  "hash": "850f979665fb93999acae93f4790c1ff8ed2041532060b7966a121c2d29a0bfa",
+  "hash": "017ffdac6c8c83f7161aae3a51fdd614e729adcbd26b0ccc99a3daecc341b8eb",
   "pre_install": "Get-ChildItem \"$dir\\MAS*.cmd\" | Rename-Item -NewName 'MAS.cmd'",
   "bin": "MAS.cmd",
   "shortcuts": [
