@@ -1,5 +1,5 @@
 {
-  "version": "1.11.5",
+  "version": "1.12.1",
   "description": "红果开源播放器",
   "homepage": "https://github.com/zfdang/hongguo-open-player",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/zfdang/hongguo-open-player/releases/download/v1.11.5/hongguo-open-player-1.11.5-win-x64-setup.exe#/dl.7z",
-      "hash": "6b6782ae85e1992f9a3a6b5889f27dc9bea999b2b686bd9d42cf0391c54fc361",
+      "url": "https://ghgo.xyz/https://github.com/zfdang/hongguo-open-player/releases/download/v1.12.1/hongguo-open-player-1.12.1-win-x64-setup.exe#/dl.7z",
+      "hash": "abf237e406ba2c81be7bba8e769be04bce5ed2dec4d28a265a2a69f4f6eedeaf",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$*\" -Force -Recurse",
