@@ -122,7 +122,8 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, dodorz/scoop, 1
+bucket/AionUi-classic.json, dodorz/scoop, 1
+bucket/AionUi.json, dodorz/scoop, 0
 bucket/AirplayReceiver.json, dodorz/scoop, 0
 bucket/AlephNote.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
@@ -2266,7 +2267,7 @@ bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, Weidows-projects/scoop-3rd, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
 bucket/alt-app-switcher.json, naderi/scoop-bucket, 1
 bucket/alt-ime-ahk.json, yuusakuri/scoop-bucket, 1
@@ -2282,6 +2283,7 @@ bucket/altsnap.json, ScoopInstaller/Extras, 1
 bucket/altstreamdump.json, ScoopInstaller/Nirsoft, 0
 bucket/altus.json, ScoopInstaller/Extras, 1
 bucket/alwaysmousewheel.json, naderi/scoop-bucket, 0
+bucket/am-deadlink.json, ScoopInstaller/Extras, 0
 bucket/amass.json, ScoopInstaller/Main, 1
 bucket/amazon-workspaces.json, ScoopInstaller/Extras, 0
 bucket/amber.json, ScoopInstaller/Extras, 1
@@ -4209,7 +4211,7 @@ bucket/ecspresso.json, ScoopInstaller/Main, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden-nightly.json, Calinou/scoop-games, 0
+bucket/eden-nightly.json, borger/scoop-emulators, 0
 bucket/eden.json, Calinou/scoop-games, 0
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-TTS-record.json, dodorz/scoop, 0
@@ -4616,7 +4618,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -9043,7 +9045,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -11581,7 +11583,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -12174,7 +12176,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
-bucket/xenia-edge.json, Calinou/scoop-games, 1
+bucket/xenia-edge.json, borger/scoop-emulators, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
