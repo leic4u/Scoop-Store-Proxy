@@ -1,12 +1,12 @@
 {
-  "version": "0.3.1.54",
+  "version": "0.3.1.56",
   "description": "Fast Windows launcher with indexed apps, custom commands, hotkeys, startup tasks, cron-style scheduling, and usage-based ranking.",
   "homepage": "https://github.com/dodorz/dorun",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/dodorz/dorun/releases/download/0.3.1.54/DoRun-v0.3.1.54-windows-x64.zip",
-      "hash": "ff2ba26234dd043c3d3e702d42dbce83487b395a5d1789a516a1657fe2966276"
+      "url": "https://ghgo.xyz/https://github.com/dodorz/dorun/releases/download/0.3.1.56/DoRun-v0.3.1.56-windows-x64.zip",
+      "hash": "d3fe2e4354822a4667f7168f20737a8cde52e531cd94bb89bc0d660cd8107b36"
     }
   },
   "bin": "DoRun.exe",
