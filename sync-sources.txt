@@ -7792,6 +7792,7 @@ bucket/nps-client.json, kkzzhizhou/scoop-zapps, 1
 bucket/nrfutil.json, ScoopInstaller/Main, 0
 bucket/nsis-np.json, ScoopInstaller/Nonportable, 0
 bucket/nsis.json, ScoopInstaller/Extras, 0
+bucket/nsq.json, ScoopInstaller/Main, 1
 bucket/nssm.json, ScoopInstaller/Main, 0
 bucket/nsudo-devil-mode.json, jingyu9575/scoop-jingyu9575, 1
 bucket/nsudo.json, ScoopInstaller/Extras, 1
@@ -9745,7 +9746,7 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
 bucket/rozi.json, iquiw/scoop-bucket, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpgm-decrypt.json, cc713/ownscoop, 1
 bucket/rpgmdec.json, cc713/ownscoop, 1
 bucket/rpi.json, dodorz/scoop, 1
@@ -9889,6 +9890,7 @@ bucket/sagerconnect.json, AkinoKaede/maple, 1
 bucket/sak.json, Calinou/scoop-games, 1
 bucket/sakura-launcher-gui.json, aoisummer/scoop-bucket, 1
 bucket/sakura.json, mo-san/scoop-bucket, 1
+bucket/saladict.json, ViCrack/scoop-bucket, 1
 bucket/salt.json, kidonng/sushi, 1
 bucket/sam-rewritten.json, starise/Scoop-Gaming, 1
 bucket/sam.json, ScoopInstaller/Extras, 1
@@ -11584,7 +11586,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, borger/scoop-emulators, 1
+bucket/vita3k.json, Calinou/scoop-games, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -12177,7 +12179,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
-bucket/xenia-edge.json, borger/scoop-emulators, 1
+bucket/xenia-edge.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
