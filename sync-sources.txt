@@ -667,7 +667,7 @@ bucket/GSpot.json, dodorz/scoop, 0
 bucket/GUI.for.SingBox.json, Weidows-projects/scoop-3rd, 1
 bucket/GaiaSky.json, dodorz/scoop, 0
 bucket/Gajim.json, dodorz/scoop, 0
-bucket/Game-Cheats-Manager.json, cc713/ownscoop, 1
+bucket/Game-Cheats-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/GameMakerStudio2-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/Gammadyne-CLI.json, dodorz/scoop, 0
 bucket/GanttProject.json, dodorz/scoop, 1
@@ -2781,6 +2781,7 @@ bucket/bililive-tools.json, DoveBoy/Apps, 1
 bucket/bililiverecorder.json, chawyehsu/dorado, 1
 bucket/bilimini.json, amorphobia/siku, 1
 bucket/bilineo.json, DoveBoy/Apps, 1
+bucket/bilisail.json, batkiz/backit, 1
 bucket/biliup-app.json, Weidows-projects/scoop-3rd, 1
 bucket/biliup-rs.json, DoveBoy/Apps, 1
 bucket/billy-frontier.json, Calinou/scoop-games, 1
@@ -6895,6 +6896,8 @@ bucket/mapdownload.json, DoveBoy/Apps, 1
 bucket/maple-file.json, DoveBoy/Apps, 1
 bucket/maple.json, ScoopInstaller/Extras, 1
 bucket/marble.json, ScoopInstaller/Extras, 0
+bucket/marcomovie-portable.json, DoveBoy/Apps, 1
+bucket/marcomovie.json, DoveBoy/Apps, 1
 bucket/mariadb.json, ScoopInstaller/Main, 0
 bucket/mariadb103.json, ScoopInstaller/Versions, 0
 bucket/mariokart-64-ultraship.json, Deide/deide-bucket, 1
@@ -6908,7 +6911,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -7891,6 +7894,7 @@ bucket/ocauxiliarytools.json, ScoopInstaller/Extras, 1
 bucket/occt.json, brian6932/dank-scoop, 0
 bucket/ocenaudio.json, ScoopInstaller/Extras, 0
 bucket/oci-cli.json, ScoopInstaller/Main, 1
+bucket/ocs-desktop.json, DoveBoy/Apps, 1
 bucket/octant.json, ScoopInstaller/Extras, 1
 bucket/octarine-cli.json, cderv/r-bucket, 0
 bucket/octarine.json, cderv/r-bucket, 0
@@ -10196,7 +10200,6 @@ bucket/shmnview.json, ScoopInstaller/Nirsoft, 0
 bucket/shortcutsman.json, kodybrown/scoop-nirsoft, 0
 bucket/shotcut.json, ScoopInstaller/Extras, 1
 bucket/show-disk-partition-style.json, ScoopInstaller/Extras, 0
-bucket/showkeyboard-node.json, DoveBoy/Apps, 1
 bucket/showkeyboard.json, DoveBoy/Apps, 1
 bucket/shterm-alt.json, seumsc/scoop-seu, 1
 bucket/shuck.json, iquiw/scoop-bucket, 1
@@ -10338,6 +10341,8 @@ bucket/sniffnet.json, ScoopInstaller/Extras, 1
 bucket/sniffpass.json, ScoopInstaller/Nirsoft, 0
 bucket/snipaste-beta.json, ScoopInstaller/Versions, 0
 bucket/snipaste.json, ScoopInstaller/Extras, 0
+bucket/sniplite-portable.json, DoveBoy/Apps, 1
+bucket/sniplite.json, DoveBoy/Apps, 1
 bucket/sniproxy.json, DoveBoy/Apps, 1
 bucket/snitch.json, ScoopInstaller/Extras, 1
 bucket/snoop.json, ScoopInstaller/Extras, 1
@@ -11232,7 +11237,7 @@ bucket/tubatools-portable.json, DoveBoy/Apps, 1
 bucket/tubatools.json, DoveBoy/Apps, 1
 bucket/tuicr.json, ScoopInstaller/Main, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
-bucket/tuios.json, iquiw/scoop-bucket, 1
+bucket/tuios.json, dodorz/scoop, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
@@ -11586,7 +11591,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -11690,6 +11695,7 @@ bucket/wait-for-it.json, littleli/Scoop-littleli, 1
 bucket/wait4x.json, ScoopInstaller/Extras, 1
 bucket/waitforit.json, aliesbelik/poldi, 1
 bucket/wakatime-cli.json, ScoopInstaller/Main, 1
+bucket/wake.json, batkiz/backit, 1
 bucket/wakemeonlan.json, ScoopInstaller/Nirsoft, 0
 bucket/waku.json, batkiz/backit, 1
 bucket/walk.json, ScoopInstaller/Main, 1
