@@ -1,26 +1,26 @@
 {
-  "version": "4360-9f3d27c2",
-  "description": "Sony PlayStation Vita emulator",
+  "version": "4369-1a21f9c",
+  "description": "Experimental PlayStation Vita emulator",
   "homepage": "https://vita3k.org",
   "license": "GPL-2.0-only",
+  "suggest": {
+    "vcredist": "extras/vcredist2022",
+    "PS Vita Firmware": "games/psv-system-software"
+  },
   "notes": [
     "ATTENTION: Vita3K requires official PS Vita firmware to function.",
     "Install the psv-system-software package.",
     "You must still manually load PSVUPDAT.PUP and PSP2UPDAT.PUP through Vita3K",
     "See the quickstart guide for further instructions: https://vita3k.org/quickstart"
   ],
-  "suggest": {
-    "vcredist": "extras/vcredist2022",
-    "PS Vita Firmware": "emulators/psv-system-software"
-  },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K-builds/releases/download/4360/vita3k-4360-9f3d27c2-windows-x86_64.7z",
-      "hash": "9c336330da9c90830d0bb6099180683bdefb9c43393b1e75e17c73311c379a7d"
+      "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
+      "hash": "c4ff45e705f9e436c446ee83c3b17896761b5a69c23bdf97fad74b82b8ea1b0e"
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K-builds/releases/download/4360/vita3k-4360-9f3d27c2-windows-arm64.7z",
-      "hash": "0dad0a9b243efbdaf53e8738493a7f7d317261af8769bc2ab24c2f0da62f069a"
+      "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip",
+      "hash": "c3f0866538e37525a0729294d8c049f579b47cd26182e761979984a5631e637d"
     }
   },
   "pre_install": [
@@ -28,10 +28,11 @@
     "   New-Item \"$dir\\config.yml\" | Out-Null",
     "}"
   ],
+  "bin": "Vita3K.exe",
   "shortcuts": [
     [
       "Vita3K.exe",
-      "Sony PlayStation Vita [vita][vita3k]"
+      "Vita3K"
     ]
   ],
   "persist": [
@@ -39,17 +40,30 @@
     "config.yml"
   ],
   "checkver": {
-    "url": "https://api.github.com/repos/Vita3K/Vita3K-builds/releases/latest",
-    "jsonpath": "$.assets[?(@.name =~ /vita3k-[\\d]+-[a-f\\d]+-windows-x86_64\\.7z$/)].browser_download_url",
-    "regex": "releases/download/(?<build>\\d+)/vita3k-(?<version>\\d+-[a-f\\d]{8})-windows-x86_64\\.7z"
+    "script": [
+      "$url = 'https://github.com/Vita3K/Vita3K/releases/tag/continuous'",
+      "$build_regex = 'Vita3K Build: (\\d+)'",
+      "$commit_regex = 'Corresponding commit: ([a-f0-9]{7})'",
+      "",
+      "$cont = (Invoke-WebRequest $url -UseBasicParsing).Content",
+      "",
+      "if(!($cont -match $build_regex)) { error \"Could match '$build_regex' on '$url'\"; break }",
+      "$build_number = $matches[1]",
+      "if(!($cont -match $commit_regex)) { error \"Could match '$commit_regex' on '$url'\"; break }",
+      "$commit_sha = $matches[1]",
+      "",
+      "$script_ver = \"$build_number-$commit_sha\"",
+      "Write-Output $script_ver"
+    ],
+    "regex": "(\\d+-[a-f0-9]{7})"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K-builds/releases/download/$matchBuild/vita3k-$version-windows-x86_64.7z"
+        "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip"
       },
       "arm64": {
-        "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K-builds/releases/download/$matchBuild/vita3k-$version-windows-arm64.7z"
+        "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip"
       }
     }
   }
