@@ -608,7 +608,7 @@ bucket/FiraMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/FireAlpaca.json, dodorz/scoop, 0
 bucket/FireGesture.json, dodorz/scoop, 1
 bucket/Firefox-Install.json, ACooper81/scoop-apps, 0
-bucket/Firefox-Portable.json, naderi/scoop-bucket, 0
+bucket/Firefox-Portable.json, ACooper81/scoop-apps, 0
 bucket/FirefoxBeta-Portable.json, ACooper81/scoop-apps, 0
 bucket/FirefoxDeveloper-Portable.json, ACooper81/scoop-apps, 0
 bucket/FirefoxNightly-Portable.json, ACooper81/scoop-apps, 0
@@ -999,7 +999,7 @@ bucket/MPlus-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MPlus-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MPlus-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/MSEdgeRedirect-Portable.json, ACooper81/scoop-apps, 1
-bucket/MSIME.json, Weidows-projects/scoop-3rd, 1
+bucket/MSIME.json, cc713/ownscoop, 1
 bucket/MTool.json, cc713/ownscoop, 0
 bucket/MaaNTE.json, Weidows-projects/scoop-3rd, 1
 bucket/MadEdit-mod.json, dodorz/scoop, 0
@@ -2766,7 +2766,7 @@ bucket/bili23-downloader.json, ScoopInstaller/Extras, 1
 bucket/biliTickerBuy.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-backup.json, Weidows-projects/scoop-3rd, 1
 bucket/bilibili-desktop.json, amorphobia/siku, 0
-bucket/bilibili-livehime.json, akirco/aki-apps, 0
+bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, DoveBoy/Apps, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibili.json, chawyehsu/dorado, 0
@@ -3984,7 +3984,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, borger/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4128,7 +4128,7 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -4641,7 +4641,7 @@ bucket/firefox-portable-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-tete009-portable.json, kidonng/sushi, 1
 bucket/firefox-tete009.json, kidonng/sushi, 1
 bucket/firefox-unbranded.json, jingyu9575/scoop-jingyu9575, 0
-bucket/firefox-zh-cn.json, akirco/aki-apps, 0
+bucket/firefox-zh-cn.json, amorphobia/siku, 0
 bucket/firefox.ja.json, jfut/scoop-jfut, 0
 bucket/firefox.json, ScoopInstaller/Extras, 0
 bucket/firefoxdownloadsview.json, ScoopInstaller/Nirsoft, 0
@@ -4826,6 +4826,7 @@ bucket/freecad.json, ScoopInstaller/Extras, 1
 bucket/freeciv.json, Calinou/scoop-games, 0
 bucket/freeclipboardviewer.json, ScoopInstaller/Extras, 0
 bucket/freecommander.json, ScoopInstaller/Extras, 0
+bucket/freecompare.json, dodorz/scoop, 1
 bucket/freecontrol2.json, DoveBoy/Apps, 1
 bucket/freedoom.json, Calinou/scoop-games, 1
 bucket/freedownloadmanager.json, ScoopInstaller/Extras, 0
@@ -5751,6 +5752,7 @@ bucket/ifly-pinyin.json, kkzzhizhou/scoop-zapps, 1
 bucket/ifrextractor-rs.json, ScoopInstaller/Extras, 1
 bucket/ifrextractor.json, seumsc/scoop-seu, 1
 bucket/igdm.json, ScoopInstaller/Extras, 1
+bucket/igir.json, ScoopInstaller/Extras, 1
 bucket/ignoreit.json, ScoopInstaller/Extras, 1
 bucket/igrep.json, ScoopInstaller/Main, 1
 bucket/igv.json, ScoopInstaller/Extras, 0
@@ -9508,6 +9510,7 @@ bucket/raspberry-pi-imager.json, ScoopInstaller/Extras, 1
 bucket/ratchet.json, aliesbelik/poldi, 1
 bucket/rathole.json, ScoopInstaller/Main, 1
 bucket/ratiomaster.json, ScoopInstaller/Extras, 1
+bucket/rattler-build.json, ScoopInstaller/Extras, 1
 bucket/ratty.json, ScoopInstaller/Extras, 1
 bucket/raven-reader.json, ScoopInstaller/Extras, 1
 bucket/ravendb.json, ScoopInstaller/Main, 0
@@ -10200,7 +10203,7 @@ bucket/shellmenuview.json, kodybrown/scoop-nirsoft, 0
 bucket/shellrunas.json, niheaven/scoop-sysinternals, 1
 bucket/shelltools-np.json, ScoopInstaller/Nonportable, 0
 bucket/sheprd-beta.json, hu3rror/scoop-muggle, 1
-bucket/sheprd.json, hu3rror/scoop-muggle, 1
+bucket/sheprd.json, dodorz/scoop, 1
 bucket/shexview.json, ScoopInstaller/Nirsoft, 0
 bucket/shfmt.json, ScoopInstaller/Main, 1
 bucket/shh.json, littleli/scoop-clojure, 1
@@ -12205,7 +12208,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu-dev.json, borger/scoop-emulators, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
-bucket/xenia-edge.json, Calinou/scoop-games, 1
+bucket/xenia-edge.json, borger/scoop-emulators, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
