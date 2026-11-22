@@ -1,5 +1,5 @@
 {
-  "version": "2.4.1",
+  "version": "2.4.0-beta.3",
   "description": "参考Spotify UI构建的现代化、轻量级第三方网易云音乐客户端。",
   "homepage": "https://github.com/rinchao0721/Melodia",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/rinchao0721/Melodia/releases/download/v2.4.1/Melodia-v2.4.1-windows-x64.zip",
-      "hash": "ee30d28a96f61ab9f2b06d3b0b331e2f59faf66d55888ec009c4b623c1ddd37d"
+      "url": "https://ghgo.xyz/https://github.com/rinchao0721/Melodia/releases/download/v2.4.0-beta.3/Melodia-v2.4.0-beta.3-windows-x64.zip",
+      "hash": "8d20c20c37b4b57ed143f76e44765e7045e7c4bc5dd74632238eda6ad9bfd895"
     }
   },
   "extract_dir": "Melodia",
