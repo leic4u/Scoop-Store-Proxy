@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
+  "version": "2.5.0",
   "description": "Download videos from almost any website worldwide",
   "homepage": "https://vidbee.org/",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/nexmoe/VidBee/releases/download/v2.4.0/vidbee-2.4.0-setup.exe#/dl.7z",
-      "hash": "a35e17e99279c39ae5dfe6ddf80590f39db8ff211437dc641a97808b930004ca",
+      "url": "https://ghgo.xyz/https://github.com/nexmoe/VidBee/releases/download/v2.5.0/vidbee-2.5.0-setup.exe#/dl.7z",
+      "hash": "sha512:fc7f6019256a5b761bb89f656083aa5473cbceea0f54c7bf48199569f5112ca3c5059b9f9e8e0a240b3764779e598439f861afcea0448908c07045b032f65e59",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$*\" -Force -Recurse"
@@ -55,7 +55,7 @@
     },
     "hash": {
       "url": "$baseurl/latest.yml",
-      "regex": "$basename\\s+$sha256"
+      "regex": "(?sm)$basename.*?sha512:\\s+$base64"
     }
   }
 }
