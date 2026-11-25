@@ -4626,7 +4626,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -6764,6 +6764,7 @@ bucket/lolcat.json, dodorz/scoop, 1
 bucket/longbridge.json, ScoopInstaller/Main, 1
 bucket/look.json, ScoopInstaller/Extras, 1
 bucket/loot.json, Calinou/scoop-games, 1
+bucket/lorca.json, batkiz/backit, 1
 bucket/lore.json, ScoopInstaller/Main, 1
 bucket/loreserver.json, ScoopInstaller/Main, 1
 bucket/lorien.json, ScoopInstaller/Extras, 1
@@ -6929,7 +6930,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, batkiz/backit, 1
+bucket/markra.json, dodorz/scoop, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -7201,6 +7202,7 @@ bucket/minesweeper-arbiter.json, amorphobia/siku, 0
 bucket/mineways.json, chawyehsu/dorado, 0
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
 bucket/mingit.json, ScoopInstaller/Main, 1
+bucket/mingle.json, batkiz/backit, 1
 bucket/mingw-mstorsjo-llvm-msvcrt.json, ScoopInstaller/Main, 1
 bucket/mingw-mstorsjo-llvm-ucrt.json, ScoopInstaller/Main, 1
 bucket/mingw-msvcrt.json, ScoopInstaller/Versions, 1
@@ -8902,7 +8904,7 @@ bucket/pie.json, naderi/scoop-bucket, 0
 bucket/pietty.json, ScoopInstaller/Extras, 0
 bucket/pigma.json, akirco/aki-apps, 1
 bucket/pijul.json, ScoopInstaller/Versions, 1
-bucket/pik.json, aliesbelik/poldi, 1
+bucket/pik.json, ScoopInstaller/Main, 1
 bucket/pikafish.json, cc713/ownscoop, 1
 bucket/pikapika.json, DoveBoy/Apps, 1
 bucket/pikatorrent.json, DoveBoy/Apps, 1
@@ -12345,6 +12347,7 @@ bucket/yWriter.json, dodorz/scoop, 0
 bucket/yaak.json, ScoopInstaller/Extras, 1
 bucket/yacd.json, everyx/scoop-bucket, 1
 bucket/yacreader.json, ScoopInstaller/Extras, 1
+bucket/yadm.json, ScoopInstaller/Main, 1
 bucket/yaffplayer.json, ScoopInstaller/Extras, 0
 bucket/yahei-fira-icon-hybrid.json, amorphobia/siku, 1
 bucket/yai.json, aliesbelik/poldi, 1
