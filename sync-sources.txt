@@ -547,6 +547,7 @@ bucket/EpicGamesLauncher-Portable.json, ACooper81/scoop-apps, 0
 bucket/Eraser5-Portable.json, ACooper81/scoop-apps, 0
 bucket/EventLogViewer-Portable.json, ACooper81/scoop-apps, 0
 bucket/EverEdit.json, dodorz/scoop, 0
+bucket/Everything-SDK.json, dodorz/scoop, 0
 bucket/EvilPlayer.json, dodorz/scoop, 0
 bucket/ExMplayer.json, dodorz/scoop, 0
 bucket/ExVR.json, Weidows-projects/scoop-3rd, 1
@@ -1424,6 +1425,7 @@ bucket/QuickSwitch-JoyHak.json, ygguorun/scoop-bucket, 1
 bucket/QuickSwitch.json, ygguorun/scoop-bucket, 1
 bucket/QuickTUI-Server.json, dodorz/scoop, 1
 bucket/Quicker-MSI.json, leic4u/Scoop-Store, 0
+bucket/Quiet-md.json, dodorz/scoop, 1
 bucket/Qute.json, dodorz/scoop, 0
 bucket/QwenWorkCN.json, dodorz/scoop, 0
 bucket/R-Studio.json, kkzzhizhou/scoop-zapps, 1
@@ -3488,6 +3490,7 @@ bucket/coreutils-rs.json, batkiz/backit, 1
 bucket/coreutils.json, ScoopInstaller/Main, 0
 bucket/cormanlisp.json, ScoopInstaller/Main, 1
 bucket/corporateclash.json, Calinou/scoop-games, 1
+bucket/corral.json, littleli/Scoop-littleli, 1
 bucket/corretto-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto-jmc.json, ScoopInstaller/Java, 0
 bucket/corretto-lts-jdk.json, ScoopInstaller/Java, 0
@@ -4135,8 +4138,8 @@ bucket/dualmonitortaskbar.json, ScoopInstaller/Extras, 0
 bucket/duck.json, chawyehsu/dorado, 0
 bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
-bucket/duckstation-preview.json, Calinou/scoop-games, 1
-bucket/duckstation.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
 bucket/duf.json, ScoopInstaller/Main, 1
@@ -4220,7 +4223,7 @@ bucket/ecspresso.json, ScoopInstaller/Main, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden-nightly.json, borger/scoop-emulators, 0
+bucket/eden-nightly.json, Calinou/scoop-games, 0
 bucket/eden.json, Calinou/scoop-games, 0
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-TTS-record.json, dodorz/scoop, 0
@@ -6333,7 +6336,7 @@ bucket/kotlin-lsp.json, ScoopInstaller/Main, 0
 bucket/kotlin-native.json, ScoopInstaller/Main, 1
 bucket/kotlin.json, ScoopInstaller/Main, 1
 bucket/kototoro-portable.json, DoveBoy/Apps, 1
-bucket/kototoro.json, cc713/ownscoop, 1
+bucket/kototoro.json, DoveBoy/Apps, 1
 bucket/kova.json, ScoopInstaller/Extras, 1
 bucket/kpcli.json, rasa/scoops, 0
 bucket/krew.json, ScoopInstaller/Main, 1
@@ -8357,7 +8360,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9009,6 +9012,7 @@ bucket/polsedit.json, ScoopInstaller/Extras, 0
 bucket/polymc.json, Deide/deide-bucket, 1
 bucket/pomerium.json, MCOfficer/scoop-bucket, 1
 bucket/pomsky.json, ScoopInstaller/Main, 1
+bucket/ponyc.json, littleli/Scoop-littleli, 1
 bucket/ponyup.json, littleli/Scoop-littleli, 1
 bucket/popeye.json, ScoopInstaller/Main, 1
 bucket/poppler.json, ScoopInstaller/Main, 1
@@ -9079,7 +9083,7 @@ bucket/powertoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical-rolling.json, ScoopInstaller/Versions, 1
@@ -10598,7 +10602,7 @@ bucket/starship-cvp.json, SayCV/scoop-cvp, 1
 bucket/starship.json, ScoopInstaller/Main, 1
 bucket/start.json, ygguorun/scoop-bucket, 0
 bucket/startuprun.json, kodybrown/scoop-nirsoft, 0
-bucket/starward.json, Weidows-projects/scoop-3rd, 1
+bucket/starward.json, Calinou/scoop-games, 1
 bucket/stash-dev.json, ScoopInstaller/Versions, 1
 bucket/stash.json, ScoopInstaller/Extras, 1
 bucket/static-web-server.json, ScoopInstaller/Main, 1
@@ -11482,7 +11486,7 @@ bucket/utorrent-portable.json, SayCV/scoop-cvp, 0
 bucket/utorrent.json, kkzzhizhou/scoop-zapps, 0
 bucket/utpm.json, ScoopInstaller/Extras, 1
 bucket/utvideo.json, couleur-tweak-tips/utils, 1
-bucket/uu-remote.json, ivaquero/scoopet, 0
+bucket/uu-remote.json, ygguorun/scoop-bucket, 0
 bucket/uup-download-wizard-converter.json, hu3rror/scoop-muggle, 1
 bucket/uutils-coreutils-lean.json, ScoopInstaller/Main, 1
 bucket/uutils-coreutils.json, ScoopInstaller/Main, 1
@@ -11635,7 +11639,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/viu.json, dodorz/scoop, 1
@@ -11694,6 +11698,7 @@ bucket/vpnc-front-end-np.json, ScoopInstaller/Nonportable, 0
 bucket/vrcx.json, ScoopInstaller/Extras, 1
 bucket/vrf-decompiler.json, HUMORCE/nuke, 1
 bucket/vroid-studio.json, ScoopInstaller/Extras, 0
+bucket/vs-buildtools2022.json, littleli/Scoop-littleli, 0
 bucket/vs-ghostwriter.json, dodorz/scoop, 1
 bucket/vscan.json, ViCrack/scoop-bucket, 1
 bucket/vscli.json, aliesbelik/poldi, 1
@@ -12233,7 +12238,7 @@ bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
-bucket/xenia-edge.json, borger/scoop-emulators, 1
+bucket/xenia-edge.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
 bucket/xenu.json, ScoopInstaller/Extras, 0
