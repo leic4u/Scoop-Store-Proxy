@@ -1,5 +1,5 @@
 {
-  "version": "4449-0bcc75c4",
+  "version": "4454-6f8e4e23",
   "description": "Sony PlayStation Vita emulator",
   "homepage": "https://vita3k.org",
   "license": "GPL-2.0-only",
@@ -15,12 +15,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K-builds/releases/download/4449/vita3k-4449-0bcc75c4-windows-x86_64.7z",
-      "hash": "558b6b130f9cee8f092b6c84a5d766114d796c882c7e70062402f584ad74904b"
+      "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K-builds/releases/download/4454/vita3k-4454-6f8e4e23-windows-x86_64.7z",
+      "hash": "fe91d7ebba931ce1af425d121f46a2ff800a00ed8758efe9c1e7237889ca3cd4"
     },
     "arm64": {
-      "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K-builds/releases/download/4449/vita3k-4449-0bcc75c4-windows-arm64.7z",
-      "hash": "04d5b61832fb098edcde652b6fa44001ff599683c2acbbc307e0b1bcebb724c6"
+      "url": "https://ghgo.xyz/https://github.com/Vita3K/Vita3K-builds/releases/download/4454/vita3k-4454-6f8e4e23-windows-arm64.7z",
+      "hash": "e4110b5591c10a57e4995bde1607dc5cac1574f992b5b3e9540527a0c432a8eb"
     }
   },
   "pre_install": [

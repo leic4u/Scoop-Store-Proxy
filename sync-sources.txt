@@ -1858,7 +1858,6 @@ bucket/UAssetGUI.json, NyaMisty/scoop_bucket_misty, 1
 bucket/UCheck-Portable.json, ACooper81/scoop-apps, 0
 bucket/UELI-Portable.json, ACooper81/scoop-apps, 1
 bucket/UGetDownloadManager-Portable.json, ACooper81/scoop-apps, 0
-bucket/UGit.json, dodorz/scoop, 0
 bucket/UNetbootin-Portable.json, ACooper81/scoop-apps, 1
 bucket/URLProtocol.json, ygguorun/scoop-bucket, 1
 bucket/USBCopyer.json, dodorz/scoop, 1
@@ -3437,7 +3436,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, dodorz/scoop, 1
+bucket/con-terminal.json, batkiz/backit, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -4009,6 +4008,7 @@ bucket/doom-remake4.json, littleli/Scoop-littleli, 0
 bucket/doom-retro.json, Calinou/scoop-games, 1
 bucket/doomrunner.json, Calinou/scoop-games, 1
 bucket/doomsday.json, Calinou/scoop-games, 0
+bucket/doop.json, batkiz/backit, 1
 bucket/dopamine-legacy.json, hu3rror/scoop-muggle, 1
 bucket/dopamine.json, ScoopInstaller/Extras, 1
 bucket/dos2unix.json, ScoopInstaller/Main, 0
@@ -4285,6 +4285,7 @@ bucket/elixir-ls.json, ScoopInstaller/Main, 1
 bucket/elixir.json, ScoopInstaller/Main, 0
 bucket/elm.json, ScoopInstaller/Main, 1
 bucket/elvish.json, ScoopInstaller/Main, 0
+bucket/elyoffice.json, batkiz/backit, 1
 bucket/elyterminal.json, batkiz/backit, 1
 bucket/emacs-k.json, kiennq/scoop-misc, 1
 bucket/emacs-lsp-booster.json, kiennq/scoop-misc, 1
@@ -4630,7 +4631,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
@@ -5077,6 +5078,7 @@ bucket/git-interactive-rebase-tool.json, ScoopInstaller/Main, 1
 bucket/git-istage.json, ScoopInstaller/Main, 0
 bucket/git-lfs.json, ScoopInstaller/Main, 1
 bucket/git-machete.json, ScoopInstaller/Main, 0
+bucket/git-open.json, ScoopInstaller/Main, 1
 bucket/git-pkgs.json, ScoopInstaller/Main, 1
 bucket/git-quick-stats.json, ScoopInstaller/Main, 0
 bucket/git-repo-clean.json, ViCrack/scoop-bucket, 0
@@ -5476,6 +5478,7 @@ bucket/harmonyOS-sans.json, hu3rror/scoop-muggle, 0
 bucket/harper.json, ScoopInstaller/Main, 1
 bucket/haruna.json, ScoopInstaller/Extras, 0
 bucket/haruneko.json, cc713/ownscoop, 1
+bucket/has.json, ScoopInstaller/Main, 1
 bucket/hash-explorer.json, rasa/scoops, 0
 bucket/hash.json, ygguorun/scoop-bucket, 0
 bucket/hashcards.json, ScoopInstaller/Main, 1
@@ -7492,7 +7495,7 @@ bucket/mu.json, brian6932/dank-scoop, 1
 bucket/mubu.json, chawyehsu/dorado, 0
 bucket/mucommander.json, ScoopInstaller/Extras, 1
 bucket/mudlet.json, Calinou/scoop-games, 0
-bucket/muffet.json, aliesbelik/poldi, 1
+bucket/muffet.json, batkiz/backit, 1
 bucket/muffon.json, starise/Scoop-Confetti, 1
 bucket/muicacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/mujoco.json, ScoopInstaller/Extras, 1
@@ -8046,6 +8049,7 @@ bucket/ooRexx.json, dodorz/scoop, 0
 bucket/opa.json, ScoopInstaller/Main, 1
 bucket/opam.json, ScoopInstaller/Main, 1
 bucket/opdessertstorm.json, Calinou/scoop-games, 0
+bucket/open-design.json, batkiz/backit, 1
 bucket/open-log-viewer.json, ScoopInstaller/Extras, 1
 bucket/open-shell-menu-np.json, jingyu9575/scoop-jingyu9575, 1
 bucket/open-shell-np.json, ScoopInstaller/Nonportable, 1
@@ -11359,6 +11363,7 @@ bucket/ugene.json, ScoopInstaller/Extras, 1
 bucket/uget-integrator.json, ScoopInstaller/Extras, 1
 bucket/uget-portable.json, naderi/scoop-bucket, 0
 bucket/uget.json, ScoopInstaller/Extras, 0
+bucket/ugit.json, ScoopInstaller/Main, 1
 bucket/ugreen-nas.json, SayCV/scoop-cvp, 0
 bucket/ugrep.json, ScoopInstaller/Main, 1
 bucket/uhexen2.json, Calinou/scoop-games, 0
