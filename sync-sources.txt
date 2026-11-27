@@ -2216,6 +2216,7 @@ bucket/agave-slashed.json, KnotUntied/scoop-fonts, 1
 bucket/agave.json, KnotUntied/scoop-fonts, 1
 bucket/age.json, ScoopInstaller/Extras, 1
 bucket/agent-browser.json, ScoopInstaller/Main, 1
+bucket/agent-desktop.json, ScoopInstaller/Main, 1
 bucket/agentsview-desktop.json, cderv/r-bucket, 1
 bucket/agentsview.json, ScoopInstaller/Main, 1
 bucket/aget-rs.json, amorphobia/siku, 1
@@ -3436,7 +3437,7 @@ bucket/compresso.json, naderi/scoop-bucket, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
-bucket/con-terminal.json, batkiz/backit, 1
+bucket/con-terminal.json, dodorz/scoop, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concat.json, DoveBoy/Apps, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -4797,6 +4798,8 @@ bucket/fopnu.json, naderi/scoop-bucket, 0
 bucket/force.json, ScoopInstaller/Main, 1
 bucket/forcebindip.json, ScoopInstaller/Main, 0
 bucket/forgecode.json, starise/Scoop-Confetti, 1
+bucket/forgejo-cli.json, ScoopInstaller/Main, 0
+bucket/forgit.json, ScoopInstaller/Main, 1
 bucket/fork.json, ScoopInstaller/Extras, 1
 bucket/forkgram.json, ScoopInstaller/Extras, 1
 bucket/format-factory.json, akirco/aki-apps, 0
@@ -5920,7 +5923,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, KnotUntied/scoop-fonts, 1
+bucket/iosevka.json, iquiw/scoop-bucket, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
@@ -6036,7 +6039,7 @@ bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jianying-pro.json, ivaquero/scoopet, 0
-bucket/jianyingpro.json, chawyehsu/dorado, 0
+bucket/jianyingpro.json, akirco/aki-apps, 0
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
 bucket/jijidown.json, amorphobia/siku, 0
@@ -7489,12 +7492,13 @@ bucket/mu.json, brian6932/dank-scoop, 1
 bucket/mubu.json, chawyehsu/dorado, 0
 bucket/mucommander.json, ScoopInstaller/Extras, 1
 bucket/mudlet.json, Calinou/scoop-games, 0
-bucket/muffet.json, batkiz/backit, 1
+bucket/muffet.json, aliesbelik/poldi, 1
 bucket/muffon.json, starise/Scoop-Confetti, 1
 bucket/muicacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/mujoco.json, ScoopInstaller/Extras, 1
 bucket/mullvad-browser.json, ScoopInstaller/Extras, 1
 bucket/mullvadvpn-np.json, ScoopInstaller/Nonportable, 1
+bucket/multi-git-status.json, ScoopInstaller/Main, 1
 bucket/multi-gitter.json, ScoopInstaller/Main, 1
 bucket/multibootusb.json, ScoopInstaller/Extras, 1
 bucket/multica-cli.json, ScoopInstaller/Extras, 1
