@@ -1413,7 +1413,7 @@ bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
 bucket/Qoder-CLI.json, dodorz/scoop, 0
-bucket/Qoder.json, akirco/aki-apps, 0
+bucket/Qoder.json, dodorz/scoop, 0
 bucket/QoderCN.json, dodorz/scoop, 0
 bucket/QoderWork.json, dodorz/scoop, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
@@ -5297,7 +5297,7 @@ bucket/gopeed-web-pre.json, DoveBoy/Apps, 1
 bucket/gopeed-web.json, DoveBoy/Apps, 1
 bucket/gopeed.json, ScoopInstaller/Extras, 1
 bucket/gopher360.json, ScoopInstaller/Extras, 1
-bucket/gopher64.json, Calinou/scoop-games, 1
+bucket/gopher64.json, borger/scoop-emulators, 1
 bucket/gopls.json, iquiw/scoop-bucket, 1
 bucket/goproxy.json, kkzzhizhou/scoop-zapps, 1
 bucket/goread.json, batkiz/backit, 1
@@ -6939,7 +6939,7 @@ bucket/markeron.json, ScoopInstaller/Extras, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markra.json, dodorz/scoop, 1
+bucket/markra.json, batkiz/backit, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -7534,7 +7534,7 @@ bucket/musicbee-np.json, ScoopInstaller/Nonportable, 0
 bucket/musicbee.json, ScoopInstaller/Extras, 0
 bucket/musicbrainz-picard.json, chawyehsu/dorado, 0
 bucket/musicdecrypto.json, seumsc/scoop-seu, 1
-bucket/musicfox.json, ygguorun/scoop-bucket, 1
+bucket/musicfox.json, akirco/aki-apps, 1
 bucket/musicplayer2.json, ScoopInstaller/Extras, 1
 bucket/musikcube.json, ScoopInstaller/Extras, 1
 bucket/musique.json, ScoopInstaller/Extras, 0
@@ -7662,7 +7662,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, echoiron/echo-scoop, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
